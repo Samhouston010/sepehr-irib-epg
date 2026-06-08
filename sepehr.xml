@@ -3,185 +3,170 @@
   <channel id="IRIB1.ir">
     <display-name lang="fa">شبکه یک</display-name>
     <display-name lang="en">IRIB TV1</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv1.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png"/>
   </channel>
   <channel id="IRIB2.ir">
     <display-name lang="fa">شبکه دو</display-name>
     <display-name lang="en">IRIB TV2</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv2.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png"/>
   </channel>
   <channel id="IRIB3.ir">
     <display-name lang="fa">شبکه سه</display-name>
     <display-name lang="en">IRIB TV3</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv3.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png"/>
   </channel>
   <channel id="IRIB4.ir">
     <display-name lang="fa">شبکه چهار</display-name>
     <display-name lang="en">IRIB TV4</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tv4.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png"/>
   </channel>
   <channel id="TehranTV.ir">
     <display-name lang="fa">شبکه پنج (تهران)</display-name>
     <display-name lang="en">IRIB Tehran</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tehran.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png"/>
   </channel>
   <channel id="VarzeshTV.ir">
     <display-name lang="fa">شبکه ورزش</display-name>
     <display-name lang="en">Varzesh TV</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/varzesh.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"/>
   </channel>
   <channel id="OfoghTV.ir">
     <display-name lang="fa">شبکه افق</display-name>
     <display-name lang="en">IRIB Ofogh</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ofogh.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png"/>
   </channel>
   <channel id="AmouzeshTV.ir">
     <display-name lang="fa">شبکه آموزش</display-name>
     <display-name lang="en">IRIB Amouzesh</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/amouzesh.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png"/>
   </channel>
   <channel id="IRINN.ir">
     <display-name lang="fa">شبکه خبر</display-name>
     <display-name lang="en">IRINN</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn.png"/>
+    <icon src="https://i.imgur.com/8tzsC9h.png"/>
   </channel>
   <channel id="Nasim.ir">
     <display-name lang="fa">شبکه نسیم</display-name>
     <display-name lang="en">IRIB Nasim</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nasim.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png"/>
   </channel>
   <channel id="NamayeshTV.ir">
     <display-name lang="fa">شبکه نمایش</display-name>
     <display-name lang="en">IRIB Namayesh</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/namayesh.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png"/>
   </channel>
   <channel id="IRIBMostanad.ir">
     <display-name lang="fa">شبکه مستند</display-name>
     <display-name lang="en">IRIB Mostanad</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/mostanad.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png"/>
   </channel>
   <channel id="iFilmPersian.ir">
     <display-name lang="fa">آی‌فیلم</display-name>
     <display-name lang="en">iFilm</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ifilm.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"/>
   </channel>
   <channel id="quran">
     <display-name lang="fa">شبکه قرآن</display-name>
     <display-name lang="en">IRIB Quran</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/quran.png"/>
   </channel>
   <channel id="SalamatTV.ir">
     <display-name lang="fa">شبکه سلامت</display-name>
     <display-name lang="en">IRIB Salamat</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/salamat.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png"/>
   </channel>
   <channel id="PooyaTV.ir">
     <display-name lang="fa">شبکه پویا</display-name>
     <display-name lang="en">Pooya</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/pooya.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png"/>
   </channel>
   <channel id="IRIBOmid.ir">
     <display-name lang="fa">شبکه امید</display-name>
     <display-name lang="en">IRIB Omid</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/omid.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png"/>
   </channel>
   <channel id="SepehrTV.ir">
     <display-name lang="fa">شبکه سپهر</display-name>
     <display-name lang="en">Sepehr</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sepehr.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png"/>
   </channel>
   <channel id="IRINN2.ir">
     <display-name lang="fa">شبکه خبر ۲</display-name>
     <display-name lang="en">IRINN 2</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/irinn2.png"/>
+    <icon src="https://i.imgur.com/8tzsC9h.png"/>
   </channel>
   <channel id="IRIBUHD.ir">
     <display-name lang="fa">شبکه فراتر (UHD)</display-name>
     <display-name lang="en">IRIB UHD 4K</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/faratar.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png"/>
   </channel>
   <channel id="Tamasha.ir">
     <display-name lang="fa">شبکه تماشا</display-name>
     <display-name lang="en">IRIB Tamasha</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/hdtest.png"/>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png"/>
   </channel>
   <channel id="khabar">
     <display-name lang="fa">کانال ۵۵</display-name>
     <display-name lang="en">Channel 55</display-name>
   </channel>
-  <channel id="RoyaTV.ir">
+  <channel id="iribu">
     <display-name lang="fa">کانال ۵۶</display-name>
     <display-name lang="en">Channel 56</display-name>
   </channel>
   <channel id="IsfahanTV.ir">
     <display-name lang="fa">کانال ۵۷</display-name>
     <display-name lang="en">Channel 57</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/esfahan.png"/>
   </channel>
   <channel id="FarsTV.ir">
     <display-name lang="fa">کانال ۵۸</display-name>
     <display-name lang="en">Channel 58</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/fars.png"/>
   </channel>
   <channel id="KhorasanRazaviTV.ir">
     <display-name lang="fa">کانال ۵۹</display-name>
     <display-name lang="en">Channel 59</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khorasanrazavi.png"/>
   </channel>
   <channel id="KhozestanTV.ir">
     <display-name lang="fa">کانال ۶۰</display-name>
     <display-name lang="en">Channel 60</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khoozestan.png"/>
   </channel>
   <channel id="KermanTV.ir">
     <display-name lang="fa">کانال ۶۱</display-name>
     <display-name lang="en">Channel 61</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png"/>
   </channel>
   <channel id="AlborzTV.ir">
     <display-name lang="fa">کانال ۶۳</display-name>
     <display-name lang="en">Channel 63</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/alborz.png"/>
   </channel>
   <channel id="TabarestanTV.ir">
     <display-name lang="fa">کانال ۶۴</display-name>
     <display-name lang="en">Channel 64</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png"/>
   </channel>
   <channel id="KordestanTV.ir">
     <display-name lang="fa">کانال ۶۵</display-name>
     <display-name lang="en">Channel 65</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kordestan.png"/>
   </channel>
   <channel id="SahandTV.ir">
     <display-name lang="fa">کانال ۶۶</display-name>
     <display-name lang="en">Channel 66</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sahand.png"/>
   </channel>
   <channel id="BaranTV.ir">
     <display-name lang="fa">کانال ۶۷</display-name>
     <display-name lang="en">Channel 67</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/baran.png"/>
   </channel>
   <channel id="SabalanTV.ir">
     <display-name lang="fa">کانال ۶۸</display-name>
     <display-name lang="en">Channel 68</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sabalan.png"/>
   </channel>
   <channel id="DenaTV.ir">
     <display-name lang="fa">کانال ۶۹</display-name>
     <display-name lang="en">Channel 69</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/dena.png"/>
   </channel>
   <channel id="KhalijeFarsTV.ir">
     <display-name lang="fa">کانال ۷۰</display-name>
     <display-name lang="en">Channel 70</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khalijefars.png"/>
   </channel>
   <channel id="IlamTV.ir">
     <display-name lang="fa">کانال ۷۲</display-name>
     <display-name lang="en">Channel 72</display-name>
-    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/ilam.png"/>
   </channel>
   <programme start="20260607235959 +0330" channel="IRIB1.ir" stop="20260608015959 +0330">
     <title lang="fa">میان برنامه</title>
@@ -2725,40 +2710,40 @@
   <programme start="20260608220000 +0330" channel="khabar" stop="20260608235900 +0330">
     <title lang="fa">22:00 - 24:00</title>
   </programme>
-  <programme start="20260608000000 +0330" channel="RoyaTV.ir" stop="20260608020000 +0330">
+  <programme start="20260608000000 +0330" channel="iribu" stop="20260608020000 +0330">
     <title lang="fa">00:00 - 02:00</title>
   </programme>
-  <programme start="20260608020000 +0330" channel="RoyaTV.ir" stop="20260608040000 +0330">
+  <programme start="20260608020000 +0330" channel="iribu" stop="20260608040000 +0330">
     <title lang="fa">02:00 - 04:00</title>
   </programme>
-  <programme start="20260608040000 +0330" channel="RoyaTV.ir" stop="20260608060000 +0330">
+  <programme start="20260608040000 +0330" channel="iribu" stop="20260608060000 +0330">
     <title lang="fa">04:00 - 06:00</title>
   </programme>
-  <programme start="20260608060000 +0330" channel="RoyaTV.ir" stop="20260608080000 +0330">
+  <programme start="20260608060000 +0330" channel="iribu" stop="20260608080000 +0330">
     <title lang="fa">06:00 - 08:00</title>
   </programme>
-  <programme start="20260608080000 +0330" channel="RoyaTV.ir" stop="20260608100000 +0330">
+  <programme start="20260608080000 +0330" channel="iribu" stop="20260608100000 +0330">
     <title lang="fa">08:00 - 10:00</title>
   </programme>
-  <programme start="20260608100000 +0330" channel="RoyaTV.ir" stop="20260608120000 +0330">
+  <programme start="20260608100000 +0330" channel="iribu" stop="20260608120000 +0330">
     <title lang="fa">10:00 - 12:00</title>
   </programme>
-  <programme start="20260608120000 +0330" channel="RoyaTV.ir" stop="20260608140000 +0330">
+  <programme start="20260608120000 +0330" channel="iribu" stop="20260608140000 +0330">
     <title lang="fa">12:00 - 14:00</title>
   </programme>
-  <programme start="20260608140000 +0330" channel="RoyaTV.ir" stop="20260608160000 +0330">
+  <programme start="20260608140000 +0330" channel="iribu" stop="20260608160000 +0330">
     <title lang="fa">14:00 - 16:00</title>
   </programme>
-  <programme start="20260608160000 +0330" channel="RoyaTV.ir" stop="20260608180000 +0330">
+  <programme start="20260608160000 +0330" channel="iribu" stop="20260608180000 +0330">
     <title lang="fa">16:00 - 18:00</title>
   </programme>
-  <programme start="20260608180000 +0330" channel="RoyaTV.ir" stop="20260608200000 +0330">
+  <programme start="20260608180000 +0330" channel="iribu" stop="20260608200000 +0330">
     <title lang="fa">18:00 - 20:00</title>
   </programme>
-  <programme start="20260608200000 +0330" channel="RoyaTV.ir" stop="20260608220000 +0330">
+  <programme start="20260608200000 +0330" channel="iribu" stop="20260608220000 +0330">
     <title lang="fa">20:00 - 22:00</title>
   </programme>
-  <programme start="20260608220000 +0330" channel="RoyaTV.ir" stop="20260608235900 +0330">
+  <programme start="20260608220000 +0330" channel="iribu" stop="20260608235900 +0330">
     <title lang="fa">22:00 - 24:00</title>
   </programme>
   <programme start="20260608000000 +0330" channel="IsfahanTV.ir" stop="20260608020000 +0330">
