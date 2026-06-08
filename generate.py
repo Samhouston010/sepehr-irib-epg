@@ -1,236 +1,90 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-generate.py — تولیدکننده M3U و EPG شبکه‌های صداوسیما (سپهر / تلوبیون)
-====================================================================
-خروجی:
-  sepehr.m3u       لیست پخش با لینک مستقیم CDN تلوبیون
-  sepehr.xml       راهنمای برنامه (XMLTV)
-  sepehr.xml.gz    نسخه فشرده برای IPTV player ها
+﻿import json, gzip, requests, argparse
+from requests_oauthlib import OAuth1
+from datetime import datetime, timezone, timedelta
+from pathlib import Path
 
-روی GitHub Actions هر ۶ ساعت اجرا می‌شود.
-"""
-
-import json
-import gzip
-import time
-import datetime
-import xml.etree.ElementTree as ET
-from xml.dom import minidom
-
-import sepehr_api
-
-# CDN مستقیم تلوبیون (لینک ثابت، بدون توکن)
-CDN_BASE = "https://ncdn.telewebion.ir/{slug}/live/playlist.m3u8"
-
-REPO = "Samhouston010/sepehr-irib-epg"
-EPG_URL = f"https://raw.githubusercontent.com/{REPO}/main/sepehr.xml.gz"
-
-EPG_DAYS = 3           # امروز + ۲ روز آینده
-TEHRAN_OFFSET = "+0330"
-
+API_BASE        = "https://sepehrapi.sepehrtv.ir/beta/v0"
+CONSUMER_KEY    = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
+CONSUMER_SECRET = "jtroj3hkyjlU06j7MtJimJ1I3PTTpx39"
+EPG_URL         = "https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
+STREAM          = "https://ncdn.telewebion.ir/{slug}/live/playlist.m3u8"
 
 def load_channels():
-    with open("channels.json", "r", encoding="utf-8") as f:
+    with open("channels.json", encoding="utf-8-sig") as f:
         return json.load(f)
 
-
-# ---------------------------------------------------------------------------
-# M3U
-# ---------------------------------------------------------------------------
 def build_m3u(channels):
     lines = [f'#EXTM3U x-tvg-url="{EPG_URL}"']
     for ch in channels:
-        stream = CDN_BASE.format(slug=ch["slug"])
-        logo = ch.get("logo", "")
-        lines.append(
-            f'#EXTINF:-1 tvg-id="{ch["tvg_id"]}" tvg-name="{ch["name"]}" '
-            f'tvg-logo="{logo}" group-title="{ch.get("group","ایران")}",{ch["name"]}'
-        )
-        lines.append(stream)
-    return "\n".join(lines) + "\n"
+        lines.append(f'#EXTINF:-1 tvg-id="{ch.get("tvg_id","")}" tvg-name="{ch["name"]}" tvg-logo="{ch.get("logo","")}" group-title="{ch["group"]}",{ch["name"]}')
+        lines.append(STREAM.format(slug=ch["slug"]))
+    return "\n".join(lines)
 
-
-# ---------------------------------------------------------------------------
-# کمک‌کننده زمان
-# ---------------------------------------------------------------------------
-def parse_dt(value):
-    """انواع فرمت زمانی که سپهر ممکن است برگرداند را تجزیه می‌کند."""
-    if value is None:
-        return None
-    # عدد یونیکس (ثانیه یا میلی‌ثانیه)
-    if isinstance(value, (int, float)):
-        ts = float(value)
-        if ts > 1e12:   # میلی‌ثانیه
-            ts /= 1000.0
-        return datetime.datetime.utcfromtimestamp(ts) + datetime.timedelta(hours=3, minutes=30)
-    s = str(value).strip()
-    if s.isdigit():
-        return parse_dt(int(s))
-    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%dT%H:%M:%SZ",
-                "%Y-%m-%d %H:%M:%S", "%Y-%m-%dT%H:%M:%S",
-                "%Y-%m-%d %H:%M", "%H:%M:%S", "%H:%M"):
-        try:
-            dt = datetime.datetime.strptime(s, fmt)
-            return dt
-        except ValueError:
-            continue
-    return None
-
-
-def xmltv_time(dt):
-    if dt is None:
-        return None
-    return dt.strftime("%Y%m%d%H%M%S") + " " + TEHRAN_OFFSET
-
-
-def extract_programs(api_response, date_str):
-    """
-    از پاسخ API سپهر، لیست برنامه‌ها را با فیلدهای استاندارد بیرون می‌کشد.
-    ساختار پاسخ ممکن است متفاوت باشد، پس چند کلید را امتحان می‌کنیم.
-    """
-    if not api_response:
-        return []
-
-    # یافتن آرایه داده‌ها
-    items = None
-    if isinstance(api_response, list):
-        items = api_response
-    elif isinstance(api_response, dict):
-        for key in ("data", "result", "results", "items", "programs", "epg"):
-            if key in api_response and isinstance(api_response[key], list):
-                items = api_response[key]
-                break
-        if items is None:
-            # شاید خود dict تک‌برنامه باشد
-            items = []
-
+def fetch_epg(channels):
+    auth = OAuth1(CONSUMER_KEY, CONSUMER_SECRET, signature_method="HMAC-SHA1")
     programs = []
-    base_date = datetime.datetime.strptime(date_str, "%Y-%m-%d")
-    for it in (items or []):
-        if not isinstance(it, dict):
-            continue
-        # نام برنامه
-        title = (it.get("title") or it.get("name") or it.get("program_title")
-                 or it.get("show_title") or it.get("fa_title") or "برنامه")
-        desc = (it.get("description") or it.get("desc") or it.get("summary")
-                or it.get("synopsis") or "")
-        # زمان شروع/پایان — کلیدهای محتمل
-        start_raw = (it.get("start_datetime") or it.get("start_time") or
-                     it.get("start") or it.get("started_at") or
-                     it.get("from") or it.get("begin"))
-        end_raw = (it.get("end_datetime") or it.get("end_time") or
-                   it.get("end") or it.get("ended_at") or
-                   it.get("to") or it.get("finish"))
-
-        start = parse_dt(start_raw)
-        end = parse_dt(end_raw)
-
-        # اگر فقط ساعت داشت (بدون تاریخ)، تاریخ را اضافه کن
-        if start and start.year == 1900:
-            start = base_date.replace(hour=start.hour, minute=start.minute,
-                                      second=start.second)
-        if end and end.year == 1900:
-            end = base_date.replace(hour=end.hour, minute=end.minute,
-                                    second=end.second)
-            if start and end < start:   # گذر از نیمه‌شب
-                end += datetime.timedelta(days=1)
-
-        if not start:
-            continue
-        programs.append({"title": title, "desc": desc, "start": start, "end": end})
+    today = datetime.now(timezone.utc)
+    epg_channels = [c for c in channels if c.get("channel_id")]
+    for i, ch in enumerate(epg_channels):
+        ch_total = 0
+        print(f"[{i+1}/{len(epg_channels)}] {ch['name']}...", end=" ", flush=True)
+        for day_offset in range(3):
+            date = (today + timedelta(days=day_offset)).strftime("%Y-%m-%d")
+            try:
+                r = requests.get(f"{API_BASE}/epg/tvprogram", params={"channel_id": ch["channel_id"], "date": date}, auth=auth, timeout=15)
+                if r.status_code != 200:
+                    continue
+                for prog in (r.json().get("list") or []):
+                    start_dt = datetime.fromtimestamp(prog.get("start",0)/1000, tz=timezone.utc)
+                    end_dt = start_dt + timedelta(minutes=prog.get("duration") or 30)
+                    programs.append({"channel": ch["tvg_id"], "start": start_dt.strftime("%Y%m%d%H%M%S +0000"), "stop": end_dt.strftime("%Y%m%d%H%M%S +0000"), "title": prog.get("title") or "برنامه", "desc": prog.get("descSummary") or ""})
+                    ch_total += 1
+            except Exception as e:
+                print(f"error {date}: {e}", end=" ")
+        print(f"{ch_total} programs")
     return programs
 
+def _e(s):
+    return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;").replace('"',"&quot;")
 
-# ---------------------------------------------------------------------------
-# XMLTV
-# ---------------------------------------------------------------------------
-def build_xmltv(channels, epg_data):
-    tv = ET.Element("tv", attrib={
-        "generator-info-name": "Sepehr-IRIB-EPG",
-        "source-info-name": "Sepehr / Telewebion",
-    })
+def build_xml(channels, programs):
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>', '<tv>']
     for ch in channels:
-        c = ET.SubElement(tv, "channel", attrib={"id": ch["tvg_id"] or ch["slug"]})
-        dn = ET.SubElement(c, "display-name", attrib={"lang": "fa"})
-        dn.text = ch["name"]
-        if ch.get("name_en"):
-            dn2 = ET.SubElement(c, "display-name", attrib={"lang": "en"})
-            dn2.text = ch["name_en"]
+        lines.append(f'  <channel id="{_e(ch.get("tvg_id",""))}"><display-name lang="fa">{_e(ch["name"])}</display-name>')
         if ch.get("logo"):
-            ET.SubElement(c, "icon", attrib={"src": ch["logo"]})
+            lines.append(f'    <icon src="{_e(ch["logo"])}"/>')
+        lines.append('  </channel>')
+    for p in programs:
+        lines.append(f'  <programme start="{p["start"]}" stop="{p["stop"]}" channel="{_e(p["channel"])}"><title lang="fa">{_e(p["title"])}</title>')
+        if p.get("desc"):
+            lines.append(f'    <desc lang="fa">{_e(p["desc"])}</desc>')
+        lines.append('  </programme>')
+    lines.append('</tv>')
+    return "\n".join(lines)
 
-    total = 0
-    for ch in channels:
-        cid = ch["tvg_id"] or ch["slug"]
-        for p in epg_data.get(cid, []):
-            start = xmltv_time(p["start"])
-            if not start:
-                continue
-            attrib = {"start": start, "channel": cid}
-            stop = xmltv_time(p["end"])
-            if stop:
-                attrib["stop"] = stop
-            prog = ET.SubElement(tv, "programme", attrib=attrib)
-            t = ET.SubElement(prog, "title", attrib={"lang": "fa"})
-            t.text = p["title"]
-            if p.get("desc"):
-                d = ET.SubElement(prog, "desc", attrib={"lang": "fa"})
-                d.text = p["desc"]
-            total += 1
-
-    print(f"\n📺 مجموع برنامه‌ها: {total}")
-    rough = ET.tostring(tv, encoding="utf-8")
-    return minidom.parseString(rough).toprettyxml(indent="  ", encoding="utf-8")
-
-
-# ---------------------------------------------------------------------------
-# اصلی
-# ---------------------------------------------------------------------------
 def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--m3u", action="store_true")
+    parser.add_argument("--epg", action="store_true")
+    args = parser.parse_args()
+    do_m3u = args.m3u or not (args.m3u or args.epg)
+    do_epg = args.epg or not (args.m3u or args.epg)
     channels = load_channels()
-    print(f"✅ {len(channels)} کانال بارگذاری شد")
-
-    # M3U
-    with open("sepehr.m3u", "w", encoding="utf-8") as f:
-        f.write(build_m3u(channels))
-    print("✅ sepehr.m3u ساخته شد")
-
-    # تاریخ‌ها
-    today = datetime.date.today()
-    dates = [(today + datetime.timedelta(days=i)).strftime("%Y-%m-%d")
-             for i in range(EPG_DAYS)]
-
-    epg_data = {}
-    ok_channels = 0
-    for ch in channels:
-        cid = ch["tvg_id"] or ch["slug"]
-        epg_data[cid] = []
-        got_any = False
-        for d in dates:
-            try:
-                resp = sepehr_api.get_tvprogram(ch["channel_id"], d)
-                progs = extract_programs(resp, d)
-                epg_data[cid].extend(progs)
-                if progs:
-                    got_any = True
-            except Exception as e:
-                print(f"  ⚠️  {ch['name']} {d}: {e}")
-            time.sleep(0.4)
-        status = "✅" if got_any else "—"
-        print(f"{status} {ch['name']}: {len(epg_data[cid])} برنامه")
-        if got_any:
-            ok_channels += 1
-
-    print(f"\n📊 {ok_channels}/{len(channels)} کانال EPG دارند")
-
-    xml_bytes = build_xmltv(channels, epg_data)
-    with open("sepehr.xml", "wb") as f:
-        f.write(xml_bytes)
-    with gzip.open("sepehr.xml.gz", "wb") as f:
-        f.write(xml_bytes)
-    print("✅ sepehr.xml و sepehr.xml.gz ساخته شد")
-
+    print(f"Loaded {len(channels)} channels")
+    if do_m3u:
+        m3u = build_m3u(channels)
+        Path("sepehr.m3u").write_text(m3u, encoding="utf-8")
+        print(f"M3U: {m3u.count('#EXTINF')} channels written")
+    if do_epg:
+        print(f"Fetching EPG for {sum(1 for c in channels if c.get('channel_id'))} channels...")
+        programs = fetch_epg(channels)
+        print(f"Total: {len(programs)} programs")
+        xml = build_xml(channels, programs)
+        Path("sepehr.xml").write_text(xml, encoding="utf-8")
+        with gzip.open("sepehr.xml.gz", "wb") as f:
+            f.write(xml.encode("utf-8"))
+        print("sepehr.xml + sepehr.xml.gz written")
+    print("Done!")
 
 if __name__ == "__main__":
     main()
