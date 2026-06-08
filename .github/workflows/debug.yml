@@ -1,6 +1,8 @@
-﻿name: Debug API
+name: Debug API
+
 on:
   workflow_dispatch:
+
 jobs:
   debug:
     runs-on: ubuntu-latest
