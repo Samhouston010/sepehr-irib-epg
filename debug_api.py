@@ -1,21 +1,20 @@
-﻿import urllib.request, urllib.error, json, datetime
-import sepehr_api
-today = datetime.date.today().strftime("%Y-%m-%d")
-
-def fetch(path):
-    url = sepehr_api.API_BASE + path
-    auth = sepehr_api.build_oauth_header("GET", url)
-    headers = dict(sepehr_api.DEFAULT_HEADERS); headers["Authorization"] = auth
+﻿import urllib.request, urllib.error, json
+endpoints = [
+    "https://gateway.telewebion.com/v1.0/getEPG?ChannelDescriptor=tv1",
+    "https://gw.telewebion.com/api/getEPG?channel=tv1",
+    "https://api.telewebion.com/api/v1/channels/tv1/epg",
+    "https://ws.telewebion.com/api/v1/epg?channel=tv1",
+    "https://servicesapi.telewebion.com/api/v1/epg/tv1",
+    "https://gateway.telewebion.com/getEPG/tv1",
+    "https://ncdn.telewebion.ir/tv1/epg.json",
+]
+for u in endpoints:
     try:
-        r = urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=12)
-        return json.loads(r.read().decode("utf-8"))
+        r = urllib.request.urlopen(urllib.request.Request(u, headers={"User-Agent":"Mozilla/5.0"}), timeout=10)
+        body = r.read().decode("utf-8", errors="ignore")
+        print(f"OK {r.status} | {u}")
+        print(f"   {body[:200]}")
+    except urllib.error.HTTPError as e:
+        print(f"   HTTP {e.code} | {u}")
     except Exception as e:
-        return {"_error": str(e)[:60]}
-
-print("=== which channel_id has real programs? scan 30-55 ===")
-for cid in range(30, 56):
-    d = fetch(f"/epg/tvprogram?channel_id={cid}&date={today}")
-    items = d.get("list", []) if "_error" not in d else []
-    real = [it for it in items if it.get("title") and " - " not in it.get("title","")[:8]]
-    if real:
-        print(f"  cid={cid}: {len(real)} real | {real[0]['title']} / {real[1]['title'] if len(real)>1 else ''}")
+        print(f"   {type(e).__name__} | {u}")
