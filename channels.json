@@ -1,0 +1,22 @@
+[
+  {"slug": "tv1",        "channel_id": 31, "tvg_id": "IRIB1.ir",        "name": "شبکه یک",        "name_en": "IRIB TV1",      "group": "شبکه‌های سراسری"},
+  {"slug": "tv2",        "channel_id": 32, "tvg_id": "IRIB2.ir",        "name": "شبکه دو",        "name_en": "IRIB TV2",      "group": "شبکه‌های سراسری"},
+  {"slug": "tv3",        "channel_id": 33, "tvg_id": "IRIB3.ir",        "name": "شبکه سه",        "name_en": "IRIB TV3",      "group": "شبکه‌های سراسری"},
+  {"slug": "tv4",        "channel_id": 34, "tvg_id": "IRIB4.ir",        "name": "شبکه چهار",      "name_en": "IRIB TV4",      "group": "شبکه‌های سراسری"},
+  {"slug": "tehran",     "channel_id": 35, "tvg_id": "TehranTV.ir",     "name": "شبکه پنج (تهران)","name_en": "IRIB Tehran",   "group": "شبکه‌های سراسری"},
+  {"slug": "irinn",      "channel_id": 36, "tvg_id": "IRINN.ir",        "name": "شبکه خبر",       "name_en": "IRINN",         "group": "خبری"},
+  {"slug": "varzesh",    "channel_id": 37, "tvg_id": "VarzeshTV.ir",    "name": "شبکه ورزش",      "name_en": "Varzesh TV",    "group": "ورزشی"},
+  {"slug": "amouzesh",   "channel_id": 38, "tvg_id": "AmouzeshTV.ir",   "name": "شبکه آموزش",     "name_en": "IRIB Amouzesh", "group": "شبکه‌های سراسری"},
+  {"slug": "namayesh",   "channel_id": 39, "tvg_id": "NamayeshTV.ir",   "name": "شبکه نمایش",     "name_en": "IRIB Namayesh", "group": "سرگرمی"},
+  {"slug": "nasim",      "channel_id": 40, "tvg_id": "Nasim.ir",        "name": "شبکه نسیم",      "name_en": "IRIB Nasim",    "group": "سرگرمی"},
+  {"slug": "mostanad",   "channel_id": 41, "tvg_id": "IRIBMostanad.ir", "name": "شبکه مستند",     "name_en": "IRIB Mostanad", "group": "مستند"},
+  {"slug": "ifilm",      "channel_id": 42, "tvg_id": "iFilmPersian.ir", "name": "آی‌فیلم",        "name_en": "iFilm",         "group": "سرگرمی"},
+  {"slug": "ofogh",      "channel_id": 43, "tvg_id": "OfoghTV.ir",      "name": "شبکه افق",       "name_en": "IRIB Ofogh",    "group": "شبکه‌های سراسری"},
+  {"slug": "quran",      "channel_id": 44, "tvg_id": "",                "name": "شبکه قرآن و معارف","name_en": "IRIB Quran",   "group": "مذهبی"},
+  {"slug": "salamat",    "channel_id": 45, "tvg_id": "SalamatTV.ir",    "name": "شبکه سلامت",     "name_en": "IRIB Salamat",  "group": "شبکه‌های سراسری"},
+  {"slug": "pooya",      "channel_id": 46, "tvg_id": "PooyaTV.ir",      "name": "شبکه پویا و نهال","name_en": "Pooya",         "group": "کودک"},
+  {"slug": "omid",       "channel_id": 47, "tvg_id": "IRIBOmid.ir",     "name": "شبکه امید",      "name_en": "IRIB Omid",     "group": "سرگرمی"},
+  {"slug": "irinn2",     "channel_id": 48, "tvg_id": "IRINN2.ir",       "name": "شبکه خبر ۲",     "name_en": "IRINN 2",       "group": "خبری"},
+  {"slug": "sepehr",     "channel_id": 49, "tvg_id": "SepehrTV.ir",     "name": "شبکه سپهر",      "name_en": "Sepehr",        "group": "سرگرمی"},
+  {"slug": "faratar",    "channel_id": 50, "tvg_id": "IRIBUHD.ir",      "name": "شبکه فراتر (UHD)","name_en": "IRIB UHD 4K",   "group": "شبکه‌های سراسری"}
+]

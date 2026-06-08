@@ -1,0 +1,31 @@
+name: Discover Channel IDs
+
+on:
+  workflow_dispatch:        # فقط اجرای دستی
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Discover channel IDs
+        run: python discover_ids.py
+
+      - name: Commit discovered IDs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add discovered_ids.json
+          if git diff --staged --quiet; then
+            echo "تغییری نبود"
+          else
+            git commit -m "کشف آیدی کانال‌ها — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
