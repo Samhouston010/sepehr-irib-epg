@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env python3
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 generate.py — تولیدکننده M3U و EPG شبکه‌های صداوسیما (سپهر / تلوبیون)
@@ -31,7 +31,7 @@ TEHRAN_OFFSET = "+0330"
 
 
 def load_channels():
-    with open("channels.json", "r", encoding="utf-8-sig") as f:
+    with open("channels.json", "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -86,52 +86,58 @@ def xmltv_time(dt):
 
 def extract_programs(api_response, date_str):
     """
-    از پاسخ API سپهر، لیست برنامه‌ها را بیرون می‌کشد.
-
-    ساختار واقعی پاسخ سپهر:
-      {"list": [
-         {"id":..., "title":"...", "start": 1780864199000,  # میلی‌ثانیه یونیکس
-          "duration": 120,                                   # دقیقه
-          "channelId": 31, "descSummary": "...", "descFull": null, ...},
-         ...
-      ]}
-    پایان برنامه = start + duration دقیقه (فیلد end جداگانه ندارد).
+    از پاسخ API سپهر، لیست برنامه‌ها را با فیلدهای استاندارد بیرون می‌کشد.
+    ساختار پاسخ ممکن است متفاوت باشد، پس چند کلید را امتحان می‌کنیم.
     """
     if not api_response:
         return []
 
+    # یافتن آرایه داده‌ها
     items = None
     if isinstance(api_response, list):
         items = api_response
     elif isinstance(api_response, dict):
-        for key in ("list", "data", "result", "results", "items", "programs", "epg"):
+        for key in ("data", "result", "results", "items", "programs", "epg"):
             if key in api_response and isinstance(api_response[key], list):
                 items = api_response[key]
                 break
-    if items is None:
-        items = []
+        if items is None:
+            # شاید خود dict تک‌برنامه باشد
+            items = []
 
     programs = []
-    for it in items:
+    base_date = datetime.datetime.strptime(date_str, "%Y-%m-%d")
+    for it in (items or []):
         if not isinstance(it, dict):
             continue
-        title = (it.get("title") or it.get("name") or "برنامه")
-        desc = (it.get("descFull") or it.get("descSummary")
-                or it.get("description") or it.get("desc") or "")
+        # نام برنامه
+        title = (it.get("title") or it.get("name") or it.get("program_title")
+                 or it.get("show_title") or it.get("fa_title") or "برنامه")
+        desc = (it.get("description") or it.get("desc") or it.get("summary")
+                or it.get("synopsis") or "")
+        # زمان شروع/پایان — کلیدهای محتمل
+        start_raw = (it.get("start_datetime") or it.get("start_time") or
+                     it.get("start") or it.get("started_at") or
+                     it.get("from") or it.get("begin"))
+        end_raw = (it.get("end_datetime") or it.get("end_time") or
+                   it.get("end") or it.get("ended_at") or
+                   it.get("to") or it.get("finish"))
 
-        start = parse_dt(it.get("start"))
+        start = parse_dt(start_raw)
+        end = parse_dt(end_raw)
+
+        # اگر فقط ساعت داشت (بدون تاریخ)، تاریخ را اضافه کن
+        if start and start.year == 1900:
+            start = base_date.replace(hour=start.hour, minute=start.minute,
+                                      second=start.second)
+        if end and end.year == 1900:
+            end = base_date.replace(hour=end.hour, minute=end.minute,
+                                    second=end.second)
+            if start and end < start:   # گذر از نیمه‌شب
+                end += datetime.timedelta(days=1)
+
         if not start:
             continue
-
-        # پایان = شروع + مدت (دقیقه)
-        end = None
-        dur = it.get("duration")
-        if dur is not None:
-            try:
-                end = start + datetime.timedelta(minutes=float(dur))
-            except (TypeError, ValueError):
-                end = None
-
         programs.append({"title": title, "desc": desc, "start": start, "end": end})
     return programs
 
