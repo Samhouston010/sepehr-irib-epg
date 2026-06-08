@@ -1,18 +1,21 @@
-﻿import urllib.request, gzip
+﻿import urllib.request, urllib.error, json, datetime
+import sepehr_api
+today = datetime.date.today().strftime("%Y-%m-%d")
 
-for name, url in [
-    ("IR1", "https://epgshare01.online/epgshare01/epg_ripper_IR1.xml.gz"),
-    ("IR", "https://epgshare01.online/epgshare01/epg_ripper_IR.xml.gz"),
-]:
+def fetch(path):
+    url = sepehr_api.API_BASE + path
+    auth = sepehr_api.build_oauth_header("GET", url)
+    headers = dict(sepehr_api.DEFAULT_HEADERS); headers["Authorization"] = auth
     try:
-        r = urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent":"Mozilla/5.0"}), timeout=20)
-        content = gzip.decompress(r.read()).decode("utf-8", errors="ignore")
-        progs = content.count("<programme")
-        # list channel ids
-        import re
-        chans = sorted(set(re.findall(r"channel id=\"([^\"]+)\"", content)))
-        irib_chans = [c for c in chans if "IRIB" in c or "irib" in c.lower() or ".ir" in c]
-        print(f"OK {name}: {progs} programs, {len(chans)} channels")
-        print(f"   IRIB-like: {irib_chans[:30]}")
+        r = urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=12)
+        return json.loads(r.read().decode("utf-8"))
     except Exception as e:
-        print(f"FAIL {name}: {type(e).__name__} {str(e)[:50]}")
+        return {"_error": str(e)[:60]}
+
+print("=== which channel_id has real programs? scan 30-55 ===")
+for cid in range(30, 56):
+    d = fetch(f"/epg/tvprogram?channel_id={cid}&date={today}")
+    items = d.get("list", []) if "_error" not in d else []
+    real = [it for it in items if it.get("title") and " - " not in it.get("title","")[:8]]
+    if real:
+        print(f"  cid={cid}: {len(real)} real | {real[0]['title']} / {real[1]['title'] if len(real)>1 else ''}")
