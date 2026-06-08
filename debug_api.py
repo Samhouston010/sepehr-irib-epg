@@ -1,36 +1,26 @@
-﻿import urllib.request, urllib.error, json
+﻿import urllib.request, urllib.error, json, datetime, time
 import sepehr_api
 
-print("=== top-level structure tvprogram channel_id=31 ===")
-url = sepehr_api.API_BASE + "/epg/tvprogram?channel_id=31&date=2026-06-08"
-auth = sepehr_api.build_oauth_header("GET", url)
-headers = dict(sepehr_api.DEFAULT_HEADERS); headers["Authorization"] = auth
-try:
-    r = urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=15)
-    data = json.loads(r.read().decode("utf-8"))
-    if isinstance(data, dict):
-        print("top keys:", list(data.keys()))
-        for k, v in data.items():
-            if k != "list":
-                print(f"  {k} = {v}")
-        if data.get("list"):
-            print("\nsample program:")
-            print(json.dumps(data["list"][0], ensure_ascii=False, indent=2))
-except Exception as e:
-    print(f"error: {e}")
+today = datetime.date.today().strftime("%Y-%m-%d")
+active = [31,32,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,
+          55,56,57,58,59,60,61,63,64,65,66,67,68,69,70,72]
 
-print("\n=== channel-info endpoints ===")
-for path in ["/epg/channelinfo?channel_id=31", "/channel/31", "/epg/channel/31",
-             "/channel?id=31", "/epg/channel?channel_id=31", "/channels",
-             "/epg", "/livestream", "/epg/live"]:
-    url = sepehr_api.API_BASE + path
+print(f"fingerprint date {today}:\n")
+for cid in active:
+    url = sepehr_api.API_BASE + f"/epg/tvprogram?channel_id={cid}&date={today}"
     auth = sepehr_api.build_oauth_header("GET", url)
     headers = dict(sepehr_api.DEFAULT_HEADERS); headers["Authorization"] = auth
     try:
         r = urllib.request.urlopen(urllib.request.Request(url, headers=headers), timeout=12)
-        body = r.read().decode("utf-8", errors="ignore")
-        print(f"OK {path} -> 200 | {body[:300]}")
-    except urllib.error.HTTPError as e:
-        print(f"   {path} -> {e.code}")
+        data = json.loads(r.read().decode("utf-8"))
+        items = data.get("list", [])
+        titles = []
+        for it in items:
+            t = it.get("title","")
+            if t and " - " not in t[:8] and t not in titles:
+                titles.append(t)
+        fp = " | ".join(titles[:6]) if titles else "(only empty slots)"
+        print(f"id={cid}: {fp}")
     except Exception as e:
-        print(f"   {path} -> {type(e).__name__}")
+        print(f"id={cid}: error {type(e).__name__}")
+    time.sleep(0.2)
