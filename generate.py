@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+﻿#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
 generate.py — تولیدکننده M3U و EPG شبکه‌های صداوسیما (سپهر / تلوبیون)
@@ -31,7 +31,7 @@ TEHRAN_OFFSET = "+0330"
 
 
 def load_channels():
-    with open("channels.json", "r", encoding="utf-8") as f:
+    with open("channels.json", "r", encoding="utf-8-sig") as f:
         return json.load(f)
 
 
