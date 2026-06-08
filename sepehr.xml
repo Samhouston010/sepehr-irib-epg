@@ -2,82 +2,292 @@
 <tv generator-info-name="Sepehr-IRIB-EPG" source-info-name="Sepehr / Telewebion">
   <channel id="IRIB1.ir">
     <display-name lang="fa">شبکه یک</display-name>
-    <display-name lang="en">IRIB TV1</display-name>
+    <display-name lang="en">شبکه یک</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png"/>
   </channel>
   <channel id="IRIB2.ir">
     <display-name lang="fa">شبکه دو</display-name>
-    <display-name lang="en">IRIB TV2</display-name>
+    <display-name lang="en">شبکه دو</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png"/>
   </channel>
   <channel id="IRIB3.ir">
     <display-name lang="fa">شبکه سه</display-name>
-    <display-name lang="en">IRIB TV3</display-name>
+    <display-name lang="en">شبکه سه</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png"/>
   </channel>
   <channel id="IRIB4.ir">
     <display-name lang="fa">شبکه چهار</display-name>
-    <display-name lang="en">IRIB TV4</display-name>
+    <display-name lang="en">شبکه چهار</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png"/>
   </channel>
   <channel id="TehranTV.ir">
     <display-name lang="fa">شبکه پنج (تهران)</display-name>
-    <display-name lang="en">IRIB Tehran</display-name>
-  </channel>
-  <channel id="IRINN.ir">
-    <display-name lang="fa">شبکه خبر</display-name>
-    <display-name lang="en">IRINN</display-name>
+    <display-name lang="en">شبکه پنج (تهران)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png"/>
   </channel>
   <channel id="VarzeshTV.ir">
     <display-name lang="fa">شبکه ورزش</display-name>
-    <display-name lang="en">Varzesh TV</display-name>
-  </channel>
-  <channel id="AmouzeshTV.ir">
-    <display-name lang="fa">شبکه آموزش</display-name>
-    <display-name lang="en">IRIB Amouzesh</display-name>
-  </channel>
-  <channel id="NamayeshTV.ir">
-    <display-name lang="fa">شبکه نمایش</display-name>
-    <display-name lang="en">IRIB Namayesh</display-name>
-  </channel>
-  <channel id="Nasim.ir">
-    <display-name lang="fa">شبکه نسیم</display-name>
-    <display-name lang="en">IRIB Nasim</display-name>
-  </channel>
-  <channel id="IRIBMostanad.ir">
-    <display-name lang="fa">شبکه مستند</display-name>
-    <display-name lang="en">IRIB Mostanad</display-name>
-  </channel>
-  <channel id="iFilmPersian.ir">
-    <display-name lang="fa">آی‌فیلم</display-name>
-    <display-name lang="en">iFilm</display-name>
+    <display-name lang="en">شبکه ورزش</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"/>
   </channel>
   <channel id="OfoghTV.ir">
     <display-name lang="fa">شبکه افق</display-name>
-    <display-name lang="en">IRIB Ofogh</display-name>
+    <display-name lang="en">شبکه افق</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png"/>
+  </channel>
+  <channel id="AmouzeshTV.ir">
+    <display-name lang="fa">شبکه آموزش</display-name>
+    <display-name lang="en">شبکه آموزش</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png"/>
+  </channel>
+  <channel id="IRINN.ir">
+    <display-name lang="fa">شبکه خبر</display-name>
+    <display-name lang="en">شبکه خبر</display-name>
+    <icon src="https://i.imgur.com/8tzsC9h.png"/>
+  </channel>
+  <channel id="Nasim.ir">
+    <display-name lang="fa">شبکه نسیم</display-name>
+    <display-name lang="en">شبکه نسیم</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png"/>
+  </channel>
+  <channel id="NamayeshTV.ir">
+    <display-name lang="fa">شبکه نمایش</display-name>
+    <display-name lang="en">شبکه نمایش</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png"/>
+  </channel>
+  <channel id="IRIBMostanad.ir">
+    <display-name lang="fa">شبکه مستند</display-name>
+    <display-name lang="en">شبکه مستند</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png"/>
+  </channel>
+  <channel id="iFilmPersian.ir">
+    <display-name lang="fa">آی‌فیلم</display-name>
+    <display-name lang="en">آی‌فیلم</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"/>
   </channel>
   <channel id="quran">
-    <display-name lang="fa">شبکه قرآن و معارف</display-name>
-    <display-name lang="en">IRIB Quran</display-name>
+    <display-name lang="fa">شبکه قرآن</display-name>
+    <display-name lang="en">شبکه قرآن</display-name>
+    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/quran.png"/>
   </channel>
   <channel id="SalamatTV.ir">
     <display-name lang="fa">شبکه سلامت</display-name>
-    <display-name lang="en">IRIB Salamat</display-name>
+    <display-name lang="en">شبکه سلامت</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png"/>
   </channel>
   <channel id="PooyaTV.ir">
-    <display-name lang="fa">شبکه پویا و نهال</display-name>
-    <display-name lang="en">Pooya</display-name>
+    <display-name lang="fa">شبکه پویا</display-name>
+    <display-name lang="en">شبکه پویا</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png"/>
   </channel>
   <channel id="IRIBOmid.ir">
     <display-name lang="fa">شبکه امید</display-name>
-    <display-name lang="en">IRIB Omid</display-name>
-  </channel>
-  <channel id="IRINN2.ir">
-    <display-name lang="fa">شبکه خبر ۲</display-name>
-    <display-name lang="en">IRINN 2</display-name>
+    <display-name lang="en">شبکه امید</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png"/>
   </channel>
   <channel id="SepehrTV.ir">
     <display-name lang="fa">شبکه سپهر</display-name>
-    <display-name lang="en">Sepehr</display-name>
+    <display-name lang="en">شبکه سپهر</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png"/>
+  </channel>
+  <channel id="IRINN2.ir">
+    <display-name lang="fa">شبکه خبر ۲</display-name>
+    <display-name lang="en">شبکه خبر ۲</display-name>
+    <icon src="https://i.imgur.com/8tzsC9h.png"/>
   </channel>
   <channel id="IRIBUHD.ir">
     <display-name lang="fa">شبکه فراتر (UHD)</display-name>
-    <display-name lang="en">IRIB UHD 4K</display-name>
+    <display-name lang="en">شبکه فراتر (UHD)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png"/>
+  </channel>
+  <channel id="Tamasha.ir">
+    <display-name lang="fa">شبکه تماشا</display-name>
+    <display-name lang="en">شبکه تماشا</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png"/>
+  </channel>
+  <channel id="AbadanTV.ir">
+    <display-name lang="fa">شبکه آبادان</display-name>
+    <display-name lang="en">شبکه آبادان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"/>
+  </channel>
+  <channel id="WestAzerbaijanTV.ir">
+    <display-name lang="fa">شبکه آذربایجان غربی</display-name>
+    <display-name lang="en">شبکه آذربایجان غربی</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png"/>
+  </channel>
+  <channel id="AraTV.ir">
+    <display-name lang="fa">شبکه آرا (چهارمحال)</display-name>
+    <display-name lang="en">شبکه آرا (چهارمحال)</display-name>
+    <icon src="https://i.ibb.co/dwSHt2SG/Ara.png"/>
+  </channel>
+  <channel id="AftabTV.ir">
+    <display-name lang="fa">شبکه آفتاب (مرکزی)</display-name>
+    <display-name lang="en">شبکه آفتاب (مرکزی)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png"/>
+  </channel>
+  <channel id="AtrakTV.ir">
+    <display-name lang="fa">شبکه اترک (خراسان شمالی)</display-name>
+    <display-name lang="en">شبکه اترک (خراسان شمالی)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png"/>
+  </channel>
+  <channel id="EshraghNetwork.ir">
+    <display-name lang="fa">شبکه اشراق (زنجان)</display-name>
+    <display-name lang="en">شبکه اشراق (زنجان)</display-name>
+    <icon src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&amp;usqp=CAU"/>
+  </channel>
+  <channel id="IsfahanTV.ir">
+    <display-name lang="fa">شبکه اصفهان</display-name>
+    <display-name lang="en">شبکه اصفهان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png"/>
+  </channel>
+  <channel id="AflakTV.ir">
+    <display-name lang="fa">شبکه افلاک (لرستان)</display-name>
+    <display-name lang="en">شبکه افلاک (لرستان)</display-name>
+    <icon src="https://i.imgur.com/LkLCHpf.png"/>
+  </channel>
+  <channel id="AlborzTV.ir">
+    <display-name lang="fa">شبکه البرز</display-name>
+    <display-name lang="en">شبکه البرز</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png"/>
+  </channel>
+  <channel id="Iraneman.ir">
+    <display-name lang="fa">شبکه ایران‌من</display-name>
+    <display-name lang="en">شبکه ایران‌من</display-name>
+    <icon src="https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default"/>
+  </channel>
+  <channel id="IlamTV.ir">
+    <display-name lang="fa">شبکه ایلام</display-name>
+    <display-name lang="en">شبکه ایلام</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png"/>
+  </channel>
+  <channel id="BaranTV.ir">
+    <display-name lang="fa">شبکه باران (گیلان)</display-name>
+    <display-name lang="en">شبکه باران (گیلان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png"/>
+  </channel>
+  <channel id="BoushehrTV.ir">
+    <display-name lang="fa">شبکه بوشهر</display-name>
+    <display-name lang="en">شبکه بوشهر</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png"/>
+  </channel>
+  <channel id="JahanbinTV.ir">
+    <display-name lang="fa">شبکه جهان‌بین</display-name>
+    <display-name lang="en">شبکه جهان‌بین</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png"/>
+  </channel>
+  <channel id="KhavaranTV.ir">
+    <display-name lang="fa">شبکه خاوران (خراسان جنوبی)</display-name>
+    <display-name lang="en">شبکه خاوران (خراسان جنوبی)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png"/>
+  </channel>
+  <channel id="KhorasanRazaviTV.ir">
+    <display-name lang="fa">شبکه خراسان رضوی</display-name>
+    <display-name lang="en">شبکه خراسان رضوی</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png"/>
+  </channel>
+  <channel id="KhalijeFarsTV.ir">
+    <display-name lang="fa">شبکه خلیج فارس (هرمزگان)</display-name>
+    <display-name lang="en">شبکه خلیج فارس (هرمزگان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png"/>
+  </channel>
+  <channel id="KhozestanTV.ir">
+    <display-name lang="fa">شبکه خوزستان</display-name>
+    <display-name lang="en">شبکه خوزستان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png"/>
+  </channel>
+  <channel id="DenaTV.ir">
+    <display-name lang="fa">شبکه دنا (کهگیلویه)</display-name>
+    <display-name lang="en">شبکه دنا (کهگیلویه)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png"/>
+  </channel>
+  <channel id="RoyaTV.ir">
+    <display-name lang="fa">شبکه رویا</display-name>
+    <display-name lang="en">شبکه رویا</display-name>
+    <icon src="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default"/>
+  </channel>
+  <channel id="ZagrosTV.ir">
+    <display-name lang="fa">شبکه زاگرس (لرستان)</display-name>
+    <display-name lang="en">شبکه زاگرس (لرستان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png"/>
+  </channel>
+  <channel id="SarbedaranTV.ir">
+    <display-name lang="fa">شبکه سبزوار</display-name>
+    <display-name lang="en">شبکه سبزوار</display-name>
+    <icon src="https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default"/>
+  </channel>
+  <channel id="SabalanTV.ir">
+    <display-name lang="fa">شبکه سبلان (اردبیل)</display-name>
+    <display-name lang="en">شبکه سبلان (اردبیل)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png"/>
+  </channel>
+  <channel id="SemnanTV.ir">
+    <display-name lang="fa">شبکه سمنان</display-name>
+    <display-name lang="en">شبکه سمنان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png"/>
+  </channel>
+  <channel id="SahandTV.ir">
+    <display-name lang="fa">شبکه سهند (آذربایجان شرقی)</display-name>
+    <display-name lang="en">شبکه سهند (آذربایجان شرقی)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png"/>
+  </channel>
+  <channel id="FarsTV.ir">
+    <display-name lang="fa">شبکه فارس</display-name>
+    <display-name lang="en">شبکه فارس</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png"/>
+  </channel>
+  <channel id="QazvinTV.ir">
+    <display-name lang="fa">شبکه قزوین</display-name>
+    <display-name lang="en">شبکه قزوین</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png"/>
+  </channel>
+  <channel id="TabarestanTV.ir">
+    <display-name lang="fa">شبکه مازندران (طبرستان)</display-name>
+    <display-name lang="en">شبکه مازندران (طبرستان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png"/>
+  </channel>
+  <channel id="MahabadTV.ir">
+    <display-name lang="fa">شبکه مهاباد</display-name>
+    <display-name lang="en">شبکه مهاباد</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png"/>
+  </channel>
+  <channel id="nesfejahan">
+    <display-name lang="fa">شبکه نصف جهان (اصفهان)</display-name>
+    <display-name lang="en">شبکه نصف جهان (اصفهان)</display-name>
+    <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nesfejahan.png"/>
+  </channel>
+  <channel id="HamoonTV.ir">
+    <display-name lang="fa">شبکه هامون (سیستان)</display-name>
+    <display-name lang="en">شبکه هامون (سیستان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png"/>
+  </channel>
+  <channel id="HamedanTV.ir">
+    <display-name lang="fa">شبکه همدان (سینا)</display-name>
+    <display-name lang="en">شبکه همدان (سینا)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png"/>
+  </channel>
+  <channel id="KaroonTV.ir">
+    <display-name lang="fa">شبکه کارون</display-name>
+    <display-name lang="en">شبکه کارون</display-name>
+    <icon src="https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default"/>
+  </channel>
+  <channel id="KordestanTV.ir">
+    <display-name lang="fa">شبکه کردستان</display-name>
+    <display-name lang="en">شبکه کردستان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png"/>
+  </channel>
+  <channel id="KermanTV.ir">
+    <display-name lang="fa">شبکه کرمان</display-name>
+    <display-name lang="en">شبکه کرمان</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png"/>
+  </channel>
+  <channel id="KishTV.ir">
+    <display-name lang="fa">شبکه کیش</display-name>
+    <display-name lang="en">شبکه کیش</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png"/>
+  </channel>
+  <channel id="YazdTV.ir">
+    <display-name lang="fa">شبکه یزد (تابان)</display-name>
+    <display-name lang="en">شبکه یزد (تابان)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png"/>
   </channel>
 </tv>
