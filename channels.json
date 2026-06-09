@@ -10,7 +10,7 @@
   },
   {
     "slug": "tv2",
-    "channel_id": 32,
+    "channel_id": null,
     "tvg_id": "IRIB2.ir",
     "name": "شبکه دو",
     "name_en": "شبکه دو",
@@ -28,7 +28,7 @@
   },
   {
     "slug": "tv4",
-    "channel_id": 37,
+    "channel_id": null,
     "tvg_id": "IRIB4.ir",
     "name": "شبکه چهار",
     "name_en": "شبکه چهار",
@@ -37,7 +37,7 @@
   },
   {
     "slug": "tehran",
-    "channel_id": 38,
+    "channel_id": null,
     "tvg_id": "TehranTV.ir",
     "name": "شبکه پنج (تهران)",
     "name_en": "شبکه پنج (تهران)",
@@ -46,7 +46,7 @@
   },
   {
     "slug": "varzesh",
-    "channel_id": 39,
+    "channel_id": null,
     "tvg_id": "VarzeshTV.ir",
     "name": "شبکه ورزش",
     "name_en": "شبکه ورزش",
@@ -55,7 +55,7 @@
   },
   {
     "slug": "ofogh",
-    "channel_id": 40,
+    "channel_id": null,
     "tvg_id": "OfoghTV.ir",
     "name": "شبکه افق",
     "name_en": "شبکه افق",
@@ -64,7 +64,7 @@
   },
   {
     "slug": "amouzesh",
-    "channel_id": 41,
+    "channel_id": null,
     "tvg_id": "AmouzeshTV.ir",
     "name": "شبکه آموزش",
     "name_en": "شبکه آموزش",
@@ -73,7 +73,7 @@
   },
   {
     "slug": "irinn",
-    "channel_id": 42,
+    "channel_id": null,
     "tvg_id": "IRINN.ir",
     "name": "شبکه خبر",
     "name_en": "شبکه خبر",
@@ -82,7 +82,7 @@
   },
   {
     "slug": "nasim",
-    "channel_id": 43,
+    "channel_id": null,
     "tvg_id": "Nasim.ir",
     "name": "شبکه نسیم",
     "name_en": "شبکه نسیم",
@@ -91,7 +91,7 @@
   },
   {
     "slug": "namayesh",
-    "channel_id": 44,
+    "channel_id": null,
     "tvg_id": "NamayeshTV.ir",
     "name": "شبکه نمایش",
     "name_en": "شبکه نمایش",
@@ -100,7 +100,7 @@
   },
   {
     "slug": "mostanad",
-    "channel_id": 45,
+    "channel_id": null,
     "tvg_id": "IRIBMostanad.ir",
     "name": "شبکه مستند",
     "name_en": "شبکه مستند",
@@ -109,7 +109,7 @@
   },
   {
     "slug": "ifilm",
-    "channel_id": 46,
+    "channel_id": null,
     "tvg_id": "iFilmPersian.ir",
     "name": "آی‌فیلم",
     "name_en": "آی‌فیلم",
@@ -118,7 +118,7 @@
   },
   {
     "slug": "quran",
-    "channel_id": 47,
+    "channel_id": null,
     "tvg_id": "",
     "name": "شبکه قرآن",
     "name_en": "شبکه قرآن",
@@ -127,7 +127,7 @@
   },
   {
     "slug": "salamat",
-    "channel_id": 48,
+    "channel_id": null,
     "tvg_id": "SalamatTV.ir",
     "name": "شبکه سلامت",
     "name_en": "شبکه سلامت",
@@ -136,7 +136,7 @@
   },
   {
     "slug": "pooya",
-    "channel_id": 49,
+    "channel_id": null,
     "tvg_id": "PooyaTV.ir",
     "name": "شبکه پویا",
     "name_en": "شبکه پویا",
@@ -145,7 +145,7 @@
   },
   {
     "slug": "omid",
-    "channel_id": 50,
+    "channel_id": null,
     "tvg_id": "IRIBOmid.ir",
     "name": "شبکه امید",
     "name_en": "شبکه امید",
@@ -154,7 +154,7 @@
   },
   {
     "slug": "sepehr",
-    "channel_id": 51,
+    "channel_id": null,
     "tvg_id": "SepehrTV.ir",
     "name": "شبکه سپهر",
     "name_en": "شبکه سپهر",
@@ -163,7 +163,7 @@
   },
   {
     "slug": "irinn2",
-    "channel_id": 52,
+    "channel_id": null,
     "tvg_id": "IRINN2.ir",
     "name": "شبکه خبر ۲",
     "name_en": "شبکه خبر ۲",
@@ -172,7 +172,7 @@
   },
   {
     "slug": "faratar",
-    "channel_id": 53,
+    "channel_id": null,
     "tvg_id": "IRIBUHD.ir",
     "name": "شبکه فراتر (UHD)",
     "name_en": "شبکه فراتر (UHD)",
@@ -181,7 +181,7 @@
   },
   {
     "slug": "tamasha",
-    "channel_id": 54,
+    "channel_id": null,
     "tvg_id": "Tamasha.ir",
     "name": "شبکه تماشا",
     "name_en": "شبکه تماشا",
