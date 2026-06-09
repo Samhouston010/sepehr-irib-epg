@@ -226,7 +226,7 @@
   },
   {
     "slug": "atrak",
-    "channel_id": null,
+    "channel_id": 47,
     "tvg_id": "AtrakTV.ir",
     "name": "شبکه اترک (خراسان شمالی)",
     "name_en": "شبکه اترک (خراسان شمالی)",
@@ -307,7 +307,7 @@
   },
   {
     "slug": "jahanbin",
-    "channel_id": null,
+    "channel_id": 40,
     "tvg_id": "JahanbinTV.ir",
     "name": "شبکه جهان‌بین",
     "name_en": "شبکه جهان‌بین",
@@ -343,7 +343,7 @@
   },
   {
     "slug": "khoozestan",
-    "channel_id": null,
+    "channel_id": 43,
     "tvg_id": "KhozestanTV.ir",
     "name": "شبکه خوزستان",
     "name_en": "شبکه خوزستان",
