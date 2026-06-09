@@ -16,7 +16,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests requests-oauthlib
       - name: Generate M3U + EPG
         run: python generate.py
       - name: Commit and push
