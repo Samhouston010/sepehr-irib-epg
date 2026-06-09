@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Samhouston010/sepehr-irib-epg/main/sepehr.xml.gz"
-#EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه یک" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/IRIBTV1.svg/960px-IRIBTV1.svg.png" group-title="سراسری",شبکه یک
+#EXTINF:-1 tvg-id="IRIB1.ir" tvg-name="شبکه یک" tvg-logo="https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default" group-title="سراسری",شبکه یک
 https://ncdn.telewebion.ir/tv1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB2.ir" tvg-name="شبکه دو" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png" group-title="سراسری",شبکه دو
 https://ncdn.telewebion.ir/tv2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="شبکه سه" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/IRIB_TV3_LOGO.svg/960px-IRIB_TV3_LOGO.svg.png" group-title="سراسری",شبکه سه
+#EXTINF:-1 tvg-id="IRIB3.ir" tvg-name="شبکه سه" tvg-logo="https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default" group-title="سراسری",شبکه سه
 https://ncdn.telewebion.ir/tv3/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IRIB4.ir" tvg-name="شبکه چهار" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png" group-title="سراسری",شبکه چهار
 https://ncdn.telewebion.ir/tv4/live/playlist.m3u8
@@ -49,7 +49,7 @@ https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 https://ncdn.telewebion.ir/ara/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AftabTV.ir" tvg-name="شبکه آفتاب (مرکزی)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png" group-title="استانی",شبکه آفتاب (مرکزی)
 https://ncdn.telewebion.ir/aftab/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="شبکه اترک (خراسان شمالی)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png" group-title="استانی",شبکه اترک (خراسان شمالی)
+#EXTINF:-1 tvg-id="AtrakTV.ir" tvg-name="شبکه اترک (خراسان شمالی)" tvg-logo="https://static.telewebion.ir/channelsLogo/c059616c-053f-4044-baf1-4444c7101161/default" group-title="استانی",شبکه اترک (خراسان شمالی)
 https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EshraghNetwork.ir" tvg-name="شبکه اشراق (زنجان)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU" group-title="استانی",شبکه اشراق (زنجان)
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
@@ -67,7 +67,7 @@ https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
 https://ncdn.telewebion.ir/baran/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-name="شبکه بوشهر" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png" group-title="استانی",شبکه بوشهر
 https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
-#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-name="شبکه جهان‌بین" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png" group-title="استانی",شبکه جهان‌بین
+#EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-name="شبکه جهان‌بین" tvg-logo="https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default" group-title="استانی",شبکه جهان‌بین
 https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhavaranTV.ir" tvg-name="شبکه خاوران (خراسان جنوبی)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="استانی",شبکه خاوران (خراسان جنوبی)
 https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
@@ -75,7 +75,7 @@ https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
 https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir" tvg-name="شبکه خلیج فارس (هرمزگان)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="استانی",شبکه خلیج فارس (هرمزگان)
 https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-name="شبکه خوزستان" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/9a/Ahwaz_TV.svg/960px-Ahwaz_TV.svg.png" group-title="استانی",شبکه خوزستان
+#EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-name="شبکه خوزستان" tvg-logo="https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default" group-title="استانی",شبکه خوزستان
 https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DenaTV.ir" tvg-name="شبکه دنا (کهگیلویه)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="استانی",شبکه دنا (کهگیلویه)
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
