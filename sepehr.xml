@@ -213,15 +213,15 @@
   </programme>
   <programme start="20260613023100 +0000" stop="20260613023200 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613023220 +0000" stop="20260613041820 +0000" channel="IRIB1.ir"><title lang="fa">صبح بخیر ایران</title>
+  <programme start="20260613023220 +0000" stop="20260613042020 +0000" channel="IRIB1.ir"><title lang="fa">صبح بخیر ایران</title>
     <desc lang="fa">تهیه کننده : مصطفی مژدهی فر
 مجری :حسام خضری- احمد قدوسی - سید مهدی مفیدی راد - زهرا محمودوند - زهرا رضا پور- اقبال واحدی</desc>
   </programme>
-  <programme start="20260613041910 +0000" stop="20260613042910 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613042043 +0000" stop="20260613042943 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613043000 +0000" stop="20260613050000 +0000" channel="IRIB1.ir"><title lang="fa">خبر صبحگاهی</title>
+  <programme start="20260613043000 +0000" stop="20260613045900 +0000" channel="IRIB1.ir"><title lang="fa">خبر صبحگاهی</title>
   </programme>
-  <programme start="20260613050000 +0000" stop="20260613050300 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613045928 +0000" stop="20260613050328 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260613050341 +0000" stop="20260613051241 +0000" channel="IRIB1.ir"><title lang="fa">قاب اقتدار</title>
   </programme>
@@ -261,16 +261,14 @@
   </programme>
   <programme start="20260613103000 +0000" stop="20260613113000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار نیمروزی</title>
   </programme>
-  <programme start="20260613113000 +0000" stop="20260613115300 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613113048 +0000" stop="20260613115348 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613115309 +0000" stop="20260613123809 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی مادران</title>
+  <programme start="20260613115433 +0000" stop="20260613123933 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی مادران</title>
     <desc lang="fa">بازیگران : رویا افشار - صفا آقاجانی - سلمان فرخنده - مدیا ذاکری</desc>
   </programme>
-  <programme start="20260613123818 +0000" stop="20260613124018 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613123943 +0000" stop="20260613124143 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613124022 +0000" stop="20260613125022 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
-    <desc lang="fa">تهیه کننده : محمد شاکری 
-مجری : احمدی – تهرانی</desc>
+  <programme start="20260613124147 +0000" stop="20260613124947 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
   </programme>
   <programme start="20260613125022 +0000" stop="20260613125522 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -281,8 +279,6 @@
   <programme start="20260613132653 +0000" stop="20260613134453 +0000" channel="IRIB1.ir"><title lang="fa">عصای سرخ</title>
   </programme>
   <programme start="20260613134453 +0000" stop="20260613135453 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
-    <desc lang="fa">تهیه کننده : محمد شاکری 
-مجری : احمدی – تهرانی</desc>
   </programme>
   <programme start="20260613135453 +0000" stop="20260613140253 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -294,8 +290,6 @@
   <programme start="20260613144409 +0000" stop="20260613144509 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260613144524 +0000" stop="20260613145924 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
-    <desc lang="fa">تهیه کننده : محمد شاکری 
-مجری : احمدی – تهرانی</desc>
   </programme>
   <programme start="20260613150004 +0000" stop="20260613150404 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -472,119 +466,145 @@
   </programme>
   <programme start="20260613084622 +0000" stop="20260613084722 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
   </programme>
-  <programme start="20260613084757 +0000" stop="20260613084857 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
+  <programme start="20260613084801 +0000" stop="20260613084901 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
   </programme>
-  <programme start="20260613084906 +0000" stop="20260613091906 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613084910 +0000" stop="20260613091910 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613084954 +0000" stop="20260613091954 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613084955 +0000" stop="20260613091955 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613085026 +0000" stop="20260613092826 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز (گزیده)</title>
+  <programme start="20260613085027 +0000" stop="20260613085327 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از 12:30</title>
   </programme>
-  <programme start="20260613092916 +0000" stop="20260613095916 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613085417 +0000" stop="20260613091617 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز</title>
   </programme>
-  <programme start="20260613092928 +0000" stop="20260613093028 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
+  <programme start="20260613091620 +0000" stop="20260613094620 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613093103 +0000" stop="20260613100103 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613091632 +0000" stop="20260613091732 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
   </programme>
-  <programme start="20260613093147 +0000" stop="20260613100147 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613091811 +0000" stop="20260613091911 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
   </programme>
-  <programme start="20260613093159 +0000" stop="20260613093659 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از سمت خدا 13:00</title>
+  <programme start="20260613091920 +0000" stop="20260613094920 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613093731 +0000" stop="20260613102831 +0000" channel="IRIB3.ir"><title lang="fa">سمت خدا</title>
+  <programme start="20260613092005 +0000" stop="20260613095005 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613102831 +0000" stop="20260613102931 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
+  <programme start="20260613092017 +0000" stop="20260613092517 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از سمت خدا 13:00</title>
   </programme>
-  <programme start="20260613103006 +0000" stop="20260613110006 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613092549 +0000" stop="20260613101549 +0000" channel="IRIB3.ir"><title lang="fa">سمت خدا</title>
   </programme>
-  <programme start="20260613103018 +0000" stop="20260613103118 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی برق  -  نمدی</title>
+  <programme start="20260613101549 +0000" stop="20260613101649 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
   </programme>
-  <programme start="20260613103122 +0000" stop="20260613110122 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613101728 +0000" stop="20260613101828 +0000" channel="IRIB3.ir"><title lang="fa">تیزر بیست و چهارمین رویداد عطر سیب</title>
   </programme>
-  <programme start="20260613103206 +0000" stop="20260613110206 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613101828 +0000" stop="20260613104828 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613103222 +0000" stop="20260613103922 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از تکرار سریال 14:00</title>
+  <programme start="20260613101840 +0000" stop="20260613101940 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی برق  -  نمدی</title>
   </programme>
-  <programme start="20260613103940 +0000" stop="20260613111340 +0000" channel="IRIB3.ir"><title lang="fa">چمدون</title>
+  <programme start="20260613101944 +0000" stop="20260613104944 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613111413 +0000" stop="20260613114413 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613102029 +0000" stop="20260613105029 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613111445 +0000" stop="20260613111845 +0000" channel="IRIB3.ir"><title lang="fa">گزارش روز</title>
+  <programme start="20260613102045 +0000" stop="20260613102745 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از تکرار سریال 14:00</title>
   </programme>
-  <programme start="20260613111845 +0000" stop="20260613111945 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
+  <programme start="20260613102803 +0000" stop="20260613110503 +0000" channel="IRIB3.ir"><title lang="fa">چمدون</title>
   </programme>
-  <programme start="20260613111954 +0000" stop="20260613114954 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613110529 +0000" stop="20260613113529 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613112042 +0000" stop="20260613112242 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 15:00</title>
+  <programme start="20260613110601 +0000" stop="20260613111001 +0000" channel="IRIB3.ir"><title lang="fa">گزارش روز</title>
   </programme>
-  <programme start="20260613112317 +0000" stop="20260613120817 +0000" channel="IRIB3.ir"><title lang="fa">سیاست خارجی</title>
+  <programme start="20260613111001 +0000" stop="20260613111101 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
   </programme>
-  <programme start="20260613120817 +0000" stop="20260613123817 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613111110 +0000" stop="20260613114110 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613120849 +0000" stop="20260613120949 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
+  <programme start="20260613111155 +0000" stop="20260613111355 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 15:00</title>
   </programme>
-  <programme start="20260613121024 +0000" stop="20260613121124 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - دفاع از وطن</title>
+  <programme start="20260613111430 +0000" stop="20260613120530 +0000" channel="IRIB3.ir"><title lang="fa">پانتولیگ- فصل 6</title>
   </programme>
-  <programme start="20260613121128 +0000" stop="20260613124128 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613120617 +0000" stop="20260613123617 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613121212 +0000" stop="20260613124212 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613120629 +0000" stop="20260613120729 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - دفاع از وطن</title>
   </programme>
-  <programme start="20260613121234 +0000" stop="20260613121434 +0000" channel="IRIB3.ir"><title lang="fa">اگهی قبل از برنامه 15:20</title>
+  <programme start="20260613120733 +0000" stop="20260613120833 +0000" channel="IRIB3.ir"><title lang="fa">تیزر بیست و چهارمین رویداد عطر سیب</title>
   </programme>
-  <programme start="20260613121442 +0000" stop="20260613130942 +0000" channel="IRIB3.ir"><title lang="fa">کاپیتان</title>
+  <programme start="20260613120833 +0000" stop="20260613123833 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613131030 +0000" stop="20260613134030 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613120855 +0000" stop="20260613121355 +0000" channel="IRIB3.ir"><title lang="fa">اگهی قبل از برنامه 16:00</title>
   </programme>
-  <programme start="20260613131046 +0000" stop="20260613131146 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی برق  -  نمدی</title>
+  <programme start="20260613121405 +0000" stop="20260613130405 +0000" channel="IRIB3.ir"><title lang="fa">کاپیتان - قسمت آخر (فینال)</title>
   </programme>
-  <programme start="20260613131150 +0000" stop="20260613134150 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613130420 +0000" stop="20260613133420 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613131234 +0000" stop="20260613134234 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613130436 +0000" stop="20260613130536 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی برق  -  نمدی</title>
   </programme>
-  <programme start="20260613131256 +0000" stop="20260613131556 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 16:20</title>
+  <programme start="20260613130540 +0000" stop="20260613133540 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613131645 +0000" stop="20260613143645 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز</title>
+  <programme start="20260613130556 +0000" stop="20260613130956 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 17:30</title>
   </programme>
-  <programme start="20260613143645 +0000" stop="20260613150645 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613131001 +0000" stop="20260613135701 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز - قسمت آخر (فینال)</title>
   </programme>
-  <programme start="20260613143717 +0000" stop="20260613143817 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
+  <programme start="20260613135746 +0000" stop="20260613143046 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز - قسمت آخر (فینال)</title>
   </programme>
-  <programme start="20260613143852 +0000" stop="20260613143952 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
+  <programme start="20260613143055 +0000" stop="20260613150055 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613144001 +0000" stop="20260613151001 +0000" channel="IRIB3.ir"><title lang="fa">تیزر لیگ والیبال ملتها 2026</title>
+  <programme start="20260613143112 +0000" stop="20260613143212 +0000" channel="IRIB3.ir"><title lang="fa">تیزر بیست و چهارمین رویداد عطر سیب</title>
   </programme>
-  <programme start="20260613144049 +0000" stop="20260613151049 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613143212 +0000" stop="20260613143312 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
   </programme>
-  <programme start="20260613144111 +0000" stop="20260613144611 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 18:00</title>
+  <programme start="20260613143351 +0000" stop="20260613143451 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی - هوش مصنوعی</title>
   </programme>
-  <programme start="20260613144628 +0000" stop="20260613152128 +0000" channel="IRIB3.ir"><title lang="fa">خط قرمز</title>
+  <programme start="20260613143500 +0000" stop="20260613150500 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613152128 +0000" stop="20260613155128 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613143545 +0000" stop="20260613150545 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613152150 +0000" stop="20260613152550 +0000" channel="IRIB3.ir"><title lang="fa">گزارش روز</title>
+  <programme start="20260613143607 +0000" stop="20260613144107 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 18:00</title>
   </programme>
-  <programme start="20260613152550 +0000" stop="20260613155550 +0000" channel="IRIB3.ir"><title lang="fa">تیزر خمیری جام جهانی 2026</title>
+  <programme start="20260613144124 +0000" stop="20260613151724 +0000" channel="IRIB3.ir"><title lang="fa">خط قرمز</title>
   </programme>
-  <programme start="20260613152632 +0000" stop="20260613152732 +0000" channel="IRIB3.ir"><title lang="fa">تیزر صرفه جویی برق  -  لگو</title>
+  <programme start="20260613151746 +0000" stop="20260613154746 +0000" channel="IRIB3.ir"><title lang="fa">تیزر والیبال ایران و بلژیک</title>
   </programme>
-  <programme start="20260613152805 +0000" stop="20260613155805 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260613151831 +0000" stop="20260613151931 +0000" channel="IRIB3.ir"><title lang="fa">تیزر بیست و چهارمین رویداد عطر سیب</title>
   </programme>
-  <programme start="20260613152821 +0000" stop="20260613152921 +0000" channel="IRIB3.ir"><title lang="fa">تیزر حسینیه معلی</title>
+  <programme start="20260613151931 +0000" stop="20260613160431 +0000" channel="IRIB3.ir"><title lang="fa">چمدون</title>
   </programme>
-  <programme start="20260613152956 +0000" stop="20260613153156 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه 18:30</title>
+  <programme start="20260613160431 +0000" stop="20260613163431 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260613153241 +0000" stop="20260613160341 +0000" channel="IRIB3.ir"><title lang="fa">میدان دار</title>
+  <programme start="20260613160446 +0000" stop="20260613160946 +0000" channel="IRIB3.ir"><title lang="fa">تلاوت قرآن</title>
   </programme>
-  <programme start="20260613160436 +0000" stop="20260613163436 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260613160451 +0000" stop="20260613160951 +0000" channel="IRIB3.ir"><title lang="fa">تلاوت قرآن</title>
-  </programme>
-  <programme start="20260613161037 +0000" stop="20260613164037 +0000" channel="IRIB3.ir"><title lang="fa">ذکر روز شنبه</title>
+  <programme start="20260613161032 +0000" stop="20260613164032 +0000" channel="IRIB3.ir"><title lang="fa">ذکر روز شنبه</title>
   </programme>
   <programme start="20260613161130 +0000" stop="20260613161530 +0000" channel="IRIB3.ir"><title lang="fa">اذان مغرب به وقت تهران</title>
   </programme>
   <programme start="20260613161541 +0000" stop="20260613161741 +0000" channel="IRIB3.ir"><title lang="fa">دعای ناد علی</title>
   </programme>
   <programme start="20260613161744 +0000" stop="20260613164744 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260613161754 +0000" stop="20260613164654 +0000" channel="IRIB3.ir"><title lang="fa">میدان دار</title>
+  </programme>
+  <programme start="20260613164654 +0000" stop="20260613171654 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260613164709 +0000" stop="20260613165709 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از سریال 20:30</title>
+  </programme>
+  <programme start="20260613165801 +0000" stop="20260613174701 +0000" channel="IRIB3.ir"><title lang="fa">پانتولیگ - فصل 6</title>
+  </programme>
+  <programme start="20260613174736 +0000" stop="20260613182336 +0000" channel="IRIB3.ir"><title lang="fa">جام 26</title>
+  </programme>
+  <programme start="20260613182338 +0000" stop="20260613183738 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از جام 2026 ساعت22:30</title>
+  </programme>
+  <programme start="20260613183833 +0000" stop="20260613185833 +0000" channel="IRIB3.ir"><title lang="fa">جام 26  (آرم شروع و تصاویر استادیوم)</title>
+  </programme>
+  <programme start="20260613185915 +0000" stop="20260613192915 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم برنامه (ابتدا)22:31</title>
+  </programme>
+  <programme start="20260613185930 +0000" stop="20260613195130 +0000" channel="IRIB3.ir"><title lang="fa">جام 26  (نیمه اول)</title>
+  </programme>
+  <programme start="20260613195130 +0000" stop="20260613202130 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم برنامه (انتهای نیمه اول) 22:43</title>
+  </programme>
+  <programme start="20260613195145 +0000" stop="20260613195445 +0000" channel="IRIB3.ir"><title lang="fa">آگهی بین جام 26 ساعت 23:20</title>
+  </programme>
+  <programme start="20260613195450 +0000" stop="20260613195750 +0000" channel="IRIB3.ir"><title lang="fa">آگهی بین جام 26 ساعت 23:30</title>
+  </programme>
+  <programme start="20260613195759 +0000" stop="20260613200559 +0000" channel="IRIB3.ir"><title lang="fa">جام 26  (کارشناسی)</title>
+  </programme>
+  <programme start="20260613200615 +0000" stop="20260613203615 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم برنامه (ادامه) 23:32</title>
+  </programme>
+  <programme start="20260613200630 +0000" stop="20260613202930 +0000" channel="IRIB3.ir"><title lang="fa">جام 26  (نیمه دوم )</title>
   </programme>
   <programme start="20260612203000 +0000" stop="20260612223000 +0000" channel="AtrakTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
