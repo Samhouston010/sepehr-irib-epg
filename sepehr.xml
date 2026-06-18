@@ -282,7 +282,7 @@
   </programme>
   <programme start="20260618125653 +0000" stop="20260618125853 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260618125935 +0000" stop="20260618131735 +0000" channel="IRIB1.ir"><title lang="fa">خانه ملت</title>
+  <programme start="20260618125935 +0000" stop="20260618131735 +0000" channel="IRIB1.ir"><title lang="fa">عصای سرخ</title>
   </programme>
   <programme start="20260618131735 +0000" stop="20260618132535 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -331,7 +331,7 @@
   </programme>
   <programme start="20260618193500 +0000" stop="20260618194900 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260618194958 +0000" stop="20260618202958 +0000" channel="IRIB1.ir"><title lang="fa">مستند امیرعلی</title>
+  <programme start="20260618194958 +0000" stop="20260618202958 +0000" channel="IRIB1.ir"><title lang="fa">مستند راز هرمز</title>
   </programme>
   <programme start="20260617205130 +0000" stop="20260617205730 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -1369,52 +1369,404 @@
   </programme>
   <programme start="20260619132925 +0000" stop="20260619135925 +0000" channel="JahanbinTV.ir"><title lang="fa">وله شبکه +ساعت خبر</title>
   </programme>
-  <programme start="20260617203000 +0000" stop="20260617223000 +0000" channel="KhozestanTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260617204242 +0000" stop="20260617204442 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
   </programme>
-  <programme start="20260617223000 +0000" stop="20260618003000 +0000" channel="KhozestanTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260617204500 +0000" stop="20260617222000 +0000" channel="KhozestanTV.ir"><title lang="fa">فیلم سینمایی</title>
   </programme>
-  <programme start="20260618003000 +0000" stop="20260618023000 +0000" channel="KhozestanTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260617222031 +0000" stop="20260617222231 +0000" channel="KhozestanTV.ir"><title lang="fa">نگاره</title>
   </programme>
-  <programme start="20260618023000 +0000" stop="20260618043000 +0000" channel="KhozestanTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260617222253 +0000" stop="20260617224153 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند</title>
   </programme>
-  <programme start="20260618043000 +0000" stop="20260618063000 +0000" channel="KhozestanTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260617224244 +0000" stop="20260617224644 +0000" channel="KhozestanTV.ir"><title lang="fa">انیمیشن صرفه جویی</title>
   </programme>
-  <programme start="20260618063000 +0000" stop="20260618083000 +0000" channel="KhozestanTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260617224739 +0000" stop="20260617233439 +0000" channel="KhozestanTV.ir"><title lang="fa">سریال در چشم باد</title>
   </programme>
-  <programme start="20260618083000 +0000" stop="20260618103000 +0000" channel="KhozestanTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260617233528 +0000" stop="20260617233928 +0000" channel="KhozestanTV.ir"><title lang="fa">نماهنگ</title>
   </programme>
-  <programme start="20260618103000 +0000" stop="20260618123000 +0000" channel="KhozestanTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260617234006 +0000" stop="20260617234306 +0000" channel="KhozestanTV.ir"><title lang="fa">سلاله</title>
   </programme>
-  <programme start="20260618123000 +0000" stop="20260618143000 +0000" channel="KhozestanTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260617234343 +0000" stop="20260617235643 +0000" channel="KhozestanTV.ir"><title lang="fa">مناجات امیر المؤمنین ( علیه السلام )</title>
   </programme>
-  <programme start="20260618143000 +0000" stop="20260618163000 +0000" channel="KhozestanTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260617235730 +0000" stop="20260618000330 +0000" channel="KhozestanTV.ir"><title lang="fa">قرائت قرآن</title>
   </programme>
-  <programme start="20260618163000 +0000" stop="20260618183000 +0000" channel="KhozestanTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260618000400 +0000" stop="20260618000800 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان  صبح به افق اهواز</title>
   </programme>
-  <programme start="20260618183000 +0000" stop="20260618202900 +0000" channel="KhozestanTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260618000839 +0000" stop="20260618001439 +0000" channel="KhozestanTV.ir"><title lang="fa">نماز جماعت صبح</title>
   </programme>
-  <programme start="20260618203000 +0000" stop="20260618223000 +0000" channel="KhozestanTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260618001526 +0000" stop="20260618002526 +0000" channel="KhozestanTV.ir"><title lang="fa">صبح ظهور</title>
   </programme>
-  <programme start="20260618223000 +0000" stop="20260619003000 +0000" channel="KhozestanTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260618002549 +0000" stop="20260618003349 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای عهد</title>
   </programme>
-  <programme start="20260619003000 +0000" stop="20260619023000 +0000" channel="KhozestanTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260618003423 +0000" stop="20260618003523 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر مسابقات قرآن علوم پزشکی</title>
   </programme>
-  <programme start="20260619023000 +0000" stop="20260619043000 +0000" channel="KhozestanTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260618003553 +0000" stop="20260618004553 +0000" channel="KhozestanTV.ir"><title lang="fa">نوحه</title>
   </programme>
-  <programme start="20260619043000 +0000" stop="20260619063000 +0000" channel="KhozestanTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260618004649 +0000" stop="20260618004749 +0000" channel="KhozestanTV.ir"><title lang="fa">السلام علی الحسین</title>
   </programme>
-  <programme start="20260619063000 +0000" stop="20260619083000 +0000" channel="KhozestanTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260618004820 +0000" stop="20260618011820 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند شور رنگ</title>
   </programme>
-  <programme start="20260619083000 +0000" stop="20260619103000 +0000" channel="KhozestanTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260618011839 +0000" stop="20260618011939 +0000" channel="KhozestanTV.ir"><title lang="fa">برکت</title>
   </programme>
-  <programme start="20260619103000 +0000" stop="20260619123000 +0000" channel="KhozestanTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260618012017 +0000" stop="20260618020317 +0000" channel="KhozestanTV.ir"><title lang="fa">خانه من</title>
   </programme>
-  <programme start="20260619123000 +0000" stop="20260619143000 +0000" channel="KhozestanTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260618020341 +0000" stop="20260618020441 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر روز جهانی علی اصغر</title>
   </programme>
-  <programme start="20260619143000 +0000" stop="20260619163000 +0000" channel="KhozestanTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260618020523 +0000" stop="20260618020723 +0000" channel="KhozestanTV.ir"><title lang="fa">خوزستان زیبا</title>
   </programme>
-  <programme start="20260619163000 +0000" stop="20260619183000 +0000" channel="KhozestanTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260618020741 +0000" stop="20260618022741 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند پرندگان ماهیخوار</title>
   </programme>
-  <programme start="20260619183000 +0000" stop="20260619202900 +0000" channel="KhozestanTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260618022745 +0000" stop="20260618022945 +0000" channel="KhozestanTV.ir"><title lang="fa">تصویر موسیقی</title>
+  </programme>
+  <programme start="20260618023000 +0000" stop="20260618023100 +0000" channel="KhozestanTV.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260618023102 +0000" stop="20260618030702 +0000" channel="KhozestanTV.ir"><title lang="fa">سخنرانی مذهبی محرم</title>
+  </programme>
+  <programme start="20260618030729 +0000" stop="20260618030829 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260618030915 +0000" stop="20260618032915 +0000" channel="KhozestanTV.ir"><title lang="fa">زاویه</title>
+  </programme>
+  <programme start="20260618032932 +0000" stop="20260618033032 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر صرفه جویی</title>
+  </programme>
+  <programme start="20260618033036 +0000" stop="20260618041936 +0000" channel="KhozestanTV.ir"><title lang="fa">لبیک یا حسین</title>
+  </programme>
+  <programme start="20260618042006 +0000" stop="20260618045006 +0000" channel="KhozestanTV.ir"><title lang="fa">وله</title>
+  </programme>
+  <programme start="20260618042041 +0000" stop="20260618045841 +0000" channel="KhozestanTV.ir"><title lang="fa">پدر امت</title>
+  </programme>
+  <programme start="20260618045919 +0000" stop="20260618052919 +0000" channel="KhozestanTV.ir"><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260618050000 +0000" stop="20260618055500 +0000" channel="KhozestanTV.ir"><title lang="fa">یه روز تازه</title>
+  </programme>
+  <programme start="20260618055536 +0000" stop="20260618055636 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260618055642 +0000" stop="20260618062642 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260618055705 +0000" stop="20260618063005 +0000" channel="KhozestanTV.ir"><title lang="fa">رنگین کمان</title>
+  </programme>
+  <programme start="20260618063014 +0000" stop="20260618063214 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618063219 +0000" stop="20260618070219 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260618063241 +0000" stop="20260618071941 +0000" channel="KhozestanTV.ir"><title lang="fa">سریال در چشم باد</title>
+  </programme>
+  <programme start="20260618072030 +0000" stop="20260618072230 +0000" channel="KhozestanTV.ir"><title lang="fa">خوزستان زیبا</title>
+  </programme>
+  <programme start="20260618072237 +0000" stop="20260618072337 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر روز جهانی علی اصغر</title>
+  </programme>
+  <programme start="20260618072419 +0000" stop="20260618072719 +0000" channel="KhozestanTV.ir"><title lang="fa">سرود من ایرانی ام</title>
+  </programme>
+  <programme start="20260618072754 +0000" stop="20260618072954 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618073000 +0000" stop="20260618081000 +0000" channel="KhozestanTV.ir"><title lang="fa">خانه من</title>
+  </programme>
+  <programme start="20260618081043 +0000" stop="20260618081143 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر</title>
+  </programme>
+  <programme start="20260618081151 +0000" stop="20260618083251 +0000" channel="KhozestanTV.ir"><title lang="fa">شور و شین</title>
+  </programme>
+  <programme start="20260618083000 +0000" stop="20260618084200 +0000" channel="KhozestanTV.ir"><title lang="fa">ارتباط با حسینیه ثارالله</title>
+  </programme>
+  <programme start="20260618083318 +0000" stop="20260618083418 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260618083504 +0000" stop="20260618084104 +0000" channel="KhozestanTV.ir"><title lang="fa">رایحه</title>
+  </programme>
+  <programme start="20260618084138 +0000" stop="20260618084538 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت قرآن</title>
+  </programme>
+  <programme start="20260618084600 +0000" stop="20260618085000 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان ظهر به افق اهواز</title>
+  </programme>
+  <programme start="20260618085031 +0000" stop="20260618085431 +0000" channel="KhozestanTV.ir"><title lang="fa">نماز جماعت ظهر</title>
+  </programme>
+  <programme start="20260618085511 +0000" stop="20260618090511 +0000" channel="KhozestanTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260618090534 +0000" stop="20260618092734 +0000" channel="KhozestanTV.ir"><title lang="fa">سخنرانی مذهبی</title>
+  </programme>
+  <programme start="20260618092734 +0000" stop="20260618092834 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260618092840 +0000" stop="20260618095840 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260618092902 +0000" stop="20260618093102 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618093108 +0000" stop="20260618102608 +0000" channel="KhozestanTV.ir"><title lang="fa">ایران از بالا</title>
+  </programme>
+  <programme start="20260618102620 +0000" stop="20260618102820 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618102827 +0000" stop="20260618105827 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260618102846 +0000" stop="20260618105846 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260618102909 +0000" stop="20260618120509 +0000" channel="KhozestanTV.ir"><title lang="fa">فیلم سینمایی</title>
+  </programme>
+  <programme start="20260618120518 +0000" stop="20260618120618 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر</title>
+  </programme>
+  <programme start="20260618120626 +0000" stop="20260618120726 +0000" channel="KhozestanTV.ir"><title lang="fa">خوزستان زیبا</title>
+  </programme>
+  <programme start="20260618120743 +0000" stop="20260618122143 +0000" channel="KhozestanTV.ir"><title lang="fa">زاویه</title>
+  </programme>
+  <programme start="20260618122156 +0000" stop="20260618122556 +0000" channel="KhozestanTV.ir"><title lang="fa">نماهنگ</title>
+  </programme>
+  <programme start="20260618122611 +0000" stop="20260618122711 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260618122717 +0000" stop="20260618122917 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618122939 +0000" stop="20260618125939 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260618122958 +0000" stop="20260618125958 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260618123020 +0000" stop="20260618131920 +0000" channel="KhozestanTV.ir"><title lang="fa">سریال در چشم باد</title>
+  </programme>
+  <programme start="20260618131950 +0000" stop="20260618132250 +0000" channel="KhozestanTV.ir"><title lang="fa">دلدادگان</title>
+  </programme>
+  <programme start="20260618132335 +0000" stop="20260618132435 +0000" channel="KhozestanTV.ir"><title lang="fa">نورهدایت</title>
+  </programme>
+  <programme start="20260618132457 +0000" stop="20260618132857 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618132930 +0000" stop="20260618135930 +0000" channel="KhozestanTV.ir"><title lang="fa">ساعت خبر</title>
+  </programme>
+  <programme start="20260618133000 +0000" stop="20260618135500 +0000" channel="KhozestanTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260618135500 +0000" stop="20260618144200 +0000" channel="KhozestanTV.ir"><title lang="fa">تراز</title>
+  </programme>
+  <programme start="20260618144200 +0000" stop="20260618144300 +0000" channel="KhozestanTV.ir"><title lang="fa">برکت</title>
+  </programme>
+  <programme start="20260618144328 +0000" stop="20260618145028 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند سنگرهای بی نشان</title>
+  </programme>
+  <programme start="20260618145122 +0000" stop="20260618145522 +0000" channel="KhozestanTV.ir"><title lang="fa">سلاله</title>
+  </programme>
+  <programme start="20260618145538 +0000" stop="20260618145638 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260618145645 +0000" stop="20260618145845 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618145937 +0000" stop="20260618152937 +0000" channel="KhozestanTV.ir"><title lang="fa">ساعت خبر</title>
+  </programme>
+  <programme start="20260618150000 +0000" stop="20260618151200 +0000" channel="KhozestanTV.ir"><title lang="fa">اخبار عربی</title>
+  </programme>
+  <programme start="20260618151200 +0000" stop="20260618151800 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618151840 +0000" stop="20260618154840 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260618151859 +0000" stop="20260618160559 +0000" channel="KhozestanTV.ir"><title lang="fa">لبیک یا حسین</title>
+  </programme>
+  <programme start="20260618160613 +0000" stop="20260618161113 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت قرآن</title>
+  </programme>
+  <programme start="20260618161200 +0000" stop="20260618161700 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان مغرب به افق اهواز</title>
+  </programme>
+  <programme start="20260618161722 +0000" stop="20260618162322 +0000" channel="KhozestanTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260618162325 +0000" stop="20260618162625 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای فرج</title>
+  </programme>
+  <programme start="20260618162638 +0000" stop="20260618163238 +0000" channel="KhozestanTV.ir"><title lang="fa">رایحه28</title>
+  </programme>
+  <programme start="20260618163312 +0000" stop="20260618163412 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260618163419 +0000" stop="20260618164019 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618164038 +0000" stop="20260618171038 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260618164057 +0000" stop="20260618174157 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند</title>
+  </programme>
+  <programme start="20260618174241 +0000" stop="20260618174941 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618175019 +0000" stop="20260618182019 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260618175038 +0000" stop="20260618183038 +0000" channel="KhozestanTV.ir"><title lang="fa">تراز</title>
+  </programme>
+  <programme start="20260618183038 +0000" stop="20260618191438 +0000" channel="KhozestanTV.ir"><title lang="fa">ارتباط با حسینیه عقیله الطالبین</title>
+  </programme>
+  <programme start="20260618191511 +0000" stop="20260618192711 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618192714 +0000" stop="20260618192814 +0000" channel="KhozestanTV.ir"><title lang="fa">صلوات خاصه امام رضا ( ع )</title>
+  </programme>
+  <programme start="20260618192830 +0000" stop="20260618192930 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت یک آیه</title>
+  </programme>
+  <programme start="20260618192930 +0000" stop="20260618195930 +0000" channel="KhozestanTV.ir"><title lang="fa">ساعت خبر</title>
+  </programme>
+  <programme start="20260618193000 +0000" stop="20260618195500 +0000" channel="KhozestanTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260618195500 +0000" stop="20260618195800 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618195802 +0000" stop="20260618202902 +0000" channel="KhozestanTV.ir"><title lang="fa">ارتباط با حسینیه ثارالله</title>
+  </programme>
+  <programme start="20260618203000 +0000" stop="20260618204200 +0000" channel="KhozestanTV.ir"><title lang="fa">ارتباط با حسینیه ثارالله</title>
+  </programme>
+  <programme start="20260618204242 +0000" stop="20260618204442 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260618204500 +0000" stop="20260618222900 +0000" channel="KhozestanTV.ir"><title lang="fa">فیلم تلویزیونی « برهوت  »</title>
+  </programme>
+  <programme start="20260618222944 +0000" stop="20260618225644 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای کمیل</title>
+  </programme>
+  <programme start="20260618225717 +0000" stop="20260618234617 +0000" channel="KhozestanTV.ir"><title lang="fa">بازپخش سریال « در چشم باد »</title>
+  </programme>
+  <programme start="20260618234647 +0000" stop="20260618235947 +0000" channel="KhozestanTV.ir"><title lang="fa">مناجات امیر المؤمنین ( علیه السلام )</title>
+  </programme>
+  <programme start="20260619000034 +0000" stop="20260619000334 +0000" channel="KhozestanTV.ir"><title lang="fa">قرائت قرآن</title>
+  </programme>
+  <programme start="20260619000400 +0000" stop="20260619000800 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان  صبح به افق اهواز</title>
+  </programme>
+  <programme start="20260619000846 +0000" stop="20260619001446 +0000" channel="KhozestanTV.ir"><title lang="fa">نماز جماعت صبح</title>
+  </programme>
+  <programme start="20260619001533 +0000" stop="20260619002533 +0000" channel="KhozestanTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260619002608 +0000" stop="20260619003308 +0000" channel="KhozestanTV.ir"><title lang="fa">در رکاب حسین علیه السلام</title>
+  </programme>
+  <programme start="20260619003404 +0000" stop="20260619004404 +0000" channel="KhozestanTV.ir"><title lang="fa">نوحه مروانی شب سوم محرم</title>
+  </programme>
+  <programme start="20260619004500 +0000" stop="20260619012900 +0000" channel="KhozestanTV.ir"><title lang="fa">بازپخش خانه من</title>
+  </programme>
+  <programme start="20260619012907 +0000" stop="20260619013307 +0000" channel="KhozestanTV.ir"><title lang="fa">به صرف هشتگ</title>
+  </programme>
+  <programme start="20260619013307 +0000" stop="20260619013407 +0000" channel="KhozestanTV.ir"><title lang="fa">تیزر مسابقات قرآن علوم پزشکی</title>
+  </programme>
+  <programme start="20260619013437 +0000" stop="20260619014137 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند سنگرهای بی نشان</title>
+  </programme>
+  <programme start="20260619014231 +0000" stop="20260619022131 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای ندبه</title>
+  </programme>
+  <programme start="20260619022228 +0000" stop="20260619022728 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای امام زمان</title>
+  </programme>
+  <programme start="20260619022744 +0000" stop="20260619022944 +0000" channel="KhozestanTV.ir"><title lang="fa">تصویر موسیقی</title>
+  </programme>
+  <programme start="20260619023000 +0000" stop="20260619023100 +0000" channel="KhozestanTV.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260619023102 +0000" stop="20260619023902 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260619023936 +0000" stop="20260619030836 +0000" channel="KhozestanTV.ir"><title lang="fa">سخنرانی مذهبی محرم</title>
+  </programme>
+  <programme start="20260619030847 +0000" stop="20260619030947 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260619031008 +0000" stop="20260619031208 +0000" channel="KhozestanTV.ir"><title lang="fa">شعرخوانی</title>
+  </programme>
+  <programme start="20260619031220 +0000" stop="20260619040420 +0000" channel="KhozestanTV.ir"><title lang="fa">بازپخش لبیک یا حسین</title>
+  </programme>
+  <programme start="20260619040420 +0000" stop="20260619041220 +0000" channel="KhozestanTV.ir"><title lang="fa">نماهنگ ماه محرم شد یزد</title>
+  </programme>
+  <programme start="20260619041220 +0000" stop="20260619044820 +0000" channel="KhozestanTV.ir"><title lang="fa">پدرامت</title>
+  </programme>
+  <programme start="20260619044903 +0000" stop="20260619045103 +0000" channel="KhozestanTV.ir"><title lang="fa">موشن گرافیک یاران حسین</title>
+  </programme>
+  <programme start="20260619045114 +0000" stop="20260619045214 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260619045235 +0000" stop="20260619045735 +0000" channel="KhozestanTV.ir"><title lang="fa">لیوث الطف (شیران کربلا )</title>
+  </programme>
+  <programme start="20260619045755 +0000" stop="20260619045955 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619050000 +0000" stop="20260619072800 +0000" channel="KhozestanTV.ir"><title lang="fa">مراسم شیرخوارگان</title>
+  </programme>
+  <programme start="20260619072800 +0000" stop="20260619073000 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619073006 +0000" stop="20260619081406 +0000" channel="KhozestanTV.ir"><title lang="fa">بازپخش خانه من</title>
+  </programme>
+  <programme start="20260619081413 +0000" stop="20260619081713 +0000" channel="KhozestanTV.ir"><title lang="fa">کلیپ عربی بالحسین الحرار</title>
+  </programme>
+  <programme start="20260619081737 +0000" stop="20260619081837 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260619081858 +0000" stop="20260619083358 +0000" channel="KhozestanTV.ir"><title lang="fa">حدیث کساء</title>
+  </programme>
+  <programme start="20260619083431 +0000" stop="20260619084031 +0000" channel="KhozestanTV.ir"><title lang="fa">رایحه</title>
+  </programme>
+  <programme start="20260619084101 +0000" stop="20260619084501 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت قرآن - ناجی حیدری</title>
+  </programme>
+  <programme start="20260619084600 +0000" stop="20260619085000 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان ظهر به افق اهواز</title>
+  </programme>
+  <programme start="20260619085007 +0000" stop="20260619090007 +0000" channel="KhozestanTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260619090042 +0000" stop="20260619092242 +0000" channel="KhozestanTV.ir"><title lang="fa">سخنرانی مذهبی</title>
+  </programme>
+  <programme start="20260619092242 +0000" stop="20260619092942 +0000" channel="KhozestanTV.ir"><title lang="fa">در رکاب حسین علیه السلام</title>
+  </programme>
+  <programme start="20260619093038 +0000" stop="20260619093138 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260619093144 +0000" stop="20260619100144 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260619093206 +0000" stop="20260619093406 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619093412 +0000" stop="20260619101912 +0000" channel="KhozestanTV.ir"><title lang="fa">بازپخش تراز</title>
+  </programme>
+  <programme start="20260619101912 +0000" stop="20260619102012 +0000" channel="KhozestanTV.ir"><title lang="fa">روزشمار محرم</title>
+  </programme>
+  <programme start="20260619102033 +0000" stop="20260619102433 +0000" channel="KhozestanTV.ir"><title lang="fa">به صرف هشتگ</title>
+  </programme>
+  <programme start="20260619102433 +0000" stop="20260619102633 +0000" channel="KhozestanTV.ir"><title lang="fa">نماهنگ یک نیزه بالاتر</title>
+  </programme>
+  <programme start="20260619102730 +0000" stop="20260619102930 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619102937 +0000" stop="20260619105937 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260619103000 +0000" stop="20260619121500 +0000" channel="KhozestanTV.ir"><title lang="fa">فیلم تلویزیونی « برهوت  »</title>
+  </programme>
+  <programme start="20260619121522 +0000" stop="20260619122922 +0000" channel="KhozestanTV.ir"><title lang="fa">زاویه</title>
+  </programme>
+  <programme start="20260619122935 +0000" stop="20260619123035 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260619123041 +0000" stop="20260619123241 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619123303 +0000" stop="20260619130303 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260619123322 +0000" stop="20260619130322 +0000" channel="KhozestanTV.ir"><title lang="fa">کپشن برنامه</title>
+  </programme>
+  <programme start="20260619123344 +0000" stop="20260619132044 +0000" channel="KhozestanTV.ir"><title lang="fa">سریال « در چشم باد »</title>
+  </programme>
+  <programme start="20260619132059 +0000" stop="20260619132359 +0000" channel="KhozestanTV.ir"><title lang="fa">میانبرنامه ره صد ساله</title>
+  </programme>
+  <programme start="20260619132457 +0000" stop="20260619132857 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619132930 +0000" stop="20260619135930 +0000" channel="KhozestanTV.ir"><title lang="fa">ساعت خبر</title>
+  </programme>
+  <programme start="20260619133000 +0000" stop="20260619135500 +0000" channel="KhozestanTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260619135528 +0000" stop="20260619135728 +0000" channel="KhozestanTV.ir"><title lang="fa">برکت - برداشت زردآلو</title>
+  </programme>
+  <programme start="20260619135753 +0000" stop="20260619135953 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619140000 +0000" stop="20260619144800 +0000" channel="KhozestanTV.ir"><title lang="fa">نیمه اول فوتبال محلات</title>
+  </programme>
+  <programme start="20260619144800 +0000" stop="20260619145500 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619145501 +0000" stop="20260619150201 +0000" channel="KhozestanTV.ir"><title lang="fa">مستند سنگرهای بی نشان</title>
+  </programme>
+  <programme start="20260619150300 +0000" stop="20260619155100 +0000" channel="KhozestanTV.ir"><title lang="fa">نیمه دوم فوتبال محلات</title>
+  </programme>
+  <programme start="20260619155154 +0000" stop="20260619155354 +0000" channel="KhozestanTV.ir"><title lang="fa">شعر خوانی</title>
+  </programme>
+  <programme start="20260619155438 +0000" stop="20260619155838 +0000" channel="KhozestanTV.ir"><title lang="fa">سلاله</title>
+  </programme>
+  <programme start="20260619155910 +0000" stop="20260619160710 +0000" channel="KhozestanTV.ir"><title lang="fa">زیارت آل یاسین</title>
+  </programme>
+  <programme start="20260619160720 +0000" stop="20260619161120 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت قرآن</title>
+  </programme>
+  <programme start="20260619161200 +0000" stop="20260619161600 +0000" channel="KhozestanTV.ir"><title lang="fa">اذان مغرب به افق اهواز</title>
+  </programme>
+  <programme start="20260619161655 +0000" stop="20260619162255 +0000" channel="KhozestanTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260619162258 +0000" stop="20260619162558 +0000" channel="KhozestanTV.ir"><title lang="fa">دعای فرج کربلا</title>
+  </programme>
+  <programme start="20260619162611 +0000" stop="20260619163211 +0000" channel="KhozestanTV.ir"><title lang="fa">رایحه</title>
+  </programme>
+  <programme start="20260619163241 +0000" stop="20260619163341 +0000" channel="KhozestanTV.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260619163348 +0000" stop="20260619163948 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619163958 +0000" stop="20260619170958 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260619164017 +0000" stop="20260619173017 +0000" channel="KhozestanTV.ir"><title lang="fa">گفتمان</title>
+  </programme>
+  <programme start="20260619173017 +0000" stop="20260619175017 +0000" channel="KhozestanTV.ir"><title lang="fa">شور و شین - فارس</title>
+  </programme>
+  <programme start="20260619175049 +0000" stop="20260619175849 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619175916 +0000" stop="20260619182916 +0000" channel="KhozestanTV.ir"><title lang="fa">تقدیم برنامه آگهی</title>
+  </programme>
+  <programme start="20260619175935 +0000" stop="20260619183935 +0000" channel="KhozestanTV.ir"><title lang="fa">تراز</title>
+  </programme>
+  <programme start="20260619183935 +0000" stop="20260619191435 +0000" channel="KhozestanTV.ir"><title lang="fa">ارتباط با حسینیه عقیله الطالبین</title>
+  </programme>
+  <programme start="20260619191455 +0000" stop="20260619192655 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260619192714 +0000" stop="20260619192814 +0000" channel="KhozestanTV.ir"><title lang="fa">صلوات خاصه امام رضا ( ع )</title>
+  </programme>
+  <programme start="20260619192830 +0000" stop="20260619192930 +0000" channel="KhozestanTV.ir"><title lang="fa">تلاوت یک آیه</title>
+  </programme>
+  <programme start="20260619192930 +0000" stop="20260619195930 +0000" channel="KhozestanTV.ir"><title lang="fa">ساعت خبر</title>
+  </programme>
+  <programme start="20260619193000 +0000" stop="20260619195500 +0000" channel="KhozestanTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260619195500 +0000" stop="20260619195800 +0000" channel="KhozestanTV.ir"><title lang="fa">آگهی</title>
   </programme>
 </tv>
