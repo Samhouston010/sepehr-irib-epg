@@ -261,14 +261,16 @@
     <desc lang="fa">تهیه کننده : امامی
 مجری : محمد حسین صیرفی</desc>
   </programme>
-  <programme start="20260620090606 +0000" stop="20260620091506 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260620090606 +0000" stop="20260620091906 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260620091527 +0000" stop="20260620100127 +0000" channel="IRIB1.ir"><title lang="fa">سیمای خانواده</title>
-  </programme>
-  <programme start="20260620100159 +0000" stop="20260620100659 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260620100729 +0000" stop="20260620101629 +0000" channel="IRIB1.ir"><title lang="fa">مداحی حاج منصور ارضی</title>
+  <programme start="20260620091913 +0000" stop="20260620092813 +0000" channel="IRIB1.ir"><title lang="fa">مداحی حاج منصور ارضی</title>
     <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www.tv1.ir  ،  پیامک 300001</desc>
+  </programme>
+  <programme start="20260620092901 +0000" stop="20260620093001 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260620093001 +0000" stop="20260620101701 +0000" channel="IRIB1.ir"><title lang="fa">جریان</title>
+    <desc lang="fa">تهیه کننده : مژدهی فر 
+مجری : زادبر</desc>
   </programme>
   <programme start="20260620101717 +0000" stop="20260620102917 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -443,7 +445,7 @@
   </programme>
   <programme start="20260620061657 +0000" stop="20260620062257 +0000" channel="IRIB3.ir"><title lang="fa">آگهی قبل از برنامه  10:00</title>
   </programme>
-  <programme start="20260620062306 +0000" stop="20260620072706 +0000" channel="IRIB3.ir"><title lang="fa">مسابقه سرآشپز</title>
+  <programme start="20260620062306 +0000" stop="20260620072706 +0000" channel="IRIB3.ir"><title lang="fa">خط قرمز</title>
   </programme>
   <programme start="20260620072719 +0000" stop="20260620075719 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
