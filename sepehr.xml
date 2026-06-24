@@ -226,16 +226,11 @@
     <desc lang="fa">تهیه کننده : مقداد مومن نژاد
 مجریان : آقابیگی - نظام اسلامی - کریمی</desc>
   </programme>
-  <programme start="20260624081904 +0000" stop="20260624082504 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260624082544 +0000" stop="20260624083044 +0000" channel="IRIB1.ir"><title lang="fa">مداحی سلحشور</title>
-    <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www.tv1.ir  ،  پیامک 300001</desc>
+  <programme start="20260624081904 +0000" stop="20260624083604 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260624083000 +0000" stop="20260624090500 +0000" channel="IRIB1.ir"><title lang="fa">حسینیه ایران</title>
     <desc lang="fa">تهیه کننده :مقداد مومن نژاد 
 مجری : مهدی آقا بیگی</desc>
-  </programme>
-  <programme start="20260624083044 +0000" stop="20260624083644 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260624083700 +0000" stop="20260624084200 +0000" channel="IRIB1.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
   </programme>
@@ -773,6 +768,48 @@
   <programme start="20260624161119 +0000" stop="20260624161719 +0000" channel="JahanbinTV.ir"><title lang="fa">نماز مغرب</title>
   </programme>
   <programme start="20260624161739 +0000" stop="20260624162039 +0000" channel="JahanbinTV.ir"><title lang="fa">زیارت ناحیه مقدسه</title>
+  </programme>
+  <programme start="20260624162039 +0000" stop="20260624162539 +0000" channel="JahanbinTV.ir"><title lang="fa">ماهورا - غنیمت شیرین ترین غم ها</title>
+  </programme>
+  <programme start="20260624162615 +0000" stop="20260624162915 +0000" channel="JahanbinTV.ir"><title lang="fa">کلام رهبر شهید - مهم ترین پیام عاشورا</title>
+  </programme>
+  <programme start="20260624162922 +0000" stop="20260624165922 +0000" channel="JahanbinTV.ir"><title lang="fa">وله شبکه + ساعت خبر</title>
+  </programme>
+  <programme start="20260624163000 +0000" stop="20260624170000 +0000" channel="JahanbinTV.ir"><title lang="fa">خبر</title>
+  </programme>
+  <programme start="20260624170000 +0000" stop="20260624170500 +0000" channel="JahanbinTV.ir"><title lang="fa">نماهنگ امام شهید</title>
+  </programme>
+  <programme start="20260624170526 +0000" stop="20260624182026 +0000" channel="JahanbinTV.ir"><title lang="fa">شهر عشق</title>
+  </programme>
+  <programme start="20260624182026 +0000" stop="20260624182226 +0000" channel="JahanbinTV.ir"><title lang="fa">منتخب تولیدات سراسری</title>
+  </programme>
+  <programme start="20260624182322 +0000" stop="20260624182522 +0000" channel="JahanbinTV.ir"><title lang="fa">نماهنگ پدر ایران</title>
+  </programme>
+  <programme start="20260624182620 +0000" stop="20260624183220 +0000" channel="JahanbinTV.ir"><title lang="fa">روایت کربلا</title>
+  </programme>
+  <programme start="20260624183305 +0000" stop="20260624185105 +0000" channel="JahanbinTV.ir"><title lang="fa">هشتگ جهان بین</title>
+  </programme>
+  <programme start="20260624185105 +0000" stop="20260624185205 +0000" channel="JahanbinTV.ir"><title lang="fa">روایت عاشقی - روز نهم</title>
+  </programme>
+  <programme start="20260624185223 +0000" stop="20260624185623 +0000" channel="JahanbinTV.ir"><title lang="fa">نی نوا</title>
+  </programme>
+  <programme start="20260624185704 +0000" stop="20260624185904 +0000" channel="JahanbinTV.ir"><title lang="fa">موشن گرافیک امر به معروف و نهی از منکر</title>
+  </programme>
+  <programme start="20260624185944 +0000" stop="20260624194644 +0000" channel="JahanbinTV.ir"><title lang="fa">مجموعه طوبی</title>
+  </programme>
+  <programme start="20260624194707 +0000" stop="20260624195207 +0000" channel="JahanbinTV.ir"><title lang="fa">نماهنگ علمداران حسین</title>
+  </programme>
+  <programme start="20260624195229 +0000" stop="20260624195429 +0000" channel="JahanbinTV.ir"><title lang="fa">کلام امام - وحدت در انقلاب</title>
+  </programme>
+  <programme start="20260624195513 +0000" stop="20260624195813 +0000" channel="JahanbinTV.ir"><title lang="fa">میان برنامه شب های دلتنگی</title>
+  </programme>
+  <programme start="20260624195845 +0000" stop="20260624195945 +0000" channel="JahanbinTV.ir"><title lang="fa">میان برنامه شهادت رهبر</title>
+  </programme>
+  <programme start="20260624200001 +0000" stop="20260624201801 +0000" channel="JahanbinTV.ir"><title lang="fa">مستند وارثان زمین</title>
+  </programme>
+  <programme start="20260624201842 +0000" stop="20260624202242 +0000" channel="JahanbinTV.ir"><title lang="fa">روایت کربلا</title>
+  </programme>
+  <programme start="20260624202301 +0000" stop="20260624202901 +0000" channel="JahanbinTV.ir"><title lang="fa">نوحه خوانی</title>
   </programme>
   <programme start="20260624203000 +0000" stop="20260624221300 +0000" channel="JahanbinTV.ir"><title lang="fa">سینمایی روز واقعه</title>
   </programme>
