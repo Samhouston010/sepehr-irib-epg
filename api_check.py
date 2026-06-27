@@ -54,11 +54,14 @@ def alert(msg):
 
 
 def test_stream(pattern):
+    # Use GET with Range header to avoid full download; 302 is fine (CDN redirect)
     url = pattern.format(slug=TEST_SLUG)
     try:
-        req = urllib.request.Request(url, headers=HEADS, method="HEAD")
-        with urllib.request.urlopen(req, timeout=8) as r:
-            return r.status in (200, 302)
+        req = urllib.request.Request(url, headers={**HEADS, "Range": "bytes=0-0"})
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return r.status in (200, 206, 302)
+    except urllib.error.HTTPError as e:
+        return e.code in (200, 206, 302, 416)
     except Exception:
         return False
 
