@@ -10,7 +10,7 @@
   },
   {
     "slug": "tv2",
-    "channel_id": null,
+    "channel_id": 32,
     "tvg_id": "IRIB2.ir",
     "name": "شبکه دو",
     "name_en": "شبکه دو",
@@ -64,7 +64,7 @@
   },
   {
     "slug": "amouzesh",
-    "channel_id": null,
+    "channel_id": 37,
     "tvg_id": "AmouzeshTV.ir",
     "name": "شبکه آموزش",
     "name_en": "شبکه آموزش",
@@ -73,7 +73,7 @@
   },
   {
     "slug": "irinn",
-    "channel_id": null,
+    "channel_id": 54,
     "tvg_id": "IRINN.ir",
     "name": "شبکه خبر",
     "name_en": "شبکه خبر",
@@ -82,7 +82,7 @@
   },
   {
     "slug": "nasim",
-    "channel_id": null,
+    "channel_id": 44,
     "tvg_id": "Nasim.ir",
     "name": "شبکه نسیم",
     "name_en": "شبکه نسیم",
@@ -91,7 +91,7 @@
   },
   {
     "slug": "namayesh",
-    "channel_id": null,
+    "channel_id": 38,
     "tvg_id": "NamayeshTV.ir",
     "name": "شبکه نمایش",
     "name_en": "شبکه نمایش",
@@ -100,7 +100,7 @@
   },
   {
     "slug": "mostanad",
-    "channel_id": null,
+    "channel_id": 61,
     "tvg_id": "IRIBMostanad.ir",
     "name": "شبکه مستند",
     "name_en": "شبکه مستند",
@@ -127,7 +127,7 @@
   },
   {
     "slug": "salamat",
-    "channel_id": null,
+    "channel_id": 72,
     "tvg_id": "SalamatTV.ir",
     "name": "شبکه سلامت",
     "name_en": "شبکه سلامت",
