@@ -115,3 +115,35 @@ https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
 https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-name="شبکه یزد (تابان)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="استانی",شبکه یزد (تابان)
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مثبت یک" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/IRIB_TV1plus.png/960px-IRIB_TV1plus.png" group-title="سراسری",مثبت یک
+https://ncdn.telewebion.ir/tv1plus/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۱" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="ورزشی",تلوبیون اسپرت ۱
+https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۲" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="ورزشی",تلوبیون اسپرت ۲
+https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۳" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="ورزشی",تلوبیون اسپرت ۳
+https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="نور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IRIB_Noor_logo.png/960px-IRIB_Noor_logo.png" group-title="مذهبی",نور
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="الکوثر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AlKawtharTV.svg/960px-AlKawtharTV.svg.png" group-title="مذهبی",الکوثر
+https://ncdn.telewebion.ir/kawthar/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ولایت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Velayat_TV.png/960px-Velayat_TV.png" group-title="مذهبی",ولایت
+https://ncdn.telewebion.ir/velayat/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="لبیک" tvg-logo="https://cdn.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default" group-title="مذهبی",لبیک
+https://ncdn.telewebion.ir/labbayk/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="حبیب" tvg-logo="https://cdn.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default" group-title="مذهبی",حبیب
+https://ncdn.telewebion.ir/habib/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="تکیه مداحی" tvg-logo="https://cdn.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default" group-title="مذهبی",تکیه مداحی
+https://ncdn.telewebion.ir/tekyemadahi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="العالم" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Al_Alam_News_Network_logo.svg/960px-Al_Alam_News_Network_logo.svg.png" group-title="بین‌المللی",العالم
+https://ncdn.telewebion.ir/alalam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="فلسطین" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Palestine_TV_logo.png/960px-Palestine_TV_logo.png" group-title="بین‌المللی",فلسطین
+https://ncdn.telewebion.ir/palestine/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="گلخانه" tvg-logo="https://cdn.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="سرگرمی",گلخانه
+https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="گلستان" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/e/e3/Golestan_TV.svg/960px-Golestan_TV.svg.png" group-title="استانی",گلستان
+https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="مکران" tvg-logo="https://cdn.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default" group-title="استانی",مکران
+https://ncdn.telewebion.ir/makran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="زعفران" tvg-logo="https://cdn.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default" group-title="استانی",زعفران
+https://ncdn.telewebion.ir/zaferan/live/playlist.m3u8
