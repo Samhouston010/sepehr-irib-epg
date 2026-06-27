@@ -520,5 +520,149 @@
     "name_en": "شبکه یزد (تابان)",
     "group": "استانی",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png"
+  },
+  {
+    "slug": "tv1plus",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "مثبت یک",
+    "name_en": "IRIB TV1+",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/IRIB_TV1plus.png/960px-IRIB_TV1plus.png"
+  },
+  {
+    "slug": "sport1",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۱",
+    "name_en": "Telewebion Sport 1",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "sport2",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۲",
+    "name_en": "Telewebion Sport 2",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "sport3",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۳",
+    "name_en": "Telewebion Sport 3",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "noor",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "نور",
+    "name_en": "Noor TV",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IRIB_Noor_logo.png/960px-IRIB_Noor_logo.png"
+  },
+  {
+    "slug": "kawthar",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "الکوثر",
+    "name_en": "Al Kawthar",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AlKawtharTV.svg/960px-AlKawtharTV.svg.png"
+  },
+  {
+    "slug": "velayat",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "ولایت",
+    "name_en": "Velayat TV",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Velayat_TV.png/960px-Velayat_TV.png"
+  },
+  {
+    "slug": "labbayk",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "لبیک",
+    "name_en": "Labbayk TV",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default"
+  },
+  {
+    "slug": "habib",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "حبیب",
+    "name_en": "Habib TV",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default"
+  },
+  {
+    "slug": "tekyemadahi",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تکیه مداحی",
+    "name_en": "Tekye Madahi",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default"
+  },
+  {
+    "slug": "alalam",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "العالم",
+    "name_en": "Al Alam",
+    "group": "بین‌المللی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Al_Alam_News_Network_logo.svg/960px-Al_Alam_News_Network_logo.svg.png"
+  },
+  {
+    "slug": "palestine",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "فلسطین",
+    "name_en": "Palestine TV",
+    "group": "بین‌المللی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Palestine_TV_logo.png/960px-Palestine_TV_logo.png"
+  },
+  {
+    "slug": "golkhane",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "گلخانه",
+    "name_en": "Golkhane TV",
+    "group": "سرگرمی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default"
+  },
+  {
+    "slug": "sabz",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "گلستان",
+    "name_en": "Golestan TV",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e3/Golestan_TV.svg/960px-Golestan_TV.svg.png"
+  },
+  {
+    "slug": "makran",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "مکران",
+    "name_en": "Makran TV",
+    "group": "استانی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default"
+  },
+  {
+    "slug": "zaferan",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "زعفران",
+    "name_en": "Zaferan TV",
+    "group": "استانی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default"
   }
 ]
