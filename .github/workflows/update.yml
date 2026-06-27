@@ -2,6 +2,7 @@ name: Update Sepehr IRIB EPG
 on:
   schedule:
     - cron: "0 */6 * * *"
+    - cron: "0 0 * * 0"
   workflow_dispatch:
 permissions:
   contents: write
@@ -17,16 +18,19 @@ jobs:
           python-version: "3.12"
       - name: Install dependencies
         run: pip install requests requests-oauthlib
+      - name: Sync channels (weekly discovery)
+        if: github.event.schedule == '0 0 * * 0' || github.event_name == 'workflow_dispatch'
+        run: python sync_channels.py
       - name: Generate M3U + EPG
         run: python generate.py
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add sepehr.m3u sepehr.xml sepehr.xml.gz
+          git add sepehr.m3u sepehr.xml sepehr.xml.gz channels.json
           if git diff --staged --quiet; then
-            echo "تغییری نبود"
+            echo "no changes"
           else
-            git commit -m "به‌روزرسانی خودکار EPG — $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git commit -m "auto-update EPG + channels -- $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           fi
