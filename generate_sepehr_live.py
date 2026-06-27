@@ -52,14 +52,6 @@ def fetch_channels():
 
 def build_m3u(channels):
     lines = ["#EXTM3U", ""]
-    af = "\n".join([
-        "#EXTVLCOPT:network-caching=8000",
-        "#EXTVLCOPT:http-reconnect=true",
-        "#EXTVLCOPT:http-continuous=true",
-        "#KODIPROP:inputstream=inputstream.adaptive",
-        "#KODIPROP:inputstream.adaptive.manifest_type=hls",
-        "#KODIPROP:inputstream.adaptive.stream_selection_type=adaptive",
-    ])
     count = 0
     for ch in channels:
         uid = ch.get("uid", "")
@@ -75,7 +67,7 @@ def build_m3u(channels):
         icon = ch.get("icon", "")
         tvg_id = ch.get("uid", "")
         extinf = f'#EXTINF:-1 group-title="{GROUP}" tvg-id="{tvg_id}" tvg-logo="{icon}",{name}'
-        lines += [extinf, af, src, ""]
+        lines += [extinf, src, ""]
         count += 1
     print(f"sepehr_live: {count} channels", flush=True)
     return "\n".join(lines)
