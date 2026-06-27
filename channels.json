@@ -180,15 +180,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png"
   },
   {
-    "slug": "tamasha",
-    "channel_id": null,
-    "tvg_id": "Tamasha.ir",
-    "name": "شبکه تماشا",
-    "name_en": "شبکه تماشا",
-    "group": "سرگرمی",
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png"
-  },
-  {
     "slug": "abadan",
     "channel_id": null,
     "tvg_id": "AbadanTV.ir",
@@ -268,15 +259,6 @@
     "name_en": "شبکه البرز",
     "group": "استانی",
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png"
-  },
-  {
-    "slug": "iraneman",
-    "channel_id": null,
-    "tvg_id": "Iraneman.ir",
-    "name": "شبکه ایران‌من",
-    "name_en": "شبکه ایران‌من",
-    "group": "استانی",
-    "logo": "https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default"
   },
   {
     "slug": "ilam",
@@ -477,15 +459,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png"
   },
   {
-    "slug": "karoon",
-    "channel_id": null,
-    "tvg_id": "KaroonTV.ir",
-    "name": "شبکه کارون",
-    "name_en": "شبکه کارون",
-    "group": "استانی",
-    "logo": "https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default"
-  },
-  {
     "slug": "kordestan",
     "channel_id": null,
     "tvg_id": "KordestanTV.ir",
@@ -664,5 +637,23 @@
     "name_en": "Zaferan TV",
     "group": "استانی",
     "logo": "https://cdn.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default"
+  },
+  {
+    "slug": "presstv",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "پرس تی وی",
+    "name_en": "presstv",
+    "group": "بین‌المللی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/presstv.png"
+  },
+  {
+    "slug": "sport4",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "sport4",
+    "name_en": "sport4",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sport4.png"
   }
 ]
