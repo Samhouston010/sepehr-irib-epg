@@ -4,7 +4,7 @@ import base64, hashlib, hmac, json, time, uuid, urllib.parse, urllib.request, ss
 CONSUMER_KEY    = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
 CONSUMER_SECRET = "jtroj3hkyjlU06j7MtJimJ1I3PTTpx39"
 GROUP           = "📡 سپهر"
-CDN_BASE        = "https://lb-cdn.sepehrtv.ir"
+PROXY_BASE      = "https://sepehr-proxy.samhoustonbot.workers.dev"
 
 # Exclude radio, internal, iFrame/mosaic channels
 _SKIP_PREFIXES = ("rn-", "radio", "r-", "itv3", "ctv3", "ivarzesh", "ifaratar",
@@ -66,8 +66,9 @@ def build_m3u(channels):
         name = ch.get("name", uid).replace(" - HD", " HD").replace(" - ", " ")
         icon = ch.get("icon", "")
         tvg_id = ch.get("uid", "")
+        proxy_url = f"{PROXY_BASE}/{uid}"
         extinf = f'#EXTINF:-1 group-title="{GROUP}" tvg-id="{tvg_id}" tvg-logo="{icon}",{name}'
-        lines += [extinf, src, ""]
+        lines += [extinf, proxy_url, ""]
         count += 1
     print(f"sepehr_live: {count} channels", flush=True)
     return "\n".join(lines)
