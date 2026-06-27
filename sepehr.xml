@@ -395,6 +395,8 @@
   <programme start="20260627193753 +0000" stop="20260627194953 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260627195000 +0000" stop="20260627202900 +0000" channel="IRIB1.ir"><title lang="fa">پایش</title>
+    <desc lang="fa">ﺗﻬﯿﻪ ﮐﻨﻨﺪه : ﺣﺴﺎم ﮐﻤﺎﻟﯽ
+ﻣﺠﺮي : ﻧﺪا ﺳﭙﺎﻧﻠﻮ</desc>
   </programme>
   <programme start="20260626220240 +0000" stop="20260626220540 +0000" channel="IRIB2.ir"><title lang="fa">آگهی بازرگانی</title>
     <desc lang="fa">شبکه دو شبکه زندگی ، سایت ، www.tv2.ir  ، پست الکترونیک sima2@irib.ir ، تلفن گویا 27862000</desc>
@@ -2818,7 +2820,7 @@
     <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
   </programme>
   <programme start="20260627163103 +0000" stop="20260627172703 +0000" channel="TehranTV.ir"><title lang="fa">تهران 20-زنده</title>
-    <desc lang="fa">مدت 50 دقیقه-قالب:ترکیبی-مجری:مروی</desc>
+    <desc lang="fa">مدت 56 دقیقه-قالب:ترکیبی-مجری:مروی-گروه :تهران و شهروندی-مجری:سید ساسان رئیسیان-محمدرضا سلمانی-</desc>
   </programme>
   <programme start="20260627172703 +0000" stop="20260627175703 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
     <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
@@ -2930,6 +2932,755 @@
   </programme>
   <programme start="20260627202652 +0000" stop="20260627202952 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
     <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627203000 +0000" stop="20260627214400 +0000" channel="TehranTV.ir"><title lang="fa">سدره-زنده</title>
+    <desc lang="fa">مدت 75 دقیقه-قالب:ترکیبی-گروه:معارف-رده سنی:عام-کربلای معلی</desc>
+  </programme>
+  <programme start="20260627214418 +0000" stop="20260627214518 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627214521 +0000" stop="20260627214621 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627214643 +0000" stop="20260627214743 +0000" channel="TehranTV.ir"><title lang="fa">آنونس گفتگوی ویژه مردمی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627214758 +0000" stop="20260627214958 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627215020 +0000" stop="20260627222020 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627215032 +0000" stop="20260627222032 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627215114 +0000" stop="20260627222114 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627215130 +0000" stop="20260627225130 +0000" channel="TehranTV.ir"><title lang="fa">فیلم سینمایی-سایه های بلند</title>
+    <desc lang="fa">مدت 60 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260627225130 +0000" stop="20260627232130 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627225142 +0000" stop="20260627232142 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627225224 +0000" stop="20260627232224 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627225240 +0000" stop="20260627231040 +0000" channel="TehranTV.ir"><title lang="fa">فیلم سینمایی -سایه های بلند- ادامه</title>
+    <desc lang="fa">مدت 18 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260627231104 +0000" stop="20260627231204 +0000" channel="TehranTV.ir"><title lang="fa">آنونس گفتگوی ویژه مردمی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627231219 +0000" stop="20260627231319 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627231322 +0000" stop="20260627231422 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627231444 +0000" stop="20260627231544 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627231617 +0000" stop="20260627231917 +0000" channel="TehranTV.ir"><title lang="fa">راه روشن</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627231919 +0000" stop="20260627232419 +0000" channel="TehranTV.ir"><title lang="fa">مثبت بی نهایت</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627232423 +0000" stop="20260627235423 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627232456 +0000" stop="20260627233256 +0000" channel="TehranTV.ir"><title lang="fa">بر کرانه نور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627233300 +0000" stop="20260628000300 +0000" channel="TehranTV.ir"><title lang="fa">ذکر روز</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627233330 +0000" stop="20260627233830 +0000" channel="TehranTV.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627233841 +0000" stop="20260627234241 +0000" channel="TehranTV.ir"><title lang="fa">دعای ناد علی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627234241 +0000" stop="20260627234541 +0000" channel="TehranTV.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627234614 +0000" stop="20260627234914 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627234949 +0000" stop="20260628001949 +0000" channel="TehranTV.ir"><title lang="fa">صلوات</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235032 +0000" stop="20260628002032 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235115 +0000" stop="20260627235215 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه تا نیایش</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235224 +0000" stop="20260628002224 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235236 +0000" stop="20260628002236 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235318 +0000" stop="20260628002318 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260627235334 +0000" stop="20260628001834 +0000" channel="TehranTV.ir"><title lang="fa">پنجره هدایت</title>
+    <desc lang="fa">مدت 25 دقیقه-قالب:ترکیبی-گروه:معارف-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628001912 +0000" stop="20260628002012 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628002034 +0000" stop="20260628002134 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628002137 +0000" stop="20260628003637 +0000" channel="TehranTV.ir"><title lang="fa">جهانگرد</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628003639 +0000" stop="20260628010639 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628003651 +0000" stop="20260628010651 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628003733 +0000" stop="20260628010733 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628003749 +0000" stop="20260628012949 +0000" channel="TehranTV.ir"><title lang="fa">شاهدان حضور</title>
+    <desc lang="fa">مدت 52 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628013006 +0000" stop="20260628020006 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013018 +0000" stop="20260628020018 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013100 +0000" stop="20260628013200 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013222 +0000" stop="20260628013322 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013355 +0000" stop="20260628013455 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه تا نیایش</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013504 +0000" stop="20260628013604 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013607 +0000" stop="20260628020607 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013619 +0000" stop="20260628020619 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013701 +0000" stop="20260628020701 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628013717 +0000" stop="20260628020017 +0000" channel="TehranTV.ir"><title lang="fa">قصه های تبیان</title>
+    <desc lang="fa">مدت 23 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628020017 +0000" stop="20260628023017 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628020029 +0000" stop="20260628023029 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628020111 +0000" stop="20260628023111 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628020127 +0000" stop="20260628022127 +0000" channel="TehranTV.ir"><title lang="fa">قصه های تبیان - ادامه</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628022127 +0000" stop="20260628022227 +0000" channel="TehranTV.ir"><title lang="fa">آنونس گفتگوی ویژه مردمی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022242 +0000" stop="20260628022342 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022345 +0000" stop="20260628022445 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022507 +0000" stop="20260628022607 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022640 +0000" stop="20260628022840 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022902 +0000" stop="20260628025902 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260628022930 +0000" stop="20260628023230 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023253 +0000" stop="20260628023353 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه تا نیایش</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023402 +0000" stop="20260628023502 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023505 +0000" stop="20260628023605 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023627 +0000" stop="20260628023727 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023816 +0000" stop="20260628030816 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023828 +0000" stop="20260628030828 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023910 +0000" stop="20260628030910 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628023926 +0000" stop="20260628025926 +0000" channel="TehranTV.ir"><title lang="fa">مستند 5</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628025926 +0000" stop="20260628032926 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628025938 +0000" stop="20260628032938 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628030020 +0000" stop="20260628033020 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628030036 +0000" stop="20260628031436 +0000" channel="TehranTV.ir"><title lang="fa">مستند 5- ادامه</title>
+    <desc lang="fa">مدت 14 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628031436 +0000" stop="20260628034436 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628031455 +0000" stop="20260628031555 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628031644 +0000" stop="20260628031744 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628031747 +0000" stop="20260628031847 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628031909 +0000" stop="20260628032009 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628032042 +0000" stop="20260628032742 +0000" channel="TehranTV.ir"><title lang="fa">جورچین محرم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628032748 +0000" stop="20260628035748 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628032800 +0000" stop="20260628032900 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628032914 +0000" stop="20260628035914 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628032930 +0000" stop="20260628040930 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران-زنده</title>
+    <desc lang="fa">مدت 40 دقیقه- قالب:ترکیبی-رده سنی:عام-گروه:تامین برنامه-</desc>
+  </programme>
+  <programme start="20260628040930 +0000" stop="20260628043930 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628040942 +0000" stop="20260628043942 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628041024 +0000" stop="20260628044024 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628041040 +0000" stop="20260628045040 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران - ادامه</title>
+    <desc lang="fa">مدت 40 دقیقه- قالب:ترکیبی-رده سنی:عام-گروه:تامین برنامه-</desc>
+  </programme>
+  <programme start="20260628045040 +0000" stop="20260628052040 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628045052 +0000" stop="20260628052052 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628045134 +0000" stop="20260628052134 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628045150 +0000" stop="20260628052850 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران - ادامه</title>
+    <desc lang="fa">مدت 38 دقیقه- قالب:ترکیبی-رده سنی:عام-گروه:تامین برنامه-</desc>
+  </programme>
+  <programme start="20260628052930 +0000" stop="20260628053030 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628053033 +0000" stop="20260628060033 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628053045 +0000" stop="20260628053145 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628053209 +0000" stop="20260628060209 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628053225 +0000" stop="20260628055625 +0000" channel="TehranTV.ir"><title lang="fa">قصه خورشید</title>
+    <desc lang="fa">مدت 24 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628055626 +0000" stop="20260628062626 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628055638 +0000" stop="20260628055838 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628055902 +0000" stop="20260628060002 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628060024 +0000" stop="20260628063024 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628060036 +0000" stop="20260628060136 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628060208 +0000" stop="20260628063208 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628060224 +0000" stop="20260628065624 +0000" channel="TehranTV.ir"><title lang="fa">ملورین</title>
+    <desc lang="fa">مدت 54 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628065655 +0000" stop="20260628072655 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628065707 +0000" stop="20260628065807 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628065831 +0000" stop="20260628065931 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628065934 +0000" stop="20260628072934 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628065946 +0000" stop="20260628070146 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628070230 +0000" stop="20260628073230 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628070246 +0000" stop="20260628073546 +0000" channel="TehranTV.ir"><title lang="fa">گفتگوی ویژه مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628073637 +0000" stop="20260628080637 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628073649 +0000" stop="20260628080649 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628073731 +0000" stop="20260628080731 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628073741 +0000" stop="20260628074741 +0000" channel="TehranTV.ir"><title lang="fa">ارتباط مستقیم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628074741 +0000" stop="20260628074841 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628074844 +0000" stop="20260628081844 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628074856 +0000" stop="20260628074956 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628075020 +0000" stop="20260628082020 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628075036 +0000" stop="20260628081036 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رقابت برادران</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628081036 +0000" stop="20260628084036 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628081048 +0000" stop="20260628081148 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628081231 +0000" stop="20260628084231 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628081247 +0000" stop="20260628083447 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رقابت برادران - ادامه</title>
+    <desc lang="fa">مدت 22 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628083447 +0000" stop="20260628090447 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628083457 +0000" stop="20260628083557 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628083600 +0000" stop="20260628090600 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628083631 +0000" stop="20260628090631 +0000" channel="TehranTV.ir"><title lang="fa">بر کرانه نور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628083715 +0000" stop="20260628090715 +0000" channel="TehranTV.ir"><title lang="fa">ذکر روز</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628083730 +0000" stop="20260628084130 +0000" channel="TehranTV.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628084213 +0000" stop="20260628084813 +0000" channel="TehranTV.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628084839 +0000" stop="20260628085239 +0000" channel="TehranTV.ir"><title lang="fa">دعای ناد علی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085239 +0000" stop="20260628085539 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085619 +0000" stop="20260628092619 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085651 +0000" stop="20260628085751 +0000" channel="TehranTV.ir"><title lang="fa">تیزر ثبت نام مدرسه علمیه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085824 +0000" stop="20260628092824 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085836 +0000" stop="20260628085936 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085942 +0000" stop="20260628092942 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628085958 +0000" stop="20260628094858 +0000" channel="TehranTV.ir"><title lang="fa">تا نیایش - زنده</title>
+    <desc lang="fa">مدت 50 دقیقه-قالب:ترکیبی-گروه:معارف-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628094929 +0000" stop="20260628101929 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095014 +0000" stop="20260628095114 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095147 +0000" stop="20260628095247 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095309 +0000" stop="20260628095409 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095412 +0000" stop="20260628095512 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095601 +0000" stop="20260628102601 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095613 +0000" stop="20260628095913 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095919 +0000" stop="20260628102919 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628095935 +0000" stop="20260628105935 +0000" channel="TehranTV.ir"><title lang="fa">فیلم سینمایی - سرگیجه</title>
+    <desc lang="fa">مدت 60 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628105935 +0000" stop="20260628112935 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628105947 +0000" stop="20260628110047 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628110134 +0000" stop="20260628113134 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628110150 +0000" stop="20260628113550 +0000" channel="TehranTV.ir"><title lang="fa">فیلم سینمایی -سرگیجه- ادامه</title>
+    <desc lang="fa">مدت 34 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628113600 +0000" stop="20260628113900 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628113915 +0000" stop="20260628114015 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628114037 +0000" stop="20260628114137 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628114140 +0000" stop="20260628114340 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+  </programme>
+  <programme start="20260628114402 +0000" stop="20260628121402 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628114418 +0000" stop="20260628115418 +0000" channel="TehranTV.ir"><title lang="fa">ارتباط مستقیم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628115418 +0000" stop="20260628115518 +0000" channel="TehranTV.ir"><title lang="fa">خبرنگار مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628115555 +0000" stop="20260628115755 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628115755 +0000" stop="20260628122755 +0000" channel="TehranTV.ir"><title lang="fa">خبرنگار مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628115848 +0000" stop="20260628122848 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628115900 +0000" stop="20260628120200 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628120227 +0000" stop="20260628123227 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628120243 +0000" stop="20260628122043 +0000" channel="TehranTV.ir"><title lang="fa">پویانمایی پیامبران</title>
+    <desc lang="fa">مدت 18دقیقه-قالب:پویانمایی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628122115 +0000" stop="20260628122215 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628122218 +0000" stop="20260628122318 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628122340 +0000" stop="20260628123040 +0000" channel="TehranTV.ir"><title lang="fa">جورچین محرم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628123046 +0000" stop="20260628123246 +0000" channel="TehranTV.ir"><title lang="fa">خبرنگار مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628123313 +0000" stop="20260628124013 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 1</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628124043 +0000" stop="20260628131043 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628124055 +0000" stop="20260628124355 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628124414 +0000" stop="20260628131414 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628124430 +0000" stop="20260628132430 +0000" channel="TehranTV.ir"><title lang="fa">به خانه بر می گردیم-زنده</title>
+    <desc lang="fa">مدت 40 دقیقه-قالب:ترکیبی-موضوع:خانواده-رده سنی:عام-گروه:خانواده-</desc>
+  </programme>
+  <programme start="20260628132430 +0000" stop="20260628135430 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628132442 +0000" stop="20260628132642 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628132729 +0000" stop="20260628135729 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628132745 +0000" stop="20260628135645 +0000" channel="TehranTV.ir"><title lang="fa">به خانه برمی گردیم-زنده- ادامه</title>
+    <desc lang="fa">مدت 30 دقیقه-قالب:ترکیبی-موضوع:خانواده-رده سنی:عام-گروه:خانواده-</desc>
+  </programme>
+  <programme start="20260628135741 +0000" stop="20260628135841 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628135844 +0000" stop="20260628135944 +0000" channel="TehranTV.ir"><title lang="fa">آنونس شاهدان حضور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628140006 +0000" stop="20260628143006 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628140018 +0000" stop="20260628140218 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628140257 +0000" stop="20260628143257 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628140313 +0000" stop="20260628142813 +0000" channel="TehranTV.ir"><title lang="fa">کهن پیشه ها</title>
+    <desc lang="fa">مدت 26 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628142838 +0000" stop="20260628142938 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143011 +0000" stop="20260628150011 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143016 +0000" stop="20260628143516 +0000" channel="TehranTV.ir"><title lang="fa">ارتباط مستقیم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143516 +0000" stop="20260628143616 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628143705 +0000" stop="20260628150705 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143717 +0000" stop="20260628143917 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143941 +0000" stop="20260628150941 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628143957 +0000" stop="20260628150157 +0000" channel="TehranTV.ir"><title lang="fa">هلال مهربانی</title>
+    <desc lang="fa">مدت 22 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628150243 +0000" stop="20260628153243 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628150255 +0000" stop="20260628150355 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628150358 +0000" stop="20260628150958 +0000" channel="TehranTV.ir"><title lang="fa">روایت خانواده های جنگ</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628151053 +0000" stop="20260628152153 +0000" channel="TehranTV.ir"><title lang="fa">حدیث کسا</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628152236 +0000" stop="20260628155236 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628152248 +0000" stop="20260628152548 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628152605 +0000" stop="20260628155605 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628152621 +0000" stop="20260628155121 +0000" channel="TehranTV.ir"><title lang="fa">قصه های تبیان</title>
+    <desc lang="fa">مدت 25 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628155127 +0000" stop="20260628162127 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628155139 +0000" stop="20260628155239 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628155336 +0000" stop="20260628162336 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628155352 +0000" stop="20260628161352 +0000" channel="TehranTV.ir"><title lang="fa">قصه های تبیان - ادامه</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628161352 +0000" stop="20260628164352 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628161357 +0000" stop="20260628164357 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628161430 +0000" stop="20260628161830 +0000" channel="TehranTV.ir"><title lang="fa">اذان مغرب</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628161833 +0000" stop="20260628162233 +0000" channel="TehranTV.ir"><title lang="fa">دعای ناد علی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628162233 +0000" stop="20260628162633 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+  </programme>
+  <programme start="20260628162648 +0000" stop="20260628165648 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628162721 +0000" stop="20260628165721 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628162733 +0000" stop="20260628163033 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628163039 +0000" stop="20260628170039 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628163055 +0000" stop="20260628172655 +0000" channel="TehranTV.ir"><title lang="fa">تهران 20-زنده</title>
+    <desc lang="fa">مدت 56 دقیقه-قالب:ترکیبی-مجری:مروی-گروه :تهران و شهروندی-</desc>
+  </programme>
+  <programme start="20260628172709 +0000" stop="20260628175709 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628172721 +0000" stop="20260628172921 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628172944 +0000" stop="20260628175944 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628173000 +0000" stop="20260628180500 +0000" channel="TehranTV.ir"><title lang="fa">گفتگوی ویژه مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628180500 +0000" stop="20260628183500 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628180512 +0000" stop="20260628180612 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628180650 +0000" stop="20260628180750 +0000" channel="TehranTV.ir"><title lang="fa">تیزر ثبت نام مدرسه علمیه عبدالعظیم ع</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628180823 +0000" stop="20260628180923 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628181022 +0000" stop="20260628181122 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628181125 +0000" stop="20260628181825 +0000" channel="TehranTV.ir"><title lang="fa">ارتباط مستقیم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628181831 +0000" stop="20260628182531 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 2</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628182601 +0000" stop="20260628182701 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628182750 +0000" stop="20260628185750 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628182802 +0000" stop="20260628182902 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628182915 +0000" stop="20260628185915 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628182931 +0000" stop="20260628191731 +0000" channel="TehranTV.ir"><title lang="fa">شاهدان حضور</title>
+    <desc lang="fa">مدت 49 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628191809 +0000" stop="20260628194809 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628191821 +0000" stop="20260628192021 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192043 +0000" stop="20260628192143 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192146 +0000" stop="20260628192246 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه تا نیایش</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192255 +0000" stop="20260628195255 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+  </programme>
+  <programme start="20260628192349 +0000" stop="20260628195349 +0000" channel="TehranTV.ir"><title lang="fa">اوقات شرعی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192429 +0000" stop="20260628192529 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628192628 +0000" stop="20260628195628 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192641 +0000" stop="20260628192841 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192927 +0000" stop="20260628195927 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628192943 +0000" stop="20260628194943 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رقابت برادران</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628194943 +0000" stop="20260628201943 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628194955 +0000" stop="20260628195155 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628195200 +0000" stop="20260628202200 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628195216 +0000" stop="20260628201116 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رقابت برادران - ادامه</title>
+    <desc lang="fa">مدت 20 دقیقه-قالب:نمایشی-گروه:تامین برنامه-رده سنی:عام-</desc>
+  </programme>
+  <programme start="20260628201148 +0000" stop="20260628201248 +0000" channel="TehranTV.ir"><title lang="fa">آنونس گفتگوی ویژه مردمی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628201303 +0000" stop="20260628201403 +0000" channel="TehranTV.ir"><title lang="fa">آنونس برنامه تا نیایش</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628201412 +0000" stop="20260628201512 +0000" channel="TehranTV.ir"><title lang="fa">آنونس در محضر آقا</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628201545 +0000" stop="20260628204545 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه امر به معروف و نهی از منکر</title>
+  </programme>
+  <programme start="20260628201630 +0000" stop="20260628201730 +0000" channel="TehranTV.ir"><title lang="fa">تیزر ثبت نام مدرسه علمیه عبدالعظیم ع</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628201803 +0000" stop="20260628202503 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 3</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628202505 +0000" stop="20260628202605 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه هفته قوه قضائیه</title>
+  </programme>
+  <programme start="20260628202654 +0000" stop="20260628205654 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260628202706 +0000" stop="20260628202906 +0000" channel="TehranTV.ir"><title lang="fa">آگهی تلوزیونی</title>
+    <desc lang="fa">www.tv5.ir</desc>
   </programme>
   <programme start="20260626203000 +0000" stop="20260626223000 +0000" channel="VarzeshTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
