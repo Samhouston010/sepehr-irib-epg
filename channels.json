@@ -28,7 +28,7 @@
   },
   {
     "slug": "tv4",
-    "channel_id": null,
+    "channel_id": 37,
     "tvg_id": "IRIB4.ir",
     "name": "شبکه چهار",
     "name_en": "شبکه چهار",
@@ -37,7 +37,7 @@
   },
   {
     "slug": "tehran",
-    "channel_id": null,
+    "channel_id": 38,
     "tvg_id": "TehranTV.ir",
     "name": "شبکه پنج (تهران)",
     "name_en": "شبکه پنج (تهران)",
@@ -46,7 +46,7 @@
   },
   {
     "slug": "varzesh",
-    "channel_id": null,
+    "channel_id": 51,
     "tvg_id": "VarzeshTV.ir",
     "name": "شبکه ورزش",
     "name_en": "شبکه ورزش",
@@ -55,7 +55,7 @@
   },
   {
     "slug": "ofogh",
-    "channel_id": null,
+    "channel_id": 53,
     "tvg_id": "OfoghTV.ir",
     "name": "شبکه افق",
     "name_en": "شبکه افق",
@@ -64,7 +64,7 @@
   },
   {
     "slug": "amouzesh",
-    "channel_id": 37,
+    "channel_id": 72,
     "tvg_id": "AmouzeshTV.ir",
     "name": "شبکه آموزش",
     "name_en": "شبکه آموزش",
@@ -73,7 +73,7 @@
   },
   {
     "slug": "irinn",
-    "channel_id": 54,
+    "channel_id": 42,
     "tvg_id": "IRINN.ir",
     "name": "شبکه خبر",
     "name_en": "شبکه خبر",
@@ -82,7 +82,7 @@
   },
   {
     "slug": "nasim",
-    "channel_id": 44,
+    "channel_id": 61,
     "tvg_id": "Nasim.ir",
     "name": "شبکه نسیم",
     "name_en": "شبکه نسیم",
@@ -91,7 +91,7 @@
   },
   {
     "slug": "namayesh",
-    "channel_id": 38,
+    "channel_id": 45,
     "tvg_id": "NamayeshTV.ir",
     "name": "شبکه نمایش",
     "name_en": "شبکه نمایش",
@@ -100,7 +100,7 @@
   },
   {
     "slug": "mostanad",
-    "channel_id": 61,
+    "channel_id": 44,
     "tvg_id": "IRIBMostanad.ir",
     "name": "شبکه مستند",
     "name_en": "شبکه مستند",
@@ -109,7 +109,7 @@
   },
   {
     "slug": "ifilm",
-    "channel_id": null,
+    "channel_id": 57,
     "tvg_id": "iFilmPersian.ir",
     "name": "آی‌فیلم",
     "name_en": "آی‌فیلم",
@@ -118,7 +118,7 @@
   },
   {
     "slug": "quran",
-    "channel_id": null,
+    "channel_id": 46,
     "tvg_id": "",
     "name": "شبکه قرآن",
     "name_en": "شبکه قرآن",
@@ -127,7 +127,7 @@
   },
   {
     "slug": "salamat",
-    "channel_id": 72,
+    "channel_id": 15701,
     "tvg_id": "SalamatTV.ir",
     "name": "شبکه سلامت",
     "name_en": "شبکه سلامت",
@@ -136,7 +136,7 @@
   },
   {
     "slug": "pooya",
-    "channel_id": null,
+    "channel_id": 50,
     "tvg_id": "PooyaTV.ir",
     "name": "شبکه پویا",
     "name_en": "شبکه پویا",
@@ -145,7 +145,7 @@
   },
   {
     "slug": "omid",
-    "channel_id": null,
+    "channel_id": 59,
     "tvg_id": "IRIBOmid.ir",
     "name": "شبکه امید",
     "name_en": "شبکه امید",
@@ -154,7 +154,7 @@
   },
   {
     "slug": "sepehr",
-    "channel_id": null,
+    "channel_id": 49,
     "tvg_id": "SepehrTV.ir",
     "name": "شبکه سپهر",
     "name_en": "شبکه سپهر",
@@ -163,7 +163,7 @@
   },
   {
     "slug": "irinn2",
-    "channel_id": null,
+    "channel_id": 283884,
     "tvg_id": "IRINN2.ir",
     "name": "شبکه خبر ۲",
     "name_en": "شبکه خبر ۲",
@@ -172,7 +172,7 @@
   },
   {
     "slug": "faratar",
-    "channel_id": null,
+    "channel_id": 196462,
     "tvg_id": "IRIBUHD.ir",
     "name": "شبکه فراتر (UHD)",
     "name_en": "شبکه فراتر (UHD)",
@@ -181,7 +181,7 @@
   },
   {
     "slug": "abadan",
-    "channel_id": null,
+    "channel_id": 15676,
     "tvg_id": "AbadanTV.ir",
     "name": "شبکه آبادان",
     "name_en": "شبکه آبادان",
@@ -190,7 +190,7 @@
   },
   {
     "slug": "azarbayjangharbi",
-    "channel_id": null,
+    "channel_id": 15673,
     "tvg_id": "WestAzerbaijanTV.ir",
     "name": "شبکه آذربایجان غربی",
     "name_en": "شبکه آذربایجان غربی",
@@ -199,7 +199,7 @@
   },
   {
     "slug": "ara",
-    "channel_id": null,
+    "channel_id": 15704,
     "tvg_id": "AraTV.ir",
     "name": "شبکه آرا (چهارمحال)",
     "name_en": "شبکه آرا (چهارمحال)",
@@ -208,7 +208,7 @@
   },
   {
     "slug": "aftab",
-    "channel_id": null,
+    "channel_id": 15674,
     "tvg_id": "AftabTV.ir",
     "name": "شبکه آفتاب (مرکزی)",
     "name_en": "شبکه آفتاب (مرکزی)",
@@ -226,7 +226,7 @@
   },
   {
     "slug": "eshragh",
-    "channel_id": null,
+    "channel_id": 15665,
     "tvg_id": "EshraghNetwork.ir",
     "name": "شبکه اشراق (زنجان)",
     "name_en": "شبکه اشراق (زنجان)",
@@ -235,7 +235,7 @@
   },
   {
     "slug": "esfahan",
-    "channel_id": null,
+    "channel_id": 15666,
     "tvg_id": "IsfahanTV.ir",
     "name": "شبکه اصفهان",
     "name_en": "شبکه اصفهان",
@@ -244,7 +244,7 @@
   },
   {
     "slug": "aflak",
-    "channel_id": null,
+    "channel_id": 15675,
     "tvg_id": "AflakTV.ir",
     "name": "شبکه افلاک (لرستان)",
     "name_en": "شبکه افلاک (لرستان)",
@@ -253,7 +253,7 @@
   },
   {
     "slug": "alborz",
-    "channel_id": null,
+    "channel_id": 36,
     "tvg_id": "AlborzTV.ir",
     "name": "شبکه البرز",
     "name_en": "شبکه البرز",
@@ -262,7 +262,7 @@
   },
   {
     "slug": "ilam",
-    "channel_id": null,
+    "channel_id": 15667,
     "tvg_id": "IlamTV.ir",
     "name": "شبکه ایلام",
     "name_en": "شبکه ایلام",
@@ -271,7 +271,7 @@
   },
   {
     "slug": "baran",
-    "channel_id": null,
+    "channel_id": 15705,
     "tvg_id": "BaranTV.ir",
     "name": "شبکه باران (گیلان)",
     "name_en": "شبکه باران (گیلان)",
@@ -280,7 +280,7 @@
   },
   {
     "slug": "bushehr",
-    "channel_id": null,
+    "channel_id": 15670,
     "tvg_id": "BoushehrTV.ir",
     "name": "شبکه بوشهر",
     "name_en": "شبکه بوشهر",
@@ -298,7 +298,7 @@
   },
   {
     "slug": "khavaran",
-    "channel_id": null,
+    "channel_id": 15680,
     "tvg_id": "KhavaranTV.ir",
     "name": "شبکه خاوران (خراسان جنوبی)",
     "name_en": "شبکه خاوران (خراسان جنوبی)",
@@ -307,7 +307,7 @@
   },
   {
     "slug": "khorasanrazavi",
-    "channel_id": null,
+    "channel_id": 15679,
     "tvg_id": "KhorasanRazaviTV.ir",
     "name": "شبکه خراسان رضوی",
     "name_en": "شبکه خراسان رضوی",
@@ -316,7 +316,7 @@
   },
   {
     "slug": "khalijefars",
-    "channel_id": null,
+    "channel_id": 15662,
     "tvg_id": "KhalijeFarsTV.ir",
     "name": "شبکه خلیج فارس (هرمزگان)",
     "name_en": "شبکه خلیج فارس (هرمزگان)",
@@ -334,7 +334,7 @@
   },
   {
     "slug": "dena",
-    "channel_id": null,
+    "channel_id": 15668,
     "tvg_id": "DenaTV.ir",
     "name": "شبکه دنا (کهگیلویه)",
     "name_en": "شبکه دنا (کهگیلویه)",
@@ -343,7 +343,7 @@
   },
   {
     "slug": "iribu",
-    "channel_id": null,
+    "channel_id": 194387,
     "tvg_id": "RoyaTV.ir",
     "name": "شبکه رویا",
     "name_en": "شبکه رویا",
@@ -352,7 +352,7 @@
   },
   {
     "slug": "zagros",
-    "channel_id": null,
+    "channel_id": 15675,
     "tvg_id": "ZagrosTV.ir",
     "name": "شبکه زاگرس (لرستان)",
     "name_en": "شبکه زاگرس (لرستان)",
@@ -361,7 +361,7 @@
   },
   {
     "slug": "sarbedaran",
-    "channel_id": null,
+    "channel_id": 322606,
     "tvg_id": "SarbedaranTV.ir",
     "name": "شبکه سبزوار",
     "name_en": "شبکه سبزوار",
@@ -370,7 +370,7 @@
   },
   {
     "slug": "sabalan",
-    "channel_id": null,
+    "channel_id": 15708,
     "tvg_id": "SabalanTV.ir",
     "name": "شبکه سبلان (اردبیل)",
     "name_en": "شبکه سبلان (اردبیل)",
@@ -379,7 +379,7 @@
   },
   {
     "slug": "semnan",
-    "channel_id": null,
+    "channel_id": 54,
     "tvg_id": "SemnanTV.ir",
     "name": "شبکه سمنان",
     "name_en": "شبکه سمنان",
@@ -388,7 +388,7 @@
   },
   {
     "slug": "sahand",
-    "channel_id": null,
+    "channel_id": 15709,
     "tvg_id": "SahandTV.ir",
     "name": "شبکه سهند (آذربایجان شرقی)",
     "name_en": "شبکه سهند (آذربایجان شرقی)",
@@ -397,7 +397,7 @@
   },
   {
     "slug": "fars",
-    "channel_id": null,
+    "channel_id": 15663,
     "tvg_id": "FarsTV.ir",
     "name": "شبکه فارس",
     "name_en": "شبکه فارس",
@@ -406,7 +406,7 @@
   },
   {
     "slug": "qazvin",
-    "channel_id": null,
+    "channel_id": 15707,
     "tvg_id": "QazvinTV.ir",
     "name": "شبکه قزوین",
     "name_en": "شبکه قزوین",
@@ -415,7 +415,7 @@
   },
   {
     "slug": "tabarestan",
-    "channel_id": null,
+    "channel_id": 52,
     "tvg_id": "TabarestanTV.ir",
     "name": "شبکه مازندران (طبرستان)",
     "name_en": "شبکه مازندران (طبرستان)",
@@ -424,7 +424,7 @@
   },
   {
     "slug": "mahabad",
-    "channel_id": null,
+    "channel_id": 15677,
     "tvg_id": "MahabadTV.ir",
     "name": "شبکه مهاباد",
     "name_en": "شبکه مهاباد",
@@ -433,7 +433,7 @@
   },
   {
     "slug": "nesfejahan",
-    "channel_id": null,
+    "channel_id": 350512,
     "tvg_id": "",
     "name": "شبکه نصف جهان (اصفهان)",
     "name_en": "شبکه نصف جهان (اصفهان)",
@@ -442,7 +442,7 @@
   },
   {
     "slug": "hamoon",
-    "channel_id": null,
+    "channel_id": 15684,
     "tvg_id": "HamoonTV.ir",
     "name": "شبکه هامون (سیستان)",
     "name_en": "شبکه هامون (سیستان)",
@@ -451,7 +451,7 @@
   },
   {
     "slug": "sina",
-    "channel_id": null,
+    "channel_id": 15659,
     "tvg_id": "HamedanTV.ir",
     "name": "شبکه همدان (سینا)",
     "name_en": "شبکه همدان (سینا)",
@@ -460,7 +460,7 @@
   },
   {
     "slug": "kordestan",
-    "channel_id": null,
+    "channel_id": 15658,
     "tvg_id": "KordestanTV.ir",
     "name": "شبکه کردستان",
     "name_en": "شبکه کردستان",
@@ -469,7 +469,7 @@
   },
   {
     "slug": "kerman",
-    "channel_id": null,
+    "channel_id": 15664,
     "tvg_id": "KermanTV.ir",
     "name": "شبکه کرمان",
     "name_en": "شبکه کرمان",
@@ -478,7 +478,7 @@
   },
   {
     "slug": "kish",
-    "channel_id": null,
+    "channel_id": 15678,
     "tvg_id": "KishTV.ir",
     "name": "شبکه کیش",
     "name_en": "شبکه کیش",
@@ -487,7 +487,7 @@
   },
   {
     "slug": "taban",
-    "channel_id": null,
+    "channel_id": 15710,
     "tvg_id": "YazdTV.ir",
     "name": "شبکه یزد (تابان)",
     "name_en": "شبکه یزد (تابان)",
@@ -496,7 +496,7 @@
   },
   {
     "slug": "tv1plus",
-    "channel_id": null,
+    "channel_id": 350513,
     "tvg_id": "",
     "name": "مثبت یک",
     "name_en": "IRIB TV1+",
@@ -532,7 +532,7 @@
   },
   {
     "slug": "noor",
-    "channel_id": null,
+    "channel_id": 15706,
     "tvg_id": "",
     "name": "نور",
     "name_en": "Noor TV",
@@ -541,7 +541,7 @@
   },
   {
     "slug": "kawthar",
-    "channel_id": null,
+    "channel_id": 65,
     "tvg_id": "",
     "name": "الکوثر",
     "name_en": "Al Kawthar",
@@ -550,7 +550,7 @@
   },
   {
     "slug": "velayat",
-    "channel_id": null,
+    "channel_id": 173931,
     "tvg_id": "",
     "name": "ولایت",
     "name_en": "Velayat TV",
@@ -559,7 +559,7 @@
   },
   {
     "slug": "labbayk",
-    "channel_id": null,
+    "channel_id": 15656,
     "tvg_id": "",
     "name": "لبیک",
     "name_en": "Labbayk TV",
@@ -568,7 +568,7 @@
   },
   {
     "slug": "habib",
-    "channel_id": null,
+    "channel_id": 30685,
     "tvg_id": "",
     "name": "حبیب",
     "name_en": "Habib TV",
@@ -577,7 +577,7 @@
   },
   {
     "slug": "tekyemadahi",
-    "channel_id": null,
+    "channel_id": 15688,
     "tvg_id": "",
     "name": "تکیه مداحی",
     "name_en": "Tekye Madahi",
@@ -586,7 +586,7 @@
   },
   {
     "slug": "alalam",
-    "channel_id": null,
+    "channel_id": 70,
     "tvg_id": "",
     "name": "العالم",
     "name_en": "Al Alam",
@@ -595,7 +595,7 @@
   },
   {
     "slug": "palestine",
-    "channel_id": null,
+    "channel_id": 309415,
     "tvg_id": "",
     "name": "فلسطین",
     "name_en": "Palestine TV",
@@ -604,7 +604,7 @@
   },
   {
     "slug": "golkhane",
-    "channel_id": null,
+    "channel_id": 279429,
     "tvg_id": "",
     "name": "گلخانه",
     "name_en": "Golkhane TV",
@@ -613,7 +613,7 @@
   },
   {
     "slug": "sabz",
-    "channel_id": null,
+    "channel_id": 15661,
     "tvg_id": "",
     "name": "گلستان",
     "name_en": "Golestan TV",
@@ -622,7 +622,7 @@
   },
   {
     "slug": "makran",
-    "channel_id": null,
+    "channel_id": 350753,
     "tvg_id": "",
     "name": "مکران",
     "name_en": "Makran TV",
@@ -631,7 +631,7 @@
   },
   {
     "slug": "zaferan",
-    "channel_id": null,
+    "channel_id": 15706,
     "tvg_id": "",
     "name": "زعفران",
     "name_en": "Zaferan TV",
@@ -640,7 +640,7 @@
   },
   {
     "slug": "presstv",
-    "channel_id": null,
+    "channel_id": 63,
     "tvg_id": "",
     "name": "پرس تی وی",
     "name_en": "presstv",
