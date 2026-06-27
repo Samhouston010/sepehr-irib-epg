@@ -1,1 +1,668 @@
-[]
+[
+  {
+    "slug": "tv1",
+    "channel_id": 31,
+    "tvg_id": "IRIB1.ir",
+    "name": "شبکه یک",
+    "name_en": "شبکه یک",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/9aa86b5c-5cfb-44d0-ba60-8f2af3ef4c9a/default"
+  },
+  {
+    "slug": "tv2",
+    "channel_id": null,
+    "tvg_id": "IRIB2.ir",
+    "name": "شبکه دو",
+    "name_en": "شبکه دو",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/IRIB_TV2_logo.svg/960px-IRIB_TV2_logo.svg.png"
+  },
+  {
+    "slug": "tv3",
+    "channel_id": 39,
+    "tvg_id": "IRIB3.ir",
+    "name": "شبکه سه",
+    "name_en": "شبکه سه",
+    "group": "سراسری",
+    "logo": "https://static.telewebion.ir/channelsLogo/MWUxYmE4YjJhZTc4OWZiOTVkMzczODdkN2NjY2I4YjNiZTFjYjRiODM3NjhiMzcxOGI5YzdjMWNlODA3YjMzYg/default"
+  },
+  {
+    "slug": "tv4",
+    "channel_id": null,
+    "tvg_id": "IRIB4.ir",
+    "name": "شبکه چهار",
+    "name_en": "شبکه چهار",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_TV4_logo.svg/960px-IRIB_TV4_logo.svg.png"
+  },
+  {
+    "slug": "tehran",
+    "channel_id": null,
+    "tvg_id": "TehranTV.ir",
+    "name": "شبکه پنج (تهران)",
+    "name_en": "شبکه پنج (تهران)",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IRIBTV5.svg/500px-IRIBTV5.svg.png"
+  },
+  {
+    "slug": "varzesh",
+    "channel_id": null,
+    "tvg_id": "VarzeshTV.ir",
+    "name": "شبکه ورزش",
+    "name_en": "شبکه ورزش",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "ofogh",
+    "channel_id": null,
+    "tvg_id": "OfoghTV.ir",
+    "name": "شبکه افق",
+    "name_en": "شبکه افق",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/fe/Ofogh_TV_logo.svg/960px-Ofogh_TV_logo.svg.png"
+  },
+  {
+    "slug": "amouzesh",
+    "channel_id": null,
+    "tvg_id": "AmouzeshTV.ir",
+    "name": "شبکه آموزش",
+    "name_en": "شبکه آموزش",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Amouzesh_TV_logo_%282023%29.svg/500px-Amouzesh_TV_logo_%282023%29.svg.png"
+  },
+  {
+    "slug": "irinn",
+    "channel_id": null,
+    "tvg_id": "IRINN.ir",
+    "name": "شبکه خبر",
+    "name_en": "شبکه خبر",
+    "group": "خبری",
+    "logo": "https://i.imgur.com/8tzsC9h.png"
+  },
+  {
+    "slug": "nasim",
+    "channel_id": null,
+    "tvg_id": "Nasim.ir",
+    "name": "شبکه نسیم",
+    "name_en": "شبکه نسیم",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Nasim_TV_logo.svg/960px-Nasim_TV_logo.svg.png"
+  },
+  {
+    "slug": "namayesh",
+    "channel_id": null,
+    "tvg_id": "NamayeshTV.ir",
+    "name": "شبکه نمایش",
+    "name_en": "شبکه نمایش",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Namayesh_TV_logo.svg/960px-Namayesh_TV_logo.svg.png"
+  },
+  {
+    "slug": "mostanad",
+    "channel_id": null,
+    "tvg_id": "IRIBMostanad.ir",
+    "name": "شبکه مستند",
+    "name_en": "شبکه مستند",
+    "group": "مستند",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/89/Mostanad-tv.png"
+  },
+  {
+    "slug": "ifilm",
+    "channel_id": null,
+    "tvg_id": "iFilmPersian.ir",
+    "name": "آی‌فیلم",
+    "name_en": "آی‌فیلم",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png"
+  },
+  {
+    "slug": "quran",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "شبکه قرآن",
+    "name_en": "شبکه قرآن",
+    "group": "مذهبی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/quran.png"
+  },
+  {
+    "slug": "salamat",
+    "channel_id": null,
+    "tvg_id": "SalamatTV.ir",
+    "name": "شبکه سلامت",
+    "name_en": "شبکه سلامت",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f0/IRIB_Salamat_Logo.png"
+  },
+  {
+    "slug": "pooya",
+    "channel_id": null,
+    "tvg_id": "PooyaTV.ir",
+    "name": "شبکه پویا",
+    "name_en": "شبکه پویا",
+    "group": "کودک",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/5/5a/POOYA_tv_2.png"
+  },
+  {
+    "slug": "omid",
+    "channel_id": null,
+    "tvg_id": "IRIBOmid.ir",
+    "name": "شبکه امید",
+    "name_en": "شبکه امید",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/IRIB_Omid.svg/500px-IRIB_Omid.svg.png"
+  },
+  {
+    "slug": "sepehr",
+    "channel_id": null,
+    "tvg_id": "SepehrTV.ir",
+    "name": "شبکه سپهر",
+    "name_en": "شبکه سپهر",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sepehrtv.png/960px-Sepehrtv.png"
+  },
+  {
+    "slug": "irinn2",
+    "channel_id": null,
+    "tvg_id": "IRINN2.ir",
+    "name": "شبکه خبر ۲",
+    "name_en": "شبکه خبر ۲",
+    "group": "خبری",
+    "logo": "https://i.imgur.com/8tzsC9h.png"
+  },
+  {
+    "slug": "faratar",
+    "channel_id": null,
+    "tvg_id": "IRIBUHD.ir",
+    "name": "شبکه فراتر (UHD)",
+    "name_en": "شبکه فراتر (UHD)",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/IRIB_FARATAR_UHD.png/960px-IRIB_FARATAR_UHD.png"
+  },
+  {
+    "slug": "tamasha",
+    "channel_id": null,
+    "tvg_id": "Tamasha.ir",
+    "name": "شبکه تماشا",
+    "name_en": "شبکه تماشا",
+    "group": "سرگرمی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f2/IRIB_tamashaTV.svg/960px-IRIB_tamashaTV.svg.png"
+  },
+  {
+    "slug": "abadan",
+    "channel_id": null,
+    "tvg_id": "AbadanTV.ir",
+    "name": "شبکه آبادان",
+    "name_en": "شبکه آبادان",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"
+  },
+  {
+    "slug": "azarbayjangharbi",
+    "channel_id": null,
+    "tvg_id": "WestAzerbaijanTV.ir",
+    "name": "شبکه آذربایجان غربی",
+    "name_en": "شبکه آذربایجان غربی",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png"
+  },
+  {
+    "slug": "ara",
+    "channel_id": null,
+    "tvg_id": "AraTV.ir",
+    "name": "شبکه آرا (چهارمحال)",
+    "name_en": "شبکه آرا (چهارمحال)",
+    "group": "استانی",
+    "logo": "https://i.ibb.co/dwSHt2SG/Ara.png"
+  },
+  {
+    "slug": "aftab",
+    "channel_id": null,
+    "tvg_id": "AftabTV.ir",
+    "name": "شبکه آفتاب (مرکزی)",
+    "name_en": "شبکه آفتاب (مرکزی)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png"
+  },
+  {
+    "slug": "atrak",
+    "channel_id": 47,
+    "tvg_id": "AtrakTV.ir",
+    "name": "شبکه اترک (خراسان شمالی)",
+    "name_en": "شبکه اترک (خراسان شمالی)",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/c059616c-053f-4044-baf1-4444c7101161/default"
+  },
+  {
+    "slug": "eshragh",
+    "channel_id": null,
+    "tvg_id": "EshraghNetwork.ir",
+    "name": "شبکه اشراق (زنجان)",
+    "name_en": "شبکه اشراق (زنجان)",
+    "group": "استانی",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU"
+  },
+  {
+    "slug": "esfahan",
+    "channel_id": null,
+    "tvg_id": "IsfahanTV.ir",
+    "name": "شبکه اصفهان",
+    "name_en": "شبکه اصفهان",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png"
+  },
+  {
+    "slug": "aflak",
+    "channel_id": null,
+    "tvg_id": "AflakTV.ir",
+    "name": "شبکه افلاک (لرستان)",
+    "name_en": "شبکه افلاک (لرستان)",
+    "group": "استانی",
+    "logo": "https://i.imgur.com/LkLCHpf.png"
+  },
+  {
+    "slug": "alborz",
+    "channel_id": null,
+    "tvg_id": "AlborzTV.ir",
+    "name": "شبکه البرز",
+    "name_en": "شبکه البرز",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png"
+  },
+  {
+    "slug": "iraneman",
+    "channel_id": null,
+    "tvg_id": "Iraneman.ir",
+    "name": "شبکه ایران‌من",
+    "name_en": "شبکه ایران‌من",
+    "group": "استانی",
+    "logo": "https://static.telewebion.com/channelsLogo/9ee212fa-ad8b-45eb-a5fa-d737b4b6ef05/default"
+  },
+  {
+    "slug": "ilam",
+    "channel_id": null,
+    "tvg_id": "IlamTV.ir",
+    "name": "شبکه ایلام",
+    "name_en": "شبکه ایلام",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png"
+  },
+  {
+    "slug": "baran",
+    "channel_id": null,
+    "tvg_id": "BaranTV.ir",
+    "name": "شبکه باران (گیلان)",
+    "name_en": "شبکه باران (گیلان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png"
+  },
+  {
+    "slug": "bushehr",
+    "channel_id": null,
+    "tvg_id": "BoushehrTV.ir",
+    "name": "شبکه بوشهر",
+    "name_en": "شبکه بوشهر",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png"
+  },
+  {
+    "slug": "jahanbin",
+    "channel_id": 40,
+    "tvg_id": "JahanbinTV.ir",
+    "name": "شبکه جهان‌بین",
+    "name_en": "شبکه جهان‌بین",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default"
+  },
+  {
+    "slug": "khavaran",
+    "channel_id": null,
+    "tvg_id": "KhavaranTV.ir",
+    "name": "شبکه خاوران (خراسان جنوبی)",
+    "name_en": "شبکه خاوران (خراسان جنوبی)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png"
+  },
+  {
+    "slug": "khorasanrazavi",
+    "channel_id": null,
+    "tvg_id": "KhorasanRazaviTV.ir",
+    "name": "شبکه خراسان رضوی",
+    "name_en": "شبکه خراسان رضوی",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png"
+  },
+  {
+    "slug": "khalijefars",
+    "channel_id": null,
+    "tvg_id": "KhalijeFarsTV.ir",
+    "name": "شبکه خلیج فارس (هرمزگان)",
+    "name_en": "شبکه خلیج فارس (هرمزگان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png"
+  },
+  {
+    "slug": "khoozestan",
+    "channel_id": 43,
+    "tvg_id": "KhozestanTV.ir",
+    "name": "شبکه خوزستان",
+    "name_en": "شبکه خوزستان",
+    "group": "استانی",
+    "logo": "https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default"
+  },
+  {
+    "slug": "dena",
+    "channel_id": null,
+    "tvg_id": "DenaTV.ir",
+    "name": "شبکه دنا (کهگیلویه)",
+    "name_en": "شبکه دنا (کهگیلویه)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png"
+  },
+  {
+    "slug": "iribu",
+    "channel_id": null,
+    "tvg_id": "RoyaTV.ir",
+    "name": "شبکه رویا",
+    "name_en": "شبکه رویا",
+    "group": "استانی",
+    "logo": "https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default"
+  },
+  {
+    "slug": "zagros",
+    "channel_id": null,
+    "tvg_id": "ZagrosTV.ir",
+    "name": "شبکه زاگرس (لرستان)",
+    "name_en": "شبکه زاگرس (لرستان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e4/Kermanshah_Zaghros.svg/960px-Kermanshah_Zaghros.svg.png"
+  },
+  {
+    "slug": "sarbedaran",
+    "channel_id": null,
+    "tvg_id": "SarbedaranTV.ir",
+    "name": "شبکه سبزوار",
+    "name_en": "شبکه سبزوار",
+    "group": "استانی",
+    "logo": "https://static.telewebion.com/channelsLogo/ad6e035d-4215-4d88-a25e-da6ff8e0526f/default"
+  },
+  {
+    "slug": "sabalan",
+    "channel_id": null,
+    "tvg_id": "SabalanTV.ir",
+    "name": "شبکه سبلان (اردبیل)",
+    "name_en": "شبکه سبلان (اردبیل)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png"
+  },
+  {
+    "slug": "semnan",
+    "channel_id": null,
+    "tvg_id": "SemnanTV.ir",
+    "name": "شبکه سمنان",
+    "name_en": "شبکه سمنان",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/3/35/Semnan_TV.png"
+  },
+  {
+    "slug": "sahand",
+    "channel_id": null,
+    "tvg_id": "SahandTV.ir",
+    "name": "شبکه سهند (آذربایجان شرقی)",
+    "name_en": "شبکه سهند (آذربایجان شرقی)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/3/37/Tabriz_Sahand.svg/960px-Tabriz_Sahand.svg.png"
+  },
+  {
+    "slug": "fars",
+    "channel_id": null,
+    "tvg_id": "FarsTV.ir",
+    "name": "شبکه فارس",
+    "name_en": "شبکه فارس",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png"
+  },
+  {
+    "slug": "qazvin",
+    "channel_id": null,
+    "tvg_id": "QazvinTV.ir",
+    "name": "شبکه قزوین",
+    "name_en": "شبکه قزوین",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png"
+  },
+  {
+    "slug": "tabarestan",
+    "channel_id": null,
+    "tvg_id": "TabarestanTV.ir",
+    "name": "شبکه مازندران (طبرستان)",
+    "name_en": "شبکه مازندران (طبرستان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png"
+  },
+  {
+    "slug": "mahabad",
+    "channel_id": null,
+    "tvg_id": "MahabadTV.ir",
+    "name": "شبکه مهاباد",
+    "name_en": "شبکه مهاباد",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png"
+  },
+  {
+    "slug": "nesfejahan",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "شبکه نصف جهان (اصفهان)",
+    "name_en": "شبکه نصف جهان (اصفهان)",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nesfejahan.png"
+  },
+  {
+    "slug": "hamoon",
+    "channel_id": null,
+    "tvg_id": "HamoonTV.ir",
+    "name": "شبکه هامون (سیستان)",
+    "name_en": "شبکه هامون (سیستان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png"
+  },
+  {
+    "slug": "sina",
+    "channel_id": null,
+    "tvg_id": "HamedanTV.ir",
+    "name": "شبکه همدان (سینا)",
+    "name_en": "شبکه همدان (سینا)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png"
+  },
+  {
+    "slug": "karoon",
+    "channel_id": null,
+    "tvg_id": "KaroonTV.ir",
+    "name": "شبکه کارون",
+    "name_en": "شبکه کارون",
+    "group": "استانی",
+    "logo": "https://static.telewebion.com/channelsLogo/448a8dca-ab58-4533-8d71-ad74b8812c79/default"
+  },
+  {
+    "slug": "kordestan",
+    "channel_id": null,
+    "tvg_id": "KordestanTV.ir",
+    "name": "شبکه کردستان",
+    "name_en": "شبکه کردستان",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png"
+  },
+  {
+    "slug": "kerman",
+    "channel_id": null,
+    "tvg_id": "KermanTV.ir",
+    "name": "شبکه کرمان",
+    "name_en": "شبکه کرمان",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png"
+  },
+  {
+    "slug": "kish",
+    "channel_id": null,
+    "tvg_id": "KishTV.ir",
+    "name": "شبکه کیش",
+    "name_en": "شبکه کیش",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png"
+  },
+  {
+    "slug": "taban",
+    "channel_id": null,
+    "tvg_id": "YazdTV.ir",
+    "name": "شبکه یزد (تابان)",
+    "name_en": "شبکه یزد (تابان)",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png"
+  },
+  {
+    "slug": "tv1plus",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "مثبت یک",
+    "name_en": "IRIB TV1+",
+    "group": "سراسری",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/IRIB_TV1plus.png/960px-IRIB_TV1plus.png"
+  },
+  {
+    "slug": "sport1",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۱",
+    "name_en": "Telewebion Sport 1",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "sport2",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۲",
+    "name_en": "Telewebion Sport 2",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "sport3",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تلوبیون اسپرت ۳",
+    "name_en": "Telewebion Sport 3",
+    "group": "ورزشی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
+  },
+  {
+    "slug": "noor",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "نور",
+    "name_en": "Noor TV",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IRIB_Noor_logo.png/960px-IRIB_Noor_logo.png"
+  },
+  {
+    "slug": "kawthar",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "الکوثر",
+    "name_en": "Al Kawthar",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AlKawtharTV.svg/960px-AlKawtharTV.svg.png"
+  },
+  {
+    "slug": "velayat",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "ولایت",
+    "name_en": "Velayat TV",
+    "group": "مذهبی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Velayat_TV.png/960px-Velayat_TV.png"
+  },
+  {
+    "slug": "labbayk",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "لبیک",
+    "name_en": "Labbayk TV",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/d02cfee1-9792-4112-bdfd-776e8e7c3ca6/default"
+  },
+  {
+    "slug": "habib",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "حبیب",
+    "name_en": "Habib TV",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default"
+  },
+  {
+    "slug": "tekyemadahi",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "تکیه مداحی",
+    "name_en": "Tekye Madahi",
+    "group": "مذهبی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default"
+  },
+  {
+    "slug": "alalam",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "العالم",
+    "name_en": "Al Alam",
+    "group": "بین‌المللی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Al_Alam_News_Network_logo.svg/960px-Al_Alam_News_Network_logo.svg.png"
+  },
+  {
+    "slug": "palestine",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "فلسطین",
+    "name_en": "Palestine TV",
+    "group": "بین‌المللی",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Palestine_TV_logo.png/960px-Palestine_TV_logo.png"
+  },
+  {
+    "slug": "golkhane",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "گلخانه",
+    "name_en": "Golkhane TV",
+    "group": "سرگرمی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default"
+  },
+  {
+    "slug": "sabz",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "گلستان",
+    "name_en": "Golestan TV",
+    "group": "استانی",
+    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/e/e3/Golestan_TV.svg/960px-Golestan_TV.svg.png"
+  },
+  {
+    "slug": "makran",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "مکران",
+    "name_en": "Makran TV",
+    "group": "استانی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/702e94fb-d94a-4e3a-8c6a-ef214cfba344/default"
+  },
+  {
+    "slug": "zaferan",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "زعفران",
+    "name_en": "Zaferan TV",
+    "group": "استانی",
+    "logo": "https://cdn.telewebion.ir/channelsLogo/bc660d9e-4d2d-450f-bbff-517326d59695/default"
+  }
+]

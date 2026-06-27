@@ -56,14 +56,18 @@ NAMES_FA = {
 }
 
 def probe(slug):
+    # ncdn.telewebion.ir returns 302 → Akamai CDN; use GET with small range to avoid full download
+    url = STREAM.format(slug=slug)
     try:
-        req = urllib.request.Request(
-            STREAM.format(slug=slug),
-            headers={"User-Agent": "Mozilla/5.0"},
-            method="HEAD"
-        )
-        with urllib.request.urlopen(req, timeout=8) as r:
-            return slug, r.status in (200, 302)
+        req = urllib.request.Request(url, headers={
+            "User-Agent": "Mozilla/5.0",
+            "Range": "bytes=0-0",
+        })
+        with urllib.request.urlopen(req, timeout=10) as r:
+            return slug, r.status in (200, 206, 302)
+    except urllib.error.HTTPError as e:
+        # 416 Range Not Satisfiable still means the URL exists
+        return slug, e.code in (200, 206, 302, 416)
     except Exception:
         return slug, False
 
