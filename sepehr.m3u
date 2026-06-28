@@ -41,8 +41,6 @@ https://ncdn.telewebion.ir/irinn2/live/playlist.m3u8
 https://ncdn.telewebion.ir/faratar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AbadanTV.ir" tvg-name="شبکه آبادان" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png" group-title="استانی",شبکه آبادان
 https://ncdn.telewebion.ir/abadan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="WestAzerbaijanTV.ir" tvg-name="شبکه آذربایجان غربی" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png" group-title="استانی",شبکه آذربایجان غربی
-https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AraTV.ir" tvg-name="شبکه آرا (چهارمحال)" tvg-logo="https://i.ibb.co/dwSHt2SG/Ara.png" group-title="استانی",شبکه آرا (چهارمحال)
 https://ncdn.telewebion.ir/ara/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AftabTV.ir" tvg-name="شبکه آفتاب (مرکزی)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/6/6e/Arak_AFTAB.svg/960px-Arak_AFTAB.svg.png" group-title="استانی",شبکه آفتاب (مرکزی)
@@ -53,16 +51,12 @@ https://ncdn.telewebion.ir/atrak/live/playlist.m3u8
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IsfahanTV.ir" tvg-name="شبکه اصفهان" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png" group-title="استانی",شبکه اصفهان
 https://ncdn.telewebion.ir/esfahan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AflakTV.ir" tvg-name="شبکه افلاک (لرستان)" tvg-logo="https://i.imgur.com/LkLCHpf.png" group-title="استانی",شبکه افلاک (لرستان)
-https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlborzTV.ir" tvg-name="شبکه البرز" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Alborz_TV_logo.svg/960px-Alborz_TV_logo.svg.png" group-title="استانی",شبکه البرز
 https://ncdn.telewebion.ir/alborz/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IlamTV.ir" tvg-name="شبکه ایلام" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png" group-title="استانی",شبکه ایلام
 https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
 #EXTINF:-1 tvg-id="BaranTV.ir" tvg-name="شبکه باران (گیلان)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png" group-title="استانی",شبکه باران (گیلان)
 https://ncdn.telewebion.ir/baran/live/playlist.m3u8
-#EXTINF:-1 tvg-id="BoushehrTV.ir" tvg-name="شبکه بوشهر" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png" group-title="استانی",شبکه بوشهر
-https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
 #EXTINF:-1 tvg-id="JahanbinTV.ir" tvg-name="شبکه جهان‌بین" tvg-logo="https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default" group-title="استانی",شبکه جهان‌بین
 https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhavaranTV.ir" tvg-name="شبکه خاوران (خراسان جنوبی)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png" group-title="استانی",شبکه خاوران (خراسان جنوبی)
@@ -91,8 +85,6 @@ https://ncdn.telewebion.ir/sahand/live/playlist.m3u8
 https://ncdn.telewebion.ir/fars/live/playlist.m3u8
 #EXTINF:-1 tvg-id="QazvinTV.ir" tvg-name="شبکه قزوین" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png" group-title="استانی",شبکه قزوین
 https://ncdn.telewebion.ir/qazvin/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TabarestanTV.ir" tvg-name="شبکه مازندران (طبرستان)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png" group-title="استانی",شبکه مازندران (طبرستان)
-https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MahabadTV.ir" tvg-name="شبکه مهاباد" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="استانی",شبکه مهاباد
 https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="شبکه نصف جهان (اصفهان)" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/nesfejahan.png" group-title="استانی",شبکه نصف جهان (اصفهان)
@@ -103,10 +95,6 @@ https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KordestanTV.ir" tvg-name="شبکه کردستان" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png" group-title="استانی",شبکه کردستان
 https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KermanTV.ir" tvg-name="شبکه کرمان" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png" group-title="استانی",شبکه کرمان
-https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KishTV.ir" tvg-name="شبکه کیش" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png" group-title="استانی",شبکه کیش
-https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="YazdTV.ir" tvg-name="شبکه یزد (تابان)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yazd_taban.svg/960px-Yazd_taban.svg.png" group-title="استانی",شبکه یزد (تابان)
 https://ncdn.telewebion.ir/taban/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="مثبت یک" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/IRIB_TV1plus.png/960px-IRIB_TV1plus.png" group-title="سراسری",مثبت یک
@@ -117,8 +105,6 @@ https://ncdn.telewebion.ir/sport1/live/playlist.m3u8
 https://ncdn.telewebion.ir/sport2/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="تلوبیون اسپرت ۳" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png" group-title="ورزشی",تلوبیون اسپرت ۳
 https://ncdn.telewebion.ir/sport3/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="نور" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IRIB_Noor_logo.png/960px-IRIB_Noor_logo.png" group-title="مذهبی",نور
-https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="الکوثر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/AlKawtharTV.svg/960px-AlKawtharTV.svg.png" group-title="مذهبی",الکوثر
 https://ncdn.telewebion.ir/kawthar/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ولایت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Velayat_TV.png/960px-Velayat_TV.png" group-title="مذهبی",ولایت

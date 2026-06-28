@@ -189,15 +189,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fa/3/39/Abadan_tv.png"
   },
   {
-    "slug": "azarbayjangharbi",
-    "channel_id": 15673,
-    "tvg_id": "WestAzerbaijanTV.ir",
-    "name": "شبکه آذربایجان غربی",
-    "name_en": "شبکه آذربایجان غربی",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/21/Urmia_TV.svg/960px-Urmia_TV.svg.png"
-  },
-  {
     "slug": "ara",
     "channel_id": 15704,
     "tvg_id": "AraTV.ir",
@@ -243,15 +234,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/IsfahanTV.svg/960px-IsfahanTV.svg.png"
   },
   {
-    "slug": "aflak",
-    "channel_id": 15675,
-    "tvg_id": "AflakTV.ir",
-    "name": "شبکه افلاک (لرستان)",
-    "name_en": "شبکه افلاک (لرستان)",
-    "group": "استانی",
-    "logo": "https://i.imgur.com/LkLCHpf.png"
-  },
-  {
     "slug": "alborz",
     "channel_id": 36,
     "tvg_id": "AlborzTV.ir",
@@ -277,15 +259,6 @@
     "name_en": "شبکه باران (گیلان)",
     "group": "استانی",
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/b/b9/TV_Baran.svg/500px-TV_Baran.svg.png"
-  },
-  {
-    "slug": "bushehr",
-    "channel_id": 15670,
-    "tvg_id": "BoushehrTV.ir",
-    "name": "شبکه بوشهر",
-    "name_en": "شبکه بوشهر",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/9/94/Bushehr_TV.svg/500px-Bushehr_TV.svg.png"
   },
   {
     "slug": "jahanbin",
@@ -414,15 +387,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/QazvinTV.svg/960px-QazvinTV.svg.png"
   },
   {
-    "slug": "tabarestan",
-    "channel_id": 52,
-    "tvg_id": "TabarestanTV.ir",
-    "name": "شبکه مازندران (طبرستان)",
-    "name_en": "شبکه مازندران (طبرستان)",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IRIB_Mazandaran_Last_Orange_Logo.png/960px-IRIB_Mazandaran_Last_Orange_Logo.png"
-  },
-  {
     "slug": "mahabad",
     "channel_id": 15677,
     "tvg_id": "MahabadTV.ir",
@@ -468,24 +432,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png"
   },
   {
-    "slug": "kerman",
-    "channel_id": 15664,
-    "tvg_id": "KermanTV.ir",
-    "name": "شبکه کرمان",
-    "name_en": "شبکه کرمان",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Kerman_irib_logo_%28blue_version%29.png/960px-Kerman_irib_logo_%28blue_version%29.png"
-  },
-  {
-    "slug": "kish",
-    "channel_id": 15678,
-    "tvg_id": "KishTV.ir",
-    "name": "شبکه کیش",
-    "name_en": "شبکه کیش",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png"
-  },
-  {
     "slug": "taban",
     "channel_id": 15710,
     "tvg_id": "YazdTV.ir",
@@ -529,15 +475,6 @@
     "name_en": "Telewebion Sport 3",
     "group": "ورزشی",
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/f/f5/Iribvarzesh2022.png/960px-Iribvarzesh2022.png"
-  },
-  {
-    "slug": "noor",
-    "channel_id": 15706,
-    "tvg_id": "",
-    "name": "نور",
-    "name_en": "Noor TV",
-    "group": "مذهبی",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/IRIB_Noor_logo.png/960px-IRIB_Noor_logo.png"
   },
   {
     "slug": "kawthar",
