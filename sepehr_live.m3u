@@ -90,11 +90,11 @@ https://sepehr-proxy.samhoustonbot.workers.dev/sahar3
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="sahar4" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/saharbalkan.png",سحر بالکان
 https://sepehr-proxy.samhoustonbot.workers.dev/sahar4
 
-#EXTINF:-1 group-title="📡 سپهر" tvg-id="saharafghan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/saharAFGHANISTAN.png",سحر افغانستان
-https://sepehr-proxy.samhoustonbot.workers.dev/saharafghan
-
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="alkosar" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alkowsar.png",الکوثر
 https://sepehr-proxy.samhoustonbot.workers.dev/alkosar
+
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="saharafghan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/saharAFGHANISTAN.png",سحر افغانستان
+https://sepehr-proxy.samhoustonbot.workers.dev/saharafghan
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="hispan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/hispan-tv.png",هیسپان
 https://sepehr-proxy.samhoustonbot.workers.dev/hispan
@@ -248,6 +248,9 @@ https://sepehr-proxy.samhoustonbot.workers.dev/palestine
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="namaquran" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/nama_guran1.png",نما قرآن
 https://sepehr-proxy.samhoustonbot.workers.dev/namaquran
+
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="karoonplus" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/karoon.png",کارون
+https://sepehr-proxy.samhoustonbot.workers.dev/karoonplus
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="nesfejahan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/nesfejahan.png",نصف جهان
 https://sepehr-proxy.samhoustonbot.workers.dev/nesfejahan
