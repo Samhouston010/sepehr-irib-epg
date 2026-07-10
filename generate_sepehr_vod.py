@@ -3,10 +3,17 @@
 Streams are token-signed and short-lived, so entries point at a small
 Cloudflare Worker (sepehr-vod-proxy) that re-resolves a fresh URL per play.
 """
-import json
+import gzip
+import xml.etree.ElementTree as ET
 from pathlib import Path
+from xml.dom import minidom
 from requests_oauthlib import OAuth1
 import requests
+
+# ponytail: TiviMate's per-channel "Info" panel reads the *currently airing* XMLTV
+# programme for that tvg-id. VOD has no real airtime, so we fake one huge block
+# (2020-2035) that's always "now" -- good enough for a synopsis popup, not a real guide.
+EPG_START, EPG_STOP = "20200101000000 +0000", "20351231235959 +0000"
 
 API_BASE = "https://sepehrapi.sepehrtv.ir/beta/v0"
 CONSUMER_KEY = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
@@ -44,16 +51,18 @@ CATEGORIES = {
 # capped at the newest 50 -- 24k items across all 16 categories is too much for a
 # personal playlist, but "every movie" is a reasonable, bounded ask (621 items).
 FULL_CATEGORIES = {67}
-PAGES_PER_CATEGORY = 2  # ponytail: newest N pages only for capped categories
-PAGE_SIZE = 25
-FULL_PAGE_SIZE = 100  # fewer requests when pulling an entire category
+# ponytail: Sepehr's API silently drops `details` (cast/description) once page_size > 10 --
+# confirmed by testing the same item at page_size 10 (has it) vs 12 (doesn't). Capping the
+# request size, not the item count, is the only way to keep descriptions for every item.
+PAGE_SIZE = 10
+PAGES_PER_CATEGORY = 5  # 5 * 10 = newest 50 for capped categories
 
 auth = OAuth1(CONSUMER_KEY, CONSUMER_SECRET, signature_method="HMAC-SHA1")
 
 
 def fetch_category(cat_id):
     full = cat_id in FULL_CATEGORIES
-    page_size = FULL_PAGE_SIZE if full else PAGE_SIZE
+    page_size = PAGE_SIZE
     max_pages = 999 if full else PAGES_PER_CATEGORY
     items = []
     for page in range(1, max_pages + 1):
@@ -81,8 +90,39 @@ def _e(s):
     return str(s or "").replace('"', "'").strip()
 
 
+def build_epg_entry(tv, tvg_id, title, poster, it):
+    ch = ET.SubElement(tv, "channel", {"id": tvg_id})
+    ET.SubElement(ch, "display-name").text = title
+    if poster:
+        ET.SubElement(ch, "icon", {"src": poster})
+
+    pe = ET.SubElement(tv, "programme", {"start": EPG_START, "stop": EPG_STOP, "channel": tvg_id})
+    ET.SubElement(pe, "title", {"lang": "fa"}).text = title
+    desc = ((it.get("details") or {}).get("description") or "").strip()
+    if desc:
+        ET.SubElement(pe, "desc", {"lang": "fa"}).text = desc
+    if poster:
+        ET.SubElement(pe, "icon", {"src": poster})
+    year = (it.get("publishDate") or {}).get("start")
+    if year:
+        ET.SubElement(pe, "date").text = str(year)
+    for g in (it.get("genres") or [])[:3]:
+        if g.get("title"):
+            ET.SubElement(pe, "category", {"lang": "fa"}).text = g["title"]
+    for c in (it.get("countries") or [])[:2]:
+        if c.get("title"):
+            ET.SubElement(pe, "country", {"lang": "fa"}).text = c["title"]
+    age = (it.get("ageRating") or {}).get("description")
+    if age:
+        rt = ET.SubElement(pe, "rating")
+        ET.SubElement(rt, "value").text = age
+    if it.get("duration"):
+        ET.SubElement(pe, "length", {"units": "minutes"}).text = str(it.get("durationSeconds", 0) // 60 or "")
+
+
 def main():
     lines = ["#EXTM3U"]
+    tv = ET.Element("tv")
     total = 0
     seen_ids = set()  # a title can be listed under more than one category upstream
     for cat_id, name_fa in CATEGORIES.items():
@@ -95,17 +135,25 @@ def main():
                 continue
             seen_ids.add(vid)
             poster = it.get("poster") or ""
+            tvg_id = f"sepehrvod{vid}"
             if cat_id in CATEGORY_GROUPS:
                 group, label = CATEGORY_GROUPS[cat_id], title
             else:
                 group, label = GROUP, f"[{name_fa}] {title}"
             lines.append(
-                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group}",{label}'
+                f'#EXTINF:-1 tvg-id="{tvg_id}" tvg-logo="{poster}" group-title="{group}",{label}'
             )
             lines.append(f"{PROXY_BASE}/play/{vid}")
+            build_epg_entry(tv, tvg_id, title, poster, it)
             total += 1
     Path("sepehr_vod.m3u").write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Total: {total} VOD entries written to sepehr_vod.m3u")
+
+    xb = minidom.parseString(ET.tostring(tv, encoding="utf-8")).toprettyxml(indent="  ", encoding="utf-8")
+    Path("sepehr_vod.xml").write_bytes(xb)
+    with open("sepehr_vod.xml", "rb") as fi, gzip.open("sepehr_vod.xml.gz", "wb") as fo:
+        fo.writelines(fi)
+    print("EPG written: sepehr_vod.xml + sepehr_vod.xml.gz")
 
 
 if __name__ == "__main__":
