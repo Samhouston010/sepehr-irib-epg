@@ -12,7 +12,7 @@ API_BASE = "https://sepehrapi.sepehrtv.ir/beta/v0"
 CONSUMER_KEY = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
 CONSUMER_SECRET = "jtroj3hkyjlU06j7MtJimJ1I3PTTpx39"
 PROXY_BASE = "https://sepehr-vod-proxy.samhouston010.workers.dev"
-GROUP_PREFIX = "🎬 سپهر"
+GROUP = "🎬 سپهر VOD"  # single group -- one folder in the playlist, category kept as a title prefix
 
 # id -> Persian name, from vod/categories/5 (skip id 1572 "تازه‌ها", it's a rolling
 # duplicate of everything else already covered by ID_DESC ordering per category)
@@ -79,7 +79,7 @@ def main():
                 continue
             poster = it.get("poster") or ""
             lines.append(
-                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{GROUP_PREFIX} {name_fa}",{title}'
+                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{GROUP}",[{name_fa}] {title}'
             )
             lines.append(f"{PROXY_BASE}/play/{vid}")
             total += 1
