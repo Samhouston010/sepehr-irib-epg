@@ -12,7 +12,12 @@ API_BASE = "https://sepehrapi.sepehrtv.ir/beta/v0"
 CONSUMER_KEY = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
 CONSUMER_SECRET = "jtroj3hkyjlU06j7MtJimJ1I3PTTpx39"
 PROXY_BASE = "https://sepehr-vod-proxy.samhouston010.workers.dev"
-GROUP = "🎬 سپهر VOD"  # single group -- one folder in the playlist, category kept as a title prefix
+GROUP = "🎬 سپهر VOD"  # catch-all folder for everything except movies/series below
+# Movies and series get their own folders; category kept as a title prefix inside GROUP for the rest.
+CATEGORY_GROUPS = {
+    67: "🎬 سپهر VOD - فیلم سینمایی",
+    110: "🎬 سپهر VOD - سریال",
+}
 
 # id -> Persian name, from vod/categories/5 (skip id 1572 "تازه‌ها", it's a rolling
 # duplicate of everything else already covered by ID_DESC ordering per category)
@@ -90,8 +95,12 @@ def main():
                 continue
             seen_ids.add(vid)
             poster = it.get("poster") or ""
+            if cat_id in CATEGORY_GROUPS:
+                group, label = CATEGORY_GROUPS[cat_id], title
+            else:
+                group, label = GROUP, f"[{name_fa}] {title}"
             lines.append(
-                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{GROUP}",[{name_fa}] {title}'
+                f'#EXTINF:-1 tvg-logo="{poster}" group-title="{group}",{label}'
             )
             lines.append(f"{PROXY_BASE}/play/{vid}")
             total += 1
