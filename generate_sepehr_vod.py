@@ -5,15 +5,21 @@ Cloudflare Worker (sepehr-vod-proxy) that re-resolves a fresh URL per play.
 """
 import gzip
 import xml.etree.ElementTree as ET
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from xml.dom import minidom
 from requests_oauthlib import OAuth1
 import requests
 
 # ponytail: TiviMate's per-channel "Info" panel reads the *currently airing* XMLTV
-# programme for that tvg-id. VOD has no real airtime, so we fake one huge block
-# (2020-2035) that's always "now" -- good enough for a synopsis popup, not a real guide.
-EPG_START, EPG_STOP = "20200101000000 +0000", "20351231235959 +0000"
+# programme for that tvg-id. VOD has no real airtime, so we fake a block that's
+# always "now" -- a 15-year span (2020-2035) risked being treated as corrupt/sentinel
+# data by a stricter EPG parser, so use a plausible-looking 24h window instead,
+# re-centered on "now" every run (cron regenerates this file every 6h, well inside
+# the +/-12h margin).
+_now = datetime.now(timezone.utc)
+EPG_START = (_now - timedelta(hours=12)).strftime("%Y%m%d%H%M%S +0000")
+EPG_STOP = (_now + timedelta(hours=12)).strftime("%Y%m%d%H%M%S +0000")
 
 API_BASE = "https://sepehrapi.sepehrtv.ir/beta/v0"
 CONSUMER_KEY = "QKORpgyu9mpw3MZUUwu8Mm4qxYMsXq3L"
@@ -96,13 +102,14 @@ def build_epg_entry(tv, tvg_id, title, poster, it):
     if poster:
         ET.SubElement(ch, "icon", {"src": poster})
 
+    # ponytail: element order follows the XMLTV DTD (title, desc, date, category,
+    # country, length, icon, rating) -- a stricter parser than TiviMate's live-EPG
+    # path might reject/skip an out-of-order <programme>, so don't get lazy here.
     pe = ET.SubElement(tv, "programme", {"start": EPG_START, "stop": EPG_STOP, "channel": tvg_id})
     ET.SubElement(pe, "title", {"lang": "fa"}).text = title
     desc = ((it.get("details") or {}).get("description") or "").strip()
     if desc:
         ET.SubElement(pe, "desc", {"lang": "fa"}).text = desc
-    if poster:
-        ET.SubElement(pe, "icon", {"src": poster})
     year = (it.get("publishDate") or {}).get("start")
     if year:
         ET.SubElement(pe, "date").text = str(year)
@@ -112,12 +119,14 @@ def build_epg_entry(tv, tvg_id, title, poster, it):
     for c in (it.get("countries") or [])[:2]:
         if c.get("title"):
             ET.SubElement(pe, "country", {"lang": "fa"}).text = c["title"]
+    if it.get("duration"):
+        ET.SubElement(pe, "length", {"units": "minutes"}).text = str(it.get("durationSeconds", 0) // 60 or "")
+    if poster:
+        ET.SubElement(pe, "icon", {"src": poster})
     age = (it.get("ageRating") or {}).get("description")
     if age:
         rt = ET.SubElement(pe, "rating")
         ET.SubElement(rt, "value").text = age
-    if it.get("duration"):
-        ET.SubElement(pe, "length", {"units": "minutes"}).text = str(it.get("durationSeconds", 0) // 60 or "")
 
 
 def main():
