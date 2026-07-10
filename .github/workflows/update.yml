@@ -32,12 +32,15 @@ jobs:
       - name: Generate Sepehr live streams
         run: python generate_sepehr_live.py
         continue-on-error: true
+      - name: Generate Sepehr VOD catalog
+        run: python generate_sepehr_vod.py
+        continue-on-error: true
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           touch api_config.json
-          git add sepehr.m3u sepehr.xml sepehr.xml.gz channels.json api_config.json sepehr_live.m3u
+          git add sepehr.m3u sepehr.xml sepehr.xml.gz channels.json api_config.json sepehr_live.m3u sepehr_vod.m3u
           if git diff --staged --quiet; then
             echo "no changes"
           else
