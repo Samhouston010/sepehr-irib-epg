@@ -90,6 +90,17 @@ def main():
     dead  = {s for s, ok in results.items() if not ok}
     print(f"Alive: {len(alive)}  Dead: {len(dead)}")
 
+    # ponytail: a CDN-wide outage during this exact run makes every probe fail, which
+    # otherwise reads as "every channel just went dead simultaneously" and wipes
+    # channels.json to []. Bail out instead of writing a mass-removal when almost
+    # nothing survived the probe (happened 2026-07-12 -- ncdn.telewebion.ir was down
+    # site-wide, sync ran anyway, existing 66 channels -> 0).
+    if existing and len(alive & set(existing.keys())) < len(existing) * 0.3:
+        print(f"Only {len(alive & set(existing.keys()))}/{len(existing)} existing channels "
+              f"survived the probe -- looks like a CDN-wide outage, not mass channel death. "
+              f"Skipping write to avoid wiping channels.json.")
+        return
+
     new_channels = []
     for ch in channels:
         if ch["slug"] in alive:
