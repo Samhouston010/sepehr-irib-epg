@@ -314,11 +314,10 @@
   </programme>
   <programme start="20260717161521 +0000" stop="20260717162021 +0000" channel="IRIB1.ir"><title lang="fa">نماز جماعت مغرب</title>
   </programme>
-  <programme start="20260717162118 +0000" stop="20260717162918 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717162118 +0000" stop="20260717162818 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260717163002 +0000" stop="20260717171502 +0000" channel="IRIB1.ir"><title lang="fa">پایش</title>
-    <desc lang="fa">تهیه کننده : حسام کمالی 
-مجری :  ندا سپانلو</desc>
+  <programme start="20260717162818 +0000" stop="20260717171518 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+    <desc lang="fa">تهیه کننده : مومن نژاد</desc>
   </programme>
   <programme start="20260717171540 +0000" stop="20260717172940 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
@@ -332,8 +331,161 @@
   </programme>
   <programme start="20260717193609 +0000" stop="20260717194509 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260717194601 +0000" stop="20260717202901 +0000" channel="IRIB1.ir"><title lang="fa">آقای شهید ایران</title>
-    <desc lang="fa">تهیه کننده : یونس محمدی</desc>
+  <programme start="20260717194601 +0000" stop="20260717202901 +0000" channel="IRIB1.ir"><title lang="fa">رهنما</title>
+    <desc lang="fa">مجری مهدی قلی  - میهمان : مجید شاه حسینی رئیس فرهنگستان هنر جمهوری اسلامی ایران</desc>
+  </programme>
+  <programme start="20260717203000 +0000" stop="20260717203900 +0000" channel="IRIB1.ir"><title lang="fa">رهنما</title>
+    <desc lang="fa">مجری مهدی قلی  - میهمان : مجید شاه حسینی رئیس فرهنگستان هنر جمهوری اسلامی ایران</desc>
+  </programme>
+  <programme start="20260717203935 +0000" stop="20260717210935 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717203955 +0000" stop="20260717212655 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260717212717 +0000" stop="20260717213417 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717213426 +0000" stop="20260717222026 +0000" channel="IRIB1.ir"><title lang="fa">خوانش کتاب خون دلی که لعل شد</title>
+  </programme>
+  <programme start="20260717222035 +0000" stop="20260717222135 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717222227 +0000" stop="20260717230827 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه سرخدار</title>
+    <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
+بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
+  </programme>
+  <programme start="20260717230914 +0000" stop="20260717231514 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717231612 +0000" stop="20260717234812 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
+  </programme>
+  <programme start="20260717234900 +0000" stop="20260717235000 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717235000 +0000" stop="20260718000700 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
+  </programme>
+  <programme start="20260718000750 +0000" stop="20260718003750 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718000810 +0000" stop="20260718003710 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260718003740 +0000" stop="20260718004040 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718004052 +0000" stop="20260718012352 +0000" channel="IRIB1.ir"><title lang="fa">ایران از بالا</title>
+  </programme>
+  <programme start="20260718012428 +0000" stop="20260718012628 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718012700 +0000" stop="20260718020800 +0000" channel="IRIB1.ir"><title lang="fa">مستند غیر رسمی</title>
+  </programme>
+  <programme start="20260718020830 +0000" stop="20260718021030 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718021050 +0000" stop="20260718022650 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
+  </programme>
+  <programme start="20260718022705 +0000" stop="20260718022905 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718023000 +0000" stop="20260718023100 +0000" channel="IRIB1.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260718023100 +0000" stop="20260718023200 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718023245 +0000" stop="20260718042445 +0000" channel="IRIB1.ir"><title lang="fa">صبح بخیر ایران</title>
+    <desc lang="fa">تهیه کننده : مصطفی مژدهی فر
+مجری :حسام خضری- احمد قدوسی - سید مهدی مفیدی راد - زهرا محمودوند - زهرا رضا پور- اقبال واحدی</desc>
+  </programme>
+  <programme start="20260718042526 +0000" stop="20260718042926 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718043000 +0000" stop="20260718050000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار صبحگاهی</title>
+  </programme>
+  <programme start="20260718050000 +0000" stop="20260718050200 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718050226 +0000" stop="20260718050726 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه نمایشی رویان</title>
+  </programme>
+  <programme start="20260718050741 +0000" stop="20260718050841 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718050925 +0000" stop="20260718051325 +0000" channel="IRIB1.ir"><title lang="fa">مستندکوتاه</title>
+  </programme>
+  <programme start="20260718051405 +0000" stop="20260718051905 +0000" channel="IRIB1.ir"><title lang="fa">اساتید</title>
+  </programme>
+  <programme start="20260718051915 +0000" stop="20260718052915 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718053007 +0000" stop="20260718062707 +0000" channel="IRIB1.ir"><title lang="fa">ایران ما</title>
+  </programme>
+  <programme start="20260718062707 +0000" stop="20260718062907 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718063004 +0000" stop="20260718072604 +0000" channel="IRIB1.ir"><title lang="fa">ایران ما</title>
+  </programme>
+  <programme start="20260718072647 +0000" stop="20260718072947 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718073000 +0000" stop="20260718081700 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260718081722 +0000" stop="20260718084022 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718084100 +0000" stop="20260718084500 +0000" channel="IRIB1.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+  </programme>
+  <programme start="20260718084536 +0000" stop="20260718085136 +0000" channel="IRIB1.ir"><title lang="fa">نماز جماعت ظهر به امامت مقام معظم رهبری</title>
+  </programme>
+  <programme start="20260718085159 +0000" stop="20260718092159 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718085230 +0000" stop="20260718091130 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
+  </programme>
+  <programme start="20260718091155 +0000" stop="20260718091855 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718091858 +0000" stop="20260718100658 +0000" channel="IRIB1.ir"><title lang="fa">سیمای خانواده</title>
+    <desc lang="fa">تهیه کننده : روح الله رحیمی 
+مجری : فاطمه رضاپور - عاطفه علی نژاد - ندا ملکی</desc>
+  </programme>
+  <programme start="20260718100700 +0000" stop="20260718103000 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718103000 +0000" stop="20260718113000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار نیمروزی</title>
+  </programme>
+  <programme start="20260718113000 +0000" stop="20260718114200 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718114248 +0000" stop="20260718122948 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه سرخدار</title>
+    <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
+بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
+  </programme>
+  <programme start="20260718123036 +0000" stop="20260718124436 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718124459 +0000" stop="20260718133759 +0000" channel="IRIB1.ir"><title lang="fa">رهنما</title>
+    <desc lang="fa">مجری مهدی قلی</desc>
+  </programme>
+  <programme start="20260718133833 +0000" stop="20260718134433 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718134458 +0000" stop="20260718141358 +0000" channel="IRIB1.ir"><title lang="fa">پای درس استاد</title>
+  </programme>
+  <programme start="20260718141451 +0000" stop="20260718144451 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718141541 +0000" stop="20260718142241 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه نمایشی هم سلولی</title>
+  </programme>
+  <programme start="20260718142242 +0000" stop="20260718142942 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718143000 +0000" stop="20260718151100 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260718151133 +0000" stop="20260718152033 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718152104 +0000" stop="20260718152504 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه نمایشی چای</title>
+  </programme>
+  <programme start="20260718152554 +0000" stop="20260718152954 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718153000 +0000" stop="20260718160000 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
+    <desc lang="fa">تهیه کننده : مژدهی فر</desc>
+  </programme>
+  <programme start="20260718160000 +0000" stop="20260718161000 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718161000 +0000" stop="20260718161400 +0000" channel="IRIB1.ir"><title lang="fa">اذان مغرب به افق تهران</title>
+  </programme>
+  <programme start="20260718161432 +0000" stop="20260718161932 +0000" channel="IRIB1.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260718162029 +0000" stop="20260718162929 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718162955 +0000" stop="20260718171155 +0000" channel="IRIB1.ir"><title lang="fa">جریان</title>
+    <desc lang="fa">تهیه کننده : پسندیده 
+مجری : زادبر</desc>
+  </programme>
+  <programme start="20260718171155 +0000" stop="20260718172955 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718173000 +0000" stop="20260718183000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار شامگاهی</title>
+  </programme>
+  <programme start="20260718183000 +0000" stop="20260718184500 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718184507 +0000" stop="20260718193607 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه سرخدار</title>
+    <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
+بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
+  </programme>
+  <programme start="20260718193644 +0000" stop="20260718194544 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260716220500 +0000" stop="20260716220600 +0000" channel="IRIB2.ir"><title lang="fa">آگهی بازرگانی</title>
     <desc lang="fa">شبکه دو شبکه زندگی ، سایت ، www.tv2.ir  ، پست الکترونیک sima2@irib.ir ، تلفن گویا 27862000</desc>
@@ -3123,6 +3275,699 @@
   <programme start="20260717202835 +0000" stop="20260717202935 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
     <desc lang="fa">www.tv5.ir</desc>
   </programme>
+  <programme start="20260717203000 +0000" stop="20260717203400 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717203439 +0000" stop="20260717223439 +0000" channel="TehranTV.ir"><title lang="fa">سدره - زنده کربلای معلی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260717223439 +0000" stop="20260717223639 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717223714 +0000" stop="20260717224214 +0000" channel="TehranTV.ir"><title lang="fa">نماهنگ</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717224240 +0000" stop="20260717224340 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717224425 +0000" stop="20260717231425 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717224437 +0000" stop="20260717231437 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717224519 +0000" stop="20260717231519 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717224535 +0000" stop="20260717230635 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260717230644 +0000" stop="20260717233644 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717230656 +0000" stop="20260717233656 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717230738 +0000" stop="20260717233738 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717230754 +0000" stop="20260717232754 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260717232754 +0000" stop="20260717232854 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717232929 +0000" stop="20260717233029 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717233114 +0000" stop="20260717233214 +0000" channel="TehranTV.ir"><title lang="fa">آنونس هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717233241 +0000" stop="20260717233641 +0000" channel="TehranTV.ir"><title lang="fa">نماهنگ</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717233708 +0000" stop="20260717233908 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717233911 +0000" stop="20260718000911 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717233954 +0000" stop="20260717234654 +0000" channel="TehranTV.ir"><title lang="fa">بر کرانه نور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717234723 +0000" stop="20260717234823 +0000" channel="TehranTV.ir"><title lang="fa">دعای قبل از اذان</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717234913 +0000" stop="20260718001913 +0000" channel="TehranTV.ir"><title lang="fa">ذکر روز</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717235000 +0000" stop="20260717235400 +0000" channel="TehranTV.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717235408 +0000" stop="20260717235708 +0000" channel="TehranTV.ir"><title lang="fa">نماز صبح - حجت الاسلام عقیلی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260717235759 +0000" stop="20260718000059 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718000155 +0000" stop="20260718000255 +0000" channel="TehranTV.ir"><title lang="fa">صلوات</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718000332 +0000" stop="20260718003332 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718000414 +0000" stop="20260718001314 +0000" channel="TehranTV.ir"><title lang="fa">نائب الشهید - شهید احمد توکلی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718001411 +0000" stop="20260718001611 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه بعد از تشییع</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718001644 +0000" stop="20260718001744 +0000" channel="TehranTV.ir"><title lang="fa">روایت ها - ارسال عکس و فیلم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718001814 +0000" stop="20260718004814 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718001826 +0000" stop="20260718004826 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718001923 +0000" stop="20260718004923 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718001939 +0000" stop="20260718004439 +0000" channel="TehranTV.ir"><title lang="fa">پنجره هدایت</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718004517 +0000" stop="20260718005817 +0000" channel="TehranTV.ir"><title lang="fa">جهانگرد</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718005839 +0000" stop="20260718010139 +0000" channel="TehranTV.ir"><title lang="fa">مثبت بی نهایت</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718010143 +0000" stop="20260718010443 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718010524 +0000" stop="20260718013524 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718010536 +0000" stop="20260718013536 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718010633 +0000" stop="20260718013633 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718010649 +0000" stop="20260718012849 +0000" channel="TehranTV.ir"><title lang="fa">مستند 5 - ساحل کوسه با همثورث</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718012926 +0000" stop="20260718015926 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718012938 +0000" stop="20260718015938 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718013035 +0000" stop="20260718020035 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718013051 +0000" stop="20260718015051 +0000" channel="TehranTV.ir"><title lang="fa">مستند 5 - ساحل کوسه با همثورث - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718015051 +0000" stop="20260718015151 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718015226 +0000" stop="20260718022226 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718015238 +0000" stop="20260718022238 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718015335 +0000" stop="20260718022335 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718015351 +0000" stop="20260718021351 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رسم عاشقی - بازپخش قسمت 7</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718021351 +0000" stop="20260718024351 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718021403 +0000" stop="20260718024403 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718021500 +0000" stop="20260718024500 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718021516 +0000" stop="20260718022816 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رسم عاشقی - بازپخش قسمت 7 - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718022821 +0000" stop="20260718022921 +0000" channel="TehranTV.ir"><title lang="fa">آنونس هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718022948 +0000" stop="20260718025948 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718023000 +0000" stop="20260718023200 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718023228 +0000" stop="20260718023328 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718023413 +0000" stop="20260718023813 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718023906 +0000" stop="20260718030906 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718023922 +0000" stop="20260718025622 +0000" channel="TehranTV.ir"><title lang="fa">برای یک پرچم</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718025707 +0000" stop="20260718025807 +0000" channel="TehranTV.ir"><title lang="fa">آنونس هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718025834 +0000" stop="20260718025934 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718030019 +0000" stop="20260718030119 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718030210 +0000" stop="20260718033210 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718030222 +0000" stop="20260718033222 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718030319 +0000" stop="20260718033319 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718030335 +0000" stop="20260718032235 +0000" channel="TehranTV.ir"><title lang="fa">شهید سرمد</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718032316 +0000" stop="20260718032416 +0000" channel="TehranTV.ir"><title lang="fa">آنونس هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718032443 +0000" stop="20260718032543 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718032628 +0000" stop="20260718032728 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718032803 +0000" stop="20260718035803 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718032815 +0000" stop="20260718032915 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718032944 +0000" stop="20260718035944 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718033000 +0000" stop="20260718041000 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران</title>
+    <desc lang="fa">مدت 115 دقیقه-قالب:ترکیبی-گروه:اجتماعی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718041000 +0000" stop="20260718044000 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718041012 +0000" stop="20260718041112 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718041156 +0000" stop="20260718044156 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718041212 +0000" stop="20260718045212 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران - ادامه</title>
+    <desc lang="fa">مدت 115 دقیقه-قالب:ترکیبی-گروه:اجتماعی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718045212 +0000" stop="20260718052212 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718045224 +0000" stop="20260718045324 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718045408 +0000" stop="20260718052408 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718045424 +0000" stop="20260718052924 +0000" channel="TehranTV.ir"><title lang="fa">سلام تهران - ادامه</title>
+    <desc lang="fa">مدت 115 دقیقه-قالب:ترکیبی-گروه:اجتماعی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718053000 +0000" stop="20260718053200 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718053208 +0000" stop="20260718060208 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718053224 +0000" stop="20260718055924 +0000" channel="TehranTV.ir"><title lang="fa">گنجینه های هیرکانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718055945 +0000" stop="20260718060045 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718060120 +0000" stop="20260718063120 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718060132 +0000" stop="20260718063132 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718060159 +0000" stop="20260718063159 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718060215 +0000" stop="20260718062315 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718062324 +0000" stop="20260718065324 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718062336 +0000" stop="20260718062436 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718062448 +0000" stop="20260718065448 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718062504 +0000" stop="20260718064504 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718064504 +0000" stop="20260718064604 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718064649 +0000" stop="20260718064849 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718064907 +0000" stop="20260718071907 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718064919 +0000" stop="20260718065119 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718065128 +0000" stop="20260718072128 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718065144 +0000" stop="20260718072844 +0000" channel="TehranTV.ir"><title lang="fa">گفتگوی ویژه مردمی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718072941 +0000" stop="20260718073041 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718073129 +0000" stop="20260718080129 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718073141 +0000" stop="20260718073241 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718073302 +0000" stop="20260718073602 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718073639 +0000" stop="20260718080639 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718073655 +0000" stop="20260718080655 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه دکل - بازپخش فصل دوم- قسمت اول</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718080655 +0000" stop="20260718083655 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718080707 +0000" stop="20260718080907 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718080927 +0000" stop="20260718083927 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718080943 +0000" stop="20260718083443 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه دکل - بازپخش فصل دوم- قسمت اول - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718083504 +0000" stop="20260718083604 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718083649 +0000" stop="20260718083749 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718083842 +0000" stop="20260718090842 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718083935 +0000" stop="20260718090935 +0000" channel="TehranTV.ir"><title lang="fa">بر کرانه نور</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718084019 +0000" stop="20260718091019 +0000" channel="TehranTV.ir"><title lang="fa">ذکر روز</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718084100 +0000" stop="20260718084500 +0000" channel="TehranTV.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718084550 +0000" stop="20260718085150 +0000" channel="TehranTV.ir"><title lang="fa">نماز ظهر -حجت الاسلام فتاح</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718085233 +0000" stop="20260718085533 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718085609 +0000" stop="20260718092609 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718085653 +0000" stop="20260718085853 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718085856 +0000" stop="20260718085956 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718090000 +0000" stop="20260718093000 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718090012 +0000" stop="20260718093012 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718090109 +0000" stop="20260718093109 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718090125 +0000" stop="20260718095125 +0000" channel="TehranTV.ir"><title lang="fa">تا نیایش</title>
+    <desc lang="fa">مدت 51 دقیقه-قالب:گفتگو  محور-گروه:معارف-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718095207 +0000" stop="20260718100107 +0000" channel="TehranTV.ir"><title lang="fa">نائب الشهید - شهید احمد توکلی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718100204 +0000" stop="20260718100304 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718100308 +0000" stop="20260718100408 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718100453 +0000" stop="20260718100553 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718100628 +0000" stop="20260718103628 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718100640 +0000" stop="20260718100940 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718100952 +0000" stop="20260718103952 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718101008 +0000" stop="20260718103008 +0000" channel="TehranTV.ir"><title lang="fa">فجایع مهندسی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718103008 +0000" stop="20260718110008 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718103020 +0000" stop="20260718103320 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718103323 +0000" stop="20260718110323 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718103339 +0000" stop="20260718104339 +0000" channel="TehranTV.ir"><title lang="fa">فجایع مهندسی - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718104435 +0000" stop="20260718104535 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718104610 +0000" stop="20260718104710 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718104755 +0000" stop="20260718104955 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718105025 +0000" stop="20260718105125 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718105129 +0000" stop="20260718112129 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718105145 +0000" stop="20260718112445 +0000" channel="TehranTV.ir"><title lang="fa">تهرانگرد</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718112530 +0000" stop="20260718112830 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718112831 +0000" stop="20260718112931 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718112935 +0000" stop="20260718115935 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718112947 +0000" stop="20260718113247 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718113309 +0000" stop="20260718120309 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718113325 +0000" stop="20260718122325 +0000" channel="TehranTV.ir"><title lang="fa">سرزمین رنگین کمان</title>
+    <desc lang="fa">مدت 51 دقیقه-قالب:ترکیبی-گروه:خانواده-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718122416 +0000" stop="20260718122816 +0000" channel="TehranTV.ir"><title lang="fa">نماهنگ</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718122838 +0000" stop="20260718122938 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718122942 +0000" stop="20260718123642 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 1</title>
+    <desc lang="fa">مدت 7 دقیقه-قالب:ترکیبی-گروه:تهران و شهروندی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718123706 +0000" stop="20260718123906 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718123909 +0000" stop="20260718130909 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718123921 +0000" stop="20260718124421 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718124444 +0000" stop="20260718131444 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718124500 +0000" stop="20260718132500 +0000" channel="TehranTV.ir"><title lang="fa">به خانه برمی گردیم</title>
+    <desc lang="fa">مدت 73 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718132500 +0000" stop="20260718135500 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718132512 +0000" stop="20260718133012 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718133054 +0000" stop="20260718140054 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718133110 +0000" stop="20260718140310 +0000" channel="TehranTV.ir"><title lang="fa">به خانه برمی گردیم- ادامه</title>
+    <desc lang="fa">مدت 73 دقیقه-قالب:ترکیبی-گروه:تامین برنامه-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718140406 +0000" stop="20260718140506 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718140510 +0000" stop="20260718140610 +0000" channel="TehranTV.ir"><title lang="fa">آنونس هلال مهربانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718140637 +0000" stop="20260718141137 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718141205 +0000" stop="20260718141305 +0000" channel="TehranTV.ir"><title lang="fa">روایت ها - ارسال عکس و فیلم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718141335 +0000" stop="20260718144335 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718141347 +0000" stop="20260718141447 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718141532 +0000" stop="20260718144532 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718141548 +0000" stop="20260718144648 +0000" channel="TehranTV.ir"><title lang="fa">گنجینه های هیرکانی</title>
+    <desc lang="fa">مدت 31 دقیقه-قالب:مستند-گروه:تامین برنامه-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718144657 +0000" stop="20260718144757 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه رسم عاشقی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718144842 +0000" stop="20260718144942 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718145031 +0000" stop="20260718152031 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718145043 +0000" stop="20260718145243 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718145253 +0000" stop="20260718152253 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718145309 +0000" stop="20260718151509 +0000" channel="TehranTV.ir"><title lang="fa">هلال مهربانی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718151538 +0000" stop="20260718151738 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718151800 +0000" stop="20260718152100 +0000" channel="TehranTV.ir"><title lang="fa">نماهنگ</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718152115 +0000" stop="20260718155115 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718152127 +0000" stop="20260718152627 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718152726 +0000" stop="20260718155726 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718152742 +0000" stop="20260718154742 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رسم عاشقی - قسمت 8</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718154742 +0000" stop="20260718161742 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718154754 +0000" stop="20260718155054 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718155149 +0000" stop="20260718162149 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718155205 +0000" stop="20260718160505 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه رسم عاشقی - قسمت 8 - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718160523 +0000" stop="20260718160623 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718160658 +0000" stop="20260718163658 +0000" channel="TehranTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718160710 +0000" stop="20260718160910 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718160918 +0000" stop="20260718163918 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718161000 +0000" stop="20260718161500 +0000" channel="TehranTV.ir"><title lang="fa">اذان مغرب</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718161512 +0000" stop="20260718161812 +0000" channel="TehranTV.ir"><title lang="fa">نهضت ترتیل قرآن</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718161850 +0000" stop="20260718164850 +0000" channel="TehranTV.ir"><title lang="fa">برگی از یک نوشته</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718161928 +0000" stop="20260718162128 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718162146 +0000" stop="20260718162246 +0000" channel="TehranTV.ir"><title lang="fa">روایت ها - ارسال عکس و فیلم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718162316 +0000" stop="20260718165316 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718162328 +0000" stop="20260718162928 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718162944 +0000" stop="20260718165944 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718163000 +0000" stop="20260718173000 +0000" channel="TehranTV.ir"><title lang="fa">تهران 20</title>
+    <desc lang="fa">مدت 60 دقیقه-قالب:ترکیبی-گروه:تهران و شهروندی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718173000 +0000" stop="20260718173100 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718173104 +0000" stop="20260718173304 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718173334 +0000" stop="20260718174034 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 2</title>
+    <desc lang="fa">مدت 7 دقیقه-قالب:ترکیبی-گروه:تهران و شهروندی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718174103 +0000" stop="20260718181103 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718174115 +0000" stop="20260718174315 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718174332 +0000" stop="20260718181332 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718174348 +0000" stop="20260718180948 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718181034 +0000" stop="20260718184034 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718181046 +0000" stop="20260718181146 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718181203 +0000" stop="20260718184203 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718181219 +0000" stop="20260718183219 +0000" channel="TehranTV.ir"><title lang="fa">مسابقه پنج ستاره - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718183219 +0000" stop="20260718183319 +0000" channel="TehranTV.ir"><title lang="fa">آنونس مجموعه دکل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718183354 +0000" stop="20260718183454 +0000" channel="TehranTV.ir"><title lang="fa">روایت ها - ارسال عکس و فیلم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718183524 +0000" stop="20260718190524 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718183536 +0000" stop="20260718183736 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718183822 +0000" stop="20260718190822 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718183838 +0000" stop="20260718191738 +0000" channel="TehranTV.ir"><title lang="fa">گفتگوی ویژه مردمی</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718191738 +0000" stop="20260718194738 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718191750 +0000" stop="20260718191850 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718191901 +0000" stop="20260718192001 +0000" channel="TehranTV.ir"><title lang="fa">پویش بدرقه آقای شهید</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718192005 +0000" stop="20260718192205 +0000" channel="TehranTV.ir"><title lang="fa">میان برنامه روایت دلدادگی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718192213 +0000" stop="20260718195213 +0000" channel="TehranTV.ir"><title lang="fa">اوقات شرعی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718192253 +0000" stop="20260718192953 +0000" channel="TehranTV.ir"><title lang="fa">در شهر - 3</title>
+    <desc lang="fa">مدت 7 دقیقه-قالب:ترکیبی-گروه:تهران و شهروندی-رده سنی:عام</desc>
+  </programme>
+  <programme start="20260718193013 +0000" stop="20260718200013 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718193025 +0000" stop="20260718193325 +0000" channel="TehranTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718193414 +0000" stop="20260718200414 +0000" channel="TehranTV.ir"><title lang="fa">آرم تایم</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718193430 +0000" stop="20260718200130 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه دکل - فصل 2- قسمت 2</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718200228 +0000" stop="20260718203228 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718200240 +0000" stop="20260718200640 +0000" channel="TehranTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718200651 +0000" stop="20260718203651 +0000" channel="TehranTV.ir"><title lang="fa">آرم بین</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
+  <programme start="20260718200707 +0000" stop="20260718202707 +0000" channel="TehranTV.ir"><title lang="fa">مجموعه دکل - فصل 2- قسمت 2 - ادامه</title>
+    <desc lang="fa">راه های ارتباطی شبکه تهران سیما: 	تلفن گویا:27865000-فضای مجازی:@tehrantv</desc>
+  </programme>
+  <programme start="20260718202707 +0000" stop="20260718205707 +0000" channel="TehranTV.ir"><title lang="fa">فلش آگهی بازرگانی</title>
+    <desc lang="fa">www.tv5.ir</desc>
+  </programme>
   <programme start="20260716203000 +0000" stop="20260716223000 +0000" channel="VarzeshTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260716223000 +0000" stop="20260717003000 +0000" channel="VarzeshTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -3701,6 +4546,538 @@
   </programme>
   <programme start="20260717202913 +0000" stop="20260717205913 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
     <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260717203000 +0000" stop="20260717210000 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم مناسبتی - معلم بعثت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260717203030 +0000" stop="20260717211330 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /مجری:کیانا فرهی /میهمان:دکتر مریم صادقی جو /</desc>
+  </programme>
+  <programme start="20260717211352 +0000" stop="20260717211652 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260717211700 +0000" stop="20260717212000 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ اینجا ایرانه</title>
+  </programme>
+  <programme start="20260717212045 +0000" stop="20260717214845 +0000" channel="AmouzeshTV.ir"><title lang="fa">نان و هنر</title>
+    <desc lang="fa">تهیه کننده:کریم کرمی /کارگردان:کریم کرمی /</desc>
+  </programme>
+  <programme start="20260717214902 +0000" stop="20260717215202 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ملت شب ‌زنده‌دار - حاج مهدی رسولی</title>
+  </programme>
+  <programme start="20260717215229 +0000" stop="20260717215629 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260717215727 +0000" stop="20260717220027 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ایران - احسان یاسین</title>
+  </programme>
+  <programme start="20260717220030 +0000" stop="20260717221430 +0000" channel="AmouzeshTV.ir"><title lang="fa">نوای عاشقی</title>
+    <desc lang="fa">تهیه کننده:سید رضا جوکار نراق /کارگردان:سید رضا جوکار نراق /</desc>
+  </programme>
+  <programme start="20260717221524 +0000" stop="20260717221924 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - یذله خیبر شکن - اکبر ابراهیمی</title>
+  </programme>
+  <programme start="20260717221955 +0000" stop="20260717224955 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم مناسبتی - معلم بعثت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260717222025 +0000" stop="20260717225025 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید-تیزر دیوارنگاره</title>
+  </programme>
+  <programme start="20260717222117 +0000" stop="20260717222317 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260717222357 +0000" stop="20260717222857 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ایران با صلابت - محمود کریمی</title>
+  </programme>
+  <programme start="20260717222939 +0000" stop="20260717225939 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260717223000 +0000" stop="20260717231700 +0000" channel="AmouzeshTV.ir"><title lang="fa">آیینه عمر</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:حسین علیزاده /</desc>
+  </programme>
+  <programme start="20260717231736 +0000" stop="20260717232136 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - عمار داره این خاک</title>
+  </programme>
+  <programme start="20260717232137 +0000" stop="20260717232537 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260717232635 +0000" stop="20260717232935 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ خلیج فارس - حجت اشرف ‌زاده</title>
+  </programme>
+  <programme start="20260717232952 +0000" stop="20260717235952 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم مناسبتی - معلم بعثت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260717233022 +0000" stop="20260717233322 +0000" channel="AmouzeshTV.ir"><title lang="fa">طرح کلی اندیشه اسلامی</title>
+  </programme>
+  <programme start="20260717233334 +0000" stop="20260717233434 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - وقتی شهید در میدان جنگ (بیانات رهبری)</title>
+  </programme>
+  <programme start="20260717233440 +0000" stop="20260717233940 +0000" channel="AmouzeshTV.ir"><title lang="fa">محرم - طریق الحسین (ع) - بیانات حاج آقا مجتبی تهرا</title>
+  </programme>
+  <programme start="20260717234017 +0000" stop="20260717234917 +0000" channel="AmouzeshTV.ir"><title lang="fa">آفاق</title>
+    <desc lang="fa">تهیه کننده:علی حیدری /</desc>
+  </programme>
+  <programme start="20260717234923 +0000" stop="20260718001923 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم اذان صبح مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260717234930 +0000" stop="20260717235330 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان‌- سبزعلی</title>
+  </programme>
+  <programme start="20260717235400 +0000" stop="20260718000200 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای ناد علی</title>
+  </programme>
+  <programme start="20260718000201 +0000" stop="20260718003201 +0000" channel="AmouzeshTV.ir"><title lang="fa">ذکر روزهای هفته - شنبه</title>
+  </programme>
+  <programme start="20260718000251 +0000" stop="20260718000751 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز صبح - آیت الله سعیدی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718000823 +0000" stop="20260718001023 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - معلم بعثت</title>
+  </programme>
+  <programme start="20260718001040 +0000" stop="20260718004040 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن - باید برخاست</title>
+  </programme>
+  <programme start="20260718001055 +0000" stop="20260718005155 +0000" channel="AmouzeshTV.ir"><title lang="fa">چونان سرو</title>
+    <desc lang="fa">کارگردان:حنیف شهپرراد /</desc>
+  </programme>
+  <programme start="20260718005218 +0000" stop="20260718005818 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718005901 +0000" stop="20260718010301 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - نماهنگ باید برخاست</title>
+  </programme>
+  <programme start="20260718010355 +0000" stop="20260718013355 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید-تیزر دیوارنگاره</title>
+  </programme>
+  <programme start="20260718010447 +0000" stop="20260718013447 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718010500 +0000" stop="20260718012200 +0000" channel="AmouzeshTV.ir"><title lang="fa">از زمین خاکی</title>
+    <desc lang="fa">تهیه کننده:ایمان گودرزی /کارگردان:ایمان گودرزی /</desc>
+  </programme>
+  <programme start="20260718012257 +0000" stop="20260718012657 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - یذله خیبر شکن - اکبر ابراهیمی</title>
+  </programme>
+  <programme start="20260718012728 +0000" stop="20260718013228 +0000" channel="AmouzeshTV.ir"><title lang="fa">دیدار</title>
+  </programme>
+  <programme start="20260718013252 +0000" stop="20260718013452 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718013543 +0000" stop="20260718022043 +0000" channel="AmouzeshTV.ir"><title lang="fa">خشت بهشت - سری دوم</title>
+    <desc lang="fa">تهیه کننده:رامین حیدری فاروقی /کارگردان:رامین حیدری فاروقی /مجری:رامین حیدری فاروقی /</desc>
+  </programme>
+  <programme start="20260718022115 +0000" stop="20260718025115 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید-تیزر دیوارنگاره</title>
+  </programme>
+  <programme start="20260718022207 +0000" stop="20260718022907 +0000" channel="AmouzeshTV.ir"><title lang="fa">خون دلی که لعل شد</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718022930 +0000" stop="20260718023030 +0000" channel="AmouzeshTV.ir"><title lang="fa">سرود ملی جمهوری اسلامی</title>
+  </programme>
+  <programme start="20260718023032 +0000" stop="20260718030032 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718023040 +0000" stop="20260718030040 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718023127 +0000" stop="20260718024927 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویآموز</title>
+  </programme>
+  <programme start="20260718024953 +0000" stop="20260718025153 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ -نماهنگ زنگ آخر</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718025225 +0000" stop="20260718025625 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718025724 +0000" stop="20260718025924 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - به سوی حیدر</title>
+  </programme>
+  <programme start="20260718030019 +0000" stop="20260718033019 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم مناسبتی - معلم بعثت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718030035 +0000" stop="20260718031435 +0000" channel="AmouzeshTV.ir"><title lang="fa">نوای عاشقی</title>
+    <desc lang="fa">تهیه کننده:سید رضا جوکار نراق /کارگردان:سید رضا جوکار نراق /</desc>
+  </programme>
+  <programme start="20260718031529 +0000" stop="20260718031929 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نغمه ی ایران - ویژه رجز ایرانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718031941 +0000" stop="20260718032541 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718032624 +0000" stop="20260718032924 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ مشت ایران - مهدی صدیقی</title>
+  </programme>
+  <programme start="20260718032953 +0000" stop="20260718035953 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718033001 +0000" stop="20260718040001 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718033048 +0000" stop="20260718034648 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718034734 +0000" stop="20260718035634 +0000" channel="AmouzeshTV.ir"><title lang="fa">باشگاه ذهن</title>
+  </programme>
+  <programme start="20260718035644 +0000" stop="20260718040044 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - ایران جان - میلاد ابراهیمی</title>
+  </programme>
+  <programme start="20260718040051 +0000" stop="20260718042451 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718042453 +0000" stop="20260718042553 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718042608 +0000" stop="20260718042808 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - پرچم پیروز</title>
+  </programme>
+  <programme start="20260718042816 +0000" stop="20260718042916 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - نماهنگ حضور رهبری در حرم امام رضا (ع)</title>
+  </programme>
+  <programme start="20260718042930 +0000" stop="20260718043030 +0000" channel="AmouzeshTV.ir"><title lang="fa">صلوات خاصه امام رضا</title>
+  </programme>
+  <programme start="20260718043118 +0000" stop="20260718050118 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718043205 +0000" stop="20260718045405 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718045410 +0000" stop="20260718045610 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718045640 +0000" stop="20260718045940 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ خلیج فارس - حجت اشرف ‌زاده</title>
+  </programme>
+  <programme start="20260718045957 +0000" stop="20260718052957 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718050020 +0000" stop="20260718052320 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718052416 +0000" stop="20260718052616 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718052653 +0000" stop="20260718052853 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ شوکت جاودان - راغب</title>
+  </programme>
+  <programme start="20260718052945 +0000" stop="20260718055945 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718053032 +0000" stop="20260718053132 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718053145 +0000" stop="20260718060145 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718053153 +0000" stop="20260718053253 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718053346 +0000" stop="20260718060946 +0000" channel="AmouzeshTV.ir"><title lang="fa">هیچ وقت دیر نیست</title>
+    <desc lang="fa">مجری:محبوبه عزیزی /میهمان:مریم محبی (دکترای ارتباطات و کارشناس تربیت رسانه ) /</desc>
+  </programme>
+  <programme start="20260718061022 +0000" stop="20260718064022 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718061030 +0000" stop="20260718061130 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718061228 +0000" stop="20260718062828 +0000" channel="AmouzeshTV.ir"><title lang="fa">هیچ وقت دیر نیست</title>
+    <desc lang="fa">مجری:محبوبه عزیزی /میهمان:مریم محبی (دکترای ارتباطات و کارشناس تربیت رسانه ) /</desc>
+  </programme>
+  <programme start="20260718062913 +0000" stop="20260718065913 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718062930 +0000" stop="20260718063030 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718063043 +0000" stop="20260718063343 +0000" channel="AmouzeshTV.ir"><title lang="fa">میدان آموزش</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718063412 +0000" stop="20260718070412 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718063420 +0000" stop="20260718063620 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718063627 +0000" stop="20260718072427 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه اسنثنایی</title>
+  </programme>
+  <programme start="20260718072444 +0000" stop="20260718072844 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ایرانمونه</title>
+    <desc lang="fa">تهیه کننده:سید ضیاء محسنی /کارگردان:مجید پیرایش /</desc>
+  </programme>
+  <programme start="20260718072930 +0000" stop="20260718073030 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718073043 +0000" stop="20260718080043 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718073051 +0000" stop="20260718073151 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718073230 +0000" stop="20260718080030 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+  </programme>
+  <programme start="20260718080129 +0000" stop="20260718080729 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - اتحداک</title>
+  </programme>
+  <programme start="20260718080737 +0000" stop="20260718081237 +0000" channel="AmouzeshTV.ir"><title lang="fa">خون دلی که لعل شد</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718081307 +0000" stop="20260718081607 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - هفتمین دقیقه</title>
+  </programme>
+  <programme start="20260718081658 +0000" stop="20260718084658 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718081720 +0000" stop="20260718082420 +0000" channel="AmouzeshTV.ir"><title lang="fa">دوربین هفت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718082502 +0000" stop="20260718082702 +0000" channel="AmouzeshTV.ir"><title lang="fa">طرح کلی اندیشه اسلامی</title>
+  </programme>
+  <programme start="20260718082730 +0000" stop="20260718083230 +0000" channel="AmouzeshTV.ir"><title lang="fa">محرم - طریق الحسین (ع) - بیانات حاج آقا مجتبی تهرا</title>
+  </programme>
+  <programme start="20260718083307 +0000" stop="20260718084007 +0000" channel="AmouzeshTV.ir"><title lang="fa">آفاق</title>
+  </programme>
+  <programme start="20260718084023 +0000" stop="20260718091023 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم اذان ظهر مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718084030 +0000" stop="20260718084430 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان‌-  صبحدل</title>
+  </programme>
+  <programme start="20260718084458 +0000" stop="20260718085058 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز ظهر - آیت الله علوی گرگانی</title>
+  </programme>
+  <programme start="20260718085136 +0000" stop="20260718092136 +0000" channel="AmouzeshTV.ir"><title lang="fa">ذکر روزهای هفته - شنبه</title>
+  </programme>
+  <programme start="20260718085226 +0000" stop="20260718090026 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای ناد علی</title>
+  </programme>
+  <programme start="20260718090027 +0000" stop="20260718093027 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718090035 +0000" stop="20260718090235 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718090307 +0000" stop="20260718092107 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویآموز</title>
+  </programme>
+  <programme start="20260718092133 +0000" stop="20260718092633 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ایران با صلابت - محمود کریمی</title>
+  </programme>
+  <programme start="20260718092715 +0000" stop="20260718095715 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718092723 +0000" stop="20260718092923 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718093015 +0000" stop="20260718100015 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718093102 +0000" stop="20260718095602 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام</title>
+    <desc lang="fa">:زنده  /تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20260718095602 +0000" stop="20260718102602 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718095610 +0000" stop="20260718095810 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718095907 +0000" stop="20260718102407 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام</title>
+    <desc lang="fa">:زنده  /تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20260718102407 +0000" stop="20260718102607 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ابر قدرت ایرانه - کربلایی امیر برومند</title>
+  </programme>
+  <programme start="20260718102643 +0000" stop="20260718105643 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718102651 +0000" stop="20260718102951 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718102957 +0000" stop="20260718103057 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718103110 +0000" stop="20260718103410 +0000" channel="AmouzeshTV.ir"><title lang="fa">میدان آموزش</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718103439 +0000" stop="20260718105539 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718105558 +0000" stop="20260718105758 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ سرود مردم</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718105844 +0000" stop="20260718112844 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید-تیزر دیوارنگاره</title>
+  </programme>
+  <programme start="20260718105936 +0000" stop="20260718112936 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718105950 +0000" stop="20260718112250 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718112301 +0000" stop="20260718112701 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - یذله خیبر شکن - اکبر ابراهیمی</title>
+  </programme>
+  <programme start="20260718112732 +0000" stop="20260718112932 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718112952 +0000" stop="20260718115952 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718113020 +0000" stop="20260718120020 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718113107 +0000" stop="20260718115507 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718115603 +0000" stop="20260718115903 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718115911 +0000" stop="20260718122911 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718115930 +0000" stop="20260718122230 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718122242 +0000" stop="20260718122442 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ابر قدرت ایرانه - کربلایی امیر برومند</title>
+  </programme>
+  <programme start="20260718122518 +0000" stop="20260718122918 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718123016 +0000" stop="20260718130016 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718123103 +0000" stop="20260718125203 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718125257 +0000" stop="20260718125657 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - ایران جان - میلاد ابراهیمی</title>
+  </programme>
+  <programme start="20260718125704 +0000" stop="20260718125904 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718125944 +0000" stop="20260718132944 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم مناسبتی - معلم بعثت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718130000 +0000" stop="20260718132100 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718132150 +0000" stop="20260718132350 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - پرچم پیروز</title>
+  </programme>
+  <programme start="20260718132358 +0000" stop="20260718132658 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ خلیج فارس - حجت اشرف ‌زاده</title>
+  </programme>
+  <programme start="20260718132715 +0000" stop="20260718133015 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718133025 +0000" stop="20260718133125 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718133138 +0000" stop="20260718133438 +0000" channel="AmouzeshTV.ir"><title lang="fa">میدان آموزش</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718133507 +0000" stop="20260718135807 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718135831 +0000" stop="20260718140031 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ ابر قدرت ایرانه - کربلایی امیر برومند</title>
+  </programme>
+  <programme start="20260718140107 +0000" stop="20260718143107 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718140125 +0000" stop="20260718142225 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718142324 +0000" stop="20260718142724 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید -معلم بعثت</title>
+  </programme>
+  <programme start="20260718142823 +0000" stop="20260718145823 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید-تیزر دیوارنگاره</title>
+  </programme>
+  <programme start="20260718142915 +0000" stop="20260718145915 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718143002 +0000" stop="20260718150002 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718143010 +0000" stop="20260718143210 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718143248 +0000" stop="20260718144948 +0000" channel="AmouzeshTV.ir"><title lang="fa">از زمین خاکی</title>
+    <desc lang="fa">تهیه کننده:ایمان گودرزی /کارگردان:ایمان گودرزی /</desc>
+  </programme>
+  <programme start="20260718145045 +0000" stop="20260718145145 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - نماهنگ  جان ایران</title>
+  </programme>
+  <programme start="20260718145228 +0000" stop="20260718145428 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - گزارش معلم بعثت</title>
+  </programme>
+  <programme start="20260718145456 +0000" stop="20260718152456 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718145510 +0000" stop="20260718152310 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+  </programme>
+  <programme start="20260718152409 +0000" stop="20260718152509 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ هم صدای بصیرت - سالار عقیلی</title>
+  </programme>
+  <programme start="20260718152605 +0000" stop="20260718155605 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718152629 +0000" stop="20260718155429 +0000" channel="AmouzeshTV.ir"><title lang="fa">نان و هنر</title>
+    <desc lang="fa">تهیه کننده:کریم کرمی /کارگردان:کریم کرمی /</desc>
+  </programme>
+  <programme start="20260718155450 +0000" stop="20260718162450 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718155520 +0000" stop="20260718155720 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - تقطیع بیانات رهبری  1398</title>
+  </programme>
+  <programme start="20260718155744 +0000" stop="20260718155944 +0000" channel="AmouzeshTV.ir"><title lang="fa">طرح کلی اندیشه اسلامی</title>
+  </programme>
+  <programme start="20260718155958 +0000" stop="20260718160158 +0000" channel="AmouzeshTV.ir"><title lang="fa">محرم - طریق الحسین (ع) - بیانات حاج آقا مجتبی تهرا</title>
+  </programme>
+  <programme start="20260718160207 +0000" stop="20260718160907 +0000" channel="AmouzeshTV.ir"><title lang="fa">آفاق</title>
+  </programme>
+  <programme start="20260718160923 +0000" stop="20260718163923 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم اذان مغرب مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718160930 +0000" stop="20260718161330 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان-رحیم موذن زاده اردبیلی</title>
+  </programme>
+  <programme start="20260718161359 +0000" stop="20260718161959 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز مغرب - حجت الاسلام حسینی ایازی</title>
+  </programme>
+  <programme start="20260718162027 +0000" stop="20260718162827 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای ناد علی</title>
+  </programme>
+  <programme start="20260718162828 +0000" stop="20260718165828 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - تشییع مسجد جمکران از شب تا صبح</title>
+  </programme>
+  <programme start="20260718162856 +0000" stop="20260718165856 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - صندلی خالی</title>
+  </programme>
+  <programme start="20260718162932 +0000" stop="20260718164432 +0000" channel="AmouzeshTV.ir"><title lang="fa">حدیث کسا - علی فانی</title>
+  </programme>
+  <programme start="20260718164455 +0000" stop="20260718164755 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - مشت گره کرده</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718164823 +0000" stop="20260718165123 +0000" channel="AmouzeshTV.ir"><title lang="fa">خون دلی که لعل شد</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:محمدرضا سرشار /</desc>
+  </programme>
+  <programme start="20260718165135 +0000" stop="20260718165335 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ میدان به میدان</title>
+  </programme>
+  <programme start="20260718165416 +0000" stop="20260718172416 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718165432 +0000" stop="20260718170032 +0000" channel="AmouzeshTV.ir"><title lang="fa">دوربین هفت</title>
+  </programme>
+  <programme start="20260718170042 +0000" stop="20260718173042 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718170050 +0000" stop="20260718170150 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718170243 +0000" stop="20260718171643 +0000" channel="AmouzeshTV.ir"><title lang="fa">نوای عاشقی</title>
+    <desc lang="fa">تهیه کننده:سید رضا جوکار نراق /کارگردان:سید رضا جوکار نراق /</desc>
+  </programme>
+  <programme start="20260718171737 +0000" stop="20260718171937 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - پرچم پیروز</title>
+  </programme>
+  <programme start="20260718171945 +0000" stop="20260718172145 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - گزارش معلم بعثت</title>
+  </programme>
+  <programme start="20260718172208 +0000" stop="20260718172608 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ فریاد فتح - عبدالرضا هلالی</title>
+  </programme>
+  <programme start="20260718172609 +0000" stop="20260718175609 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718172617 +0000" stop="20260718172817 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718172824 +0000" stop="20260718175824 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718172911 +0000" stop="20260718180211 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718180309 +0000" stop="20260718183309 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718180326 +0000" stop="20260718182826 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدهوش - سری دوم</title>
+    <desc lang="fa">تهیه کننده:الهام ونکی /کارگردان:رضا ذوالانواری /مجری:محمدرضا کریمی /میهمان:مطهره بدر /</desc>
+  </programme>
+  <programme start="20260718182918 +0000" stop="20260718183018 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718183031 +0000" stop="20260718183331 +0000" channel="AmouzeshTV.ir"><title lang="fa">میدان آموزش</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718183400 +0000" stop="20260718190400 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718183408 +0000" stop="20260718183608 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718183658 +0000" stop="20260718185758 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718185842 +0000" stop="20260718192842 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن - باید برخاست</title>
+  </programme>
+  <programme start="20260718185857 +0000" stop="20260718185957 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ نبرد آخر در راه است - حسین طاهری</title>
+  </programme>
+  <programme start="20260718190006 +0000" stop="20260718192306 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718192341 +0000" stop="20260718192741 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - نماهنگ باید برخاست</title>
+  </programme>
+  <programme start="20260718192835 +0000" stop="20260718195835 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718192856 +0000" stop="20260718192956 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - بدرقه امام شهید 6</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20260718193009 +0000" stop="20260718195209 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718195231 +0000" stop="20260718195631 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ حماسی - یذله خیبر شکن - اکبر ابراهیمی</title>
+  </programme>
+  <programme start="20260718195702 +0000" stop="20260718195902 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - گزارش معلم بعثت</title>
+  </programme>
+  <programme start="20260718195915 +0000" stop="20260718202915 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718195930 +0000" stop="20260718202230 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه تلویزیونی - شب امتحان - ریاضی و آمار 3</title>
+  </programme>
+  <programme start="20260718202326 +0000" stop="20260718205326 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718202334 +0000" stop="20260718205334 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بعد</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718202421 +0000" stop="20260718202521 +0000" channel="AmouzeshTV.ir"><title lang="fa">رهبر شهید - وقتی شهید در میدان جنگ (بیانات رهبری)</title>
+  </programme>
+  <programme start="20260718202525 +0000" stop="20260718202725 +0000" channel="AmouzeshTV.ir"><title lang="fa">جنگ - نماهنگ شوکت جاودان - راغب</title>
+  </programme>
+  <programme start="20260718202818 +0000" stop="20260718205818 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم بازرگانی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20260718202826 +0000" stop="20260718205826 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
   </programme>
   <programme start="20260716203000 +0000" stop="20260716223000 +0000" channel="IRINN.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -4376,6 +5753,484 @@
     <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
   </programme>
   <programme start="20260717202945 +0000" stop="20260717205945 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code تکرار</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717202959 +0000" stop="20260717203159 +0000" channel="Nasim.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717202959 +0000" stop="20260717203159 +0000" channel="Nasim.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717203222 +0000" stop="20260717210222 +0000" channel="Nasim.ir"><title lang="fa">برنامک هرمز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717203243 +0000" stop="20260717210243 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717203334 +0000" stop="20260717210334 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717203406 +0000" stop="20260717210106 +0000" channel="Nasim.ir"><title lang="fa">مجموعه تلویزیونی  مثل هیچکس (خلاصه قسمتها)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717210147 +0000" stop="20260717213147 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717210219 +0000" stop="20260717213019 +0000" channel="Nasim.ir"><title lang="fa">مجموعه تلویزیونی  مثل هیچکس (خلاصه قسمتها)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717213100 +0000" stop="20260717220100 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717213118 +0000" stop="20260717213218 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717213312 +0000" stop="20260717213412 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code تکرار</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717213420 +0000" stop="20260717213520 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717213522 +0000" stop="20260717215922 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260717220010 +0000" stop="20260717220110 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717220112 +0000" stop="20260717221512 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260717221533 +0000" stop="20260717221633 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717221700 +0000" stop="20260717224700 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717221710 +0000" stop="20260717222510 +0000" channel="Nasim.ir"><title lang="fa">خلاصه بازیهای جام جهانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717222513 +0000" stop="20260717223113 +0000" channel="Nasim.ir"><title lang="fa">قلق  (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار</desc>
+  </programme>
+  <programme start="20260717223129 +0000" stop="20260717223229 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717223252 +0000" stop="20260717223352 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717223354 +0000" stop="20260717225754 +0000" channel="Nasim.ir"><title lang="fa">جزئیات</title>
+  </programme>
+  <programme start="20260717225754 +0000" stop="20260717232754 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717225808 +0000" stop="20260717225908 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717225910 +0000" stop="20260717230110 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code تکرار</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717230147 +0000" stop="20260717230447 +0000" channel="Nasim.ir"><title lang="fa">کلیپ خلیج فارس</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717230537 +0000" stop="20260717231037 +0000" channel="Nasim.ir"><title lang="fa">دیدنی ها - فوتبال (ویژه محرم)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717231132 +0000" stop="20260717231832 +0000" channel="Nasim.ir"><title lang="fa">قلق  (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار</desc>
+  </programme>
+  <programme start="20260717231906 +0000" stop="20260717233006 +0000" channel="Nasim.ir"><title lang="fa">اجاق (تکرار)</title>
+    <desc lang="fa">[موضوع]ویژه محرم</desc>
+  </programme>
+  <programme start="20260717233051 +0000" stop="20260717233151 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717233218 +0000" stop="20260718000218 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717233232 +0000" stop="20260718000232 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل اذان صبح</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717233252 +0000" stop="20260718000252 +0000" channel="Nasim.ir"><title lang="fa">آفرینش</title>
+  </programme>
+  <programme start="20260717233317 +0000" stop="20260717233717 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717233724 +0000" stop="20260717234024 +0000" channel="Nasim.ir"><title lang="fa">گردون (تکرار)</title>
+    <desc lang="fa">[موضوع]ویژه محرم</desc>
+  </programme>
+  <programme start="20260717234116 +0000" stop="20260717234316 +0000" channel="Nasim.ir"><title lang="fa">درناب</title>
+    <desc lang="fa">[تهیه کننده]حسام نام آور[کارگردان]حسام نام آور</desc>
+  </programme>
+  <programme start="20260717234322 +0000" stop="20260717234622 +0000" channel="Nasim.ir"><title lang="fa">مکتب حسین (ع)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717234625 +0000" stop="20260717234925 +0000" channel="Nasim.ir"><title lang="fa">نسیم وحی</title>
+    <desc lang="fa">[موضوع]اذان گاهی</desc>
+  </programme>
+  <programme start="20260717234930 +0000" stop="20260717235430 +0000" channel="Nasim.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260717235457 +0000" stop="20260717235957 +0000" channel="Nasim.ir"><title lang="fa">کلیپ دعا ناد علی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718000055 +0000" stop="20260718000955 +0000" channel="Nasim.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718001024 +0000" stop="20260718004024 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد اذان صبح</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718001035 +0000" stop="20260718001135 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718001137 +0000" stop="20260718003137 +0000" channel="Nasim.ir"><title lang="fa">قاب اقتدار</title>
+    <desc lang="fa">[موضوع]روایت حماسه های اجتماعی</desc>
+  </programme>
+  <programme start="20260718003155 +0000" stop="20260718010155 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718003213 +0000" stop="20260718003313 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718003336 +0000" stop="20260718003436 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718003438 +0000" stop="20260718012738 +0000" channel="Nasim.ir"><title lang="fa">از سرگذشت (تکرار)</title>
+    <desc lang="fa">[کارگردان]محمد پیوندی[مجری]علی اکبر قلیچ[میهمان]همسر شهید قهاری</desc>
+  </programme>
+  <programme start="20260718012822 +0000" stop="20260718015822 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718012849 +0000" stop="20260718013049 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718013147 +0000" stop="20260718020147 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718013157 +0000" stop="20260718022757 +0000" channel="Nasim.ir"><title lang="fa">مجموعه تلویزیونی  مثل هیچکس (خلاصه قسمتها)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718022819 +0000" stop="20260718025819 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718022831 +0000" stop="20260718022931 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718022954 +0000" stop="20260718023054 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718023056 +0000" stop="20260718024056 +0000" channel="Nasim.ir"><title lang="fa">بچه های دور کند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718024141 +0000" stop="20260718024241 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718024243 +0000" stop="20260718025743 +0000" channel="Nasim.ir"><title lang="fa">بچه های دور کند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718025837 +0000" stop="20260718032837 +0000" channel="Nasim.ir"><title lang="fa">برنامک هرمز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718025858 +0000" stop="20260718025958 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718030025 +0000" stop="20260718030125 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف آب</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718030154 +0000" stop="20260718033154 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718030204 +0000" stop="20260718032304 +0000" channel="Nasim.ir"><title lang="fa">پشت جلد</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718032355 +0000" stop="20260718035355 +0000" channel="Nasim.ir"><title lang="fa">برنامک ملی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718032423 +0000" stop="20260718032723 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+  </programme>
+  <programme start="20260718032821 +0000" stop="20260718032921 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف انرژی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718032953 +0000" stop="20260718035953 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718033014 +0000" stop="20260718033114 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718033116 +0000" stop="20260718035516 +0000" channel="Nasim.ir"><title lang="fa">جزئیات</title>
+  </programme>
+  <programme start="20260718035521 +0000" stop="20260718042521 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718035544 +0000" stop="20260718035744 +0000" channel="Nasim.ir"><title lang="fa">کلیپ زنده باد ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718035808 +0000" stop="20260718042808 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718035824 +0000" stop="20260718035924 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718035926 +0000" stop="20260718042026 +0000" channel="Nasim.ir"><title lang="fa">نمک نشنال</title>
+  </programme>
+  <programme start="20260718042118 +0000" stop="20260718045118 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718042139 +0000" stop="20260718042239 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718042306 +0000" stop="20260718042606 +0000" channel="Nasim.ir"><title lang="fa">کلیپ ناو دنا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718042654 +0000" stop="20260718042854 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code</title>
+  </programme>
+  <programme start="20260718042907 +0000" stop="20260718043007 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف انرژی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718043039 +0000" stop="20260718050039 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718043058 +0000" stop="20260718050058 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718043130 +0000" stop="20260718045530 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260718045618 +0000" stop="20260718045818 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718045841 +0000" stop="20260718051241 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260718051302 +0000" stop="20260718054302 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718051320 +0000" stop="20260718051420 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718051447 +0000" stop="20260718051547 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code تکرار</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718051629 +0000" stop="20260718051829 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+  </programme>
+  <programme start="20260718051927 +0000" stop="20260718052727 +0000" channel="Nasim.ir"><title lang="fa">خلاصه بازیهای جام جهانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718052730 +0000" stop="20260718052830 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف آب</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718052859 +0000" stop="20260718055859 +0000" channel="Nasim.ir"><title lang="fa">برنامک هرمز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718052920 +0000" stop="20260718055220 +0000" channel="Nasim.ir"><title lang="fa">روح الامین</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718055237 +0000" stop="20260718062237 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718055251 +0000" stop="20260718062251 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718055342 +0000" stop="20260718055542 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718055552 +0000" stop="20260718060552 +0000" channel="Nasim.ir"><title lang="fa">بچه های دور کند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718060637 +0000" stop="20260718060737 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718060753 +0000" stop="20260718062253 +0000" channel="Nasim.ir"><title lang="fa">بچه های دور کند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718062347 +0000" stop="20260718065347 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718062357 +0000" stop="20260718062457 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718062520 +0000" stop="20260718062720 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718062730 +0000" stop="20260718065530 +0000" channel="Nasim.ir"><title lang="fa">از سرگذشت (تکرار)</title>
+    <desc lang="fa">[کارگردان]محمد پیوندی[مجری]علی اکبر قلیچ[میهمان]همسر شهید قهاری</desc>
+  </programme>
+  <programme start="20260718065625 +0000" stop="20260718065725 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718065802 +0000" stop="20260718072202 +0000" channel="Nasim.ir"><title lang="fa">از سرگذشت (تکرار)</title>
+    <desc lang="fa">[کارگردان]محمد پیوندی[مجری]علی اکبر قلیچ[میهمان]همسر شهید قهاری</desc>
+  </programme>
+  <programme start="20260718072251 +0000" stop="20260718075251 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718072301 +0000" stop="20260718072801 +0000" channel="Nasim.ir"><title lang="fa">دافع الکتریک</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718072828 +0000" stop="20260718073028 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718073123 +0000" stop="20260718081623 +0000" channel="Nasim.ir"><title lang="fa">ایران ما</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718081623 +0000" stop="20260718081723 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718081750 +0000" stop="20260718084750 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718081822 +0000" stop="20260718082222 +0000" channel="Nasim.ir"><title lang="fa">امیر علم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718082312 +0000" stop="20260718085312 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718082357 +0000" stop="20260718085357 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل اذان ظهر</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718082417 +0000" stop="20260718085417 +0000" channel="Nasim.ir"><title lang="fa">آفرینش</title>
+  </programme>
+  <programme start="20260718082506 +0000" stop="20260718082806 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718082824 +0000" stop="20260718083124 +0000" channel="Nasim.ir"><title lang="fa">گردون (تکرار)</title>
+    <desc lang="fa">[موضوع]ویژه محرم</desc>
+  </programme>
+  <programme start="20260718083216 +0000" stop="20260718083416 +0000" channel="Nasim.ir"><title lang="fa">درناب</title>
+    <desc lang="fa">[تهیه کننده]حسام نام آور[کارگردان]حسام نام آور</desc>
+  </programme>
+  <programme start="20260718083422 +0000" stop="20260718083722 +0000" channel="Nasim.ir"><title lang="fa">مکتب حسین (ع)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718083725 +0000" stop="20260718084025 +0000" channel="Nasim.ir"><title lang="fa">نسیم وحی</title>
+    <desc lang="fa">[موضوع]اذان گاهی</desc>
+  </programme>
+  <programme start="20260718084030 +0000" stop="20260718084330 +0000" channel="Nasim.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718084428 +0000" stop="20260718085028 +0000" channel="Nasim.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718085051 +0000" stop="20260718085551 +0000" channel="Nasim.ir"><title lang="fa">کلیپ دعا ناد علی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718085649 +0000" stop="20260718085749 +0000" channel="Nasim.ir"><title lang="fa">ترنم ( اذنگاهی )</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718085803 +0000" stop="20260718092803 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد اذان ظهر</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718085814 +0000" stop="20260718092814 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718085859 +0000" stop="20260718090159 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718090235 +0000" stop="20260718095835 +0000" channel="Nasim.ir"><title lang="fa">مجموعه تلویزیونی  مثل هیچکس (خلاصه قسمتها)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718095857 +0000" stop="20260718102857 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718095913 +0000" stop="20260718100013 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف آب</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718100042 +0000" stop="20260718100242 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718100324 +0000" stop="20260718102724 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260718102812 +0000" stop="20260718102912 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718102953 +0000" stop="20260718104353 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا (تکرار)</title>
+    <desc lang="fa">[موضوع]تکرار[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20260718104414 +0000" stop="20260718111414 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718104424 +0000" stop="20260718104524 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718104551 +0000" stop="20260718104651 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718104714 +0000" stop="20260718111714 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718104732 +0000" stop="20260718110732 +0000" channel="Nasim.ir"><title lang="fa">شهر زیبا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718110739 +0000" stop="20260718113739 +0000" channel="Nasim.ir"><title lang="fa">برنامک هرمز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718110800 +0000" stop="20260718110900 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف انرژی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718110932 +0000" stop="20260718111132 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718111201 +0000" stop="20260718113701 +0000" channel="Nasim.ir"><title lang="fa">جزئیات</title>
+  </programme>
+  <programme start="20260718113706 +0000" stop="20260718120706 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718113738 +0000" stop="20260718113938 +0000" channel="Nasim.ir"><title lang="fa">کلیپ شوکت جاودان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718114031 +0000" stop="20260718121031 +0000" channel="Nasim.ir"><title lang="fa">برنامک ملی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718114053 +0000" stop="20260718114153 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718114248 +0000" stop="20260718114748 +0000" channel="Nasim.ir"><title lang="fa">مهمان آقا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718114804 +0000" stop="20260718121804 +0000" channel="Nasim.ir"><title lang="fa">برنامک هرمز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718114825 +0000" stop="20260718115025 +0000" channel="Nasim.ir"><title lang="fa">روایت مردمی با qr code تکرار</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718115102 +0000" stop="20260718115202 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جزئیات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718115229 +0000" stop="20260718122229 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718115245 +0000" stop="20260718115645 +0000" channel="Nasim.ir"><title lang="fa">امیر علم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718115735 +0000" stop="20260718115935 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718120030 +0000" stop="20260718122030 +0000" channel="Nasim.ir"><title lang="fa">قاب اقتدار</title>
+    <desc lang="fa">[موضوع]روایت حماسه های اجتماعی</desc>
+  </programme>
+  <programme start="20260718122048 +0000" stop="20260718125048 +0000" channel="Nasim.ir"><title lang="fa">برنامک نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718122058 +0000" stop="20260718122558 +0000" channel="Nasim.ir"><title lang="fa">دافع الکتریک</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718122625 +0000" stop="20260718123025 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718123035 +0000" stop="20260718125835 +0000" channel="Nasim.ir"><title lang="fa">از سرگذشت (تکرار)</title>
+    <desc lang="fa">[کارگردان]محمد پیوندی[مجری]علی اکبر قلیچ[میهمان]همسر شهید قهاری</desc>
+  </programme>
+  <programme start="20260718125930 +0000" stop="20260718130130 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718130135 +0000" stop="20260718132535 +0000" channel="Nasim.ir"><title lang="fa">از سرگذشت (تکرار)</title>
+    <desc lang="fa">[کارگردان]محمد پیوندی[مجری]علی اکبر قلیچ[میهمان]همسر شهید قهاری</desc>
+  </programme>
+  <programme start="20260718132624 +0000" stop="20260718135624 +0000" channel="Nasim.ir"><title lang="fa">برنامک ایران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718132709 +0000" stop="20260718132809 +0000" channel="Nasim.ir"><title lang="fa">مدیریت مصرف برق</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20260718132832 +0000" stop="20260718133032 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
     <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
   </programme>
   <programme start="20260716203000 +0000" stop="20260716223000 +0000" channel="NamayeshTV.ir"><title lang="fa">00:00 - 02:00</title>
@@ -9305,6 +11160,130 @@
   </programme>
   <programme start="20260717195000 +0000" stop="20260717201900 +0000" channel="IlamTV.ir"><title lang="fa">لالبه خیز</title>
   </programme>
+  <programme start="20260717201900 +0000" stop="20260717203100 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717201900 +0000" stop="20260717203100 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717203124 +0000" stop="20260717212124 +0000" channel="IlamTV.ir"><title lang="fa">مستند میراث کهن</title>
+  </programme>
+  <programme start="20260717212124 +0000" stop="20260717212524 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717212535 +0000" stop="20260717231835 +0000" channel="IlamTV.ir"><title lang="fa">سینمایی زمین سرگردان</title>
+  </programme>
+  <programme start="20260717231935 +0000" stop="20260717234235 +0000" channel="IlamTV.ir"><title lang="fa">مستند فراز</title>
+  </programme>
+  <programme start="20260717234316 +0000" stop="20260717234516 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717234536 +0000" stop="20260718000736 +0000" channel="IlamTV.ir"><title lang="fa">مناجات امیرالمومنین(ع)</title>
+  </programme>
+  <programme start="20260718000754 +0000" stop="20260718001854 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718001900 +0000" stop="20260718003400 +0000" channel="IlamTV.ir"><title lang="fa">اذان و نماز صبح</title>
+  </programme>
+  <programme start="20260718003425 +0000" stop="20260718004225 +0000" channel="IlamTV.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260718004259 +0000" stop="20260718013759 +0000" channel="IlamTV.ir"><title lang="fa">ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260718013819 +0000" stop="20260718014019 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718014109 +0000" stop="20260718021909 +0000" channel="IlamTV.ir"><title lang="fa">پدر امت</title>
+  </programme>
+  <programme start="20260718021945 +0000" stop="20260718022945 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718023041 +0000" stop="20260718030641 +0000" channel="IlamTV.ir"><title lang="fa">خاطره بازی با آقا جواد</title>
+  </programme>
+  <programme start="20260718030645 +0000" stop="20260718031245 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718031311 +0000" stop="20260718032711 +0000" channel="IlamTV.ir"><title lang="fa">مستند تاوان توهم</title>
+  </programme>
+  <programme start="20260718032809 +0000" stop="20260718032909 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718033000 +0000" stop="20260718042900 +0000" channel="IlamTV.ir"><title lang="fa">شوکیانه</title>
+  </programme>
+  <programme start="20260718042936 +0000" stop="20260718043136 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718043155 +0000" stop="20260718052155 +0000" channel="IlamTV.ir"><title lang="fa">مستند میراث کهن</title>
+  </programme>
+  <programme start="20260718052155 +0000" stop="20260718052755 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718052833 +0000" stop="20260718062133 +0000" channel="IlamTV.ir"><title lang="fa">رهنما</title>
+  </programme>
+  <programme start="20260718062220 +0000" stop="20260718062920 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718063007 +0000" stop="20260718071707 +0000" channel="IlamTV.ir"><title lang="fa">سریال سرخدار</title>
+  </programme>
+  <programme start="20260718071738 +0000" stop="20260718072938 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718073000 +0000" stop="20260718082600 +0000" channel="IlamTV.ir"><title lang="fa">بنه مال</title>
+  </programme>
+  <programme start="20260718082613 +0000" stop="20260718082913 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718083000 +0000" stop="20260718084000 +0000" channel="IlamTV.ir"><title lang="fa">باخبرنگاران</title>
+  </programme>
+  <programme start="20260718084000 +0000" stop="20260718085400 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718085400 +0000" stop="20260718091600 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی ظهر</title>
+  </programme>
+  <programme start="20260718091613 +0000" stop="20260718092113 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718092115 +0000" stop="20260718100215 +0000" channel="IlamTV.ir"><title lang="fa">مستند مسجد نشان</title>
+  </programme>
+  <programme start="20260718100227 +0000" stop="20260718100427 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718100515 +0000" stop="20260718101515 +0000" channel="IlamTV.ir"><title lang="fa">باخبرنگاران</title>
+  </programme>
+  <programme start="20260718101515 +0000" stop="20260718101915 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718101933 +0000" stop="20260718115633 +0000" channel="IlamTV.ir"><title lang="fa">فیلم تلویزیونی راه بهشت</title>
+  </programme>
+  <programme start="20260718115656 +0000" stop="20260718115956 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718120000 +0000" stop="20260718130100 +0000" channel="IlamTV.ir"><title lang="fa">آقای شهید</title>
+  </programme>
+  <programme start="20260718130111 +0000" stop="20260718132411 +0000" channel="IlamTV.ir"><title lang="fa">پرتوی از نور</title>
+  </programme>
+  <programme start="20260718132411 +0000" stop="20260718132911 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718133000 +0000" stop="20260718134800 +0000" channel="IlamTV.ir"><title lang="fa">اخبار عصرگاهی</title>
+  </programme>
+  <programme start="20260718134800 +0000" stop="20260718140000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718140000 +0000" stop="20260718144200 +0000" channel="IlamTV.ir"><title lang="fa">محفل انس با قرآن</title>
+  </programme>
+  <programme start="20260718144243 +0000" stop="20260718145743 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718145840 +0000" stop="20260718152140 +0000" channel="IlamTV.ir"><title lang="fa">هلال مهربانی</title>
+  </programme>
+  <programme start="20260718152215 +0000" stop="20260718152415 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718152500 +0000" stop="20260718161000 +0000" channel="IlamTV.ir"><title lang="fa">سیمای راهبران</title>
+  </programme>
+  <programme start="20260718161000 +0000" stop="20260718161700 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718161700 +0000" stop="20260718162800 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی مغرب</title>
+  </programme>
+  <programme start="20260718162842 +0000" stop="20260718162942 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718163000 +0000" stop="20260718164500 +0000" channel="IlamTV.ir"><title lang="fa">اخبار 20</title>
+  </programme>
+  <programme start="20260718164500 +0000" stop="20260718170000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718170000 +0000" stop="20260718180100 +0000" channel="IlamTV.ir"><title lang="fa">دروازه آسمان</title>
+  </programme>
+  <programme start="20260718180110 +0000" stop="20260718181310 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718181324 +0000" stop="20260718182724 +0000" channel="IlamTV.ir"><title lang="fa">مستند تاوان توهم</title>
+  </programme>
+  <programme start="20260718182822 +0000" stop="20260718182922 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718183000 +0000" stop="20260718185000 +0000" channel="IlamTV.ir"><title lang="fa">اخبار شبانگاهی</title>
+  </programme>
+  <programme start="20260718185000 +0000" stop="20260718190000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260718190048 +0000" stop="20260718194548 +0000" channel="IlamTV.ir"><title lang="fa">سریال سرخدار</title>
+  </programme>
+  <programme start="20260718194607 +0000" stop="20260718195107 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
   <programme start="20260716203000 +0000" stop="20260716223000 +0000" channel="BaranTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260716223000 +0000" stop="20260717003000 +0000" channel="BaranTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -10350,6 +12329,337 @@
   <programme start="20260717195000 +0000" stop="20260717202900 +0000" channel="DenaTV.ir"><title lang="fa">سینمایی (آتشفشان)</title>
     <desc lang="fa">آگهی بازرگانی</desc>
   </programme>
+  <programme start="20260717203000 +0000" stop="20260717211200 +0000" channel="DenaTV.ir"><title lang="fa">سینمایی آتشفشان</title>
+    <desc lang="fa">سینمایی آتشفشان</desc>
+  </programme>
+  <programme start="20260717211200 +0000" stop="20260717214200 +0000" channel="DenaTV.ir"><title lang="fa">وله گرافیکی شبکه دنا</title>
+  </programme>
+  <programme start="20260717211225 +0000" stop="20260717211525 +0000" channel="DenaTV.ir"><title lang="fa">کلیپ تجمعات مردمی</title>
+    <desc lang="fa">کلیپ تجمعات مردمی</desc>
+  </programme>
+  <programme start="20260717211600 +0000" stop="20260717212600 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما(تکرار)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260717212600 +0000" stop="20260717212900 +0000" channel="DenaTV.ir"><title lang="fa">تلنگر_صرفجویی در آب</title>
+    <desc lang="fa">تلنگر_صرفجویی در آب</desc>
+  </programme>
+  <programme start="20260717212900 +0000" stop="20260717213000 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سریال طوبی</title>
+    <desc lang="fa">هر روز ساعت 18 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260717213000 +0000" stop="20260717220500 +0000" channel="DenaTV.ir"><title lang="fa">ترکیبی پدر امت(ق 42)</title>
+    <desc lang="fa">ترکیبی پدر امت(ق 42)</desc>
+  </programme>
+  <programme start="20260717220500 +0000" stop="20260717223500 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260717220515 +0000" stop="20260717220915 +0000" channel="DenaTV.ir"><title lang="fa">بسته منتخب استانها</title>
+    <desc lang="fa">بسته منتخب استانها</desc>
+  </programme>
+  <programme start="20260717220915 +0000" stop="20260717221315 +0000" channel="DenaTV.ir"><title lang="fa">جمعیت_فرزندآوری</title>
+    <desc lang="fa">جمعیت_فرزندآوری</desc>
+  </programme>
+  <programme start="20260717221315 +0000" stop="20260717231315 +0000" channel="DenaTV.ir"><title lang="fa">میدان امام حسین(ع)بازپخش</title>
+    <desc lang="fa">میدان امام حسین(ع)بازپخش</desc>
+  </programme>
+  <programme start="20260717231315 +0000" stop="20260717234315 +0000" channel="DenaTV.ir"><title lang="fa">وله موشکی</title>
+  </programme>
+  <programme start="20260717231400 +0000" stop="20260717231500 +0000" channel="DenaTV.ir"><title lang="fa">روایت حضور مردم در خیابان</title>
+    <desc lang="fa">روایت حضور مردم در خیابان</desc>
+  </programme>
+  <programme start="20260717231530 +0000" stop="20260717235530 +0000" channel="DenaTV.ir"><title lang="fa">مستند لاله خیز(ق 11)</title>
+    <desc lang="fa">مستند لاله خیز(ق 11)</desc>
+  </programme>
+  <programme start="20260717235530 +0000" stop="20260718002530 +0000" channel="DenaTV.ir"><title lang="fa">وله گرافیکی شبکه دنا</title>
+  </programme>
+  <programme start="20260717235545 +0000" stop="20260717235745 +0000" channel="DenaTV.ir"><title lang="fa">سبک زندگی_بی توجهی به نماز</title>
+    <desc lang="fa">سبک زندگی_بی توجهی به نماز</desc>
+  </programme>
+  <programme start="20260717235800 +0000" stop="20260718000300 +0000" channel="DenaTV.ir"><title lang="fa">نسیم حیات</title>
+    <desc lang="fa">نسیم حیات</desc>
+  </programme>
+  <programme start="20260718000300 +0000" stop="20260718000500 +0000" channel="DenaTV.ir"><title lang="fa">رجز خوانی ماندگار رهبر شهید</title>
+    <desc lang="fa">رجز خوانی ماندگار رهبر شهید</desc>
+  </programme>
+  <programme start="20260718000500 +0000" stop="20260718002200 +0000" channel="DenaTV.ir"><title lang="fa">تا ملکوت(ویژه اذان صبح)</title>
+    <desc lang="fa">تا ملکوت(ویژه اذان صبح)</desc>
+  </programme>
+  <programme start="20260718002200 +0000" stop="20260718011900 +0000" channel="DenaTV.ir"><title lang="fa">جزء خوانی قرآن کریم(جزء 2)</title>
+    <desc lang="fa">جزء خوانی قرآن کریم(جزء 2)</desc>
+  </programme>
+  <programme start="20260718011900 +0000" stop="20260718012000 +0000" channel="DenaTV.ir"><title lang="fa">حدیث</title>
+    <desc lang="fa">حدیث</desc>
+  </programme>
+  <programme start="20260718012000 +0000" stop="20260718015000 +0000" channel="DenaTV.ir"><title lang="fa">تفسیر قرآن کریم(جوادی آملی،سوره فتح)</title>
+    <desc lang="fa">تفسیر قرآن کریم(جوادی آملی،سوره فتح)</desc>
+  </programme>
+  <programme start="20260718015000 +0000" stop="20260718015100 +0000" channel="DenaTV.ir"><title lang="fa">روایت حضور مردم در خیابان</title>
+    <desc lang="fa">روایت حضور مردم در خیابان</desc>
+  </programme>
+  <programme start="20260718015140 +0000" stop="20260718022440 +0000" channel="DenaTV.ir"><title lang="fa">حدیث سرو_آیت الله بروجردی</title>
+    <desc lang="fa">حدیث سرو_آیت الله بروجردی</desc>
+  </programme>
+  <programme start="20260718022440 +0000" stop="20260718025440 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718022500 +0000" stop="20260718022900 +0000" channel="DenaTV.ir"><title lang="fa">حجاب و عفاف معروف</title>
+    <desc lang="fa">حجاب و عفاف معروف</desc>
+  </programme>
+  <programme start="20260718022900 +0000" stop="20260718023000 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سریال طوبی</title>
+    <desc lang="fa">هر روز ساعت 18 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260718023000 +0000" stop="20260718023100 +0000" channel="DenaTV.ir"><title lang="fa">سرود ملی</title>
+    <desc lang="fa">سرود ملی</desc>
+  </programme>
+  <programme start="20260718023100 +0000" stop="20260718023900 +0000" channel="DenaTV.ir"><title lang="fa">دعای عهد</title>
+    <desc lang="fa">دعای عهد</desc>
+  </programme>
+  <programme start="20260718023930 +0000" stop="20260718030930 +0000" channel="DenaTV.ir"><title lang="fa">وله موشکی</title>
+  </programme>
+  <programme start="20260718024000 +0000" stop="20260718024300 +0000" channel="DenaTV.ir"><title lang="fa">کلیپ گزارش خبری</title>
+    <desc lang="fa">کلیپ گزارش خبری</desc>
+  </programme>
+  <programme start="20260718024300 +0000" stop="20260718031500 +0000" channel="DenaTV.ir"><title lang="fa">مستند داستان فوتبال</title>
+    <desc lang="fa">ویژه جام جهانی 2026</desc>
+  </programme>
+  <programme start="20260718031500 +0000" stop="20260718034500 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718031515 +0000" stop="20260718032515 +0000" channel="DenaTV.ir"><title lang="fa">صبح ظهور(ق 17)</title>
+    <desc lang="fa">صبح ظهور(ق 17)</desc>
+  </programme>
+  <programme start="20260718032515 +0000" stop="20260718035515 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718032530 +0000" stop="20260718032830 +0000" channel="DenaTV.ir"><title lang="fa">کلیپ گزارش مردمی</title>
+    <desc lang="fa">کلیپ گزارش مردمی</desc>
+  </programme>
+  <programme start="20260718032830 +0000" stop="20260718032930 +0000" channel="DenaTV.ir"><title lang="fa">تلنگر_صرفجویی در برق</title>
+    <desc lang="fa">تلنگر_صرفجویی در برق</desc>
+  </programme>
+  <programme start="20260718033000 +0000" stop="20260718042500 +0000" channel="DenaTV.ir"><title lang="fa">صبح دنا(زنده)</title>
+    <desc lang="fa">صبح دنا(زنده)</desc>
+  </programme>
+  <programme start="20260718042500 +0000" stop="20260718045500 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718042525 +0000" stop="20260718042625 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سریال طوبی</title>
+    <desc lang="fa">هر روز ساعت 18 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260718042625 +0000" stop="20260718042925 +0000" channel="DenaTV.ir"><title lang="fa">سرود حماسی</title>
+    <desc lang="fa">سرود حماسی</desc>
+  </programme>
+  <programme start="20260718043000 +0000" stop="20260718043100 +0000" channel="DenaTV.ir"><title lang="fa">صلوات خاصه امام رضا(ع)</title>
+    <desc lang="fa">صلوات خاصه امام رضا(ع)</desc>
+  </programme>
+  <programme start="20260718043115 +0000" stop="20260718043615 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما_تکرار</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718043615 +0000" stop="20260718052315 +0000" channel="DenaTV.ir"><title lang="fa">مستند مسابقه ضد گلوله(ق3 سری دوازدهم)</title>
+    <desc lang="fa">مستند مسابقه ضد گلوله(ق3 سری دوازدهم)</desc>
+  </programme>
+  <programme start="20260718052400 +0000" stop="20260718055400 +0000" channel="DenaTV.ir"><title lang="fa">وله موشکی</title>
+  </programme>
+  <programme start="20260718052430 +0000" stop="20260718052530 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سریال طوبی</title>
+    <desc lang="fa">هر روز ساعت 18 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260718052530 +0000" stop="20260718052830 +0000" channel="DenaTV.ir"><title lang="fa">تلنگر_صرفجویی در آب</title>
+    <desc lang="fa">تلنگر_صرفجویی در آب</desc>
+  </programme>
+  <programme start="20260718052900 +0000" stop="20260718053300 +0000" channel="DenaTV.ir"><title lang="fa">کلیپ گزارش خبری</title>
+    <desc lang="fa">کلیپ گزارش خبری</desc>
+  </programme>
+  <programme start="20260718053300 +0000" stop="20260718053600 +0000" channel="DenaTV.ir"><title lang="fa">جمعیت_فرزندآوری</title>
+    <desc lang="fa">جمعیت_فرزندآوری</desc>
+  </programme>
+  <programme start="20260718053600 +0000" stop="20260718062300 +0000" channel="DenaTV.ir"><title lang="fa">شادی خانه_تکرار</title>
+    <desc lang="fa">شادی خانه_تکرار</desc>
+  </programme>
+  <programme start="20260718062300 +0000" stop="20260718065300 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718062325 +0000" stop="20260718062525 +0000" channel="DenaTV.ir"><title lang="fa">تیزر فیلم های سینمایی هفتگی</title>
+    <desc lang="fa">تیزر فیلم های سینمایی هفتگی</desc>
+  </programme>
+  <programme start="20260718062525 +0000" stop="20260718062625 +0000" channel="DenaTV.ir"><title lang="fa">روایت حضور مردم در خیابان</title>
+    <desc lang="fa">روایت حضور مردم در خیابان</desc>
+  </programme>
+  <programme start="20260718062700 +0000" stop="20260718063000 +0000" channel="DenaTV.ir"><title lang="fa">حجاب و عفاف_موشن گرافیک</title>
+    <desc lang="fa">حجاب و عفاف_موشن گرافیک</desc>
+  </programme>
+  <programme start="20260718063000 +0000" stop="20260718071500 +0000" channel="DenaTV.ir"><title lang="fa">حونه مهر(زنده)</title>
+    <desc lang="fa">حونه مهر(زنده)</desc>
+  </programme>
+  <programme start="20260718071500 +0000" stop="20260718071600 +0000" channel="DenaTV.ir"><title lang="fa">تیزر دریافت آثار مردمی تجمعات</title>
+    <desc lang="fa">تیزر دریافت آثار مردمی تجمعات</desc>
+  </programme>
+  <programme start="20260718071600 +0000" stop="20260718073400 +0000" channel="DenaTV.ir"><title lang="fa">پویانمایی پسر نابغه(ق 8)</title>
+    <desc lang="fa">پویانمایی پسر نابغه(ق 8)</desc>
+  </programme>
+  <programme start="20260718073430 +0000" stop="20260718080430 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718073500 +0000" stop="20260718073600 +0000" channel="DenaTV.ir"><title lang="fa">میان برنامه صرفجویی در مصرف انرژی</title>
+    <desc lang="fa">میان برنامه صرفجویی در مصرف انرژی</desc>
+  </programme>
+  <programme start="20260718073600 +0000" stop="20260718074200 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما(تکرار)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718074200 +0000" stop="20260718074400 +0000" channel="DenaTV.ir"><title lang="fa">روایت حضور</title>
+    <desc lang="fa">روایت حضور</desc>
+  </programme>
+  <programme start="20260718074400 +0000" stop="20260718083500 +0000" channel="DenaTV.ir"><title lang="fa">رهنما(ک 33) خلجی</title>
+    <desc lang="fa">رهنما(ک 33) خلجی</desc>
+  </programme>
+  <programme start="20260718083500 +0000" stop="20260718083600 +0000" channel="DenaTV.ir"><title lang="fa">دعای قبل از اذان ظهر</title>
+    <desc lang="fa">دعای قبل از اذان ظهر</desc>
+  </programme>
+  <programme start="20260718083600 +0000" stop="20260718085400 +0000" channel="DenaTV.ir"><title lang="fa">ویژه اذان ظهر</title>
+    <desc lang="fa">ویژه اذان ظهر</desc>
+  </programme>
+  <programme start="20260718085400 +0000" stop="20260718090500 +0000" channel="DenaTV.ir"><title lang="fa">زیارت وارث</title>
+    <desc lang="fa">زیارت وارث</desc>
+  </programme>
+  <programme start="20260718090500 +0000" stop="20260718090700 +0000" channel="DenaTV.ir"><title lang="fa">سخنرانی آیت الله علوی گرگانی</title>
+    <desc lang="fa">سخنرانی آیت الله علوی گرگانی</desc>
+  </programme>
+  <programme start="20260718090730 +0000" stop="20260718093730 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718090800 +0000" stop="20260718094400 +0000" channel="DenaTV.ir"><title lang="fa">سریال سرخدار(ق 13)</title>
+    <desc lang="fa">سریال سرخدار(ق 13)</desc>
+  </programme>
+  <programme start="20260718094400 +0000" stop="20260718094900 +0000" channel="DenaTV.ir"><title lang="fa">گزارش روزانه مردم استان</title>
+    <desc lang="fa">گزارش روزانه مردم استان</desc>
+  </programme>
+  <programme start="20260718094900 +0000" stop="20260718095500 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما(تکرار)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718095500 +0000" stop="20260718095600 +0000" channel="DenaTV.ir"><title lang="fa">تیزر دریافت آثار مردمی تجمعات</title>
+    <desc lang="fa">تیزر دریافت آثار مردمی تجمعات</desc>
+  </programme>
+  <programme start="20260718095600 +0000" stop="20260718102800 +0000" channel="DenaTV.ir"><title lang="fa">مستند داستان فوتبال_کرواسی</title>
+    <desc lang="fa">ویژه جام جهانی 2026</desc>
+  </programme>
+  <programme start="20260718102800 +0000" stop="20260718103000 +0000" channel="DenaTV.ir"><title lang="fa">وله + آگهی</title>
+  </programme>
+  <programme start="20260718103000 +0000" stop="20260718115400 +0000" channel="DenaTV.ir"><title lang="fa">سینمایی آتشنشان(تکرار)+آگهی میان</title>
+    <desc lang="fa">سینمایی آتشنشان(تکرار)+آگهی میان</desc>
+  </programme>
+  <programme start="20260718115400 +0000" stop="20260718115600 +0000" channel="DenaTV.ir"><title lang="fa">موشن گرافیک جمعیت</title>
+    <desc lang="fa">موشن گرافیک جمعیت</desc>
+  </programme>
+  <programme start="20260718115600 +0000" stop="20260718120000 +0000" channel="DenaTV.ir"><title lang="fa">روایت مردم(تولیدی)</title>
+    <desc lang="fa">روایت مردم(تولیدی)</desc>
+  </programme>
+  <programme start="20260718120000 +0000" stop="20260718121200 +0000" channel="DenaTV.ir"><title lang="fa">جهان نما( مستند مجازی_تولیدی)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718121200 +0000" stop="20260718121300 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سریال طوبی</title>
+    <desc lang="fa">هر روز ساعت 18 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260718121300 +0000" stop="20260718121400 +0000" channel="DenaTV.ir"><title lang="fa">فتو کلیپ شهادت امام شهید</title>
+    <desc lang="fa">فتو کلیپ شهادت امام شهید</desc>
+  </programme>
+  <programme start="20260718121430 +0000" stop="20260718124430 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718121500 +0000" stop="20260718125900 +0000" channel="DenaTV.ir"><title lang="fa">انیمیشن با خانمان</title>
+    <desc lang="fa">انیمیشن با خانمان</desc>
+  </programme>
+  <programme start="20260718125900 +0000" stop="20260718130400 +0000" channel="DenaTV.ir"><title lang="fa">روایت مردم(تولیدی)</title>
+    <desc lang="fa">روایت مردم(تولیدی)</desc>
+  </programme>
+  <programme start="20260718130400 +0000" stop="20260718130500 +0000" channel="DenaTV.ir"><title lang="fa">میان برنامه صرفجویی در مصرف انرژی</title>
+    <desc lang="fa">میان برنامه صرفجویی در مصرف انرژی</desc>
+  </programme>
+  <programme start="20260718130500 +0000" stop="20260718131100 +0000" channel="DenaTV.ir"><title lang="fa">وله + آگهی</title>
+  </programme>
+  <programme start="20260718131100 +0000" stop="20260718131500 +0000" channel="DenaTV.ir"><title lang="fa">کلام رهبر شهید + کپشن</title>
+    <desc lang="fa">کلام رهبر شهید + کپشن</desc>
+  </programme>
+  <programme start="20260718131500 +0000" stop="20260718133000 +0000" channel="DenaTV.ir"><title lang="fa">اخبار استان(زنده)</title>
+    <desc lang="fa">رویدادهای مختلف استان</desc>
+  </programme>
+  <programme start="20260718133000 +0000" stop="20260718133300 +0000" channel="DenaTV.ir"><title lang="fa">مسیر بیانات اخلاقی رهبر شهید+وله شبکه</title>
+    <desc lang="fa">مسیر بیانات اخلاقی رهبر شهید+وله شبکه</desc>
+  </programme>
+  <programme start="20260718133300 +0000" stop="20260718141600 +0000" channel="DenaTV.ir"><title lang="fa">مستند الیگارشی_آمریکایی</title>
+    <desc lang="fa">مستند الیگارشی_آمریکایی</desc>
+  </programme>
+  <programme start="20260718141600 +0000" stop="20260718141700 +0000" channel="DenaTV.ir"><title lang="fa">صرفجویی در مصرف انرژی</title>
+    <desc lang="fa">صرفجویی در مصرف انرژی</desc>
+  </programme>
+  <programme start="20260718141700 +0000" stop="20260718142000 +0000" channel="DenaTV.ir"><title lang="fa">وله+آگهی</title>
+  </programme>
+  <programme start="20260718142000 +0000" stop="20260718151000 +0000" channel="DenaTV.ir"><title lang="fa">سریال طوبی(ق 26)+آگهی میان</title>
+    <desc lang="fa">سریال طوبی(ق 26)+آگهی میان</desc>
+  </programme>
+  <programme start="20260718151000 +0000" stop="20260718154000 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718151030 +0000" stop="20260718151130 +0000" channel="DenaTV.ir"><title lang="fa">منتخب استانها ویژه شهادت رهبری</title>
+    <desc lang="fa">منتخب استانها ویژه شهادت رهبری</desc>
+  </programme>
+  <programme start="20260718151200 +0000" stop="20260718152700 +0000" channel="DenaTV.ir"><title lang="fa">آیین وحدت_تولیدی  ضبطی</title>
+    <desc lang="fa">گزیده نماز جمعه شهرستانها</desc>
+  </programme>
+  <programme start="20260718152700 +0000" stop="20260718152800 +0000" channel="DenaTV.ir"><title lang="fa">تیزر دریافت آثار مردمی تجمعات</title>
+    <desc lang="fa">تیزر دریافت آثار مردمی تجمعات</desc>
+  </programme>
+  <programme start="20260718152800 +0000" stop="20260718155000 +0000" channel="DenaTV.ir"><title lang="fa">هلال مهربانی(ق 19)</title>
+    <desc lang="fa">هلال مهربانی(ق 19)</desc>
+  </programme>
+  <programme start="20260718155000 +0000" stop="20260718155100 +0000" channel="DenaTV.ir"><title lang="fa">دعای قبل از اذان مغرب</title>
+    <desc lang="fa">دعای قبل از اذان مغرب</desc>
+  </programme>
+  <programme start="20260718155100 +0000" stop="20260718161000 +0000" channel="DenaTV.ir"><title lang="fa">ویژه اذان مغرب</title>
+    <desc lang="fa">ویژه اذان مغرب</desc>
+  </programme>
+  <programme start="20260718161000 +0000" stop="20260718161300 +0000" channel="DenaTV.ir"><title lang="fa">دعای فرج</title>
+    <desc lang="fa">دعای فرج</desc>
+  </programme>
+  <programme start="20260718161340 +0000" stop="20260718164340 +0000" channel="DenaTV.ir"><title lang="fa">وله شبکه دنا</title>
+  </programme>
+  <programme start="20260718161400 +0000" stop="20260718162000 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما_تولیدی، ضبطی)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718162000 +0000" stop="20260718162600 +0000" channel="DenaTV.ir"><title lang="fa">وله+آگهی</title>
+  </programme>
+  <programme start="20260718162600 +0000" stop="20260718162700 +0000" channel="DenaTV.ir"><title lang="fa">تیزر دریافت آثار مردمی تجمعات</title>
+    <desc lang="fa">تیزر دریافت آثار مردمی تجمعات</desc>
+  </programme>
+  <programme start="20260718162700 +0000" stop="20260718163000 +0000" channel="DenaTV.ir"><title lang="fa">کلام رهبر شهید+وله</title>
+    <desc lang="fa">کلام رهبر شهید+وله</desc>
+  </programme>
+  <programme start="20260718163000 +0000" stop="20260718165000 +0000" channel="DenaTV.ir"><title lang="fa">اخبار استان(زنده)</title>
+    <desc lang="fa">رویدادهای مختلف استان</desc>
+  </programme>
+  <programme start="20260718165000 +0000" stop="20260718165600 +0000" channel="DenaTV.ir"><title lang="fa">دنا نما(تولیدی، ضبطی)</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718165600 +0000" stop="20260718170000 +0000" channel="DenaTV.ir"><title lang="fa">روایت مردم(تولیدی)</title>
+    <desc lang="fa">روایت مردم(تولیدی)</desc>
+  </programme>
+  <programme start="20260718170000 +0000" stop="20260718172400 +0000" channel="DenaTV.ir"><title lang="fa">مستند خراش</title>
+    <desc lang="fa">مستند خراش</desc>
+  </programme>
+  <programme start="20260718172400 +0000" stop="20260718172500 +0000" channel="DenaTV.ir"><title lang="fa">تیزر سینمایی آخرین جنگجوی قهرمان</title>
+    <desc lang="fa">امشب ساعت 23/20 از شبکه دنا</desc>
+  </programme>
+  <programme start="20260718172500 +0000" stop="20260718173700 +0000" channel="DenaTV.ir"><title lang="fa">جهان نما_تکرار</title>
+    <desc lang="fa">تولید فضای مجازی</desc>
+  </programme>
+  <programme start="20260718173700 +0000" stop="20260718173800 +0000" channel="DenaTV.ir"><title lang="fa">فتو کلیپ تشییع رهبر شهید</title>
+    <desc lang="fa">فتو کلیپ تشییع رهبر شهید</desc>
+  </programme>
+  <programme start="20260718173800 +0000" stop="20260718174500 +0000" channel="DenaTV.ir"><title lang="fa">وله + آگهی</title>
+  </programme>
+  <programme start="20260718174500 +0000" stop="20260718191800 +0000" channel="DenaTV.ir"><title lang="fa">میدان امام حسین(ع) زنده</title>
+    <desc lang="fa">میدان امام حسین(ع) زنده</desc>
+  </programme>
+  <programme start="20260718191800 +0000" stop="20260718192500 +0000" channel="DenaTV.ir"><title lang="fa">وله + آگهی</title>
+  </programme>
+  <programme start="20260718192500 +0000" stop="20260718192600 +0000" channel="DenaTV.ir"><title lang="fa">تیزر دریافت آثار مردمی تجمعات</title>
+    <desc lang="fa">تیزر دریافت آثار مردمی تجمعات</desc>
+  </programme>
+  <programme start="20260718192600 +0000" stop="20260718193000 +0000" channel="DenaTV.ir"><title lang="fa">کلام رهبر شهید+کپشن</title>
+    <desc lang="fa">کلام رهبر شهید+کپشن</desc>
+  </programme>
+  <programme start="20260718193000 +0000" stop="20260718194500 +0000" channel="DenaTV.ir"><title lang="fa">اخبار استان(زنده)</title>
+    <desc lang="fa">رویدادهای مختلف استان</desc>
+  </programme>
+  <programme start="20260718194500 +0000" stop="20260718195000 +0000" channel="DenaTV.ir"><title lang="fa">وله + آگهی</title>
+  </programme>
   <programme start="20260716203000 +0000" stop="20260716223000 +0000" channel="RoyaTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260716223000 +0000" stop="20260717003000 +0000" channel="RoyaTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -10922,9 +13232,7 @@
   </programme>
   <programme start="20260716221830 +0000" stop="20260716225230 +0000" channel="FarsTV.ir"><title lang="fa">سریال طوبی - 33</title>
   </programme>
-  <programme start="20260716225301 +0000" stop="20260716230101 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260716230141 +0000" stop="20260716231041 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260716225301 +0000" stop="20260716231001 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260716231052 +0000" stop="20260716234252 +0000" channel="FarsTV.ir"><title lang="fa">روایت فتح</title>
   </programme>
@@ -10960,7 +13268,7 @@
   </programme>
   <programme start="20260717022707 +0000" stop="20260717025707 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
   </programme>
-  <programme start="20260717022742 +0000" stop="20260717022942 +0000" channel="FarsTV.ir"><title lang="fa">ذکر ایام هفته</title>
+  <programme start="20260717022742 +0000" stop="20260717022942 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260717023000 +0000" stop="20260717023100 +0000" channel="FarsTV.ir"><title lang="fa">سرود جمهوری اسلامی</title>
   </programme>
@@ -11058,59 +13366,107 @@
   </programme>
   <programme start="20260717111154 +0000" stop="20260717114154 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260717111212 +0000" stop="20260717114212 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717111212 +0000" stop="20260717111712 +0000" channel="FarsTV.ir"><title lang="fa">سمر زمین مارگون</title>
   </programme>
-  <programme start="20260717114212 +0000" stop="20260717121212 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717111732 +0000" stop="20260717114732 +0000" channel="FarsTV.ir"><title lang="fa">تیزر</title>
   </programme>
-  <programme start="20260717121212 +0000" stop="20260717124212 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717111828 +0000" stop="20260717112228 +0000" channel="FarsTV.ir"><title lang="fa">توی دروازه</title>
   </programme>
-  <programme start="20260717124219 +0000" stop="20260717124619 +0000" channel="FarsTV.ir"><title lang="fa">دیدار امام شهید با دانشجویان دانشگاه شیراز</title>
+  <programme start="20260717112300 +0000" stop="20260717113900 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260717124715 +0000" stop="20260717133015 +0000" channel="FarsTV.ir"><title lang="fa">رهبری - در لباس سربازی</title>
+  <programme start="20260717113940 +0000" stop="20260717132640 +0000" channel="FarsTV.ir"><title lang="fa">فوتبال خاطره انگیز</title>
   </programme>
-  <programme start="20260717133106 +0000" stop="20260717133206 +0000" channel="FarsTV.ir"><title lang="fa">او برای ایران بود</title>
+  <programme start="20260717132720 +0000" stop="20260717135720 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260717133249 +0000" stop="20260717143249 +0000" channel="FarsTV.ir"><title lang="fa">سفر امام شهید به استان فارس</title>
+  <programme start="20260717132738 +0000" stop="20260717135738 +0000" channel="FarsTV.ir"><title lang="fa">تیزر</title>
   </programme>
-  <programme start="20260717143332 +0000" stop="20260717150332 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
+  <programme start="20260717132834 +0000" stop="20260717133434 +0000" channel="FarsTV.ir"><title lang="fa">بر فراز فارس</title>
   </programme>
-  <programme start="20260717143348 +0000" stop="20260717161448 +0000" channel="FarsTV.ir"><title lang="fa">فوتبال خاطره انگیز اسپانیا</title>
+  <programme start="20260717133448 +0000" stop="20260717140448 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
   </programme>
-  <programme start="20260717161533 +0000" stop="20260717164533 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
+  <programme start="20260717133501 +0000" stop="20260717133601 +0000" channel="FarsTV.ir"><title lang="fa">تصاویر مهیج ورزشی</title>
   </programme>
-  <programme start="20260717161549 +0000" stop="20260717162949 +0000" channel="FarsTV.ir"><title lang="fa">امت مبعوث - قسمت سوم</title>
+  <programme start="20260717133645 +0000" stop="20260717133745 +0000" channel="FarsTV.ir"><title lang="fa">تایم لپس</title>
   </programme>
-  <programme start="20260717163034 +0000" stop="20260717170034 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
+  <programme start="20260717133814 +0000" stop="20260717140814 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن برای پیام های بازرگانی</title>
   </programme>
-  <programme start="20260717163109 +0000" stop="20260717164809 +0000" channel="FarsTV.ir"><title lang="fa">دعای سمات</title>
+  <programme start="20260717133820 +0000" stop="20260717134220 +0000" channel="FarsTV.ir"><title lang="fa">پیام های بازرگانی</title>
   </programme>
-  <programme start="20260717164844 +0000" stop="20260717171844 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه قبل از اذان</title>
+  <programme start="20260717134229 +0000" stop="20260717141229 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
   </programme>
-  <programme start="20260717164926 +0000" stop="20260717165426 +0000" channel="FarsTV.ir"><title lang="fa">تلاوت قرآن کریم</title>
+  <programme start="20260717134242 +0000" stop="20260717134942 +0000" channel="FarsTV.ir"><title lang="fa">چهل تیکه</title>
   </programme>
-  <programme start="20260717165515 +0000" stop="20260717165915 +0000" channel="FarsTV.ir"><title lang="fa">اذان مغرب</title>
+  <programme start="20260717135002 +0000" stop="20260717142002 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
   </programme>
-  <programme start="20260717165923 +0000" stop="20260717170523 +0000" channel="FarsTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  <programme start="20260717135015 +0000" stop="20260717140015 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260717170538 +0000" stop="20260717171638 +0000" channel="FarsTV.ir"><title lang="fa">زیارت وارث</title>
+  <programme start="20260717140036 +0000" stop="20260717143036 +0000" channel="FarsTV.ir"><title lang="fa">هم اکنون - سینمایی</title>
   </programme>
-  <programme start="20260717171638 +0000" stop="20260717174638 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
+  <programme start="20260717140051 +0000" stop="20260717143151 +0000" channel="FarsTV.ir"><title lang="fa">سینمایی حقیقت باید گفته شود</title>
   </programme>
-  <programme start="20260717171713 +0000" stop="20260717174713 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
+  <programme start="20260717143222 +0000" stop="20260717150222 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن برای پیام های بازرگانی</title>
   </programme>
-  <programme start="20260717171729 +0000" stop="20260717173329 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717143228 +0000" stop="20260717143728 +0000" channel="FarsTV.ir"><title lang="fa">پیام های بازرگانی</title>
   </programme>
-  <programme start="20260717173400 +0000" stop="20260717175900 +0000" channel="FarsTV.ir"><title lang="fa">بخش خبری شامگاهی</title>
+  <programme start="20260717143753 +0000" stop="20260717151553 +0000" channel="FarsTV.ir"><title lang="fa">سینمایی حقیقت باید گفته شود</title>
   </programme>
-  <programme start="20260717175900 +0000" stop="20260717180600 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717151621 +0000" stop="20260717154621 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
   </programme>
-  <programme start="20260717180647 +0000" stop="20260717183147 +0000" channel="FarsTV.ir"><title lang="fa">گلبانگ وحدت</title>
+  <programme start="20260717151634 +0000" stop="20260717151834 +0000" channel="FarsTV.ir"><title lang="fa">شورای نگهبان</title>
   </programme>
-  <programme start="20260717183147 +0000" stop="20260717184247 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717151847 +0000" stop="20260717151947 +0000" channel="FarsTV.ir"><title lang="fa">مسجد وکیل</title>
   </programme>
-  <programme start="20260717184247 +0000" stop="20260717202847 +0000" channel="FarsTV.ir"><title lang="fa">باید برخاست - تجمع مردمی در فارس</title>
+  <programme start="20260717151951 +0000" stop="20260717154951 +0000" channel="FarsTV.ir"><title lang="fa">تیزر</title>
   </programme>
-  <programme start="20260717202900 +0000" stop="20260717205900 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260717152010 +0000" stop="20260717155010 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
+  </programme>
+  <programme start="20260717152045 +0000" stop="20260717153745 +0000" channel="FarsTV.ir"><title lang="fa">دعای سمات</title>
+  </programme>
+  <programme start="20260717153820 +0000" stop="20260717160820 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
+  </programme>
+  <programme start="20260717153855 +0000" stop="20260717153955 +0000" channel="FarsTV.ir"><title lang="fa">دوچهره</title>
+  </programme>
+  <programme start="20260717154026 +0000" stop="20260717154126 +0000" channel="FarsTV.ir"><title lang="fa">دلنوشته های امام زمان</title>
+  </programme>
+  <programme start="20260717154139 +0000" stop="20260717154439 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه قبل از اذان</title>
+  </programme>
+  <programme start="20260717154510 +0000" stop="20260717154910 +0000" channel="FarsTV.ir"><title lang="fa">تلاوت قرآن کریم</title>
+  </programme>
+  <programme start="20260717154915 +0000" stop="20260717155315 +0000" channel="FarsTV.ir"><title lang="fa">اذان مغرب</title>
+  </programme>
+  <programme start="20260717155401 +0000" stop="20260717160001 +0000" channel="FarsTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260717160016 +0000" stop="20260717161116 +0000" channel="FarsTV.ir"><title lang="fa">زیارت وارث</title>
+  </programme>
+  <programme start="20260717161116 +0000" stop="20260717164116 +0000" channel="FarsTV.ir"><title lang="fa">اوقات شرعی</title>
+  </programme>
+  <programme start="20260717161151 +0000" stop="20260717164151 +0000" channel="FarsTV.ir"><title lang="fa">تیزر</title>
+  </programme>
+  <programme start="20260717161210 +0000" stop="20260717164210 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن برای پیام های بازرگانی</title>
+  </programme>
+  <programme start="20260717161216 +0000" stop="20260717162216 +0000" channel="FarsTV.ir"><title lang="fa">پیام های بازرگانی</title>
+  </programme>
+  <programme start="20260717162249 +0000" stop="20260717165249 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
+  </programme>
+  <programme start="20260717162302 +0000" stop="20260717162902 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717163000 +0000" stop="20260717165500 +0000" channel="FarsTV.ir"><title lang="fa">بخش خبری شامگاهی</title>
+  </programme>
+  <programme start="20260717165500 +0000" stop="20260717170200 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717170247 +0000" stop="20260717172747 +0000" channel="FarsTV.ir"><title lang="fa">گلبانگ وحدت</title>
+  </programme>
+  <programme start="20260717172747 +0000" stop="20260717173847 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717173847 +0000" stop="20260717192447 +0000" channel="FarsTV.ir"><title lang="fa">باید برخاست - تجمع مردمی در فارس</title>
+  </programme>
+  <programme start="20260717192500 +0000" stop="20260717193000 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717193000 +0000" stop="20260717194500 +0000" channel="FarsTV.ir"><title lang="fa">بخش خبری شبانگاهی</title>
+  </programme>
+  <programme start="20260717194500 +0000" stop="20260717195800 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260717195802 +0000" stop="20260717202902 +0000" channel="FarsTV.ir"><title lang="fa">سینمایی رکود بزرگ</title>
   </programme>
   <programme start="20260716202959 +0000" stop="20260716214559 +0000" channel="QazvinTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
