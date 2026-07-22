@@ -218,28 +218,18 @@
   </programme>
   <programme start="20260721235400 +0000" stop="20260722001200 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
   </programme>
-  <programme start="20260722001244 +0000" stop="20260722004244 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
-  </programme>
   <programme start="20260722001314 +0000" stop="20260722012014 +0000" channel="IRIB1.ir"><title lang="fa">مستند غیر رسمی</title>
-  </programme>
-  <programme start="20260722012034 +0000" stop="20260722015034 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722012054 +0000" stop="20260722015754 +0000" channel="IRIB1.ir"><title lang="fa">ایران از بالا</title>
     <desc lang="fa">تهیه کننده : ایمان گودرزی</desc>
   </programme>
-  <programme start="20260722015826 +0000" stop="20260722022826 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
-  </programme>
   <programme start="20260722015923 +0000" stop="20260722021423 +0000" channel="IRIB1.ir"><title lang="fa">بی کرانه</title>
-  </programme>
-  <programme start="20260722021442 +0000" stop="20260722024442 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722021515 +0000" stop="20260722022715 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
   </programme>
   <programme start="20260722022810 +0000" stop="20260722022910 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722023000 +0000" stop="20260722023100 +0000" channel="IRIB1.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
-  </programme>
-  <programme start="20260722023100 +0000" stop="20260722030100 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722023159 +0000" stop="20260722042459 +0000" channel="IRIB1.ir"><title lang="fa">صبح بخیر ایران</title>
     <desc lang="fa">تهیه کننده : مصطفی مژدهی فر
@@ -273,8 +263,6 @@
   <programme start="20260722084521 +0000" stop="20260722085121 +0000" channel="IRIB1.ir"><title lang="fa">نماز جماعت ظهر</title>
     <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
   </programme>
-  <programme start="20260722085144 +0000" stop="20260722092144 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
-  </programme>
   <programme start="20260722085215 +0000" stop="20260722090615 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
   </programme>
   <programme start="20260722090641 +0000" stop="20260722091441 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
@@ -282,8 +270,6 @@
   <programme start="20260722091503 +0000" stop="20260722095903 +0000" channel="IRIB1.ir"><title lang="fa">سیمای خانواده</title>
     <desc lang="fa">تهیه کننده : روح الله رحیمی 
 مجری : فاطمه رضاپور - عاطفه علی نژاد - ندا ملکی</desc>
-  </programme>
-  <programme start="20260722095940 +0000" stop="20260722102940 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722100010 +0000" stop="20260722101410 +0000" channel="IRIB1.ir"><title lang="fa">مستند کوتاه شهید خامنه ای</title>
   </programme>
@@ -300,8 +286,6 @@
   <programme start="20260722122330 +0000" stop="20260722122930 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722123012 +0000" stop="20260722124412 +0000" channel="IRIB1.ir"><title lang="fa">مستند سر بند</title>
-  </programme>
-  <programme start="20260722124457 +0000" stop="20260722131457 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722124527 +0000" stop="20260722125827 +0000" channel="IRIB1.ir"><title lang="fa">بی کرانه</title>
   </programme>
@@ -327,8 +311,6 @@
   <programme start="20260722153000 +0000" stop="20260722160000 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
     <desc lang="fa">مجری : مهدی آقا موسوی طهرانی
 تهیه کننده : سید مهدی موسوی</desc>
-  </programme>
-  <programme start="20260722160000 +0000" stop="20260722163000 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260722160057 +0000" stop="20260722160557 +0000" channel="IRIB1.ir"><title lang="fa">تلاوت قرآن کریم</title>
     <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
@@ -357,9 +339,100 @@
     <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
 بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
   </programme>
-  <programme start="20260722193427 +0000" stop="20260722194427 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260722193427 +0000" stop="20260722202927 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260722194500 +0000" stop="20260722202900 +0000" channel="IRIB1.ir"><title lang="fa">آقای شهید ایران</title>
+  <programme start="20260722203000 +0000" stop="20260722211500 +0000" channel="IRIB1.ir"><title lang="fa">آقای شهید ایران</title>
+  </programme>
+  <programme start="20260722211500 +0000" stop="20260722214500 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260722211505 +0000" stop="20260722214105 +0000" channel="IRIB1.ir"><title lang="fa">ثریا</title>
+    <desc lang="fa">تهیه کننده : مقصودی</desc>
+  </programme>
+  <programme start="20260722214203 +0000" stop="20260722221203 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260722214223 +0000" stop="20260722222423 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260722222520 +0000" stop="20260722222920 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260722222938 +0000" stop="20260722231738 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی سرخدار</title>
+    <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
+بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
+  </programme>
+  <programme start="20260722231738 +0000" stop="20260722231838 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260722231932 +0000" stop="20260722235432 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
+  </programme>
+  <programme start="20260722235500 +0000" stop="20260723001500 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
+  </programme>
+  <programme start="20260723001539 +0000" stop="20260723001739 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723001808 +0000" stop="20260723003908 +0000" channel="IRIB1.ir"><title lang="fa">فراز</title>
+  </programme>
+  <programme start="20260723003955 +0000" stop="20260723004055 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723004115 +0000" stop="20260723012415 +0000" channel="IRIB1.ir"><title lang="fa">ایران از بالا</title>
+    <desc lang="fa">تهیه کننده : ایمان گودرزی</desc>
+  </programme>
+  <programme start="20260723012509 +0000" stop="20260723012609 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723012644 +0000" stop="20260723021144 +0000" channel="IRIB1.ir"><title lang="fa">سیمای خانواده</title>
+    <desc lang="fa">تهیه کننده : روح الله رحیمی 
+مجری : فاطمه رضاپور - عاطفه علی نژاد - ندا ملکی</desc>
+  </programme>
+  <programme start="20260723021224 +0000" stop="20260723024224 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723021254 +0000" stop="20260723022654 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
+  </programme>
+  <programme start="20260723022720 +0000" stop="20260723022920 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723023000 +0000" stop="20260723023100 +0000" channel="IRIB1.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260723023100 +0000" stop="20260723030100 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723023159 +0000" stop="20260723042159 +0000" channel="IRIB1.ir"><title lang="fa">صبح بخیر ایران</title>
+    <desc lang="fa">تهیه کننده : مصطفی مژدهی فر
+مجری :حسام خضری- احمد قدوسی - سید مهدی مفیدی راد - زهرا محمودوند - زهرا رضا پور- اقبال واحدی</desc>
+  </programme>
+  <programme start="20260723042237 +0000" stop="20260723042937 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723043000 +0000" stop="20260723050000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار صبحگاهی</title>
+    <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
+  </programme>
+  <programme start="20260723050000 +0000" stop="20260723052900 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723052959 +0000" stop="20260723072659 +0000" channel="IRIB1.ir"><title lang="fa">ایران ما</title>
+  </programme>
+  <programme start="20260723072731 +0000" stop="20260723072931 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723073000 +0000" stop="20260723081200 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260723081257 +0000" stop="20260723083057 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723083109 +0000" stop="20260723083909 +0000" channel="IRIB1.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
+  </programme>
+  <programme start="20260723083953 +0000" stop="20260723084053 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723084100 +0000" stop="20260723084500 +0000" channel="IRIB1.ir"><title lang="fa">اذان ظهر به افق تهران</title>
+  </programme>
+  <programme start="20260723084521 +0000" stop="20260723085121 +0000" channel="IRIB1.ir"><title lang="fa">نماز جماعت ظهر</title>
+    <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
+  </programme>
+  <programme start="20260723085144 +0000" stop="20260723092144 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723085215 +0000" stop="20260723090415 +0000" channel="IRIB1.ir"><title lang="fa">آفتاب شرقی</title>
+  </programme>
+  <programme start="20260723090439 +0000" stop="20260723091439 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723091503 +0000" stop="20260723100203 +0000" channel="IRIB1.ir"><title lang="fa">سیمای خانواده</title>
+    <desc lang="fa">تهیه کننده : روح الله رحیمی 
+مجری : فاطمه رضاپور - عاطفه علی نژاد - ندا ملکی</desc>
+  </programme>
+  <programme start="20260723100240 +0000" stop="20260723101940 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723102000 +0000" stop="20260723102600 +0000" channel="IRIB1.ir"><title lang="fa">آیتم نمایشی</title>
+  </programme>
+  <programme start="20260723102628 +0000" stop="20260723102928 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260721203000 +0000" stop="20260721223000 +0000" channel="IRIB2.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -1625,29 +1698,851 @@
   </programme>
   <programme start="20260722202855 +0000" stop="20260722202955 +0000" channel=""><title lang="fa">تیزر محرم شهر</title>
   </programme>
-  <programme start="20260721203000 +0000" stop="20260721223000 +0000" channel="SalamatTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260722083000 +0000" stop="20260722090000 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
   </programme>
-  <programme start="20260721223000 +0000" stop="20260722003000 +0000" channel="SalamatTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260722083000 +0000" stop="20260722090000 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
   </programme>
-  <programme start="20260722003000 +0000" stop="20260722023000 +0000" channel="SalamatTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260722203040 +0000" stop="20260722210240 +0000" channel="SalamatTV.ir"><title lang="fa">مجموعه تلویزیونی عملیات ویژه نجات</title>
+    <desc lang="fa">[مدت] 32:53</desc>
   </programme>
-  <programme start="20260722023000 +0000" stop="20260722043000 +0000" channel="SalamatTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260722210333 +0000" stop="20260722210433 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
   </programme>
-  <programme start="20260722043000 +0000" stop="20260722063000 +0000" channel="SalamatTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260722210451 +0000" stop="20260722210551 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
   </programme>
-  <programme start="20260722063000 +0000" stop="20260722083000 +0000" channel="SalamatTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260722210618 +0000" stop="20260722210718 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
   </programme>
-  <programme start="20260722083000 +0000" stop="20260722103000 +0000" channel="SalamatTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260722210721 +0000" stop="20260722211021 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - علیرضا افتخاری-تو می آیی</title>
+    <desc lang="fa">[مدت] 03:42[خواننده]علیرضا افتخاری</desc>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722123000 +0000" channel="SalamatTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260722211103 +0000" stop="20260722211403 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-کمک های اولیه در سوختگی ها</title>
+    <desc lang="fa">[مدت] 03:00</desc>
   </programme>
-  <programme start="20260722123000 +0000" stop="20260722143000 +0000" channel="SalamatTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260722211403 +0000" stop="20260722211503 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-علیرضا قربانی (بی گناه)</title>
+    <desc lang="fa">[مدت] 01:29</desc>
   </programme>
-  <programme start="20260722143000 +0000" stop="20260722163000 +0000" channel="SalamatTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260722211532 +0000" stop="20260722212532 +0000" channel="SalamatTV.ir"><title lang="fa">تا پای جان</title>
+    <desc lang="fa">[مدت] 10:04</desc>
   </programme>
-  <programme start="20260722163000 +0000" stop="20260722183000 +0000" channel="SalamatTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260722212536 +0000" stop="20260722215536 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:13</desc>
   </programme>
-  <programme start="20260722183000 +0000" stop="20260722202900 +0000" channel="SalamatTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260722212549 +0000" stop="20260722212949 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260722213039 +0000" stop="20260722213239 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-احیای قلبی و ریوی</title>
+    <desc lang="fa">[مدت] 02:33</desc>
+  </programme>
+  <programme start="20260722213312 +0000" stop="20260722220312 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260722213319 +0000" stop="20260722213419 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260722213438 +0000" stop="20260722220038 +0000" channel="SalamatTV.ir"><title lang="fa">سلامتکده</title>
+    <desc lang="fa">[مدت] 26:41</desc>
+  </programme>
+  <programme start="20260722220119 +0000" stop="20260722223119 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260722220211 +0000" stop="20260722220311 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260722220338 +0000" stop="20260722220438 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260722220441 +0000" stop="20260722220541 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-محمد معتمدی(باران که می بارد)</title>
+    <desc lang="fa">[مدت] 01:28</desc>
+  </programme>
+  <programme start="20260722220609 +0000" stop="20260722220809 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-مسمومیت فقط خوردن مواد سمی نیست</title>
+    <desc lang="fa">[مدت] 02:03</desc>
+  </programme>
+  <programme start="20260722220812 +0000" stop="20260722221012 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-کمک های اولیه در کنترل خون ریزی</title>
+    <desc lang="fa">[مدت] 02:31</desc>
+  </programme>
+  <programme start="20260722221043 +0000" stop="20260722224043 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260722221123 +0000" stop="20260722224123 +0000" channel="SalamatTV.ir"><title lang="fa">شفا - منظور از بارداری سالم در طب ایرانی چیست؟</title>
+    <desc lang="fa">[مدت] 30:40</desc>
+  </programme>
+  <programme start="20260722224203 +0000" stop="20260722224303 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260722224321 +0000" stop="20260722231321 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260722224413 +0000" stop="20260722224513 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260722224552 +0000" stop="20260722224652 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-قاسم افشار(وقف پرنده ها)</title>
+    <desc lang="fa">[مدت] 01:16</desc>
+  </programme>
+  <programme start="20260722224708 +0000" stop="20260722225008 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-کمک های اولیه در سوختگی ها</title>
+    <desc lang="fa">[مدت] 03:00</desc>
+  </programme>
+  <programme start="20260722225008 +0000" stop="20260722232008 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260722225015 +0000" stop="20260722225115 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260722225134 +0000" stop="20260722232134 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260722225214 +0000" stop="20260722232414 +0000" channel="SalamatTV.ir"><title lang="fa">رازداران - دکتر نوربالا</title>
+    <desc lang="fa">[مدت] 32:35</desc>
+  </programme>
+  <programme start="20260722232449 +0000" stop="20260722232549 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260722232616 +0000" stop="20260722235616 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260722232708 +0000" stop="20260722232808 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260722232811 +0000" stop="20260722232911 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-علیرضا افتخاری(اگر بگذارد)</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260722232930 +0000" stop="20260722235930 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260722232944 +0000" stop="20260722234344 +0000" channel="SalamatTV.ir"><title lang="fa">تا پای جان</title>
+    <desc lang="fa">[مدت] 14:10</desc>
+  </programme>
+  <programme start="20260722234354 +0000" stop="20260723001354 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260722234408 +0000" stop="20260722234508 +0000" channel="SalamatTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">[مدت] 01:28</desc>
+  </programme>
+  <programme start="20260722234536 +0000" stop="20260723001536 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260722234546 +0000" stop="20260722234946 +0000" channel="SalamatTV.ir"><title lang="fa">تلاوت</title>
+    <desc lang="fa">[مدت] 04:43</desc>
+  </programme>
+  <programme start="20260722235029 +0000" stop="20260722235129 +0000" channel="SalamatTV.ir"><title lang="fa">ذکر روز هفته</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260722235130 +0000" stop="20260722235530 +0000" channel="SalamatTV.ir"><title lang="fa">اذان- اذان صبح مؤذن حسینعلی شریف</title>
+    <desc lang="fa">[مدت] 04:03</desc>
+  </programme>
+  <programme start="20260722235533 +0000" stop="20260723000433 +0000" channel="SalamatTV.ir"><title lang="fa">نماز جماعت-نماز صبح</title>
+    <desc lang="fa">[مدت] 09:36</desc>
+  </programme>
+  <programme start="20260723000509 +0000" stop="20260723000609 +0000" channel="SalamatTV.ir"><title lang="fa">دعا - سلامتی امام زمان عج - با صدای علی فانی</title>
+    <desc lang="fa">[مدت] 01:30</desc>
+  </programme>
+  <programme start="20260723000639 +0000" stop="20260723003639 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723000649 +0000" stop="20260723001749 +0000" channel="SalamatTV.ir"><title lang="fa">تا پای جان</title>
+    <desc lang="fa">[مدت] 11:48</desc>
+  </programme>
+  <programme start="20260723001837 +0000" stop="20260723004837 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723001844 +0000" stop="20260723001944 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:04</desc>
+  </programme>
+  <programme start="20260723001948 +0000" stop="20260723002848 +0000" channel="SalamatTV.ir"><title lang="fa">دنیای سلامت</title>
+    <desc lang="fa">[مدت] 09:15</desc>
+  </programme>
+  <programme start="20260723002903 +0000" stop="20260723005903 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723002910 +0000" stop="20260723003010 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260723003029 +0000" stop="20260723010029 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723003109 +0000" stop="20260723011609 +0000" channel="SalamatTV.ir"><title lang="fa">حال خوب (بازپخش)</title>
+    <desc lang="fa">[مدت] 45:25</desc>
+  </programme>
+  <programme start="20260723011634 +0000" stop="20260723011734 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723011752 +0000" stop="20260723012452 +0000" channel="SalamatTV.ir"><title lang="fa">دوربین سلامت</title>
+    <desc lang="fa">[مدت] 07:48 [قالب] گزارش [تهیه کننده] هادی خدادی</desc>
+  </programme>
+  <programme start="20260723012540 +0000" stop="20260723015540 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723012632 +0000" stop="20260723012732 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723012735 +0000" stop="20260723015735 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723012742 +0000" stop="20260723012842 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260723012901 +0000" stop="20260723015901 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723012941 +0000" stop="20260723021441 +0000" channel="SalamatTV.ir"><title lang="fa">مستند سلامت - تاریخچه مختصر ژن</title>
+    <desc lang="fa">[مدت] 45:06 [قالب] مستند</desc>
+  </programme>
+  <programme start="20260723021447 +0000" stop="20260723021547 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723021605 +0000" stop="20260723024605 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723021657 +0000" stop="20260723021757 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723021800 +0000" stop="20260723021900 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723021927 +0000" stop="20260723022327 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260723022417 +0000" stop="20260723025417 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723022424 +0000" stop="20260723022524 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:34</desc>
+  </programme>
+  <programme start="20260723022558 +0000" stop="20260723025558 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723022638 +0000" stop="20260723031138 +0000" channel="SalamatTV.ir"><title lang="fa">ضربان (تولیدی) - بازپخش</title>
+    <desc lang="fa">[مدت] 45:03 [تهیه کننده] علی رضایی</desc>
+  </programme>
+  <programme start="20260723031141 +0000" stop="20260723031241 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723031259 +0000" stop="20260723031359 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723031402 +0000" stop="20260723034402 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723031454 +0000" stop="20260723031554 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723031621 +0000" stop="20260723031721 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-علیرضا افتخاری(اگر بگذارد)</title>
+    <desc lang="fa">[مدت] 01:19</desc>
+  </programme>
+  <programme start="20260723031740 +0000" stop="20260723034740 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723031754 +0000" stop="20260723032654 +0000" channel="SalamatTV.ir"><title lang="fa">دنیای سلامت</title>
+    <desc lang="fa">[مدت] 09:15</desc>
+  </programme>
+  <programme start="20260723032709 +0000" stop="20260723035709 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723032716 +0000" stop="20260723032816 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:34</desc>
+  </programme>
+  <programme start="20260723032850 +0000" stop="20260723035850 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723032930 +0000" stop="20260723040130 +0000" channel="SalamatTV.ir"><title lang="fa">مجموعه تلویزیونی عملیات ویژه نجات</title>
+    <desc lang="fa">[مدت] 32:53</desc>
+  </programme>
+  <programme start="20260723040223 +0000" stop="20260723040323 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723040341 +0000" stop="20260723043341 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723040433 +0000" stop="20260723040533 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723040600 +0000" stop="20260723040700 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723040703 +0000" stop="20260723043703 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723040713 +0000" stop="20260723041113 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260723041203 +0000" stop="20260723044203 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723041213 +0000" stop="20260723042213 +0000" channel="SalamatTV.ir"><title lang="fa">تا پای جان</title>
+    <desc lang="fa">[مدت] 10:49</desc>
+  </programme>
+  <programme start="20260723042302 +0000" stop="20260723042402 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723042420 +0000" stop="20260723042520 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723042523 +0000" stop="20260723042623 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش  برنامه استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723042702 +0000" stop="20260723045702 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723042754 +0000" stop="20260723045754 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723042808 +0000" stop="20260723042908 +0000" channel="SalamatTV.ir"><title lang="fa">صرفه جویی آب</title>
+    <desc lang="fa">[مدت] 01:08</desc>
+  </programme>
+  <programme start="20260723042916 +0000" stop="20260723045916 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723042930 +0000" stop="20260723043030 +0000" channel="SalamatTV.ir"><title lang="fa">دعا - صلوات خاصه امام رضا (ع)</title>
+    <desc lang="fa">[مدت] 01:11</desc>
+  </programme>
+  <programme start="20260723043041 +0000" stop="20260723050041 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:08</desc>
+  </programme>
+  <programme start="20260723043049 +0000" stop="20260723050049 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723043056 +0000" stop="20260723043156 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:34</desc>
+  </programme>
+  <programme start="20260723043230 +0000" stop="20260723050230 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723043310 +0000" stop="20260723044910 +0000" channel="SalamatTV.ir"><title lang="fa">ناسلامتی</title>
+    <desc lang="fa">[مدت] 16:08</desc>
+  </programme>
+  <programme start="20260723044918 +0000" stop="20260723045018 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723045019 +0000" stop="20260723052019 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723045029 +0000" stop="20260723050329 +0000" channel="SalamatTV.ir"><title lang="fa">تا پای جان</title>
+    <desc lang="fa">[مدت] 13:23</desc>
+  </programme>
+  <programme start="20260723050352 +0000" stop="20260723050452 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723050519 +0000" stop="20260723053519 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:08</desc>
+  </programme>
+  <programme start="20260723050527 +0000" stop="20260723053527 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723050607 +0000" stop="20260723052607 +0000" channel="SalamatTV.ir"><title lang="fa">ایران فعال</title>
+    <desc lang="fa">[مدت] 20:22</desc>
+  </programme>
+  <programme start="20260723052629 +0000" stop="20260723052729 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723052730 +0000" stop="20260723055730 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723052737 +0000" stop="20260723052837 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723052930 +0000" stop="20260723053030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723053125 +0000" stop="20260723060125 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723053205 +0000" stop="20260723061805 +0000" channel="SalamatTV.ir"><title lang="fa">مادر کودک</title>
+    <desc lang="fa">[مدت] 46:29 [قالب] گفتگو محور [تهیه کننده] محبیان مهر</desc>
+  </programme>
+  <programme start="20260723061834 +0000" stop="20260723061934 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723061952 +0000" stop="20260723062052 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723062053 +0000" stop="20260723062153 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723062156 +0000" stop="20260723062256 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723062323 +0000" stop="20260723065323 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723062415 +0000" stop="20260723062615 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-مسمومیت فقط خوردن مواد سمی نیست</title>
+    <desc lang="fa">[مدت] 02:03</desc>
+  </programme>
+  <programme start="20260723062618 +0000" stop="20260723065618 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723062625 +0000" stop="20260723062925 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 03:05</desc>
+  </programme>
+  <programme start="20260723062930 +0000" stop="20260723063030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723063127 +0000" stop="20260723070127 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723063207 +0000" stop="20260723071807 +0000" channel="SalamatTV.ir"><title lang="fa">تب فوتبال</title>
+    <desc lang="fa">[مدت] 46:31 [قالب] گفتگو محور [تهیه کننده] پورفاضلی</desc>
+  </programme>
+  <programme start="20260723071838 +0000" stop="20260723071938 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723071939 +0000" stop="20260723072039 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723072042 +0000" stop="20260723072142 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723072209 +0000" stop="20260723075209 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723072301 +0000" stop="20260723072501 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-احیای قلبی و ریوی</title>
+    <desc lang="fa">[مدت] 02:33</desc>
+  </programme>
+  <programme start="20260723072534 +0000" stop="20260723072834 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - علیرضا افتخاری-تو می آیی</title>
+    <desc lang="fa">[مدت] 03:42[خواننده]علیرضا افتخاری</desc>
+  </programme>
+  <programme start="20260723072916 +0000" stop="20260723074216 +0000" channel="SalamatTV.ir"><title lang="fa">مثبت سلامت (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 13:00</desc>
+  </programme>
+  <programme start="20260723074216 +0000" stop="20260723074516 +0000" channel="SalamatTV.ir"><title lang="fa">امداد و نجات-کمک های اولیه در سوختگی ها</title>
+    <desc lang="fa">[مدت] 03:00</desc>
+  </programme>
+  <programme start="20260723074516 +0000" stop="20260723081516 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723074523 +0000" stop="20260723074623 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723074716 +0000" stop="20260723081716 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723074756 +0000" stop="20260723080856 +0000" channel="SalamatTV.ir"><title lang="fa">من یک مادرم</title>
+    <desc lang="fa">[مدت] 21:52</desc>
+  </programme>
+  <programme start="20260723080948 +0000" stop="20260723081348 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260723081438 +0000" stop="20260723081538 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723081541 +0000" stop="20260723081641 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723081708 +0000" stop="20260723081808 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723081811 +0000" stop="20260723084811 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:26</desc>
+  </programme>
+  <programme start="20260723081837 +0000" stop="20260723081937 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723081955 +0000" stop="20260723083155 +0000" channel="SalamatTV.ir"><title lang="fa">ویژه برنامه ایران در مسیر حسین علیه السلام (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 12:00</desc>
+  </programme>
+  <programme start="20260723083155 +0000" stop="20260723090155 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:13</desc>
+  </programme>
+  <programme start="20260723083208 +0000" stop="20260723083308 +0000" channel="SalamatTV.ir"><title lang="fa">میان برنامه</title>
+    <desc lang="fa">[مدت] 01:28</desc>
+  </programme>
+  <programme start="20260723083336 +0000" stop="20260723090336 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723083350 +0000" stop="20260723083850 +0000" channel="SalamatTV.ir"><title lang="fa">تلاوت</title>
+    <desc lang="fa">[مدت] 05:50</desc>
+  </programme>
+  <programme start="20260723083940 +0000" stop="20260723090940 +0000" channel="SalamatTV.ir"><title lang="fa">ذکر روز هفته</title>
+    <desc lang="fa">[مدت] 00:50</desc>
+  </programme>
+  <programme start="20260723084030 +0000" stop="20260723084430 +0000" channel="SalamatTV.ir"><title lang="fa">اذان- اذان ظهر مؤذن حسینعلی شریف</title>
+    <desc lang="fa">[مدت] 04:03</desc>
+  </programme>
+  <programme start="20260723084433 +0000" stop="20260723085033 +0000" channel="SalamatTV.ir"><title lang="fa">نماز جماعت ظهر</title>
+    <desc lang="fa">[مدت] 06:36</desc>
+  </programme>
+  <programme start="20260723085109 +0000" stop="20260723085209 +0000" channel="SalamatTV.ir"><title lang="fa">دعا- سلامتی امام زمان  (عج)</title>
+    <desc lang="fa">[مدت] 01:11[خواننده]گروه هم خوانی محمد رسول الله</desc>
+  </programme>
+  <programme start="20260723085220 +0000" stop="20260723092220 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723085230 +0000" stop="20260723085330 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723085348 +0000" stop="20260723085448 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723085451 +0000" stop="20260723085551 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723085552 +0000" stop="20260723085652 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723085719 +0000" stop="20260723092719 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723085759 +0000" stop="20260723094259 +0000" channel="SalamatTV.ir"><title lang="fa">حال خوب (بازپخش)</title>
+    <desc lang="fa">[مدت] 45:25</desc>
+  </programme>
+  <programme start="20260723094324 +0000" stop="20260723094424 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723094425 +0000" stop="20260723094525 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723094528 +0000" stop="20260723094628 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723094707 +0000" stop="20260723094807 +0000" channel="SalamatTV.ir"><title lang="fa">ماهور-علیرضا قربانی (بی گناه)</title>
+    <desc lang="fa">[مدت] 01:29[خواننده]علیرضا قربانی</desc>
+  </programme>
+  <programme start="20260723094836 +0000" stop="20260723100136 +0000" channel="SalamatTV.ir"><title lang="fa">مثبت سلامت (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 13:00</desc>
+  </programme>
+  <programme start="20260723100136 +0000" stop="20260723103136 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723100228 +0000" stop="20260723100328 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723100329 +0000" stop="20260723100429 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723100432 +0000" stop="20260723100532 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723100559 +0000" stop="20260723103559 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723100606 +0000" stop="20260723100706 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723100759 +0000" stop="20260723103759 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723100839 +0000" stop="20260723103339 +0000" channel="SalamatTV.ir"><title lang="fa">خانه سلامت</title>
+    <desc lang="fa">[مدت] 25:57</desc>
+  </programme>
+  <programme start="20260723103436 +0000" stop="20260723103536 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723103554 +0000" stop="20260723103654 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723103733 +0000" stop="20260723103833 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723103900 +0000" stop="20260723105200 +0000" channel="SalamatTV.ir"><title lang="fa">مثبت سلامت (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 13:46</desc>
+  </programme>
+  <programme start="20260723105246 +0000" stop="20260723105346 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723105347 +0000" stop="20260723105447 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723105526 +0000" stop="20260723112526 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723105533 +0000" stop="20260723105833 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 03:17</desc>
+  </programme>
+  <programme start="20260723105850 +0000" stop="20260723112850 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723105930 +0000" stop="20260723112930 +0000" channel="SalamatTV.ir"><title lang="fa">مسابقه رمز سلامتی (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 30:00</desc>
+  </programme>
+  <programme start="20260723112930 +0000" stop="20260723113030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723113127 +0000" stop="20260723120127 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723113134 +0000" stop="20260723113234 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723113327 +0000" stop="20260723120327 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723113407 +0000" stop="20260723122007 +0000" channel="SalamatTV.ir"><title lang="fa">تب فوتبال</title>
+    <desc lang="fa">[مدت] 46:31 [تهیه کننده] پورفاضلی</desc>
+  </programme>
+  <programme start="20260723122038 +0000" stop="20260723122138 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723122156 +0000" stop="20260723122256 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723122257 +0000" stop="20260723122557 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - علیرضا افتخاری-تو می آیی</title>
+    <desc lang="fa">[مدت] 03:42[خواننده]علیرضا افتخاری</desc>
+  </programme>
+  <programme start="20260723122639 +0000" stop="20260723125639 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723122653 +0000" stop="20260723125653 +0000" channel="SalamatTV.ir"><title lang="fa">صرفه جویی آب</title>
+    <desc lang="fa">[مدت] 00:56</desc>
+  </programme>
+  <programme start="20260723122749 +0000" stop="20260723125749 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723122756 +0000" stop="20260723122856 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:34</desc>
+  </programme>
+  <programme start="20260723122930 +0000" stop="20260723123030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723123127 +0000" stop="20260723130127 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723123207 +0000" stop="20260723131707 +0000" channel="SalamatTV.ir"><title lang="fa">ضربان (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 45:00</desc>
+  </programme>
+  <programme start="20260723131707 +0000" stop="20260723134707 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723131717 +0000" stop="20260723133017 +0000" channel="SalamatTV.ir"><title lang="fa">مثبت سلامت (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 13:04</desc>
+  </programme>
+  <programme start="20260723133021 +0000" stop="20260723140021 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723133031 +0000" stop="20260723140031 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723133038 +0000" stop="20260723133238 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 02:45</desc>
+  </programme>
+  <programme start="20260723133323 +0000" stop="20260723140323 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723133403 +0000" stop="20260723141303 +0000" channel="SalamatTV.ir"><title lang="fa">مجموعه تلویزیونی عملیات ویژه نجات</title>
+    <desc lang="fa">[مدت] 39:02</desc>
+  </programme>
+  <programme start="20260723141305 +0000" stop="20260723144305 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:26</desc>
+  </programme>
+  <programme start="20260723141331 +0000" stop="20260723141731 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260723141821 +0000" stop="20260723144821 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723141831 +0000" stop="20260723142531 +0000" channel="SalamatTV.ir"><title lang="fa">دوربین سلامت</title>
+    <desc lang="fa">[مدت] 07:48 [قالب] گزارش [تهیه کننده] هادی خدادی</desc>
+  </programme>
+  <programme start="20260723142619 +0000" stop="20260723145619 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723142629 +0000" stop="20260723142729 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723142730 +0000" stop="20260723142830 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش -استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723142909 +0000" stop="20260723143009 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723143027 +0000" stop="20260723144227 +0000" channel="SalamatTV.ir"><title lang="fa">ویژه برنامه ایران در مسیر حسین علیه السلام (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 12:00</desc>
+  </programme>
+  <programme start="20260723144227 +0000" stop="20260723151227 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723144234 +0000" stop="20260723144334 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723144427 +0000" stop="20260723151427 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723144507 +0000" stop="20260723151007 +0000" channel="SalamatTV.ir"><title lang="fa">خانه سلامت</title>
+    <desc lang="fa">[مدت] 25:57</desc>
+  </programme>
+  <programme start="20260723151104 +0000" stop="20260723151204 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723151205 +0000" stop="20260723151305 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723151332 +0000" stop="20260723154332 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723151424 +0000" stop="20260723154424 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:10</desc>
+  </programme>
+  <programme start="20260723151434 +0000" stop="20260723154434 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723151514 +0000" stop="20260723160114 +0000" channel="SalamatTV.ir"><title lang="fa">مادر کودک</title>
+    <desc lang="fa">[مدت] 46:29 [تهیه کننده] میثم محبیان مهر</desc>
+  </programme>
+  <programme start="20260723160143 +0000" stop="20260723160243 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723160246 +0000" stop="20260723163246 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:26</desc>
+  </programme>
+  <programme start="20260723160312 +0000" stop="20260723160612 +0000" channel="SalamatTV.ir"><title lang="fa">تلاوت</title>
+    <desc lang="fa">[مدت] 03:44</desc>
+  </programme>
+  <programme start="20260723160656 +0000" stop="20260723163656 +0000" channel="SalamatTV.ir"><title lang="fa">ذکر روز هفته</title>
+    <desc lang="fa">[مدت] 00:34</desc>
+  </programme>
+  <programme start="20260723160730 +0000" stop="20260723161130 +0000" channel="SalamatTV.ir"><title lang="fa">اذان-اذان مغرب سید محسن خدام حسینی</title>
+    <desc lang="fa">[مدت] 04:48</desc>
+  </programme>
+  <programme start="20260723161218 +0000" stop="20260723161818 +0000" channel="SalamatTV.ir"><title lang="fa">نماز جماعت-نماز مغرب</title>
+    <desc lang="fa">[مدت] 06:45</desc>
+  </programme>
+  <programme start="20260723161903 +0000" stop="20260723162003 +0000" channel="SalamatTV.ir"><title lang="fa">دعا- جمع خوانی دعای سلامتی امام زمان عج</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723162056 +0000" stop="20260723165056 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:26</desc>
+  </programme>
+  <programme start="20260723162122 +0000" stop="20260723162222 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723162240 +0000" stop="20260723162340 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723162341 +0000" stop="20260723165341 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723162348 +0000" stop="20260723162648 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - علیرضا افتخاری-تو می آیی</title>
+    <desc lang="fa">[مدت] 03:42[خواننده]علیرضا افتخاری</desc>
+  </programme>
+  <programme start="20260723162730 +0000" stop="20260723165730 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723162737 +0000" stop="20260723162837 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723162930 +0000" stop="20260723163030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723163127 +0000" stop="20260723170127 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723163207 +0000" stop="20260723172207 +0000" channel="SalamatTV.ir"><title lang="fa">کشیک سلامت (زنده)</title>
+    <desc lang="fa">[زنده] [مدت] 50:02</desc>
+  </programme>
+  <programme start="20260723172209 +0000" stop="20260723172309 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723172310 +0000" stop="20260723172410 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723172413 +0000" stop="20260723172513 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش  برنامه استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723172552 +0000" stop="20260723175552 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723172644 +0000" stop="20260723175644 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723172651 +0000" stop="20260723172851 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 02:39</desc>
+  </programme>
+  <programme start="20260723172930 +0000" stop="20260723173030 +0000" channel="SalamatTV.ir"><title lang="fa">نود ثانیه با سلامت</title>
+    <desc lang="fa">[مدت] 01:55 [قالب] ترکیبی [تهیه کننده] صادقی</desc>
+  </programme>
+  <programme start="20260723173127 +0000" stop="20260723180127 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723173207 +0000" stop="20260723181507 +0000" channel="SalamatTV.ir"><title lang="fa">حال خوب (بازپخش)</title>
+    <desc lang="fa">[مدت] 43:35</desc>
+  </programme>
+  <programme start="20260723181542 +0000" stop="20260723181642 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723181700 +0000" stop="20260723181900 +0000" channel="SalamatTV.ir"><title lang="fa">روایت بدرقه</title>
+    <desc lang="fa">[مدت] 02:00 [تهیه کننده] نامشخص</desc>
+  </programme>
+  <programme start="20260723181900 +0000" stop="20260723184900 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه</title>
+    <desc lang="fa">[مدت] 00:08</desc>
+  </programme>
+  <programme start="20260723181908 +0000" stop="20260723182708 +0000" channel="SalamatTV.ir"><title lang="fa">دوربین سلامت</title>
+    <desc lang="fa">[مدت] 08:30 [قالب] ترکیبی [تهیه کننده] هادی خدادی</desc>
+  </programme>
+  <programme start="20260723182738 +0000" stop="20260723185738 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723182745 +0000" stop="20260723182845 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:53</desc>
+  </programme>
+  <programme start="20260723182938 +0000" stop="20260723191238 +0000" channel="SalamatTV.ir"><title lang="fa">مستند - شگفتی های بدن انسان</title>
+    <desc lang="fa">[مدت] 43:50 [قالب] مستند</desc>
+  </programme>
+  <programme start="20260723191328 +0000" stop="20260723191428 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723191446 +0000" stop="20260723191546 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723191549 +0000" stop="20260723191649 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723191716 +0000" stop="20260723194716 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723191808 +0000" stop="20260723194808 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723191848 +0000" stop="20260723193948 +0000" channel="SalamatTV.ir"><title lang="fa">من یک مادرم</title>
+    <desc lang="fa">[مدت] 21:52</desc>
+  </programme>
+  <programme start="20260723194040 +0000" stop="20260723194140 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723194143 +0000" stop="20260723194243 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش  برنامه استودیو سلامت</title>
+    <desc lang="fa">[مدت] 01:39</desc>
+  </programme>
+  <programme start="20260723194322 +0000" stop="20260723201322 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه مسابقه رمز سلامتی</title>
+    <desc lang="fa">[مدت] 00:52</desc>
+  </programme>
+  <programme start="20260723194414 +0000" stop="20260723194714 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - علیرضا افتخاری-تو می آیی</title>
+    <desc lang="fa">[مدت] 03:42[خواننده]علیرضا افتخاری</desc>
+  </programme>
+  <programme start="20260723194756 +0000" stop="20260723201756 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723194803 +0000" stop="20260723195103 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 03:06</desc>
+  </programme>
+  <programme start="20260723195109 +0000" stop="20260723202109 +0000" channel="SalamatTV.ir"><title lang="fa">نشان برنامه</title>
+    <desc lang="fa">[مدت] 00:40</desc>
+  </programme>
+  <programme start="20260723195149 +0000" stop="20260723201649 +0000" channel="SalamatTV.ir"><title lang="fa">خانه سلامت</title>
+    <desc lang="fa">[مدت] 25:57</desc>
+  </programme>
+  <programme start="20260723201746 +0000" stop="20260723201846 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر محرم شهر</title>
+    <desc lang="fa">[مدت] 01:18</desc>
+  </programme>
+  <programme start="20260723201904 +0000" stop="20260723202004 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه کشیک سلامت</title>
+    <desc lang="fa">[مدت] 01:27</desc>
+  </programme>
+  <programme start="20260723202031 +0000" stop="20260723202131 +0000" channel="SalamatTV.ir"><title lang="fa">تیزر من یک مادرم</title>
+    <desc lang="fa">[مدت] 01:01</desc>
+  </programme>
+  <programme start="20260723202132 +0000" stop="20260723202232 +0000" channel="SalamatTV.ir"><title lang="fa">پیش نمایش برنامه دوربین سلامت</title>
+    <desc lang="fa">[مدت] 01:03</desc>
+  </programme>
+  <programme start="20260723202235 +0000" stop="20260723205235 +0000" channel="SalamatTV.ir"><title lang="fa">نشان شبکه سلامت</title>
+    <desc lang="fa">[مدت] 00:14</desc>
+  </programme>
+  <programme start="20260723202249 +0000" stop="20260723202649 +0000" channel="SalamatTV.ir"><title lang="fa">تازه نفس - محمد اصفهانی - بوی باران</title>
+    <desc lang="fa">[مدت] 04:50[خواننده]محمد اصفهانی</desc>
+  </programme>
+  <programme start="20260723202739 +0000" stop="20260723205739 +0000" channel="SalamatTV.ir"><title lang="fa">نشان پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 00:07</desc>
+  </programme>
+  <programme start="20260723202746 +0000" stop="20260723202846 +0000" channel="SalamatTV.ir"><title lang="fa">پیام بازرگانی</title>
+    <desc lang="fa">[مدت] 01:34</desc>
   </programme>
   <programme start="20260721203000 +0000" stop="20260721223000 +0000" channel="PooyaTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -3049,53 +3944,133 @@
   </programme>
   <programme start="20260723183000 +0000" stop="20260723202900 +0000" channel="AlborzTV.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
-  <programme start="20260721203000 +0000" stop="20260721223000 +0000" channel="IlamTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260722083000 +0000" stop="20260722085200 +0000" channel="IlamTV.ir"><title lang="fa">مستند میراث کهن</title>
   </programme>
-  <programme start="20260721223000 +0000" stop="20260722003000 +0000" channel="IlamTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260722083000 +0000" stop="20260722085200 +0000" channel="IlamTV.ir"><title lang="fa">مستند میراث کهن</title>
   </programme>
-  <programme start="20260722003000 +0000" stop="20260722023000 +0000" channel="IlamTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260722205912 +0000" stop="20260722210612 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260722023000 +0000" stop="20260722043000 +0000" channel="IlamTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260722210631 +0000" stop="20260722223431 +0000" channel="IlamTV.ir"><title lang="fa">سینمایی رنگ خدا</title>
   </programme>
-  <programme start="20260722043000 +0000" stop="20260722063000 +0000" channel="IlamTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260722223442 +0000" stop="20260722223642 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260722063000 +0000" stop="20260722083000 +0000" channel="IlamTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260722223716 +0000" stop="20260722233416 +0000" channel="IlamTV.ir"><title lang="fa">سخنرانی آیت الله میرباقری</title>
   </programme>
-  <programme start="20260722083000 +0000" stop="20260722103000 +0000" channel="IlamTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260722233449 +0000" stop="20260722234949 +0000" channel="IlamTV.ir"><title lang="fa">دوست خوب رهبر</title>
   </programme>
-  <programme start="20260722103000 +0000" stop="20260722123000 +0000" channel="IlamTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260722235018 +0000" stop="20260722235318 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260722123000 +0000" stop="20260722143000 +0000" channel="IlamTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260722235409 +0000" stop="20260723001609 +0000" channel="IlamTV.ir"><title lang="fa">مناجات امیرالمومنین (ع)</title>
   </programme>
-  <programme start="20260722143000 +0000" stop="20260722163000 +0000" channel="IlamTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260723001627 +0000" stop="20260723002327 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260722163000 +0000" stop="20260722183000 +0000" channel="IlamTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260723002400 +0000" stop="20260723003800 +0000" channel="IlamTV.ir"><title lang="fa">اذان و نماز صبح</title>
   </programme>
-  <programme start="20260722183000 +0000" stop="20260722202900 +0000" channel="IlamTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260723003846 +0000" stop="20260723004646 +0000" channel="IlamTV.ir"><title lang="fa">دعای عهد</title>
   </programme>
-  <programme start="20260722203000 +0000" stop="20260722223000 +0000" channel="IlamTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260723004720 +0000" stop="20260723014420 +0000" channel="IlamTV.ir"><title lang="fa">ترتیل قرآن کریم</title>
   </programme>
-  <programme start="20260722223000 +0000" stop="20260723003000 +0000" channel="IlamTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260723014514 +0000" stop="20260723020914 +0000" channel="IlamTV.ir"><title lang="fa">مستند مسجد نشان</title>
   </programme>
-  <programme start="20260723003000 +0000" stop="20260723023000 +0000" channel="IlamTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260723021000 +0000" stop="20260723023000 +0000" channel="IlamTV.ir"><title lang="fa">مستند مسجد نشان</title>
   </programme>
-  <programme start="20260723023000 +0000" stop="20260723043000 +0000" channel="IlamTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260723023037 +0000" stop="20260723024937 +0000" channel="IlamTV.ir"><title lang="fa">پاورقی</title>
   </programme>
-  <programme start="20260723043000 +0000" stop="20260723063000 +0000" channel="IlamTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260723024953 +0000" stop="20260723025553 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260723063000 +0000" stop="20260723083000 +0000" channel="IlamTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260723025623 +0000" stop="20260723032723 +0000" channel="IlamTV.ir"><title lang="fa">خاطره بازی با آقا جواد</title>
   </programme>
-  <programme start="20260723083000 +0000" stop="20260723103000 +0000" channel="IlamTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260723032821 +0000" stop="20260723032921 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260723103000 +0000" stop="20260723123000 +0000" channel="IlamTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260723033000 +0000" stop="20260723043000 +0000" channel="IlamTV.ir"><title lang="fa">شوکیانه</title>
   </programme>
-  <programme start="20260723123000 +0000" stop="20260723143000 +0000" channel="IlamTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260723043000 +0000" stop="20260723043400 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260723143000 +0000" stop="20260723163000 +0000" channel="IlamTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260723043430 +0000" stop="20260723045630 +0000" channel="IlamTV.ir"><title lang="fa">مستند میراث کهن</title>
   </programme>
-  <programme start="20260723163000 +0000" stop="20260723183000 +0000" channel="IlamTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260723045655 +0000" stop="20260723051055 +0000" channel="IlamTV.ir"><title lang="fa">پویانمایی قدمگاه خورشید</title>
   </programme>
-  <programme start="20260723183000 +0000" stop="20260723202900 +0000" channel="IlamTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260723051128 +0000" stop="20260723051528 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723051536 +0000" stop="20260723055336 +0000" channel="IlamTV.ir"><title lang="fa">مستند آیینه در کربلاست</title>
+  </programme>
+  <programme start="20260723055355 +0000" stop="20260723055655 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723055659 +0000" stop="20260723060659 +0000" channel="IlamTV.ir"><title lang="fa">ارتباط با مهران</title>
+  </programme>
+  <programme start="20260723060659 +0000" stop="20260723061459 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723061530 +0000" stop="20260723070030 +0000" channel="IlamTV.ir"><title lang="fa">سریال سرخدار</title>
+  </programme>
+  <programme start="20260723070111 +0000" stop="20260723072711 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723072800 +0000" stop="20260723082800 +0000" channel="IlamTV.ir"><title lang="fa">بنه مال</title>
+  </programme>
+  <programme start="20260723082802 +0000" stop="20260723082902 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723083000 +0000" stop="20260723084000 +0000" channel="IlamTV.ir"><title lang="fa">باخبرنگاران</title>
+  </programme>
+  <programme start="20260723084000 +0000" stop="20260723085600 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723085600 +0000" stop="20260723091200 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی ظهر</title>
+  </programme>
+  <programme start="20260723091218 +0000" stop="20260723091918 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723091946 +0000" stop="20260723094346 +0000" channel="IlamTV.ir"><title lang="fa">مستند مسجد نشان</title>
+  </programme>
+  <programme start="20260723094414 +0000" stop="20260723095214 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723095312 +0000" stop="20260723100312 +0000" channel="IlamTV.ir"><title lang="fa">باخبرنگاران</title>
+  </programme>
+  <programme start="20260723100400 +0000" stop="20260723120000 +0000" channel="IlamTV.ir"><title lang="fa">سینمایی هناس</title>
+  </programme>
+  <programme start="20260723120005 +0000" stop="20260723120805 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723120900 +0000" stop="20260723131000 +0000" channel="IlamTV.ir"><title lang="fa">دروازه آسمان</title>
+  </programme>
+  <programme start="20260723131048 +0000" stop="20260723132048 +0000" channel="IlamTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260723132100 +0000" stop="20260723133000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723133000 +0000" stop="20260723135000 +0000" channel="IlamTV.ir"><title lang="fa">اخبار عصرگاهی</title>
+  </programme>
+  <programme start="20260723135000 +0000" stop="20260723140100 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723140100 +0000" stop="20260723150100 +0000" channel="IlamTV.ir"><title lang="fa">باید برخاست</title>
+  </programme>
+  <programme start="20260723150100 +0000" stop="20260723150500 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723150551 +0000" stop="20260723152651 +0000" channel="IlamTV.ir"><title lang="fa">هلال مهربانی</title>
+  </programme>
+  <programme start="20260723152716 +0000" stop="20260723154116 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723154200 +0000" stop="20260723161200 +0000" channel="IlamTV.ir"><title lang="fa">مستند بابا آمد</title>
+  </programme>
+  <programme start="20260723161200 +0000" stop="20260723161600 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723161600 +0000" stop="20260723162300 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی مغرب</title>
+  </programme>
+  <programme start="20260723162328 +0000" stop="20260723162928 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723163000 +0000" stop="20260723164500 +0000" channel="IlamTV.ir"><title lang="fa">اخبار شامگاهی</title>
+  </programme>
+  <programme start="20260723164500 +0000" stop="20260723170000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723170000 +0000" stop="20260723180000 +0000" channel="IlamTV.ir"><title lang="fa">دروازه آسمان</title>
+  </programme>
+  <programme start="20260723180000 +0000" stop="20260723180200 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723180245 +0000" stop="20260723182145 +0000" channel="IlamTV.ir"><title lang="fa">پاورقی</title>
+  </programme>
+  <programme start="20260723182227 +0000" stop="20260723182927 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723183000 +0000" stop="20260723185500 +0000" channel="IlamTV.ir"><title lang="fa">اخبار شبانگاهی</title>
+  </programme>
+  <programme start="20260723185500 +0000" stop="20260723185800 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260723185836 +0000" stop="20260723194336 +0000" channel="IlamTV.ir"><title lang="fa">سریال سرخدار</title>
+  </programme>
+  <programme start="20260723194358 +0000" stop="20260723194858 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260721203000 +0000" stop="20260721223000 +0000" channel="BaranTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
