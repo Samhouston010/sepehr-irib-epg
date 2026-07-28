@@ -198,23 +198,25 @@
   <channel id=""><display-name lang="fa">sport4</display-name>
     <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sport4.png"/>
   </channel>
-  <programme start="20260727205813 +0000" stop="20260727212413 +0000" channel="IRIB1.ir"><title lang="fa">مستند ثریا</title>
+  <programme start="20260727205813 +0000" stop="20260727212813 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260727212424 +0000" stop="20260727212624 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260727205846 +0000" stop="20260727212446 +0000" channel="IRIB1.ir"><title lang="fa">مستند ثریا</title>
   </programme>
-  <programme start="20260727212646 +0000" stop="20260727221646 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
+  <programme start="20260727212457 +0000" stop="20260727212657 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260727221711 +0000" stop="20260727222911 +0000" channel="IRIB1.ir"><title lang="fa">مکث</title>
+  <programme start="20260727212721 +0000" stop="20260727221721 +0000" channel="IRIB1.ir"><title lang="fa">لاله خیز</title>
   </programme>
-  <programme start="20260727222921 +0000" stop="20260727223221 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260727221747 +0000" stop="20260727222947 +0000" channel="IRIB1.ir"><title lang="fa">مکث</title>
   </programme>
-  <programme start="20260727223312 +0000" stop="20260727232112 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی سرخدار</title>
+  <programme start="20260727222957 +0000" stop="20260727223357 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260727223437 +0000" stop="20260727232237 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی سرخدار</title>
     <desc lang="fa">تهیه کننده و کارگردان : مسعود فرخنده
 بازیگران : عمار تفتی - سلمان خطی - مجید پتکی - علی اوسیوند</desc>
   </programme>
-  <programme start="20260727232201 +0000" stop="20260727232401 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260727232314 +0000" stop="20260727232414 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260727232417 +0000" stop="20260728000017 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
+  <programme start="20260727232427 +0000" stop="20260728000027 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
   </programme>
   <programme start="20260728000100 +0000" stop="20260728001900 +0000" channel="IRIB1.ir"><title lang="fa">تسبیح صبا</title>
   </programme>
@@ -1290,65 +1292,67 @@
   </programme>
   <programme start="20260728120029 +0000" stop="20260728122429 +0000" channel=""><title lang="fa">مستندسفرقند</title>
   </programme>
-  <programme start="20260728122439 +0000" stop="20260728125439 +0000" channel=""><title lang="fa">تیزر پویش سراسری قرائت قرآن کریم</title>
+  <programme start="20260728122439 +0000" stop="20260728122839 +0000" channel=""><title lang="fa">نماهنگ جمع خوانی قرآن کریم</title>
   </programme>
-  <programme start="20260728122537 +0000" stop="20260728122837 +0000" channel=""><title lang="fa">نماهنگ جمع خوانی قرآن کریم</title>
+  <programme start="20260728122900 +0000" stop="20260728123000 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728122930 +0000" stop="20260728125930 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
+  <programme start="20260728123012 +0000" stop="20260728130012 +0000" channel=""><title lang="fa">آرم برنامه منم بچه مسلمان</title>
   </programme>
-  <programme start="20260728122954 +0000" stop="20260728125954 +0000" channel=""><title lang="fa">آرم برنامه منم بچه مسلمان</title>
+  <programme start="20260728123037 +0000" stop="20260728125537 +0000" channel=""><title lang="fa">منم بچه مسلمان</title>
   </programme>
-  <programme start="20260728123019 +0000" stop="20260728125519 +0000" channel=""><title lang="fa">منم بچه مسلمان</title>
+  <programme start="20260728125624 +0000" stop="20260728125924 +0000" channel=""><title lang="fa">شکوفه های اربعین</title>
   </programme>
-  <programme start="20260728125606 +0000" stop="20260728125906 +0000" channel=""><title lang="fa">شکوفه های اربعین</title>
+  <programme start="20260728125928 +0000" stop="20260728130428 +0000" channel=""><title lang="fa">نماهنگ جمع خوانی قرآن کریم</title>
   </programme>
-  <programme start="20260728125910 +0000" stop="20260728130410 +0000" channel=""><title lang="fa">نماهنگ جمع خوانی قرآن کریم</title>
+  <programme start="20260728130438 +0000" stop="20260728130638 +0000" channel=""><title lang="fa">پویش کتاب خوانی</title>
   </programme>
-  <programme start="20260728130420 +0000" stop="20260728130620 +0000" channel=""><title lang="fa">پویش کتاب خوانی</title>
+  <programme start="20260728130718 +0000" stop="20260728133718 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
   </programme>
-  <programme start="20260728130700 +0000" stop="20260728133700 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  <programme start="20260728130800 +0000" stop="20260728130900 +0000" channel=""><title lang="fa">تیزر محرم شهر</title>
   </programme>
-  <programme start="20260728130742 +0000" stop="20260728131042 +0000" channel=""><title lang="fa">نماز جمعه وحدت آفرین است</title>
+  <programme start="20260728130918 +0000" stop="20260728131218 +0000" channel=""><title lang="fa">نماز جمعه وحدت آفرین است</title>
   </programme>
-  <programme start="20260728131103 +0000" stop="20260728131203 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  <programme start="20260728131239 +0000" stop="20260728131339 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728131215 +0000" stop="20260728134215 +0000" channel=""><title lang="fa">آرم برنامه در مسیر حسین علیه السلام (زنده)</title>
+  <programme start="20260728131351 +0000" stop="20260728134351 +0000" channel=""><title lang="fa">آرم برنامه در مسیر حسین علیه السلام (زنده)</title>
   </programme>
-  <programme start="20260728131240 +0000" stop="20260728132240 +0000" channel=""><title lang="fa">در مسیر حسین علیه السلام (زنده)</title>
+  <programme start="20260728131416 +0000" stop="20260728132416 +0000" channel=""><title lang="fa">در مسیر حسین علیه السلام (زنده)</title>
   </programme>
-  <programme start="20260728132240 +0000" stop="20260728135240 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
+  <programme start="20260728132416 +0000" stop="20260728135416 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
   </programme>
-  <programme start="20260728132300 +0000" stop="20260728132500 +0000" channel=""><title lang="fa">سلامت در اربعین</title>
+  <programme start="20260728132436 +0000" stop="20260728135436 +0000" channel=""><title lang="fa">تیزر اربعین 1448</title>
   </programme>
-  <programme start="20260728132534 +0000" stop="20260728135534 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  <programme start="20260728132533 +0000" stop="20260728135533 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
   </programme>
-  <programme start="20260728132616 +0000" stop="20260728132816 +0000" channel=""><title lang="fa">گزارش خیابانی در اهمیت نماز جمعه جنگ 12 روزه</title>
+  <programme start="20260728132615 +0000" stop="20260728132815 +0000" channel=""><title lang="fa">گزارش خیابانی در اهمیت نماز جمعه جنگ 12 روزه</title>
   </programme>
-  <programme start="20260728132913 +0000" stop="20260728135913 +0000" channel=""><title lang="fa">آرم برنامه عهد (زنده)</title>
+  <programme start="20260728132912 +0000" stop="20260728135912 +0000" channel=""><title lang="fa">آرم برنامه عهد (زنده)</title>
   </programme>
-  <programme start="20260728132938 +0000" stop="20260728141338 +0000" channel=""><title lang="fa">عهد (زنده)</title>
+  <programme start="20260728132937 +0000" stop="20260728141337 +0000" channel=""><title lang="fa">عهد (زنده)</title>
   </programme>
-  <programme start="20260728141338 +0000" stop="20260728144338 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260728141337 +0000" stop="20260728144337 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260728141358 +0000" stop="20260728141558 +0000" channel=""><title lang="fa">مکتب رهبر شهید</title>
+  <programme start="20260728141357 +0000" stop="20260728144357 +0000" channel=""><title lang="fa">تیزر پویش حفظ جز سی</title>
   </programme>
-  <programme start="20260728141616 +0000" stop="20260728142516 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
+  <programme start="20260728141450 +0000" stop="20260728142350 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
   </programme>
-  <programme start="20260728142523 +0000" stop="20260728145523 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  <programme start="20260728142357 +0000" stop="20260728145357 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
   </programme>
-  <programme start="20260728142605 +0000" stop="20260728142705 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  <programme start="20260728142439 +0000" stop="20260728142539 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728142717 +0000" stop="20260728145717 +0000" channel=""><title lang="fa">آرم برنامه ملت عشق</title>
+  <programme start="20260728142551 +0000" stop="20260728145551 +0000" channel=""><title lang="fa">آرم برنامه ملت عشق</title>
   </programme>
-  <programme start="20260728142742 +0000" stop="20260728151342 +0000" channel=""><title lang="fa">ملت عشق</title>
+  <programme start="20260728142616 +0000" stop="20260728151216 +0000" channel=""><title lang="fa">ملت عشق</title>
   </programme>
-  <programme start="20260728151428 +0000" stop="20260728154428 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
+  <programme start="20260728151302 +0000" stop="20260728154302 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
   </programme>
-  <programme start="20260728151452 +0000" stop="20260728154452 +0000" channel=""><title lang="fa">آرم برنامه یاد خدا (زنده)</title>
+  <programme start="20260728151326 +0000" stop="20260728154326 +0000" channel=""><title lang="fa">تیزر موکب مع امام منصور</title>
   </programme>
-  <programme start="20260728151517 +0000" stop="20260728154417 +0000" channel=""><title lang="fa">یاد خدا - زنده</title>
+  <programme start="20260728151421 +0000" stop="20260728154421 +0000" channel=""><title lang="fa">آرم برنامه یاد خدا (زنده)</title>
   </programme>
-  <programme start="20260728154417 +0000" stop="20260728161417 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260728151446 +0000" stop="20260728154346 +0000" channel=""><title lang="fa">یاد خدا - زنده</title>
+  </programme>
+  <programme start="20260728154416 +0000" stop="20260728161416 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
   <programme start="20260728154442 +0000" stop="20260728161442 +0000" channel=""><title lang="fa">وله قبل از تلاوت</title>
   </programme>
@@ -1382,69 +1386,73 @@
   </programme>
   <programme start="20260728162926 +0000" stop="20260728165926 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
   </programme>
-  <programme start="20260728162950 +0000" stop="20260728165950 +0000" channel=""><title lang="fa">آرم برنامه شبستان . زنده</title>
+  <programme start="20260728162950 +0000" stop="20260728165950 +0000" channel=""><title lang="fa">تیزر اربعین 1448</title>
   </programme>
-  <programme start="20260728163015 +0000" stop="20260728170515 +0000" channel=""><title lang="fa">شبستان -زنده</title>
+  <programme start="20260728163047 +0000" stop="20260728170047 +0000" channel=""><title lang="fa">آرم برنامه شبستان . زنده</title>
   </programme>
-  <programme start="20260728170515 +0000" stop="20260728173515 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
+  <programme start="20260728163112 +0000" stop="20260728170612 +0000" channel=""><title lang="fa">شبستان -زنده</title>
   </programme>
-  <programme start="20260728170535 +0000" stop="20260728173535 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
+  <programme start="20260728170612 +0000" stop="20260728173612 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
   </programme>
-  <programme start="20260728170559 +0000" stop="20260728173559 +0000" channel=""><title lang="fa">تیزر پویش سراسری قرائت قرآن کریم</title>
+  <programme start="20260728170632 +0000" stop="20260728173632 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
   </programme>
-  <programme start="20260728170657 +0000" stop="20260728173657 +0000" channel=""><title lang="fa">بدرقه رهبر شهید</title>
+  <programme start="20260728170656 +0000" stop="20260728170756 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728170744 +0000" stop="20260728171044 +0000" channel=""><title lang="fa">بدرقه رهبر شهید</title>
+  <programme start="20260728170808 +0000" stop="20260728171008 +0000" channel=""><title lang="fa">مکتب رهبر شهید</title>
   </programme>
-  <programme start="20260728171103 +0000" stop="20260728174103 +0000" channel=""><title lang="fa">آرم برنامه حدیث کساء</title>
+  <programme start="20260728171026 +0000" stop="20260728171126 +0000" channel=""><title lang="fa">تیزر محرم شهر</title>
   </programme>
-  <programme start="20260728171128 +0000" stop="20260728172328 +0000" channel=""><title lang="fa">حدیث کساء</title>
+  <programme start="20260728171144 +0000" stop="20260728174144 +0000" channel=""><title lang="fa">آرم برنامه حدیث کساء</title>
   </programme>
-  <programme start="20260728172413 +0000" stop="20260728172913 +0000" channel=""><title lang="fa">آموزش سلاح</title>
+  <programme start="20260728171209 +0000" stop="20260728172409 +0000" channel=""><title lang="fa">حدیث کساء</title>
   </programme>
-  <programme start="20260728172932 +0000" stop="20260728175932 +0000" channel=""><title lang="fa">آرم برنامه شبستان . زنده</title>
+  <programme start="20260728172454 +0000" stop="20260728175454 +0000" channel=""><title lang="fa">تیزر موکب مع امام منصور</title>
   </programme>
-  <programme start="20260728172957 +0000" stop="20260728184457 +0000" channel=""><title lang="fa">شبستان . زنده</title>
+  <programme start="20260728172549 +0000" stop="20260728172949 +0000" channel=""><title lang="fa">مداحی محمود کریمی</title>
   </programme>
-  <programme start="20260728184457 +0000" stop="20260728191457 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
+  <programme start="20260728173015 +0000" stop="20260728180015 +0000" channel=""><title lang="fa">آرم برنامه شبستان . زنده</title>
   </programme>
-  <programme start="20260728184517 +0000" stop="20260728184617 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  <programme start="20260728173040 +0000" stop="20260728184540 +0000" channel=""><title lang="fa">شبستان . زنده</title>
   </programme>
-  <programme start="20260728184629 +0000" stop="20260728191629 +0000" channel=""><title lang="fa">آرم برنامه در مسیر حسین علیه السلام (زنده)</title>
+  <programme start="20260728184540 +0000" stop="20260728191540 +0000" channel=""><title lang="fa">آرم استیشن عزایی</title>
   </programme>
-  <programme start="20260728184654 +0000" stop="20260728185654 +0000" channel=""><title lang="fa">در مسیر حسین علیه السلام (زنده)</title>
+  <programme start="20260728184600 +0000" stop="20260728184700 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728185654 +0000" stop="20260728192654 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260728184712 +0000" stop="20260728191712 +0000" channel=""><title lang="fa">آرم برنامه در مسیر حسین علیه السلام (زنده)</title>
   </programme>
-  <programme start="20260728185714 +0000" stop="20260728185814 +0000" channel=""><title lang="fa">سری پنجم تصاویر دریافتی از فراخوان ملی روایت بدرقه</title>
+  <programme start="20260728184737 +0000" stop="20260728185737 +0000" channel=""><title lang="fa">در مسیر حسین علیه السلام (زنده)</title>
   </programme>
-  <programme start="20260728185835 +0000" stop="20260728185935 +0000" channel=""><title lang="fa">ما آمریکا را شکست میدهیم</title>
+  <programme start="20260728185737 +0000" stop="20260728192737 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260728190004 +0000" stop="20260728193004 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
+  <programme start="20260728185757 +0000" stop="20260728185857 +0000" channel=""><title lang="fa">سری پنجم تصاویر دریافتی از فراخوان ملی روایت بدرقه</title>
   </programme>
-  <programme start="20260728190028 +0000" stop="20260728193028 +0000" channel=""><title lang="fa">آرم برنامه عهد (زنده)</title>
+  <programme start="20260728185918 +0000" stop="20260728192918 +0000" channel=""><title lang="fa">روز شمار اربعین</title>
   </programme>
-  <programme start="20260728190053 +0000" stop="20260728195553 +0000" channel=""><title lang="fa">برنامه عهد (زنده)</title>
+  <programme start="20260728185942 +0000" stop="20260728192942 +0000" channel=""><title lang="fa">تیزر اربعین 1448</title>
   </programme>
-  <programme start="20260728195553 +0000" stop="20260728202553 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260728190039 +0000" stop="20260728193039 +0000" channel=""><title lang="fa">آرم برنامه عهد (زنده)</title>
   </programme>
-  <programme start="20260728195613 +0000" stop="20260728195713 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  <programme start="20260728190104 +0000" stop="20260728195604 +0000" channel=""><title lang="fa">برنامه عهد (زنده)</title>
   </programme>
-  <programme start="20260728195725 +0000" stop="20260728202725 +0000" channel=""><title lang="fa">بدرقه رهبر شهید</title>
+  <programme start="20260728195604 +0000" stop="20260728202604 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260728195804 +0000" stop="20260728195904 +0000" channel=""><title lang="fa">تیزر فراخوان ملی روایت بدرقه</title>
+  <programme start="20260728195624 +0000" stop="20260728195724 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
   </programme>
-  <programme start="20260728195905 +0000" stop="20260728200105 +0000" channel=""><title lang="fa">مکتب رهبر شهید</title>
+  <programme start="20260728195736 +0000" stop="20260728202736 +0000" channel=""><title lang="fa">بدرقه رهبر شهید</title>
   </programme>
-  <programme start="20260728200123 +0000" stop="20260728203123 +0000" channel=""><title lang="fa">آرم برنامه مستند وارث</title>
+  <programme start="20260728195815 +0000" stop="20260728202815 +0000" channel=""><title lang="fa">تیزر اربعین 1448</title>
   </programme>
-  <programme start="20260728200148 +0000" stop="20260728202348 +0000" channel=""><title lang="fa">مستند وارث</title>
+  <programme start="20260728195912 +0000" stop="20260728200112 +0000" channel=""><title lang="fa">مکتب رهبر شهید</title>
   </programme>
-  <programme start="20260728202442 +0000" stop="20260728202542 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  <programme start="20260728200130 +0000" stop="20260728203130 +0000" channel=""><title lang="fa">آرم برنامه مستند وارث</title>
   </programme>
-  <programme start="20260728202554 +0000" stop="20260728202754 +0000" channel=""><title lang="fa">امام امت</title>
+  <programme start="20260728200155 +0000" stop="20260728202355 +0000" channel=""><title lang="fa">مستند وارث</title>
   </programme>
-  <programme start="20260728202845 +0000" stop="20260728202945 +0000" channel=""><title lang="fa">تیزر محرم شهر</title>
+  <programme start="20260728202449 +0000" stop="20260728202549 +0000" channel=""><title lang="fa">پویش به نیابت از آقای شهیدایران</title>
+  </programme>
+  <programme start="20260728202601 +0000" stop="20260728202801 +0000" channel=""><title lang="fa">امام امت</title>
+  </programme>
+  <programme start="20260728202852 +0000" stop="20260728202952 +0000" channel=""><title lang="fa">تیزر محرم شهر</title>
   </programme>
   <programme start="20260727203000 +0000" stop="20260727223000 +0000" channel="SalamatTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -2028,53 +2036,473 @@
   </programme>
   <programme start="20260728200159 +0000" stop="20260728202959 +0000" channel="AftabTV.ir"><title lang="fa">فیلم سینمایی</title>
   </programme>
-  <programme start="20260727203000 +0000" stop="20260727223000 +0000" channel="AtrakTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260727212238 +0000" stop="20260727215238 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اعلام سریال</title>
   </programme>
-  <programme start="20260727223000 +0000" stop="20260728003000 +0000" channel="AtrakTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260727212256 +0000" stop="20260727212856 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260728003000 +0000" stop="20260728023000 +0000" channel="AtrakTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260727212946 +0000" stop="20260727221646 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - سرخ دار ق 19</title>
   </programme>
-  <programme start="20260728023000 +0000" stop="20260728043000 +0000" channel="AtrakTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260727221728 +0000" stop="20260727221828 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260728043000 +0000" stop="20260728063000 +0000" channel="AtrakTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260727221832 +0000" stop="20260727224832 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
   </programme>
-  <programme start="20260728063000 +0000" stop="20260728083000 +0000" channel="AtrakTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260727221845 +0000" stop="20260727224045 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260728083000 +0000" stop="20260728103000 +0000" channel="AtrakTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260727224051 +0000" stop="20260727225251 +0000" channel="AtrakTV.ir"><title lang="fa">بیوت الله</title>
   </programme>
-  <programme start="20260728103000 +0000" stop="20260728123000 +0000" channel="AtrakTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260727225316 +0000" stop="20260727232316 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260728123000 +0000" stop="20260728143000 +0000" channel="AtrakTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260727225403 +0000" stop="20260727225803 +0000" channel="AtrakTV.ir"><title lang="fa">محرم  - روایت شیدایی ق 28</title>
   </programme>
-  <programme start="20260728143000 +0000" stop="20260728163000 +0000" channel="AtrakTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260727225849 +0000" stop="20260727225949 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260728163000 +0000" stop="20260728183000 +0000" channel="AtrakTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260727225958 +0000" stop="20260727232958 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
   </programme>
-  <programme start="20260728183000 +0000" stop="20260728202900 +0000" channel="AtrakTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260727230017 +0000" stop="20260727233017 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
   </programme>
-  <programme start="20260728203000 +0000" stop="20260728223000 +0000" channel="AtrakTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20260727230031 +0000" stop="20260727230531 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر سبک زندگی</title>
   </programme>
-  <programme start="20260728223000 +0000" stop="20260729003000 +0000" channel="AtrakTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20260727230603 +0000" stop="20260727231903 +0000" channel="AtrakTV.ir"><title lang="fa">دعای یا من تحل</title>
   </programme>
-  <programme start="20260729003000 +0000" stop="20260729023000 +0000" channel="AtrakTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20260727231952 +0000" stop="20260727232752 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
   </programme>
-  <programme start="20260729023000 +0000" stop="20260729043000 +0000" channel="AtrakTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20260727232846 +0000" stop="20260727233446 +0000" channel="AtrakTV.ir"><title lang="fa">اذان صبح</title>
   </programme>
-  <programme start="20260729043000 +0000" stop="20260729063000 +0000" channel="AtrakTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20260727233446 +0000" stop="20260727235146 +0000" channel="AtrakTV.ir"><title lang="fa">نماز  صبح</title>
   </programme>
-  <programme start="20260729063000 +0000" stop="20260729083000 +0000" channel="AtrakTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20260727235146 +0000" stop="20260728003146 +0000" channel="AtrakTV.ir"><title lang="fa">لاله خیز قسمت4</title>
   </programme>
-  <programme start="20260729083000 +0000" stop="20260729103000 +0000" channel="AtrakTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20260728003158 +0000" stop="20260728004258 +0000" channel="AtrakTV.ir"><title lang="fa">مستندکوچه باغ  روستای ده محمد</title>
   </programme>
-  <programme start="20260729103000 +0000" stop="20260729123000 +0000" channel="AtrakTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20260728004258 +0000" stop="20260728012958 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260729123000 +0000" stop="20260729143000 +0000" channel="AtrakTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20260728013026 +0000" stop="20260728020026 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
   </programme>
-  <programme start="20260729143000 +0000" stop="20260729163000 +0000" channel="AtrakTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20260728013035 +0000" stop="20260728022635 +0000" channel="AtrakTV.ir"><title lang="fa">بازی ویزیون قسمت 79</title>
   </programme>
-  <programme start="20260729163000 +0000" stop="20260729183000 +0000" channel="AtrakTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20260728022656 +0000" stop="20260728025656 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
   </programme>
-  <programme start="20260729183000 +0000" stop="20260729202900 +0000" channel="AtrakTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20260728022705 +0000" stop="20260728023005 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728023006 +0000" stop="20260728023106 +0000" channel="AtrakTV.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260728023119 +0000" stop="20260728032219 +0000" channel="AtrakTV.ir"><title lang="fa">مستند ضد</title>
+  </programme>
+  <programme start="20260728032315 +0000" stop="20260728032615 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728032630 +0000" stop="20260728032730 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر</title>
+  </programme>
+  <programme start="20260728032731 +0000" stop="20260728032831 +0000" channel="AtrakTV.ir"><title lang="fa">صرفه جویی   - برق</title>
+  </programme>
+  <programme start="20260728032839 +0000" stop="20260728032939 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728032956 +0000" stop="20260728035956 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک   - هم اکنون - صبح اترک</title>
+  </programme>
+  <programme start="20260728033015 +0000" stop="20260728042915 +0000" channel="AtrakTV.ir"><title lang="fa">صبح اترک</title>
+  </programme>
+  <programme start="20260728042942 +0000" stop="20260728045942 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اعلام سریال</title>
+  </programme>
+  <programme start="20260728043000 +0000" stop="20260728043100 +0000" channel="AtrakTV.ir"><title lang="fa">صلوات خاصه امام رضا(ع)</title>
+  </programme>
+  <programme start="20260728043115 +0000" stop="20260728050115 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728043158 +0000" stop="20260728043358 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728043441 +0000" stop="20260728051741 +0000" channel="AtrakTV.ir"><title lang="fa">سریال  - سفر سبز ق 15</title>
+  </programme>
+  <programme start="20260728051741 +0000" stop="20260728054741 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728051756 +0000" stop="20260728052656 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728052659 +0000" stop="20260728052959 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728053027 +0000" stop="20260728060027 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن پهلوانان</title>
+  </programme>
+  <programme start="20260728060046 +0000" stop="20260728063046 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728060100 +0000" stop="20260728061600 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن  - با خانمان</title>
+  </programme>
+  <programme start="20260728061620 +0000" stop="20260728064620 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728061635 +0000" stop="20260728061735 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر هشدار رانندگی -  کمر بند ایمنی</title>
+  </programme>
+  <programme start="20260728061816 +0000" stop="20260728064816 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728061830 +0000" stop="20260728062830 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728062836 +0000" stop="20260728063036 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728063036 +0000" stop="20260728071836 +0000" channel="AtrakTV.ir"><title lang="fa">خانه مهر  زنده</title>
+  </programme>
+  <programme start="20260728071909 +0000" stop="20260728072109 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728072113 +0000" stop="20260728072713 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728072717 +0000" stop="20260728072817 +0000" channel="AtrakTV.ir"><title lang="fa">بیانات رهبری</title>
+  </programme>
+  <programme start="20260728072821 +0000" stop="20260728072921 +0000" channel="AtrakTV.ir"><title lang="fa">سلام به حضرت معصومه (س)</title>
+  </programme>
+  <programme start="20260728072924 +0000" stop="20260728075924 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک - هم اکنون - اخبار استان</title>
+  </programme>
+  <programme start="20260728072940 +0000" stop="20260728074440 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260728074524 +0000" stop="20260728080824 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728080838 +0000" stop="20260728083838 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
+  </programme>
+  <programme start="20260728080856 +0000" stop="20260728081056 +0000" channel="AtrakTV.ir"><title lang="fa">نجوا</title>
+  </programme>
+  <programme start="20260728081123 +0000" stop="20260728081623 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
+  </programme>
+  <programme start="20260728081640 +0000" stop="20260728082040 +0000" channel="AtrakTV.ir"><title lang="fa">اذان ظهر به افق بجنورد</title>
+  </programme>
+  <programme start="20260728082111 +0000" stop="20260728082911 +0000" channel="AtrakTV.ir"><title lang="fa">نماز ظهر</title>
+  </programme>
+  <programme start="20260728082928 +0000" stop="20260728083028 +0000" channel="AtrakTV.ir"><title lang="fa">ذکر روز دوشنبه</title>
+  </programme>
+  <programme start="20260728083000 +0000" stop="20260728092200 +0000" channel="AtrakTV.ir"><title lang="fa">سینمایی کودکان آب</title>
+  </programme>
+  <programme start="20260728083055 +0000" stop="20260728090055 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728083107 +0000" stop="20260728092907 +0000" channel="AtrakTV.ir"><title lang="fa">صبح ظهور + مجموعه قرار ق4</title>
+  </programme>
+  <programme start="20260728093000 +0000" stop="20260728101600 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - آنام ق 11</title>
+  </programme>
+  <programme start="20260728101644 +0000" stop="20260728102444 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728102520 +0000" stop="20260728102920 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728103002 +0000" stop="20260728112202 +0000" channel="AtrakTV.ir"><title lang="fa">تکرار ملت بیدارتر</title>
+  </programme>
+  <programme start="20260728112244 +0000" stop="20260728115244 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن   - آرم شبکه</title>
+  </programme>
+  <programme start="20260728112301 +0000" stop="20260728112801 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728112823 +0000" stop="20260728113023 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728113024 +0000" stop="20260728120424 +0000" channel="AtrakTV.ir"><title lang="fa">چهل شاهد قسمت 1</title>
+  </programme>
+  <programme start="20260728120440 +0000" stop="20260728120940 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728121019 +0000" stop="20260728121919 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن   - بچه های برج میلاد ق 17</title>
+  </programme>
+  <programme start="20260728121943 +0000" stop="20260728124943 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن   - آرم شبکه</title>
+  </programme>
+  <programme start="20260728122038 +0000" stop="20260728122738 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728122834 +0000" stop="20260728123034 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728123034 +0000" stop="20260728131534 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - سرخ دار ق 20</title>
+  </programme>
+  <programme start="20260728131549 +0000" stop="20260728134549 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن-حسینیه جاجرمی ها</title>
+  </programme>
+  <programme start="20260728131642 +0000" stop="20260728132642 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728132720 +0000" stop="20260728132920 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728133005 +0000" stop="20260728142205 +0000" channel="AtrakTV.ir"><title lang="fa">تکرار خانه مهر</title>
+  </programme>
+  <programme start="20260728142242 +0000" stop="20260728142442 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728142536 +0000" stop="20260728145336 +0000" channel="AtrakTV.ir"><title lang="fa">مشارکتی هلال احمر</title>
+  </programme>
+  <programme start="20260728145347 +0000" stop="20260728145647 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728145746 +0000" stop="20260728153146 +0000" channel="AtrakTV.ir"><title lang="fa">سلام آبادی باز پخش</title>
+  </programme>
+  <programme start="20260728153244 +0000" stop="20260728154044 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728154143 +0000" stop="20260728161143 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
+  </programme>
+  <programme start="20260728154202 +0000" stop="20260728154402 +0000" channel="AtrakTV.ir"><title lang="fa">نجوا</title>
+  </programme>
+  <programme start="20260728154434 +0000" stop="20260728154934 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
+  </programme>
+  <programme start="20260728154940 +0000" stop="20260728155340 +0000" channel="AtrakTV.ir"><title lang="fa">اذان مغرب</title>
+  </programme>
+  <programme start="20260728155352 +0000" stop="20260728155952 +0000" channel="AtrakTV.ir"><title lang="fa">نماز   مغرب</title>
+  </programme>
+  <programme start="20260728155952 +0000" stop="20260728160052 +0000" channel="AtrakTV.ir"><title lang="fa">دعای فرج</title>
+  </programme>
+  <programme start="20260728160134 +0000" stop="20260728163134 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728160148 +0000" stop="20260728161248 +0000" channel="AtrakTV.ir"><title lang="fa">نگاتیو (شهید باقری)</title>
+  </programme>
+  <programme start="20260728161337 +0000" stop="20260728161737 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه هلال احمر</title>
+  </programme>
+  <programme start="20260728161805 +0000" stop="20260728164805 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728161901 +0000" stop="20260728162201 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728162231 +0000" stop="20260728162731 +0000" channel="AtrakTV.ir"><title lang="fa">بیانات امام(ره)</title>
+  </programme>
+  <programme start="20260728162736 +0000" stop="20260728162836 +0000" channel="AtrakTV.ir"><title lang="fa">صلوات خاصه امام رضا(ع)</title>
+  </programme>
+  <programme start="20260728162919 +0000" stop="20260728165419 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260728165419 +0000" stop="20260728172419 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260728165514 +0000" stop="20260728173014 +0000" channel="AtrakTV.ir"><title lang="fa">مستند میناب</title>
+  </programme>
+  <programme start="20260728173015 +0000" stop="20260728184915 +0000" channel="AtrakTV.ir"><title lang="fa">ملت بیدارتر زنده</title>
+  </programme>
+  <programme start="20260728184959 +0000" stop="20260728191959 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260728185019 +0000" stop="20260728185319 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728185326 +0000" stop="20260728192226 +0000" channel="AtrakTV.ir"><title lang="fa">باریکه نور قسمت 3</title>
+  </programme>
+  <programme start="20260728192230 +0000" stop="20260728192530 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728192546 +0000" stop="20260728192746 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728192752 +0000" stop="20260728192852 +0000" channel="AtrakTV.ir"><title lang="fa">سلام بر امام حسین (ع)</title>
+  </programme>
+  <programme start="20260728192904 +0000" stop="20260728195904 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک - هم اکنون - اخبار استان</title>
+  </programme>
+  <programme start="20260728192920 +0000" stop="20260728194420 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260728194420 +0000" stop="20260728201420 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260728194426 +0000" stop="20260728194726 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه رهنما</title>
+  </programme>
+  <programme start="20260728194801 +0000" stop="20260728195701 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728195732 +0000" stop="20260728202932 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728195732 +0000" stop="20260728202932 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260728203001 +0000" stop="20260728212201 +0000" channel="AtrakTV.ir"><title lang="fa">سینمایی دو راهی</title>
+  </programme>
+  <programme start="20260728212238 +0000" stop="20260728215238 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اعلام سریال</title>
+  </programme>
+  <programme start="20260728212256 +0000" stop="20260728212856 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728212946 +0000" stop="20260728221646 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - سرخ دار ق 20</title>
+  </programme>
+  <programme start="20260728221728 +0000" stop="20260728221828 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728221832 +0000" stop="20260728224832 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728221845 +0000" stop="20260728224045 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728224051 +0000" stop="20260728225251 +0000" channel="AtrakTV.ir"><title lang="fa">بیوت الله</title>
+  </programme>
+  <programme start="20260728225316 +0000" stop="20260728232316 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260728225403 +0000" stop="20260728225803 +0000" channel="AtrakTV.ir"><title lang="fa">محرم  - روایت شیدایی ق 29</title>
+  </programme>
+  <programme start="20260728225849 +0000" stop="20260728225949 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728225958 +0000" stop="20260728232958 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
+  </programme>
+  <programme start="20260728230017 +0000" stop="20260728233017 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260728230031 +0000" stop="20260728230531 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر سبک زندگی</title>
+  </programme>
+  <programme start="20260728230603 +0000" stop="20260728231903 +0000" channel="AtrakTV.ir"><title lang="fa">دعای یا من تحل</title>
+  </programme>
+  <programme start="20260728231952 +0000" stop="20260728232752 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
+  </programme>
+  <programme start="20260728232846 +0000" stop="20260728233446 +0000" channel="AtrakTV.ir"><title lang="fa">اذان صبح</title>
+  </programme>
+  <programme start="20260728233446 +0000" stop="20260728235146 +0000" channel="AtrakTV.ir"><title lang="fa">نماز  صبح</title>
+  </programme>
+  <programme start="20260728235146 +0000" stop="20260729003146 +0000" channel="AtrakTV.ir"><title lang="fa">لاله خیز قسمت5</title>
+  </programme>
+  <programme start="20260729003158 +0000" stop="20260729004258 +0000" channel="AtrakTV.ir"><title lang="fa">مستند کوچه باغ روستای دو حصاران</title>
+  </programme>
+  <programme start="20260729004258 +0000" stop="20260729012958 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729013026 +0000" stop="20260729020026 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729013035 +0000" stop="20260729022635 +0000" channel="AtrakTV.ir"><title lang="fa">بازی ویزیون قسمت 80</title>
+  </programme>
+  <programme start="20260729022656 +0000" stop="20260729025656 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729022705 +0000" stop="20260729023005 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729023006 +0000" stop="20260729023106 +0000" channel="AtrakTV.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20260729023119 +0000" stop="20260729032219 +0000" channel="AtrakTV.ir"><title lang="fa">سلام آبادی</title>
+  </programme>
+  <programme start="20260729032315 +0000" stop="20260729032615 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729032630 +0000" stop="20260729032730 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر</title>
+  </programme>
+  <programme start="20260729032731 +0000" stop="20260729032831 +0000" channel="AtrakTV.ir"><title lang="fa">صرفه جویی   - برق</title>
+  </programme>
+  <programme start="20260729032839 +0000" stop="20260729032939 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729032956 +0000" stop="20260729035956 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک   - هم اکنون - صبح اترک</title>
+  </programme>
+  <programme start="20260729033015 +0000" stop="20260729042915 +0000" channel="AtrakTV.ir"><title lang="fa">صبح اترک</title>
+  </programme>
+  <programme start="20260729042942 +0000" stop="20260729045942 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اعلام سریال</title>
+  </programme>
+  <programme start="20260729043000 +0000" stop="20260729043100 +0000" channel="AtrakTV.ir"><title lang="fa">صلوات خاصه امام رضا(ع)</title>
+  </programme>
+  <programme start="20260729043115 +0000" stop="20260729050115 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729043158 +0000" stop="20260729043358 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729043441 +0000" stop="20260729051741 +0000" channel="AtrakTV.ir"><title lang="fa">سریال  - سفر سبز ق 16</title>
+  </programme>
+  <programme start="20260729051741 +0000" stop="20260729054741 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729051756 +0000" stop="20260729052656 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729052659 +0000" stop="20260729052959 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729053027 +0000" stop="20260729060027 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن پهلوانان</title>
+  </programme>
+  <programme start="20260729060046 +0000" stop="20260729063046 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729060100 +0000" stop="20260729061600 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن  - با خانمان</title>
+  </programme>
+  <programme start="20260729061620 +0000" stop="20260729064620 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729061635 +0000" stop="20260729061735 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر هشدار رانندگی -  کمر بند ایمنی</title>
+  </programme>
+  <programme start="20260729061816 +0000" stop="20260729064816 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729061830 +0000" stop="20260729062830 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729062836 +0000" stop="20260729063036 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729063036 +0000" stop="20260729071836 +0000" channel="AtrakTV.ir"><title lang="fa">پزشک شما</title>
+  </programme>
+  <programme start="20260729071909 +0000" stop="20260729072109 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729072113 +0000" stop="20260729072713 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729072717 +0000" stop="20260729072817 +0000" channel="AtrakTV.ir"><title lang="fa">بیانات رهبری</title>
+  </programme>
+  <programme start="20260729072821 +0000" stop="20260729072921 +0000" channel="AtrakTV.ir"><title lang="fa">سلام به حضرت معصومه (س)</title>
+  </programme>
+  <programme start="20260729072924 +0000" stop="20260729075924 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک - هم اکنون - اخبار استان</title>
+  </programme>
+  <programme start="20260729072940 +0000" stop="20260729074440 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260729074524 +0000" stop="20260729080824 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729080838 +0000" stop="20260729083838 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
+  </programme>
+  <programme start="20260729080856 +0000" stop="20260729081056 +0000" channel="AtrakTV.ir"><title lang="fa">نجوا</title>
+  </programme>
+  <programme start="20260729081123 +0000" stop="20260729081623 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
+  </programme>
+  <programme start="20260729081640 +0000" stop="20260729082040 +0000" channel="AtrakTV.ir"><title lang="fa">اذان ظهر به افق بجنورد</title>
+  </programme>
+  <programme start="20260729082111 +0000" stop="20260729082911 +0000" channel="AtrakTV.ir"><title lang="fa">نماز ظهر</title>
+  </programme>
+  <programme start="20260729082928 +0000" stop="20260729083028 +0000" channel="AtrakTV.ir"><title lang="fa">ذکر روز دوشنبه</title>
+  </programme>
+  <programme start="20260729083055 +0000" stop="20260729090055 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729083107 +0000" stop="20260729092907 +0000" channel="AtrakTV.ir"><title lang="fa">صبح ظهور + مجموعه قرار ق5</title>
+  </programme>
+  <programme start="20260729093000 +0000" stop="20260729101600 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - آنام ق 12</title>
+  </programme>
+  <programme start="20260729101644 +0000" stop="20260729102444 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729102520 +0000" stop="20260729102920 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729103002 +0000" stop="20260729112202 +0000" channel="AtrakTV.ir"><title lang="fa">تکرار ملت بیدارتر</title>
+  </programme>
+  <programme start="20260729112244 +0000" stop="20260729115244 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن   - آرم شبکه</title>
+  </programme>
+  <programme start="20260729112301 +0000" stop="20260729112801 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729112823 +0000" stop="20260729113023 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729113024 +0000" stop="20260729120424 +0000" channel="AtrakTV.ir"><title lang="fa">چهل شاهد قسمت 2</title>
+  </programme>
+  <programme start="20260729120440 +0000" stop="20260729120940 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729121019 +0000" stop="20260729121919 +0000" channel="AtrakTV.ir"><title lang="fa">انیمیشن   - بچه های برج میلاد ق 18</title>
+  </programme>
+  <programme start="20260729121943 +0000" stop="20260729124943 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن   - آرم شبکه</title>
+  </programme>
+  <programme start="20260729122038 +0000" stop="20260729122738 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729122834 +0000" stop="20260729123034 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729123034 +0000" stop="20260729131534 +0000" channel="AtrakTV.ir"><title lang="fa">سریال   - سرخ دار ق 21</title>
+  </programme>
+  <programme start="20260729131549 +0000" stop="20260729134549 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن-حسینیه جاجرمی ها</title>
+  </programme>
+  <programme start="20260729131642 +0000" stop="20260729132642 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729132720 +0000" stop="20260729132920 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729133005 +0000" stop="20260729142205 +0000" channel="AtrakTV.ir"><title lang="fa">تکرار پزشک شما</title>
+  </programme>
+  <programme start="20260729142242 +0000" stop="20260729142442 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729142536 +0000" stop="20260729145336 +0000" channel="AtrakTV.ir"><title lang="fa">مشارکتی هلال احمر</title>
+  </programme>
+  <programme start="20260729145347 +0000" stop="20260729145647 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729145746 +0000" stop="20260729153146 +0000" channel="AtrakTV.ir"><title lang="fa">مستند روزهای آزادی ویتنام</title>
+  </programme>
+  <programme start="20260729153244 +0000" stop="20260729154044 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729154143 +0000" stop="20260729161143 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک اوقات شرعی</title>
+  </programme>
+  <programme start="20260729154202 +0000" stop="20260729154402 +0000" channel="AtrakTV.ir"><title lang="fa">نجوا</title>
+  </programme>
+  <programme start="20260729154434 +0000" stop="20260729154934 +0000" channel="AtrakTV.ir"><title lang="fa">قرآن  کریم</title>
+  </programme>
+  <programme start="20260729154940 +0000" stop="20260729155340 +0000" channel="AtrakTV.ir"><title lang="fa">اذان مغرب</title>
+  </programme>
+  <programme start="20260729155352 +0000" stop="20260729155952 +0000" channel="AtrakTV.ir"><title lang="fa">نماز   مغرب</title>
+  </programme>
+  <programme start="20260729155952 +0000" stop="20260729160052 +0000" channel="AtrakTV.ir"><title lang="fa">دعای فرج</title>
+  </programme>
+  <programme start="20260729160134 +0000" stop="20260729163134 +0000" channel="AtrakTV.ir"><title lang="fa">تیزر شبکه</title>
+  </programme>
+  <programme start="20260729160148 +0000" stop="20260729161248 +0000" channel="AtrakTV.ir"><title lang="fa">نگاتیو</title>
+  </programme>
+  <programme start="20260729161337 +0000" stop="20260729161737 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه هلال احمر</title>
+  </programme>
+  <programme start="20260729161805 +0000" stop="20260729164805 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729161901 +0000" stop="20260729162201 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729162231 +0000" stop="20260729162731 +0000" channel="AtrakTV.ir"><title lang="fa">بیانات امام(ره)</title>
+  </programme>
+  <programme start="20260729162736 +0000" stop="20260729162836 +0000" channel="AtrakTV.ir"><title lang="fa">صلوات خاصه امام رضا(ع)</title>
+  </programme>
+  <programme start="20260729162919 +0000" stop="20260729165419 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260729165419 +0000" stop="20260729172419 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260729165514 +0000" stop="20260729173014 +0000" channel="AtrakTV.ir"><title lang="fa">مستند میدان یار قسمت 2</title>
+  </programme>
+  <programme start="20260729173015 +0000" stop="20260729184915 +0000" channel="AtrakTV.ir"><title lang="fa">ملت بیدارتر زنده</title>
+  </programme>
+  <programme start="20260729184959 +0000" stop="20260729191959 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260729185019 +0000" stop="20260729185319 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729185326 +0000" stop="20260729192226 +0000" channel="AtrakTV.ir"><title lang="fa">مستند اربعین- پرسش بی پاسخ</title>
+  </programme>
+  <programme start="20260729192230 +0000" stop="20260729192530 +0000" channel="AtrakTV.ir"><title lang="fa">پیام بازرگانی</title>
+  </programme>
+  <programme start="20260729192546 +0000" stop="20260729192746 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729192752 +0000" stop="20260729192852 +0000" channel="AtrakTV.ir"><title lang="fa">سلام بر امام حسین (ع)</title>
+  </programme>
+  <programme start="20260729192904 +0000" stop="20260729195904 +0000" channel="AtrakTV.ir"><title lang="fa">گرافیک - هم اکنون - اخبار استان</title>
+  </programme>
+  <programme start="20260729192920 +0000" stop="20260729194420 +0000" channel="AtrakTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260729194420 +0000" stop="20260729201420 +0000" channel="AtrakTV.ir"><title lang="fa">آرم استیشن  - آرم شبکه</title>
+  </programme>
+  <programme start="20260729194426 +0000" stop="20260729194726 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه رهنما</title>
+  </programme>
+  <programme start="20260729194801 +0000" stop="20260729195701 +0000" channel="AtrakTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260727204600 +0000" stop="20260727205400 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه یادداشت های عراق - اربعین</title>
   </programme>
@@ -2267,13 +2695,15 @@
   </programme>
   <programme start="20260728123418 +0000" stop="20260728125818 +0000" channel="EshraghNetwork.ir"><title lang="fa">پویا نمایی - جوانمردان</title>
   </programme>
-  <programme start="20260728125831 +0000" stop="20260728125931 +0000" channel="EshraghNetwork.ir"><title lang="fa">میاان برنامه اینجا ایرانه - رهبر شهید</title>
+  <programme start="20260728125831 +0000" stop="20260728125931 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه اینجا ایرانه - رهبر شهید</title>
   </programme>
   <programme start="20260728130012 +0000" stop="20260728130112 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - فراخوان اجلاس نماز</title>
   </programme>
   <programme start="20260728130144 +0000" stop="20260728132044 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه جانفدا - رهبر شهید</title>
   </programme>
-  <programme start="20260728132128 +0000" stop="20260728132728 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
+  <programme start="20260728132128 +0000" stop="20260728132328 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه ایثار در سفر - اربعین</title>
+  </programme>
+  <programme start="20260728132356 +0000" stop="20260728132756 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
   </programme>
   <programme start="20260728132808 +0000" stop="20260728135808 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
   </programme>
@@ -2366,7 +2796,293 @@
   </programme>
   <programme start="20260728201321 +0000" stop="20260728201721 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
   </programme>
-  <programme start="20260728201728 +0000" stop="20260728202928 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند خوزستان به تو از دور سلام - اربعین</title>
+  <programme start="20260728201728 +0000" stop="20260728202928 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند سوته دلان - اربعین</title>
+  </programme>
+  <programme start="20260728203000 +0000" stop="20260728210100 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه مستند سوته دلان - اربعین</title>
+  </programme>
+  <programme start="20260728210130 +0000" stop="20260728213130 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260728210142 +0000" stop="20260728210442 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260728210444 +0000" stop="20260728213444 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فیلم تلویزیونی توپ شوت</title>
+  </programme>
+  <programme start="20260728210506 +0000" stop="20260728214506 +0000" channel="EshraghNetwork.ir"><title lang="fa">فیلم تلویزیونی توپ ، شوت ، شیشه</title>
+    <desc lang="fa">زیرنویس آگهی - بسته 22 ( 6 مورد )</desc>
+  </programme>
+  <programme start="20260728214506 +0000" stop="20260728221506 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260728214518 +0000" stop="20260728214718 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260728214725 +0000" stop="20260728223425 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه فیلم تلویزیونی توپ ، شوت ، شیشه</title>
+  </programme>
+  <programme start="20260728223507 +0000" stop="20260728223707 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه رنگ و جنگ - رهبر شهید</title>
+  </programme>
+  <programme start="20260728223713 +0000" stop="20260728224213 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
+  </programme>
+  <programme start="20260728224309 +0000" stop="20260728230209 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه جانفدا - رهبر شهید</title>
+  </programme>
+  <programme start="20260728230245 +0000" stop="20260728235545 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند بر فراز چارزبر - ملی و میهنی</title>
+  </programme>
+  <programme start="20260728235630 +0000" stop="20260729002630 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه فیلر - رهبر شهید</title>
+  </programme>
+  <programme start="20260728235645 +0000" stop="20260729000145 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20260729000225 +0000" stop="20260729000325 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20260729000408 +0000" stop="20260729003408 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان صبح</title>
+  </programme>
+  <programme start="20260729000430 +0000" stop="20260729000730 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : الحجرات  -  قاری : علی البنا</desc>
+  </programme>
+  <programme start="20260729000733 +0000" stop="20260729003733 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260729000820 +0000" stop="20260729003820 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260729000830 +0000" stop="20260729001230 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">موذن : محمد طوخی</desc>
+  </programme>
+  <programme start="20260729001244 +0000" stop="20260729001844 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">امامت - آیت الله مسعودی علوی</desc>
+  </programme>
+  <programme start="20260729001939 +0000" stop="20260729002039 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260729002052 +0000" stop="20260729002152 +0000" channel="EshraghNetwork.ir"><title lang="fa">ذکر روز - چهارشنبه</title>
+  </programme>
+  <programme start="20260729002227 +0000" stop="20260729005227 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آخرین دیدار - رهبر شهید</title>
+  </programme>
+  <programme start="20260729002259 +0000" stop="20260729003659 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه شهید خامنه ای - رهبر شهید</title>
+  </programme>
+  <programme start="20260729003720 +0000" stop="20260729015120 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند غریبان - رهبر شهید</title>
+  </programme>
+  <programme start="20260729015143 +0000" stop="20260729015543 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
+  </programme>
+  <programme start="20260729015550 +0000" stop="20260729022450 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه نجلا</title>
+  </programme>
+  <programme start="20260729022535 +0000" stop="20260729022835 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ خوش آمدید - اربعین</title>
+  </programme>
+  <programme start="20260729022930 +0000" stop="20260729023030 +0000" channel="EshraghNetwork.ir"><title lang="fa">سرود جمهوری اسلامی</title>
+  </programme>
+  <programme start="20260729023030 +0000" stop="20260729024030 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260729024045 +0000" stop="20260729024145 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آینه باشیم - امر به معروف</title>
+  </programme>
+  <programme start="20260729024145 +0000" stop="20260729031145 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سبک زندگی - نمای زیبای جوانی</title>
+  </programme>
+  <programme start="20260729024225 +0000" stop="20260729024325 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صدای رهبر - رهبر شهید</title>
+  </programme>
+  <programme start="20260729024328 +0000" stop="20260729024728 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ آقای شهیدم - رهبر شهید</title>
+  </programme>
+  <programme start="20260729024751 +0000" stop="20260729034851 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند ضیاء الدین - رهبر شهید</title>
+  </programme>
+  <programme start="20260729034932 +0000" stop="20260729035332 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ دریای آرامش - رهبر شهید</title>
+  </programme>
+  <programme start="20260729035335 +0000" stop="20260729041835 +0000" channel="EshraghNetwork.ir"><title lang="fa">نیمه پنهان ماه - خانواده شهدا</title>
+  </programme>
+  <programme start="20260729041927 +0000" stop="20260729042427 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عمود سلام - اربعین</title>
+  </programme>
+  <programme start="20260729042523 +0000" stop="20260729045523 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729042535 +0000" stop="20260729045535 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729042627 +0000" stop="20260729042927 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20260729042930 +0000" stop="20260729045130 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند انگار که خواب بود - اربعین</title>
+  </programme>
+  <programme start="20260729045210 +0000" stop="20260729050710 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه دوست خوب رهبر - رهبر شهید</title>
+  </programme>
+  <programme start="20260729050756 +0000" stop="20260729052756 +0000" channel="EshraghNetwork.ir"><title lang="fa">پاورقی - طنز سیاسی</title>
+  </programme>
+  <programme start="20260729052804 +0000" stop="20260729055804 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729052816 +0000" stop="20260729055816 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729052908 +0000" stop="20260729055908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه سرخدار</title>
+  </programme>
+  <programme start="20260729052930 +0000" stop="20260729061430 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه سرخدار</title>
+    <desc lang="fa">زیر نویس آگهی - بسته 3 ( 6 مورد )</desc>
+  </programme>
+  <programme start="20260729061519 +0000" stop="20260729064519 +0000" channel="EshraghNetwork.ir"><title lang="fa">وله - روز شمار اربعین</title>
+  </programme>
+  <programme start="20260729061550 +0000" stop="20260729062150 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729062207 +0000" stop="20260729062707 +0000" channel="EshraghNetwork.ir"><title lang="fa">گزارش مردمی - زنجان</title>
+  </programme>
+  <programme start="20260729062707 +0000" stop="20260729065707 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729062719 +0000" stop="20260729062819 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729062908 +0000" stop="20260729065908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون سیمای زندگی</title>
+  </programme>
+  <programme start="20260729062930 +0000" stop="20260729072430 +0000" channel="EshraghNetwork.ir"><title lang="fa">سیمای زندگی</title>
+  </programme>
+  <programme start="20260729072448 +0000" stop="20260729072648 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه هدیه دادن - اربعین</title>
+  </programme>
+  <programme start="20260729072718 +0000" stop="20260729075718 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729072730 +0000" stop="20260729072830 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729072916 +0000" stop="20260729075916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 11</title>
+  </programme>
+  <programme start="20260729072930 +0000" stop="20260729074430 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 11</title>
+  </programme>
+  <programme start="20260729074430 +0000" stop="20260729081430 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729074442 +0000" stop="20260729074542 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729074625 +0000" stop="20260729082225 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند سیمرغ خونین بال - اربعین</title>
+  </programme>
+  <programme start="20260729082311 +0000" stop="20260729082511 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه فراتر از مرزهای سیاسی - اربعین</title>
+  </programme>
+  <programme start="20260729082539 +0000" stop="20260729082739 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ چه فراغی - اربعین</title>
+  </programme>
+  <programme start="20260729082814 +0000" stop="20260729082914 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه حسین یک مکتب است - اربعین</title>
+  </programme>
+  <programme start="20260729082914 +0000" stop="20260729083714 +0000" channel="EshraghNetwork.ir"><title lang="fa">خانواده شهید توری - زنجان</title>
+  </programme>
+  <programme start="20260729083807 +0000" stop="20260729084007 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک شهدای زنجان - 7 مرداد</title>
+  </programme>
+  <programme start="20260729084054 +0000" stop="20260729084354 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20260729084404 +0000" stop="20260729084504 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20260729084558 +0000" stop="20260729091558 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان ظهر</title>
+  </programme>
+  <programme start="20260729084620 +0000" stop="20260729085220 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : الزیارات  -  قاری : کرمی</desc>
+  </programme>
+  <programme start="20260729085220 +0000" stop="20260729092220 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260729085230 +0000" stop="20260729085630 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">موذن : جواد رفیعی</desc>
+  </programme>
+  <programme start="20260729085715 +0000" stop="20260729090415 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">امامت - آیت الله شهید رئیسی</desc>
+  </programme>
+  <programme start="20260729090424 +0000" stop="20260729090524 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260729090554 +0000" stop="20260729093554 +0000" channel="EshraghNetwork.ir"><title lang="fa">وله - روز شمار اربعین</title>
+  </programme>
+  <programme start="20260729090625 +0000" stop="20260729091725 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صبح ظهور - رهبر شهید</title>
+  </programme>
+  <programme start="20260729091823 +0000" stop="20260729094823 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سر از دست دادیم - رهبر شهید</title>
+  </programme>
+  <programme start="20260729091859 +0000" stop="20260729095659 +0000" channel="EshraghNetwork.ir"><title lang="fa">سخنرانی مذهبی - حجت الاسلام راجی</title>
+  </programme>
+  <programme start="20260729095734 +0000" stop="20260729102734 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729095746 +0000" stop="20260729095846 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729095908 +0000" stop="20260729102908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون بازپخش برکت</title>
+  </programme>
+  <programme start="20260729095930 +0000" stop="20260729101730 +0000" channel="EshraghNetwork.ir"><title lang="fa">برکت - مشارکتی جهاد کشاورزی</title>
+  </programme>
+  <programme start="20260729101800 +0000" stop="20260729102000 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آداب تعامل - اربعین</title>
+  </programme>
+  <programme start="20260729102019 +0000" stop="20260729102619 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ منو بشناس - رهبر شهید</title>
+  </programme>
+  <programme start="20260729102705 +0000" stop="20260729105705 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729102717 +0000" stop="20260729102817 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729102908 +0000" stop="20260729105908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فیلم تلویزیونی توپ شوت</title>
+  </programme>
+  <programme start="20260729102930 +0000" stop="20260729110930 +0000" channel="EshraghNetwork.ir"><title lang="fa">فیلم تلویزیونی توپ ، شوت ، شیشه</title>
+    <desc lang="fa">زیر نویس آگهی - بسته 9 ( 6 مورد )</desc>
+  </programme>
+  <programme start="20260729110930 +0000" stop="20260729113930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729110942 +0000" stop="20260729111042 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729111131 +0000" stop="20260729115831 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه فیلم تلویزیونی توپ ، شوت ، شیشه</title>
+  </programme>
+  <programme start="20260729115853 +0000" stop="20260729115953 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - فراخوان اجلاس نماز</title>
+  </programme>
+  <programme start="20260729120027 +0000" stop="20260729123227 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند  عقل سرخ - شیخ اشراق</title>
+  </programme>
+  <programme start="20260729123227 +0000" stop="20260729130227 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729123239 +0000" stop="20260729123339 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729123356 +0000" stop="20260729130356 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون پویا نمایی جوانمردان</title>
+  </programme>
+  <programme start="20260729123418 +0000" stop="20260729125418 +0000" channel="EshraghNetwork.ir"><title lang="fa">پویا نمایی - جوانمردان</title>
+  </programme>
+  <programme start="20260729125448 +0000" stop="20260729132548 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729132626 +0000" stop="20260729135626 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729132638 +0000" stop="20260729132838 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729132908 +0000" stop="20260729135908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه سرخدار</title>
+  </programme>
+  <programme start="20260729132930 +0000" stop="20260729141430 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه سرخدار</title>
+    <desc lang="fa">زیرنویس آگهی - بسته 13 ( 6 مورد )</desc>
+  </programme>
+  <programme start="20260729141513 +0000" stop="20260729142613 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729142646 +0000" stop="20260729145646 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729142658 +0000" stop="20260729142858 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729142908 +0000" stop="20260729145908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون بازپخش از هیچ</title>
+  </programme>
+  <programme start="20260729142930 +0000" stop="20260729145930 +0000" channel="EshraghNetwork.ir"><title lang="fa">از هیچ - زنجان</title>
+  </programme>
+  <programme start="20260729145950 +0000" stop="20260729152950 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729150002 +0000" stop="20260729150202 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729150220 +0000" stop="20260729155220 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729155305 +0000" stop="20260729160405 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صبح ظهور - رهبر شهید</title>
+  </programme>
+  <programme start="20260729160503 +0000" stop="20260729163503 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان مغرب</title>
+  </programme>
+  <programme start="20260729160525 +0000" stop="20260729161425 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : نسا  -  قاری : عادلی</desc>
+  </programme>
+  <programme start="20260729161520 +0000" stop="20260729164520 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260729161530 +0000" stop="20260729161930 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان مغرب</title>
+    <desc lang="fa">موذن : عباس امام جمعه</desc>
+  </programme>
+  <programme start="20260729161938 +0000" stop="20260729164938 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260729162122 +0000" stop="20260729165122 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729162134 +0000" stop="20260729162734 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729162800 +0000" stop="20260729162900 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20260729162916 +0000" stop="20260729165916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 20</title>
+  </programme>
+  <programme start="20260729162930 +0000" stop="20260729170930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 20</title>
+  </programme>
+  <programme start="20260729170930 +0000" stop="20260729173930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729170942 +0000" stop="20260729171442 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729171500 +0000" stop="20260729173700 +0000" channel="EshraghNetwork.ir"><title lang="fa">هلال مهربانی - مشارکتی هلال احمر</title>
+  </programme>
+  <programme start="20260729173714 +0000" stop="20260729180714 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729173726 +0000" stop="20260729174226 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729174323 +0000" stop="20260729181323 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون قرار بی قراران</title>
+  </programme>
+  <programme start="20260729174345 +0000" stop="20260729192145 +0000" channel="EshraghNetwork.ir"><title lang="fa">قرار بی قراران - ملی و میهنی</title>
+  </programme>
+  <programme start="20260729192226 +0000" stop="20260729195226 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20260729192238 +0000" stop="20260729192838 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20260729192841 +0000" stop="20260729195841 +0000" channel="EshraghNetwork.ir"><title lang="fa">یک آیه</title>
+  </programme>
+  <programme start="20260729192916 +0000" stop="20260729195916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 23</title>
+  </programme>
+  <programme start="20260729192930 +0000" stop="20260729194930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 23</title>
+  </programme>
+  <programme start="20260729194930 +0000" stop="20260729201930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
   </programme>
   <programme start="20260727203000 +0000" stop="20260727223000 +0000" channel="IsfahanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -2801,6 +3517,181 @@
   <programme start="20260728200500 +0000" stop="20260728201000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260728201000 +0000" stop="20260728202900 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">سریال سرخدار (15)</title>
+  </programme>
+  <programme start="20260728203000 +0000" stop="20260728205500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">sسریال سرخدار (15)</title>
+  </programme>
+  <programme start="20260728205500 +0000" stop="20260728210000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260728210000 +0000" stop="20260728211000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">به یاد تو سخن می گوییم (1)</title>
+  </programme>
+  <programme start="20260728211000 +0000" stop="20260728211500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">رهبری</title>
+  </programme>
+  <programme start="20260728211500 +0000" stop="20260728212000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گزیده همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260728212000 +0000" stop="20260728213000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">راویوم (7)</title>
+  </programme>
+  <programme start="20260728213000 +0000" stop="20260728220500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مغستان (هرمزگان) (1)</title>
+  </programme>
+  <programme start="20260728220500 +0000" stop="20260728222000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گلاب میناب</title>
+  </programme>
+  <programme start="20260728222000 +0000" stop="20260728222500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">رنگ و جنگ (128)</title>
+  </programme>
+  <programme start="20260728222500 +0000" stop="20260728223000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">روایت عراقی</title>
+  </programme>
+  <programme start="20260728223000 +0000" stop="20260728224000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مجازیوم 10)</title>
+  </programme>
+  <programme start="20260728224000 +0000" stop="20260728224500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">جنگ جنوب</title>
+  </programme>
+  <programme start="20260728224500 +0000" stop="20260728225000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">سایت رهبری</title>
+  </programme>
+  <programme start="20260728225000 +0000" stop="20260728232000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">نسیم صبح</title>
+  </programme>
+  <programme start="20260728232000 +0000" stop="20260728233000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">اذان صبح</title>
+  </programme>
+  <programme start="20260728233000 +0000" stop="20260728234500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">نسیم صبح</title>
+  </programme>
+  <programme start="20260728234500 +0000" stop="20260729005500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260729005500 +0000" stop="20260729010000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729010000 +0000" stop="20260729015500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مستند امتحان عمار</title>
+  </programme>
+  <programme start="20260729015500 +0000" stop="20260729022500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">دیدار حبیب</title>
+  </programme>
+  <programme start="20260729022500 +0000" stop="20260729023000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729023000 +0000" stop="20260729025500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">تفسیر قرآن کریم</title>
+  </programme>
+  <programme start="20260729025500 +0000" stop="20260729030000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729030000 +0000" stop="20260729040000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">تا آسمان</title>
+  </programme>
+  <programme start="20260729040000 +0000" stop="20260729045000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">سریال سرخدار (15)</title>
+  </programme>
+  <programme start="20260729045000 +0000" stop="20260729045500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مکتب</title>
+  </programme>
+  <programme start="20260729045500 +0000" stop="20260729050000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729050000 +0000" stop="20260729060000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">خانواده خراسانی</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729060000 +0000" stop="20260729060500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729060500 +0000" stop="20260729061500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">پایمردان حسین (37)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729061500 +0000" stop="20260729062000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">جنگ جنوب به روایت مردم</title>
+  </programme>
+  <programme start="20260729062000 +0000" stop="20260729062500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مجازیوم (9)</title>
+  </programme>
+  <programme start="20260729062500 +0000" stop="20260729063000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گزیده همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260729063000 +0000" stop="20260729072000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">پزشک شما</title>
+  </programme>
+  <programme start="20260729072000 +0000" stop="20260729073000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">روایت مردم (36)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729073000 +0000" stop="20260729073500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">راویوم</title>
+  </programme>
+  <programme start="20260729073500 +0000" stop="20260729074500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">صبح ظهور - صفر 1104</title>
+  </programme>
+  <programme start="20260729074500 +0000" stop="20260729075000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">روایت حضور روزانه</title>
+  </programme>
+  <programme start="20260729075000 +0000" stop="20260729075500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">هوش مصنوعی - احزاب</title>
+  </programme>
+  <programme start="20260729075500 +0000" stop="20260729080000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">کلام رهبری</title>
+  </programme>
+  <programme start="20260729080000 +0000" stop="20260729082000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">اذان و نماز ظهر</title>
+  </programme>
+  <programme start="20260729082000 +0000" stop="20260729082500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">دعای 14 صحیفه برنامه</title>
+  </programme>
+  <programme start="20260729082500 +0000" stop="20260729083000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729083000 +0000" stop="20260729093000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">تا آسمان</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729093000 +0000" stop="20260729093500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729093500 +0000" stop="20260729094500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">افق روشن</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729094500 +0000" stop="20260729095000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مجازیوم (9)</title>
+  </programme>
+  <programme start="20260729095000 +0000" stop="20260729104500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260729104500 +0000" stop="20260729105000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729105000 +0000" stop="20260729122500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">سینمایی</title>
+  </programme>
+  <programme start="20260729122500 +0000" stop="20260729123000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گزیده همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260729123000 +0000" stop="20260729125500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">اخبار استان</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729125500 +0000" stop="20260729130000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729130000 +0000" stop="20260729132500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">هم رکاب (اربعین)</title>
+  </programme>
+  <programme start="20260729132500 +0000" stop="20260729133000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گزیده همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260729133000 +0000" stop="20260729135000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">روایت تشییع آقای شهید ایران (16)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729135000 +0000" stop="20260729140000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">پایمردان حسین (38)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729140000 +0000" stop="20260729142500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">هلال مهربانی (31)</title>
+  </programme>
+  <programme start="20260729142500 +0000" stop="20260729143000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729143000 +0000" stop="20260729152000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">فرکانس</title>
+  </programme>
+  <programme start="20260729152000 +0000" stop="20260729152500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گزیده همرزمان حسین (8)</title>
+  </programme>
+  <programme start="20260729152500 +0000" stop="20260729153000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">کلام امام</title>
+  </programme>
+  <programme start="20260729153000 +0000" stop="20260729155000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">اذان و نماز مغرب</title>
+  </programme>
+  <programme start="20260729155000 +0000" stop="20260729160000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">به یاد تو سخن می گوییم (4)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729160000 +0000" stop="20260729161000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">راویوم</title>
+  </programme>
+  <programme start="20260729161000 +0000" stop="20260729162000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مجازیوم (11)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729162000 +0000" stop="20260729162500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">عکس اربعین - طوفان</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729162500 +0000" stop="20260729163000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729163000 +0000" stop="20260729165500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">اخبار استان</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729165500 +0000" stop="20260729170000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729170000 +0000" stop="20260729173000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">گفتگوی ویژه خبری</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729173000 +0000" stop="20260729173500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729173500 +0000" stop="20260729183000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">شب شرقی</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729183000 +0000" stop="20260729183500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">مرور خبرها</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729183500 +0000" stop="20260729190000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">شب شرقی</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729190000 +0000" stop="20260729190500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260729190500 +0000" stop="20260729191000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">پیام طبیعت (25)</title>
+    <desc lang="fa">(تولیدی)</desc>
+  </programme>
+  <programme start="20260729191000 +0000" stop="20260729200500 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">همرزمان حسین (9)</title>
+  </programme>
+  <programme start="20260729200500 +0000" stop="20260729201000 +0000" channel="KhorasanRazaviTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260727203000 +0000" stop="20260727223000 +0000" channel="KhalijeFarsTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
