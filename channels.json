@@ -592,5 +592,68 @@
     "name_en": "sport4",
     "group": "استانی",
     "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sport4.png"
+  },
+  {
+    "slug": "aflak",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "aflak",
+    "name_en": "aflak",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/aflak.png"
+  },
+  {
+    "slug": "azarbayjangharbi",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "azarbayjangharbi",
+    "name_en": "azarbayjangharbi",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png"
+  },
+  {
+    "slug": "bushehr",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "bushehr",
+    "name_en": "bushehr",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/bushehr.png"
+  },
+  {
+    "slug": "kerman",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "kerman",
+    "name_en": "kerman",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png"
+  },
+  {
+    "slug": "kish",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "kish",
+    "name_en": "kish",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kish.png"
+  },
+  {
+    "slug": "noor",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "نور",
+    "name_en": "noor",
+    "group": "مذهبی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/noor.png"
+  },
+  {
+    "slug": "tabarestan",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "tabarestan",
+    "name_en": "tabarestan",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png"
   }
 ]

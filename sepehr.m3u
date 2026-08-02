@@ -131,3 +131,17 @@ https://ncdn.telewebion.ir/zaferan/live/playlist.m3u8
 https://ncdn.telewebion.ir/presstv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport4" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/sport4.png" group-title="استانی",sport4
 https://ncdn.telewebion.ir/sport4/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="aflak" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/aflak.png" group-title="استانی",aflak
+https://ncdn.telewebion.ir/aflak/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="azarbayjangharbi" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/azarbayjangharbi.png" group-title="استانی",azarbayjangharbi
+https://ncdn.telewebion.ir/azarbayjangharbi/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="bushehr" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/bushehr.png" group-title="استانی",bushehr
+https://ncdn.telewebion.ir/bushehr/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kerman" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kerman.png" group-title="استانی",kerman
+https://ncdn.telewebion.ir/kerman/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kish" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/kish.png" group-title="استانی",kish
+https://ncdn.telewebion.ir/kish/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="نور" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/noor.png" group-title="مذهبی",نور
+https://ncdn.telewebion.ir/noor/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tabarestan" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="استانی",tabarestan
+https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
