@@ -314,6 +314,48 @@
   </programme>
   <programme start="20260812103000 +0000" stop="20260812113000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار نیمروزی</title>
   </programme>
+  <programme start="20260812113000 +0000" stop="20260812113500 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812113540 +0000" stop="20260812142640 +0000" channel="IRIB1.ir"><title lang="fa">سینمایی محمد رسول الله</title>
+  </programme>
+  <programme start="20260812142640 +0000" stop="20260812142940 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812143000 +0000" stop="20260812151400 +0000" channel="IRIB1.ir"><title lang="fa">حماسه خوان</title>
+  </programme>
+  <programme start="20260812151430 +0000" stop="20260812154430 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812151500 +0000" stop="20260812153400 +0000" channel="IRIB1.ir"><title lang="fa">میدان یار</title>
+  </programme>
+  <programme start="20260812153400 +0000" stop="20260812154700 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812154700 +0000" stop="20260812155100 +0000" channel="IRIB1.ir"><title lang="fa">اذان مغرب به افق تهران</title>
+  </programme>
+  <programme start="20260812155140 +0000" stop="20260812155440 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812155500 +0000" stop="20260812162500 +0000" channel="IRIB1.ir"><title lang="fa">ایران امروز</title>
+  </programme>
+  <programme start="20260812162500 +0000" stop="20260812163000 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812163000 +0000" stop="20260812172000 +0000" channel="IRIB1.ir"><title lang="fa">جریان</title>
+    <desc lang="fa">تهیه کننده : فیضی پور
+مجری : زادبر</desc>
+  </programme>
+  <programme start="20260812172057 +0000" stop="20260812172957 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812173000 +0000" stop="20260812183000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار شامگاهی</title>
+  </programme>
+  <programme start="20260812183000 +0000" stop="20260812184400 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812184400 +0000" stop="20260812191900 +0000" channel="IRIB1.ir"><title lang="fa">مجموعه داستانی سرو سپید سرخ</title>
+  </programme>
+  <programme start="20260812191906 +0000" stop="20260812192206 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812192300 +0000" stop="20260812193400 +0000" channel="IRIB1.ir"><title lang="fa">مکث</title>
+  </programme>
+  <programme start="20260812193403 +0000" stop="20260812194403 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260812194500 +0000" stop="20260812202900 +0000" channel="IRIB1.ir"><title lang="fa">آقای شهید ایران</title>
+  </programme>
   <programme start="20260811203000 +0000" stop="20260811223000 +0000" channel="IRIB2.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260811223000 +0000" stop="20260812003000 +0000" channel="IRIB2.ir"><title lang="fa">02:00 - 04:00</title>
@@ -2083,7 +2125,11 @@
   </programme>
   <programme start="20260812161315 +0000" stop="20260812161415 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
   </programme>
-  <programme start="20260812161446 +0000" stop="20260812162746 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه کتیبه - شهادت امام رضا (ع)</title>
+  <programme start="20260812161446 +0000" stop="20260812164446 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سیاه پوش کردن حرم - شهادت</title>
+  </programme>
+  <programme start="20260812161530 +0000" stop="20260812162530 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تشرف - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260812162530 +0000" stop="20260812162730 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
   </programme>
   <programme start="20260812162800 +0000" stop="20260812162900 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
   </programme>
@@ -2091,17 +2137,21 @@
   </programme>
   <programme start="20260812162930 +0000" stop="20260812170930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 20</title>
   </programme>
-  <programme start="20260812170930 +0000" stop="20260812173930 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سیاه پوش کردن حرم - شهادت امام رضا (ع)</title>
+  <programme start="20260812170955 +0000" stop="20260812171155 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آماده سازی موکب - شهادت امام رضا</title>
   </programme>
-  <programme start="20260812171014 +0000" stop="20260812172014 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تشرف - شهادت امام رضا (ع)</title>
+  <programme start="20260812171208 +0000" stop="20260812171408 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
   </programme>
-  <programme start="20260812172022 +0000" stop="20260812172122 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عزاداری نوجوانان - شهادت امام رضا (ع)</title>
+  <programme start="20260812171408 +0000" stop="20260812174408 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فرامکث</title>
   </programme>
-  <programme start="20260812172136 +0000" stop="20260812172836 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه مرثیه خوانی - شهادت امام رضا (ع)</title>
+  <programme start="20260812171430 +0000" stop="20260812181230 +0000" channel="EshraghNetwork.ir"><title lang="fa">فرامکث - میزگرد سیاسی</title>
   </programme>
-  <programme start="20260812172908 +0000" stop="20260812175908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون باید برخاست</title>
+  <programme start="20260812181317 +0000" stop="20260812181517 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
   </programme>
-  <programme start="20260812172930 +0000" stop="20260812192830 +0000" channel="EshraghNetwork.ir"><title lang="fa">باید برخاست - ملی و میهنی</title>
+  <programme start="20260812181547 +0000" stop="20260812184547 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون باید برخاست</title>
+  </programme>
+  <programme start="20260812181609 +0000" stop="20260812192609 +0000" channel="EshraghNetwork.ir"><title lang="fa">باید برخاست - ملی و میهنی</title>
+  </programme>
+  <programme start="20260812192641 +0000" stop="20260812192841 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
   </programme>
   <programme start="20260812192841 +0000" stop="20260812195841 +0000" channel="EshraghNetwork.ir"><title lang="fa">یک آیه</title>
   </programme>
@@ -2114,6 +2164,225 @@
   <programme start="20260812195109 +0000" stop="20260812202709 +0000" channel="EshraghNetwork.ir"><title lang="fa">این روزها - شهادت امام رضا (ع)</title>
   </programme>
   <programme start="20260812202759 +0000" stop="20260812202959 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آماده سازی موکب - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260812203000 +0000" stop="20260812203300 +0000" channel="EshraghNetwork.ir"><title lang="fa">مداحی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260812203335 +0000" stop="20260812205435 +0000" channel="EshraghNetwork.ir"><title lang="fa">حسینیه اعظم - زنجان</title>
+  </programme>
+  <programme start="20260812205438 +0000" stop="20260812205838 +0000" channel="EshraghNetwork.ir"><title lang="fa">مرثیه خوانی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260812205908 +0000" stop="20260812212908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فیلم تلویزیونی آسمان هشتم</title>
+  </programme>
+  <programme start="20260812205930 +0000" stop="20260812220730 +0000" channel="EshraghNetwork.ir"><title lang="fa">فیلم تلویزیونی آسمان هشتم</title>
+  </programme>
+  <programme start="20260812220745 +0000" stop="20260812222145 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه شهید خامنه ای - رهبر شهید</title>
+  </programme>
+  <programme start="20260812222211 +0000" stop="20260812232911 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند روایت رهبری - رهبر شهید</title>
+  </programme>
+  <programme start="20260812232954 +0000" stop="20260812235254 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه دیدار با خانواده شهدا - رهبر شهید</title>
+  </programme>
+  <programme start="20260812235306 +0000" stop="20260813000106 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه نگاتیو - رهبر شهید</title>
+  </programme>
+  <programme start="20260813000158 +0000" stop="20260813000658 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20260813000728 +0000" stop="20260813000828 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20260813000905 +0000" stop="20260813001905 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صبح ظهور - امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813001931 +0000" stop="20260813004931 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان صبح</title>
+  </programme>
+  <programme start="20260813001953 +0000" stop="20260813002553 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : بقره  -  قاری : قاسم مقدمی</desc>
+  </programme>
+  <programme start="20260813002620 +0000" stop="20260813005620 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260813002630 +0000" stop="20260813003030 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">موذن : سبز علی</desc>
+  </programme>
+  <programme start="20260813003042 +0000" stop="20260813003642 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">امامت - آیت الله مسعودی علوی</desc>
+  </programme>
+  <programme start="20260813003737 +0000" stop="20260813003837 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813003923 +0000" stop="20260813004023 +0000" channel="EshraghNetwork.ir"><title lang="fa">ذکر روز - پنجشنبه</title>
+  </programme>
+  <programme start="20260813004044 +0000" stop="20260813011044 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک حجاب - حجاب و عفاف</title>
+  </programme>
+  <programme start="20260813004114 +0000" stop="20260813005414 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه از لاک جیغ تا خدا - حجاب و عفاف</title>
+  </programme>
+  <programme start="20260813005507 +0000" stop="20260813005707 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه حرم - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813005721 +0000" stop="20260813014121 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند قاب عاشقی - ملی و میهنی</title>
+  </programme>
+  <programme start="20260813014122 +0000" stop="20260813014522 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه مرثیه خوانی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813014619 +0000" stop="20260813022419 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه نجلا</title>
+  </programme>
+  <programme start="20260813022428 +0000" stop="20260813022928 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ دل - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813022930 +0000" stop="20260813023030 +0000" channel="EshraghNetwork.ir"><title lang="fa">سرود جمهوری اسلامی</title>
+  </programme>
+  <programme start="20260813023030 +0000" stop="20260813024030 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260813024045 +0000" stop="20260813024345 +0000" channel="EshraghNetwork.ir"><title lang="fa">مداحی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813024411 +0000" stop="20260813033411 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند سعادتمندان - آیت الله حسن زاده</title>
+  </programme>
+  <programme start="20260813033423 +0000" stop="20260813034023 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تلالو - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813034026 +0000" stop="20260813040726 +0000" channel="EshraghNetwork.ir"><title lang="fa">نیمه پنهان ماه - خانواده شهدا</title>
+  </programme>
+  <programme start="20260813040737 +0000" stop="20260813041937 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه نگاتیو - رهبر شهید</title>
+  </programme>
+  <programme start="20260813042020 +0000" stop="20260813042320 +0000" channel="EshraghNetwork.ir"><title lang="fa">مرثیه خوانی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813042414 +0000" stop="20260813042614 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عزاداری - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813042627 +0000" stop="20260813042927 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813042930 +0000" stop="20260813050230 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند بال های شکسته - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813050243 +0000" stop="20260813050343 +0000" channel="EshraghNetwork.ir"><title lang="fa">وله - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813050343 +0000" stop="20260813052643 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه دیدار با خانواده شهدا - رهبر شهید</title>
+  </programme>
+  <programme start="20260813052655 +0000" stop="20260813052855 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صدا - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813052908 +0000" stop="20260813055908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه بزم آخر</title>
+  </programme>
+  <programme start="20260813052930 +0000" stop="20260813061230 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه بزم آخر</title>
+  </programme>
+  <programme start="20260813061257 +0000" stop="20260813061757 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ زائران پیاده - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813061846 +0000" stop="20260813062146 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه شمس ولایت - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813062236 +0000" stop="20260813062736 +0000" channel="EshraghNetwork.ir"><title lang="fa">گزارش مردمی - زنجان</title>
+  </programme>
+  <programme start="20260813062824 +0000" stop="20260813065824 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سیاه پوش کردن حرم - شهادت</title>
+  </programme>
+  <programme start="20260813062908 +0000" stop="20260813065908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون باید برخاست</title>
+  </programme>
+  <programme start="20260813062930 +0000" stop="20260813072430 +0000" channel="EshraghNetwork.ir"><title lang="fa">باید برخاست - ملی و میهنی</title>
+  </programme>
+  <programme start="20260813072430 +0000" stop="20260813072830 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ دیدار - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813072927 +0000" stop="20260813073327 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه کاروان هنرمندان - رهبر شهید</title>
+  </programme>
+  <programme start="20260813073353 +0000" stop="20260813074053 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تلالو - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813074135 +0000" stop="20260813075435 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه کتیبه - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813075448 +0000" stop="20260813075648 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آماده سازی موکب - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813075651 +0000" stop="20260813083251 +0000" channel="EshraghNetwork.ir"><title lang="fa">این روزها - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813083341 +0000" stop="20260813083641 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک شهدای زنجان - 22 مرداد</title>
+  </programme>
+  <programme start="20260813083700 +0000" stop="20260813084000 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20260813084040 +0000" stop="20260813084140 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20260813084231 +0000" stop="20260813084431 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک نگین آفرینش - مهدویت</title>
+  </programme>
+  <programme start="20260813084456 +0000" stop="20260813091456 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان ظهر</title>
+  </programme>
+  <programme start="20260813084518 +0000" stop="20260813085018 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : احقاف -  قاری : رضا حسینی</desc>
+  </programme>
+  <programme start="20260813085020 +0000" stop="20260813092020 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260813085030 +0000" stop="20260813085430 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">موذن : غلوش</desc>
+  </programme>
+  <programme start="20260813085525 +0000" stop="20260813090225 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">امامت - آیت الله شهید رئیسی</desc>
+  </programme>
+  <programme start="20260813090234 +0000" stop="20260813090334 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813090347 +0000" stop="20260813091247 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صبح ظهور - امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813091342 +0000" stop="20260813091842 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تلالو - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813091912 +0000" stop="20260813093812 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه گونه ای که تر شد - شهادت</title>
+  </programme>
+  <programme start="20260813093842 +0000" stop="20260813094142 +0000" channel="EshraghNetwork.ir"><title lang="fa">مداحی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813094232 +0000" stop="20260813102132 +0000" channel="EshraghNetwork.ir"><title lang="fa">لاله خیز - ملی و میهنی</title>
+  </programme>
+  <programme start="20260813102135 +0000" stop="20260813102835 +0000" channel="EshraghNetwork.ir"><title lang="fa">مرثیه خوانی - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813102908 +0000" stop="20260813105908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فیلم تلویزیونی آسمان هشتم</title>
+  </programme>
+  <programme start="20260813102930 +0000" stop="20260813113730 +0000" channel="EshraghNetwork.ir"><title lang="fa">فیلم تلویزیونی آسمان هشتم</title>
+  </programme>
+  <programme start="20260813113730 +0000" stop="20260813114030 +0000" channel="EshraghNetwork.ir"><title lang="fa">گزارش مردمی - زنجان</title>
+  </programme>
+  <programme start="20260813114050 +0000" stop="20260813122650 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند قاب عاشقی - ملی و میهنی</title>
+  </programme>
+  <programme start="20260813122742 +0000" stop="20260813122842 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه عزاداری نوجوانان - شهادت امام رضا</title>
+  </programme>
+  <programme start="20260813122908 +0000" stop="20260813125908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون پویا نمایی جوانمردان</title>
+  </programme>
+  <programme start="20260813122930 +0000" stop="20260813125330 +0000" channel="EshraghNetwork.ir"><title lang="fa">پویا نمایی - جوانمردان</title>
+  </programme>
+  <programme start="20260813125330 +0000" stop="20260813125730 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ یا رضا (ع) - شهادت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813125744 +0000" stop="20260813132844 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260813132908 +0000" stop="20260813135908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه قصه های تبیان</title>
+  </programme>
+  <programme start="20260813132930 +0000" stop="20260813141230 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه قصه های تبیان -</title>
+  </programme>
+  <programme start="20260813141246 +0000" stop="20260813153546 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260813153559 +0000" stop="20260813154259 +0000" channel="EshraghNetwork.ir"><title lang="fa">خانواده شهید عزیزی - زنجان</title>
+  </programme>
+  <programme start="20260813154337 +0000" stop="20260813155237 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه صبح ظهور - امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813155332 +0000" stop="20260813162332 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان مغرب</title>
+  </programme>
+  <programme start="20260813155354 +0000" stop="20260813155754 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : ابراهیم  -  قاری : مهرداد قربانلو</desc>
+  </programme>
+  <programme start="20260813155820 +0000" stop="20260813162820 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20260813155830 +0000" stop="20260813160130 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان مغرب</title>
+    <desc lang="fa">موذن : کریم منصوری</desc>
+  </programme>
+  <programme start="20260813160203 +0000" stop="20260813160803 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز مغرب</title>
+    <desc lang="fa">امامت - حجت الاسلام رجبی</desc>
+  </programme>
+  <programme start="20260813160847 +0000" stop="20260813160947 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260813161010 +0000" stop="20260813162510 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260813162532 +0000" stop="20260813162732 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
+  </programme>
+  <programme start="20260813162802 +0000" stop="20260813162902 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20260813162916 +0000" stop="20260813165916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 20</title>
+  </programme>
+  <programme start="20260813162930 +0000" stop="20260813170930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 20</title>
+  </programme>
+  <programme start="20260813170930 +0000" stop="20260813171130 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
+  </programme>
+  <programme start="20260813171130 +0000" stop="20260813175630 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260813175638 +0000" stop="20260813175838 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
+  </programme>
+  <programme start="20260813175908 +0000" stop="20260813182908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون باید برخاست</title>
+  </programme>
+  <programme start="20260813175930 +0000" stop="20260813192630 +0000" channel="EshraghNetwork.ir"><title lang="fa">باید برخاست - ملی و میهنی</title>
+  </programme>
+  <programme start="20260813192654 +0000" stop="20260813192854 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - ایران سلامت</title>
+  </programme>
+  <programme start="20260813192854 +0000" stop="20260813195854 +0000" channel="EshraghNetwork.ir"><title lang="fa">یک آیه</title>
+  </programme>
+  <programme start="20260813192916 +0000" stop="20260813195916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 23</title>
+  </programme>
+  <programme start="20260813192930 +0000" stop="20260813194930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 23</title>
+  </programme>
+  <programme start="20260813194930 +0000" stop="20260813202030 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260811203000 +0000" stop="20260811223000 +0000" channel="IsfahanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
