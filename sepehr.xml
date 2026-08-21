@@ -219,54 +219,6 @@
   <channel id=""><display-name lang="fa">tabarestan</display-name>
     <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png"/>
   </channel>
-  <programme start="20260820203000 +0000" stop="20260820223000 +0000" channel="IRIB1.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260820223000 +0000" stop="20260821003000 +0000" channel="IRIB1.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260821003000 +0000" stop="20260821023000 +0000" channel="IRIB1.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260821023000 +0000" stop="20260821043000 +0000" channel="IRIB1.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260821043000 +0000" stop="20260821063000 +0000" channel="IRIB1.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260821063000 +0000" stop="20260821083000 +0000" channel="IRIB1.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260821083000 +0000" stop="20260821103000 +0000" channel="IRIB1.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260821103000 +0000" stop="20260821123000 +0000" channel="IRIB1.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260821123000 +0000" stop="20260821143000 +0000" channel="IRIB1.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260821143000 +0000" stop="20260821163000 +0000" channel="IRIB1.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260821163000 +0000" stop="20260821183000 +0000" channel="IRIB1.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260821183000 +0000" stop="20260821202900 +0000" channel="IRIB1.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
-  <programme start="20260820203000 +0000" stop="20260820223000 +0000" channel="IRIB2.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260820223000 +0000" stop="20260821003000 +0000" channel="IRIB2.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260821003000 +0000" stop="20260821023000 +0000" channel="IRIB2.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260821023000 +0000" stop="20260821043000 +0000" channel="IRIB2.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260821043000 +0000" stop="20260821063000 +0000" channel="IRIB2.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260821063000 +0000" stop="20260821083000 +0000" channel="IRIB2.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260821083000 +0000" stop="20260821103000 +0000" channel="IRIB2.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260821103000 +0000" stop="20260821123000 +0000" channel="IRIB2.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260821123000 +0000" stop="20260821143000 +0000" channel="IRIB2.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260821143000 +0000" stop="20260821163000 +0000" channel="IRIB2.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260821163000 +0000" stop="20260821183000 +0000" channel="IRIB2.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260821183000 +0000" stop="20260821202900 +0000" channel="IRIB2.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
   <programme start="20260820203000 +0000" stop="20260820223000 +0000" channel="IRIB3.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260820223000 +0000" stop="20260821003000 +0000" channel="IRIB3.ir"><title lang="fa">02:00 - 04:00</title>
