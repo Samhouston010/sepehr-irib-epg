@@ -219,30 +219,6 @@
   <channel id=""><display-name lang="fa">tabarestan</display-name>
     <icon src="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png"/>
   </channel>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="IRIB1.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="IRIB1.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="IRIB1.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="IRIB1.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="IRIB1.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="IRIB1.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="IRIB1.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="IRIB1.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="IRIB1.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="IRIB1.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="IRIB1.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="IRIB1.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
   <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="IRIB2.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="IRIB2.ir"><title lang="fa">02:00 - 04:00</title>
@@ -290,30 +266,6 @@
   <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="IRIB3.ir"><title lang="fa">20:00 - 22:00</title>
   </programme>
   <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="IRIB3.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="IRIB4.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="IRIB4.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="IRIB4.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="IRIB4.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="IRIB4.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="IRIB4.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="IRIB4.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="IRIB4.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="IRIB4.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="IRIB4.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="IRIB4.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="IRIB4.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
   <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="TehranTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -386,54 +338,6 @@
   <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="OfoghTV.ir"><title lang="fa">20:00 - 22:00</title>
   </programme>
   <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="OfoghTV.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="AmouzeshTV.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="AmouzeshTV.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="AmouzeshTV.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="AmouzeshTV.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="AmouzeshTV.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="AmouzeshTV.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="AmouzeshTV.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="AmouzeshTV.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="AmouzeshTV.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="AmouzeshTV.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="AmouzeshTV.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="AmouzeshTV.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="IRINN.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="IRINN.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="IRINN.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="IRINN.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="IRINN.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="IRINN.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="IRINN.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="IRINN.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="IRINN.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="IRINN.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="IRINN.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="IRINN.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
   <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="Nasim.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -771,30 +675,6 @@
   </programme>
   <programme start="20260903183000 +0000" stop="20260903202900 +0000" channel="IRIBUHD.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="AbadanTV.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="AbadanTV.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="AbadanTV.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="AbadanTV.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="AbadanTV.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="AbadanTV.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="AbadanTV.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="AbadanTV.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="AbadanTV.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="AbadanTV.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="AbadanTV.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="AbadanTV.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
   <programme start="20260902203000 +0000" stop="20260902223000 +0000" channel="AbadanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20260902223000 +0000" stop="20260903003000 +0000" channel="AbadanTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -818,30 +698,6 @@
   <programme start="20260903163000 +0000" stop="20260903183000 +0000" channel="AbadanTV.ir"><title lang="fa">20:00 - 22:00</title>
   </programme>
   <programme start="20260903183000 +0000" stop="20260903202900 +0000" channel="AbadanTV.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
-  <programme start="20260901203000 +0000" stop="20260901223000 +0000" channel="AraTV.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20260901223000 +0000" stop="20260902003000 +0000" channel="AraTV.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20260902003000 +0000" stop="20260902023000 +0000" channel="AraTV.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20260902023000 +0000" stop="20260902043000 +0000" channel="AraTV.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20260902043000 +0000" stop="20260902063000 +0000" channel="AraTV.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20260902063000 +0000" stop="20260902083000 +0000" channel="AraTV.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20260902083000 +0000" stop="20260902103000 +0000" channel="AraTV.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20260902103000 +0000" stop="20260902123000 +0000" channel="AraTV.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20260902123000 +0000" stop="20260902143000 +0000" channel="AraTV.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20260902143000 +0000" stop="20260902163000 +0000" channel="AraTV.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20260902163000 +0000" stop="20260902183000 +0000" channel="AraTV.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20260902183000 +0000" stop="20260902202900 +0000" channel="AraTV.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
   <programme start="20260902203000 +0000" stop="20260902223000 +0000" channel="AraTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
