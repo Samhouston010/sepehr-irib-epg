@@ -90,7 +90,9 @@ def test_sepehr(base_url):
 def load_cfg():
     p = Path("api_config.json")
     if p.exists():
-        return json.loads(p.read_text(encoding="utf-8"))
+        text = p.read_text(encoding="utf-8").strip()
+        if text:
+            return json.loads(text)
     return {}
 
 
