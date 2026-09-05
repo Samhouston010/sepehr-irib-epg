@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="📡 سپهر" tvg-id="tv1" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/Logo1plus.png",یک HD
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="tv1" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/1.png",یک HD
 https://sepehr-proxy.samhoustonbot.workers.dev/tv1
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="tv2" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/2.png",دو HD
@@ -90,11 +90,11 @@ https://sepehr-proxy.samhoustonbot.workers.dev/sahar3
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="sahar4" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/saharbalkan.png",سحر بالکان
 https://sepehr-proxy.samhoustonbot.workers.dev/sahar4
 
-#EXTINF:-1 group-title="📡 سپهر" tvg-id="alkosar" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alkowsar.png",الکوثر
-https://sepehr-proxy.samhoustonbot.workers.dev/alkosar
-
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="saharafghan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/saharAFGHANISTAN.png",سحر افغانستان
 https://sepehr-proxy.samhoustonbot.workers.dev/saharafghan
+
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="alkosar" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/alkowsar.png",الکوثر
+https://sepehr-proxy.samhoustonbot.workers.dev/alkosar
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="hispan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/hispan-tv.png",هیسپان
 https://sepehr-proxy.samhoustonbot.workers.dev/hispan
@@ -255,7 +255,7 @@ https://sepehr-proxy.samhoustonbot.workers.dev/karoonplus
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="nesfejahan" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/nesfejahan.png",نصف جهان
 https://sepehr-proxy.samhoustonbot.workers.dev/nesfejahan
 
-#EXTINF:-1 group-title="📡 سپهر" tvg-id="tv1plus" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/1.png",مثبت یک
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="tv1plus" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/Logo1plus.png",مثبت یک
 https://sepehr-proxy.samhoustonbot.workers.dev/tv1plus
 
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="makran" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/makran.png",مکران
