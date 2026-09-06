@@ -427,19 +427,19 @@
   </programme>
   <programme start="20260906115100 +0000" stop="20260906115500 +0000" channel="IRIB3.ir"><title lang="fa">کلیپ فریاد فتح</title>
   </programme>
-  <programme start="20260906115502 +0000" stop="20260906121502 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906115502 +0000" stop="20260906120002 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260906121506 +0000" stop="20260906121906 +0000" channel="IRIB3.ir"><title lang="fa">گزارش روز</title>
+  <programme start="20260906120050 +0000" stop="20260906120850 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
   </programme>
-  <programme start="20260906121945 +0000" stop="20260906124945 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906120850 +0000" stop="20260906123550 +0000" channel="IRIB3.ir"><title lang="fa">محفل</title>
   </programme>
-  <programme start="20260906122007 +0000" stop="20260906123107 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906123623 +0000" stop="20260906123923 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260906123152 +0000" stop="20260906123552 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906123957 +0000" stop="20260906124357 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
   </programme>
-  <programme start="20260906123559 +0000" stop="20260906124259 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906124404 +0000" stop="20260906125104 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
   </programme>
-  <programme start="20260906124310 +0000" stop="20260906125910 +0000" channel="IRIB3.ir"><title lang="fa">گزارش ورزشی (آرم شروع و تصاویر استادیوم)</title>
+  <programme start="20260906125115 +0000" stop="20260906125915 +0000" channel="IRIB3.ir"><title lang="fa">گزارش ورزشی (آرم شروع و تصاویر استادیوم)</title>
   </programme>
   <programme start="20260906125915 +0000" stop="20260906132915 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم</title>
   </programme>
@@ -489,29 +489,257 @@
   </programme>
   <programme start="20260906172845 +0000" stop="20260906173345 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر (مجری)</title>
   </programme>
-  <programme start="20260906173345 +0000" stop="20260906174345 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906173421 +0000" stop="20260906180421 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای مجموعه</title>
   </programme>
-  <programme start="20260906174441 +0000" stop="20260906182441 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی دیوار دفاعی</title>
-  </programme>
-  <programme start="20260906182533 +0000" stop="20260906182833 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906173439 +0000" stop="20260906182839 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی دیوار دفاعی</title>
   </programme>
   <programme start="20260906182915 +0000" stop="20260906185915 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906182930 +0000" stop="20260906184430 +0000" channel="IRIB3.ir"><title lang="fa">اخبار شبانگاهی</title>
   </programme>
-  <programme start="20260906184430 +0000" stop="20260906185030 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906184430 +0000" stop="20260906191430 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260906185115 +0000" stop="20260906192115 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سرآشپز</title>
+  <programme start="20260906184502 +0000" stop="20260906185502 +0000" channel="IRIB3.ir"><title lang="fa">میداندار</title>
   </programme>
-  <programme start="20260906185133 +0000" stop="20260906190133 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906185502 +0000" stop="20260906192502 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سرآشپز</title>
   </programme>
-  <programme start="20260906190231 +0000" stop="20260906201231 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز</title>
+  <programme start="20260906185520 +0000" stop="20260906190520 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
   </programme>
-  <programme start="20260906201309 +0000" stop="20260906204309 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906190618 +0000" stop="20260906202718 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز</title>
   </programme>
-  <programme start="20260906201339 +0000" stop="20260906201639 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  <programme start="20260906202720 +0000" stop="20260906205720 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20260906201735 +0000" stop="20260906202935 +0000" channel="IRIB3.ir"><title lang="fa">میداندار</title>
+  <programme start="20260906202733 +0000" stop="20260906202933 +0000" channel="IRIB3.ir"><title lang="fa">قرعه کشی اسنوا</title>
+  </programme>
+  <programme start="20260906203000 +0000" stop="20260906203700 +0000" channel="IRIB3.ir"><title lang="fa">قرعه کشی اسنوا</title>
+  </programme>
+  <programme start="20260906203733 +0000" stop="20260906210733 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906203803 +0000" stop="20260906210803 +0000" channel="IRIB3.ir"><title lang="fa">میداندار</title>
+  </programme>
+  <programme start="20260906210803 +0000" stop="20260906211103 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906211159 +0000" stop="20260906214159 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906211211 +0000" stop="20260906211611 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906211708 +0000" stop="20260906220808 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی دیوار دفاعی</title>
+  </programme>
+  <programme start="20260906220830 +0000" stop="20260906223830 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906220842 +0000" stop="20260906220942 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906220949 +0000" stop="20260906232649 +0000" channel="IRIB3.ir"><title lang="fa">سرآشپز</title>
+  </programme>
+  <programme start="20260906232709 +0000" stop="20260906235709 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906232723 +0000" stop="20260906233023 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906233049 +0000" stop="20260906234149 +0000" channel="IRIB3.ir"><title lang="fa">وطن من</title>
+  </programme>
+  <programme start="20260906234237 +0000" stop="20260906234337 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906234344 +0000" stop="20260906234644 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906234700 +0000" stop="20260906234800 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260906234807 +0000" stop="20260907003307 +0000" channel="IRIB3.ir"><title lang="fa">زیارت امام رضا (ع)</title>
+  </programme>
+  <programme start="20260907003307 +0000" stop="20260907010307 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907003322 +0000" stop="20260907004322 +0000" channel="IRIB3.ir"><title lang="fa">تلاوت قرآن</title>
+  </programme>
+  <programme start="20260907004357 +0000" stop="20260907011357 +0000" channel="IRIB3.ir"><title lang="fa">ذکر روز دوشنبه</title>
+  </programme>
+  <programme start="20260907004430 +0000" stop="20260907004830 +0000" channel="IRIB3.ir"><title lang="fa">اذان صبح به وقت تهران</title>
+  </programme>
+  <programme start="20260907004902 +0000" stop="20260907005602 +0000" channel="IRIB3.ir"><title lang="fa">دعای چهاردهم صحیفه سجادیه</title>
+  </programme>
+  <programme start="20260907005619 +0000" stop="20260907010119 +0000" channel="IRIB3.ir"><title lang="fa">نماز جماعت صبح</title>
+  </programme>
+  <programme start="20260907010202 +0000" stop="20260907010302 +0000" channel="IRIB3.ir"><title lang="fa">دعای سلامتی امام زمان (ع)</title>
+  </programme>
+  <programme start="20260907010341 +0000" stop="20260907013341 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907010356 +0000" stop="20260907015456 +0000" channel="IRIB3.ir"><title lang="fa">سمت خدا</title>
+  </programme>
+  <programme start="20260907015526 +0000" stop="20260907015926 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907015947 +0000" stop="20260907020047 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907020054 +0000" stop="20260907022754 +0000" channel="IRIB3.ir"><title lang="fa">محفل - زاهدان</title>
+  </programme>
+  <programme start="20260907022827 +0000" stop="20260907022927 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907022930 +0000" stop="20260907023030 +0000" channel="IRIB3.ir"><title lang="fa">سرود جمهوری سلامی ایران</title>
+  </programme>
+  <programme start="20260907023038 +0000" stop="20260907023838 +0000" channel="IRIB3.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260907023902 +0000" stop="20260907031102 +0000" channel="IRIB3.ir"><title lang="fa">سخنرانی مذهبی</title>
+  </programme>
+  <programme start="20260907031151 +0000" stop="20260907034151 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907031221 +0000" stop="20260907034221 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای ایران ما</title>
+  </programme>
+  <programme start="20260907031239 +0000" stop="20260907031639 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907031705 +0000" stop="20260907042205 +0000" channel="IRIB3.ir"><title lang="fa">ایران ما</title>
+  </programme>
+  <programme start="20260907042245 +0000" stop="20260907045245 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907042315 +0000" stop="20260907045315 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سلام صبح بخیر</title>
+  </programme>
+  <programme start="20260907042333 +0000" stop="20260907042833 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907042922 +0000" stop="20260907061122 +0000" channel="IRIB3.ir"><title lang="fa">سلام صبح بخیر</title>
+  </programme>
+  <programme start="20260907061211 +0000" stop="20260907064211 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907061241 +0000" stop="20260907061441 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907061511 +0000" stop="20260907064511 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای مجموعه ایرانی</title>
+  </programme>
+  <programme start="20260907061529 +0000" stop="20260907062229 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907062324 +0000" stop="20260907071624 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی دیوار دفاعی</title>
+  </programme>
+  <programme start="20260907071659 +0000" stop="20260907074659 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907071729 +0000" stop="20260907071829 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907071906 +0000" stop="20260907074906 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای طبیب</title>
+  </programme>
+  <programme start="20260907071924 +0000" stop="20260907072724 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907072817 +0000" stop="20260907082317 +0000" channel="IRIB3.ir"><title lang="fa">طبیب</title>
+  </programme>
+  <programme start="20260907082409 +0000" stop="20260907085409 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907082439 +0000" stop="20260907082539 +0000" channel="IRIB3.ir"><title lang="fa">محفل ستاره ها</title>
+  </programme>
+  <programme start="20260907082542 +0000" stop="20260907085542 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907082557 +0000" stop="20260907083057 +0000" channel="IRIB3.ir"><title lang="fa">تلاوت قرآن</title>
+  </programme>
+  <programme start="20260907083101 +0000" stop="20260907090101 +0000" channel="IRIB3.ir"><title lang="fa">ذکر روز دوشنبه</title>
+  </programme>
+  <programme start="20260907083130 +0000" stop="20260907083630 +0000" channel="IRIB3.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+  </programme>
+  <programme start="20260907083705 +0000" stop="20260907084105 +0000" channel="IRIB3.ir"><title lang="fa">نماز جماعت ظهر</title>
+  </programme>
+  <programme start="20260907084141 +0000" stop="20260907084241 +0000" channel="IRIB3.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20260907084320 +0000" stop="20260907091320 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907084335 +0000" stop="20260907085235 +0000" channel="IRIB3.ir"><title lang="fa">محفل</title>
+  </programme>
+  <programme start="20260907085302 +0000" stop="20260907092302 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907085314 +0000" stop="20260907085814 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907085910 +0000" stop="20260907091610 +0000" channel="IRIB3.ir"><title lang="fa">پیشنهاد سرآشپز</title>
+  </programme>
+  <programme start="20260907091636 +0000" stop="20260907094636 +0000" channel="IRIB3.ir"><title lang="fa">اعلام برنامه</title>
+  </programme>
+  <programme start="20260907091706 +0000" stop="20260907091906 +0000" channel="IRIB3.ir"><title lang="fa">کلیپ مشت گره کرده</title>
+  </programme>
+  <programme start="20260907091937 +0000" stop="20260907094937 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907092007 +0000" stop="20260907093107 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907093135 +0000" stop="20260907100135 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سمت خدا</title>
+  </programme>
+  <programme start="20260907093153 +0000" stop="20260907093553 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907093632 +0000" stop="20260907102632 +0000" channel="IRIB3.ir"><title lang="fa">سمت خدا</title>
+  </programme>
+  <programme start="20260907102632 +0000" stop="20260907105632 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907102648 +0000" stop="20260907102948 +0000" channel="IRIB3.ir"><title lang="fa">کلیپ ایران</title>
+  </programme>
+  <programme start="20260907103024 +0000" stop="20260907103924 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907103954 +0000" stop="20260907110954 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سریال</title>
+  </programme>
+  <programme start="20260907104012 +0000" stop="20260907104912 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907104936 +0000" stop="20260907114236 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی دیوار دفاعی</title>
+  </programme>
+  <programme start="20260907114306 +0000" stop="20260907121306 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907114328 +0000" stop="20260907114628 +0000" channel="IRIB3.ir"><title lang="fa">کلیپ کلام اقتدار</title>
+  </programme>
+  <programme start="20260907114707 +0000" stop="20260907115907 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907115953 +0000" stop="20260907120153 +0000" channel="IRIB3.ir"><title lang="fa">افشای پشت پرده عوسی سیریک</title>
+  </programme>
+  <programme start="20260907120205 +0000" stop="20260907123205 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای فیلم</title>
+  </programme>
+  <programme start="20260907120227 +0000" stop="20260907120727 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907120823 +0000" stop="20260907132923 +0000" channel="IRIB3.ir"><title lang="fa">فیلم سینمایی برادران فراری 1</title>
+  </programme>
+  <programme start="20260907132953 +0000" stop="20260907133753 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907133759 +0000" stop="20260907134459 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907134459 +0000" stop="20260907134959 +0000" channel="IRIB3.ir"><title lang="fa">گزارش روز</title>
+  </programme>
+  <programme start="20260907135008 +0000" stop="20260907135608 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907135633 +0000" stop="20260907140333 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907140412 +0000" stop="20260907144112 +0000" channel="IRIB3.ir"><title lang="fa">محفل ستاره ها</title>
+  </programme>
+  <programme start="20260907144142 +0000" stop="20260907144442 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907144520 +0000" stop="20260907145820 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر (آرم شروع و مجری)</title>
+  </programme>
+  <programme start="20260907145850 +0000" stop="20260907151050 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907151055 +0000" stop="20260907154055 +0000" channel="IRIB3.ir"><title lang="fa">ذکر روز دوشنبه</title>
+  </programme>
+  <programme start="20260907151130 +0000" stop="20260907151430 +0000" channel="IRIB3.ir"><title lang="fa">اذان مغرب به وقت تهران</title>
+  </programme>
+  <programme start="20260907151503 +0000" stop="20260907154503 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907151518 +0000" stop="20260907152818 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر(تصاویر استادیوم و مجری)</title>
+  </programme>
+  <programme start="20260907152915 +0000" stop="20260907155915 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم</title>
+  </programme>
+  <programme start="20260907152930 +0000" stop="20260907162130 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر (نیمه اول فوتبال)</title>
+  </programme>
+  <programme start="20260907162130 +0000" stop="20260907165130 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم</title>
+  </programme>
+  <programme start="20260907162145 +0000" stop="20260907162745 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907162838 +0000" stop="20260907163538 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر(کارشناسی)</title>
+  </programme>
+  <programme start="20260907163615 +0000" stop="20260907170615 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم</title>
+  </programme>
+  <programme start="20260907163630 +0000" stop="20260907172830 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر(نیمه دوم فوتبال)</title>
+  </programme>
+  <programme start="20260907172830 +0000" stop="20260907175830 +0000" channel="IRIB3.ir"><title lang="fa">آگهی تقدیم</title>
+  </programme>
+  <programme start="20260907172845 +0000" stop="20260907173445 +0000" channel="IRIB3.ir"><title lang="fa">فوتبال برتر(مجری)</title>
+  </programme>
+  <programme start="20260907173534 +0000" stop="20260907180534 +0000" channel="IRIB3.ir"><title lang="fa">کپشن ابتدای سریال</title>
+  </programme>
+  <programme start="20260907173552 +0000" stop="20260907182352 +0000" channel="IRIB3.ir"><title lang="fa">مجموعه ایرانی &quot;دیار مادری&quot;</title>
+  </programme>
+  <programme start="20260907182417 +0000" stop="20260907182817 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
+  </programme>
+  <programme start="20260907182915 +0000" stop="20260907185915 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907182930 +0000" stop="20260907184430 +0000" channel="IRIB3.ir"><title lang="fa">اخبار شبانگاهی</title>
+  </programme>
+  <programme start="20260907184430 +0000" stop="20260907191430 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907184502 +0000" stop="20260907185502 +0000" channel="IRIB3.ir"><title lang="fa">قرعه کشی اسنوا</title>
+  </programme>
+  <programme start="20260907185502 +0000" stop="20260907192502 +0000" channel="IRIB3.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907185532 +0000" stop="20260907190332 +0000" channel="IRIB3.ir"><title lang="fa">آگهی</title>
   </programme>
   <programme start="20260905203000 +0000" stop="20260905223000 +0000" channel="IRIB4.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -3687,37 +3915,17 @@
   </programme>
   <programme start="20260906025816 +0000" stop="20260906031216 +0000" channel="FarsTV.ir"><title lang="fa">رنگ شادی</title>
   </programme>
-  <programme start="20260906031251 +0000" stop="20260906031651 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260906031712 +0000" stop="20260906034712 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
-  </programme>
-  <programme start="20260906031730 +0000" stop="20260906034730 +0000" channel="FarsTV.ir"><title lang="fa">هم اکنون - انیمیشن</title>
-  </programme>
-  <programme start="20260906031745 +0000" stop="20260906033345 +0000" channel="FarsTV.ir"><title lang="fa">انیمیشن ماجراهای سمنو و شقاقل - فصل اول - 15</title>
-  </programme>
-  <programme start="20260906033442 +0000" stop="20260906040442 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
-  </programme>
-  <programme start="20260906033455 +0000" stop="20260906033755 +0000" channel="FarsTV.ir"><title lang="fa">آیتم طنز ته چین</title>
-  </programme>
-  <programme start="20260906033825 +0000" stop="20260906040825 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن شبکه فارس</title>
-  </programme>
-  <programme start="20260906033838 +0000" stop="20260906043438 +0000" channel="FarsTV.ir"><title lang="fa">مسابقه خونه مونه 8 - فصل چهارم - بوشهر</title>
+  <programme start="20260906031251 +0000" stop="20260906043451 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906043500 +0000" stop="20260906053700 +0000" channel="FarsTV.ir"><title lang="fa">روز بخیر فارس</title>
   </programme>
-  <programme start="20260906053700 +0000" stop="20260906053800 +0000" channel="FarsTV.ir"><title lang="fa">تیزر</title>
-  </programme>
-  <programme start="20260906053814 +0000" stop="20260906060814 +0000" channel="FarsTV.ir"><title lang="fa">باغ ارم</title>
+  <programme start="20260906053700 +0000" stop="20260906053800 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906053844 +0000" stop="20260906060844 +0000" channel="FarsTV.ir"><title lang="fa">پای کار</title>
   </programme>
   <programme start="20260906060844 +0000" stop="20260906061544 +0000" channel="FarsTV.ir"><title lang="fa">سینما در 30 نما</title>
   </programme>
-  <programme start="20260906061552 +0000" stop="20260906061652 +0000" channel="FarsTV.ir"><title lang="fa">تایم لپس</title>
-  </programme>
-  <programme start="20260906061658 +0000" stop="20260906062358 +0000" channel="FarsTV.ir"><title lang="fa">چهل تیکه</title>
-  </programme>
-  <programme start="20260906062404 +0000" stop="20260906062904 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20260906061552 +0000" stop="20260906062952 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906063000 +0000" stop="20260906073000 +0000" channel="FarsTV.ir"><title lang="fa">کاشانه مهر</title>
   </programme>
@@ -3883,7 +4091,7 @@
   </programme>
   <programme start="20260906173729 +0000" stop="20260906180729 +0000" channel="FarsTV.ir"><title lang="fa">هم اکنون - مستند</title>
   </programme>
-  <programme start="20260906173744 +0000" stop="20260906180444 +0000" channel="FarsTV.ir"><title lang="fa">مستند میرزای شیرازی</title>
+  <programme start="20260906173744 +0000" stop="20260906180444 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906180451 +0000" stop="20260906183451 +0000" channel="FarsTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
@@ -3904,8 +4112,6 @@
   <programme start="20260906193752 +0000" stop="20260906195252 +0000" channel="FarsTV.ir"><title lang="fa">بخش خبری شبانگاهی</title>
   </programme>
   <programme start="20260906195252 +0000" stop="20260906195752 +0000" channel="FarsTV.ir"><title lang="fa">میان برنامه</title>
-  </programme>
-  <programme start="20260906195805 +0000" stop="20260906202905 +0000" channel="FarsTV.ir"><title lang="fa">سینمایی کامچاتکا</title>
   </programme>
   <programme start="20260905203000 +0000" stop="20260905223000 +0000" channel="QazvinTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -4387,6 +4593,126 @@
   <programme start="20260906121700 +0000" stop="20260906123000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260906123000 +0000" stop="20260906131600 +0000" channel="HamedanTV.ir"><title lang="fa">مستند زندگی</title>
+  </programme>
+  <programme start="20260906131600 +0000" stop="20260906133000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906133000 +0000" stop="20260906140700 +0000" channel="HamedanTV.ir"><title lang="fa">سریال لیسانسه ها</title>
+  </programme>
+  <programme start="20260906140700 +0000" stop="20260906141100 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906141100 +0000" stop="20260906141800 +0000" channel="HamedanTV.ir"><title lang="fa">مهره های استعمار</title>
+  </programme>
+  <programme start="20260906141800 +0000" stop="20260906142500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906142500 +0000" stop="20260906151500 +0000" channel="HamedanTV.ir"><title lang="fa">عصر ورزش</title>
+  </programme>
+  <programme start="20260906151500 +0000" stop="20260906152400 +0000" channel="HamedanTV.ir"><title lang="fa">ویژه اذان مغرب</title>
+  </programme>
+  <programme start="20260906152400 +0000" stop="20260906152600 +0000" channel="HamedanTV.ir"><title lang="fa">اذان مغرب به افق همدان</title>
+  </programme>
+  <programme start="20260906152600 +0000" stop="20260906153000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906153000 +0000" stop="20260906161500 +0000" channel="HamedanTV.ir"><title lang="fa">خبر شهرستان و گفتگوی ویژه خبری</title>
+  </programme>
+  <programme start="20260906161500 +0000" stop="20260906165000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906165000 +0000" stop="20260906171500 +0000" channel="HamedanTV.ir"><title lang="fa">میدان یار</title>
+  </programme>
+  <programme start="20260906171500 +0000" stop="20260906173000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906173000 +0000" stop="20260906182200 +0000" channel="HamedanTV.ir"><title lang="fa">شب های الوند</title>
+  </programme>
+  <programme start="20260906182200 +0000" stop="20260906183000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906183000 +0000" stop="20260906190000 +0000" channel="HamedanTV.ir"><title lang="fa">خبر استان</title>
+  </programme>
+  <programme start="20260906190000 +0000" stop="20260906190500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906190500 +0000" stop="20260906192400 +0000" channel="HamedanTV.ir"><title lang="fa">خیابان با ما</title>
+  </programme>
+  <programme start="20260906192400 +0000" stop="20260906193000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906193000 +0000" stop="20260906201500 +0000" channel="HamedanTV.ir"><title lang="fa">سریال مستوران</title>
+  </programme>
+  <programme start="20260906201500 +0000" stop="20260906203000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906203000 +0000" stop="20260906210600 +0000" channel="HamedanTV.ir"><title lang="fa">نماز جمعه شهرستان</title>
+  </programme>
+  <programme start="20260906210600 +0000" stop="20260906210800 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906210800 +0000" stop="20260906224300 +0000" channel="HamedanTV.ir"><title lang="fa">سینمایی</title>
+  </programme>
+  <programme start="20260906224300 +0000" stop="20260906224700 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906224700 +0000" stop="20260906233300 +0000" channel="HamedanTV.ir"><title lang="fa">مستند زندگی</title>
+  </programme>
+  <programme start="20260906233300 +0000" stop="20260906234000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260906234000 +0000" stop="20260906235300 +0000" channel="HamedanTV.ir"><title lang="fa">سخنرانی حجت الاسلام انصاریان</title>
+  </programme>
+  <programme start="20260906235300 +0000" stop="20260907002700 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907002700 +0000" stop="20260907005000 +0000" channel="HamedanTV.ir"><title lang="fa">مناجات امیر المومنین</title>
+  </programme>
+  <programme start="20260907005000 +0000" stop="20260907005800 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907005800 +0000" stop="20260907010300 +0000" channel="HamedanTV.ir"><title lang="fa">اذان صبح به افق همدان</title>
+  </programme>
+  <programme start="20260907010300 +0000" stop="20260907012400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907012400 +0000" stop="20260907022200 +0000" channel="HamedanTV.ir"><title lang="fa">ترتیل قرآن</title>
+  </programme>
+  <programme start="20260907022200 +0000" stop="20260907023000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907023000 +0000" stop="20260907023100 +0000" channel="HamedanTV.ir"><title lang="fa">سرود جمهوری اسلامی</title>
+  </programme>
+  <programme start="20260907023100 +0000" stop="20260907023400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907023400 +0000" stop="20260907032000 +0000" channel="HamedanTV.ir"><title lang="fa">مستند زندگی</title>
+  </programme>
+  <programme start="20260907032000 +0000" stop="20260907033000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907033000 +0000" stop="20260907041500 +0000" channel="HamedanTV.ir"><title lang="fa">سریال مستوران</title>
+  </programme>
+  <programme start="20260907041500 +0000" stop="20260907043000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907043000 +0000" stop="20260907053000 +0000" channel="HamedanTV.ir"><title lang="fa">صبح عالی</title>
+  </programme>
+  <programme start="20260907053000 +0000" stop="20260907061400 +0000" channel="HamedanTV.ir"><title lang="fa">سیمای کودک</title>
+  </programme>
+  <programme start="20260907061400 +0000" stop="20260907063000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907063000 +0000" stop="20260907070700 +0000" channel="HamedanTV.ir"><title lang="fa">لیسانسه ها</title>
+  </programme>
+  <programme start="20260907070700 +0000" stop="20260907073000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907073000 +0000" stop="20260907081700 +0000" channel="HamedanTV.ir"><title lang="fa">لاله خیز</title>
+  </programme>
+  <programme start="20260907081700 +0000" stop="20260907082600 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907082600 +0000" stop="20260907083700 +0000" channel="HamedanTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260907083700 +0000" stop="20260907084400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907084400 +0000" stop="20260907085900 +0000" channel="HamedanTV.ir"><title lang="fa">اذان ظهر به وقت همدان</title>
+  </programme>
+  <programme start="20260907085900 +0000" stop="20260907090500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907090500 +0000" stop="20260907093300 +0000" channel="HamedanTV.ir"><title lang="fa">سخنرانی حجت الاسلام انصاریان</title>
+  </programme>
+  <programme start="20260907093300 +0000" stop="20260907093400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907093400 +0000" stop="20260907095900 +0000" channel="HamedanTV.ir"><title lang="fa">مستند اسرائیل از درون</title>
+  </programme>
+  <programme start="20260907095900 +0000" stop="20260907100000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907100000 +0000" stop="20260907101500 +0000" channel="HamedanTV.ir"><title lang="fa">اخبار</title>
+  </programme>
+  <programme start="20260907101500 +0000" stop="20260907103000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260907103000 +0000" stop="20260907120500 +0000" channel="HamedanTV.ir"><title lang="fa">سینمایی</title>
+  </programme>
+  <programme start="20260907120500 +0000" stop="20260907123000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260905203000 +0000" stop="20260905223000 +0000" channel="KordestanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
