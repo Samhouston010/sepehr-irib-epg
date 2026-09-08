@@ -258,6 +258,9 @@ https://sepehr-proxy.samhoustonbot.workers.dev/nesfejahan
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="tv1plus" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/Logo1plus.png",مثبت یک
 https://sepehr-proxy.samhoustonbot.workers.dev/tv1plus
 
+#EXTINF:-1 group-title="📡 سپهر" tvg-id="parseh" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/parse.png",پارسه
+https://sepehr-proxy.samhoustonbot.workers.dev/parseh
+
 #EXTINF:-1 group-title="📡 سپهر" tvg-id="makran" tvg-logo="https://lb-cdn.sepehrtv.ir/img/channel/logo/makran.png",مکران
 https://sepehr-proxy.samhoustonbot.workers.dev/makran
 
