@@ -5048,8 +5048,6 @@
   </programme>
   <programme start="20260918183000 +0000" stop="20260918202900 +0000" channel="iFilmPersian.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
-  <programme start="20260917203000 +0000" stop="20260917204400 +0000" channel=""><title lang="fa">شب های تلاوت</title>
-  </programme>
   <programme start="20260917204430 +0000" stop="20260917211430 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
   </programme>
   <programme start="20260917204512 +0000" stop="20260917205412 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
@@ -5250,6 +5248,8 @@
   </programme>
   <programme start="20260918082830 +0000" stop="20260918083230 +0000" channel=""><title lang="fa">اذان رحیم موذن زاده اردبیلی</title>
   </programme>
+  <programme start="20260918083000 +0000" stop="20260918084400 +0000" channel=""><title lang="fa">شب های تلاوت</title>
+  </programme>
   <programme start="20260918083310 +0000" stop="20260918083410 +0000" channel=""><title lang="fa">دعا سلامتی امام زمان</title>
   </programme>
   <programme start="20260918083439 +0000" stop="20260918083939 +0000" channel=""><title lang="fa">دعای نادعلی</title>
@@ -5334,79 +5334,431 @@
   </programme>
   <programme start="20260918150857 +0000" stop="20260918151357 +0000" channel=""><title lang="fa">دعای نادعلی</title>
   </programme>
-  <programme start="20260918151455 +0000" stop="20260918151855 +0000" channel=""><title lang="fa">عطر ماندگار</title>
+  <programme start="20260918151454 +0000" stop="20260918151854 +0000" channel=""><title lang="fa">عطر ماندگار</title>
   </programme>
-  <programme start="20260918151946 +0000" stop="20260918152646 +0000" channel=""><title lang="fa">نور علی نور</title>
+  <programme start="20260918151945 +0000" stop="20260918152645 +0000" channel=""><title lang="fa">نور علی نور</title>
   </programme>
-  <programme start="20260918152704 +0000" stop="20260918153104 +0000" channel=""><title lang="fa">یک صفحه یک آیه</title>
+  <programme start="20260918152703 +0000" stop="20260918153103 +0000" channel=""><title lang="fa">یک صفحه یک آیه</title>
   </programme>
-  <programme start="20260918153151 +0000" stop="20260918153351 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  <programme start="20260918153150 +0000" stop="20260918153350 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
   </programme>
-  <programme start="20260918153351 +0000" stop="20260918160351 +0000" channel=""><title lang="fa">آرم برنامه شبستان - زنده</title>
+  <programme start="20260918153350 +0000" stop="20260918160350 +0000" channel=""><title lang="fa">آرم برنامه شبستان - زنده</title>
   </programme>
-  <programme start="20260918153416 +0000" stop="20260918160916 +0000" channel=""><title lang="fa">شبستان(زنده)</title>
+  <programme start="20260918153415 +0000" stop="20260918160915 +0000" channel=""><title lang="fa">شبستان(زنده)</title>
   </programme>
-  <programme start="20260918160916 +0000" stop="20260918163916 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260918160915 +0000" stop="20260918163915 +0000" channel=""><title lang="fa">راه های ارتباطی شبکه</title>
   </programme>
-  <programme start="20260918160936 +0000" stop="20260918161036 +0000" channel=""><title lang="fa">فیلر ایران جان، مقبره شیخ محمود شبستری</title>
+  <programme start="20260918161008 +0000" stop="20260918161208 +0000" channel=""><title lang="fa">200شب؛ پای یک عهد ایستاده‌ایم...</title>
   </programme>
-  <programme start="20260918161045 +0000" stop="20260918164045 +0000" channel=""><title lang="fa">آرم برنامه نمایشگاه ایران نوشت «زنده»</title>
+  <programme start="20260918161218 +0000" stop="20260918161418 +0000" channel=""><title lang="fa">نجات حلما در جنگ رمضان - تبریز</title>
   </programme>
-  <programme start="20260918161110 +0000" stop="20260918161910 +0000" channel=""><title lang="fa">نمایشگاه ایران نوشت . زنده</title>
+  <programme start="20260918161429 +0000" stop="20260918162329 +0000" channel=""><title lang="fa">آیات راهبردی</title>
   </programme>
-  <programme start="20260918161910 +0000" stop="20260918164910 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260918162341 +0000" stop="20260918162841 +0000" channel=""><title lang="fa">رجز خوانی میاندار</title>
   </programme>
-  <programme start="20260918161930 +0000" stop="20260918162830 +0000" channel=""><title lang="fa">آیات راهبردی</title>
-  </programme>
-  <programme start="20260918162842 +0000" stop="20260918165842 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260918162856 +0000" stop="20260918165856 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
   <programme start="20260918162930 +0000" stop="20260918165930 +0000" channel=""><title lang="fa">صلوات خاصه امام رضا علیه السلام</title>
   </programme>
-  <programme start="20260918163009 +0000" stop="20260918170009 +0000" channel=""><title lang="fa">آرم برنامه دعای توسل</title>
+  <programme start="20260918163009 +0000" stop="20260918163309 +0000" channel=""><title lang="fa">ساعت به وقت حرم مطهر رضوی</title>
   </programme>
-  <programme start="20260918163034 +0000" stop="20260918164334 +0000" channel=""><title lang="fa">دعای توسل</title>
+  <programme start="20260918163318 +0000" stop="20260918163518 +0000" channel=""><title lang="fa">یک مزار، هزاران روایت از دلتنگی...</title>
   </programme>
-  <programme start="20260918164411 +0000" stop="20260918164611 +0000" channel=""><title lang="fa">تیزر کرسی تلاوت مسجد کرامت</title>
+  <programme start="20260918163557 +0000" stop="20260918170557 +0000" channel=""><title lang="fa">آرم برنامه دعای توسل</title>
   </programme>
-  <programme start="20260918164618 +0000" stop="20260918165518 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
+  <programme start="20260918163622 +0000" stop="20260918164922 +0000" channel=""><title lang="fa">دعای توسل</title>
   </programme>
-  <programme start="20260918165545 +0000" stop="20260918165645 +0000" channel=""><title lang="fa">مکتب</title>
+  <programme start="20260918164959 +0000" stop="20260918165159 +0000" channel=""><title lang="fa">تیزر کرسی تلاوت مسجد کرامت</title>
   </programme>
-  <programme start="20260918165737 +0000" stop="20260918165837 +0000" channel=""><title lang="fa">تیزر ایران جان ، آذربایجان شرقی ایران</title>
+  <programme start="20260918165206 +0000" stop="20260918170106 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
   </programme>
-  <programme start="20260918165844 +0000" stop="20260918172844 +0000" channel=""><title lang="fa">آرم مستند ابرار</title>
+  <programme start="20260918170133 +0000" stop="20260918170233 +0000" channel=""><title lang="fa">تیزر ایران جان ، آذربایجان شرقی ایران</title>
   </programme>
-  <programme start="20260918165909 +0000" stop="20260918174709 +0000" channel=""><title lang="fa">ابرار</title>
+  <programme start="20260918170240 +0000" stop="20260918173240 +0000" channel=""><title lang="fa">آرم مستند ابرار</title>
   </programme>
-  <programme start="20260918174723 +0000" stop="20260918175023 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، شهید قاضی طباطبایی</title>
+  <programme start="20260918170305 +0000" stop="20260918175105 +0000" channel=""><title lang="fa">ابرار</title>
   </programme>
-  <programme start="20260918175116 +0000" stop="20260918175416 +0000" channel=""><title lang="fa">دیدار مقام معظم رهبری با مردم تبریز</title>
+  <programme start="20260918175119 +0000" stop="20260918175419 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، شهید قاضی طباطبایی</title>
   </programme>
-  <programme start="20260918175425 +0000" stop="20260918175825 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، خلبانلار</title>
+  <programme start="20260918175512 +0000" stop="20260918175812 +0000" channel=""><title lang="fa">دیدار مقام معظم رهبری با مردم تبریز</title>
   </programme>
-  <programme start="20260918175913 +0000" stop="20260918182913 +0000" channel=""><title lang="fa">آرم برنامه زیارت جامعه کبیره</title>
+  <programme start="20260918175821 +0000" stop="20260918180021 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، قیام 29 بهمن تبریز</title>
   </programme>
-  <programme start="20260918175938 +0000" stop="20260918182838 +0000" channel=""><title lang="fa">زیارت جامعه کبیره</title>
+  <programme start="20260918180110 +0000" stop="20260918183110 +0000" channel=""><title lang="fa">آرم برنامه زیارت جامعه کبیره</title>
   </programme>
-  <programme start="20260918182854 +0000" stop="20260918183054 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  <programme start="20260918180135 +0000" stop="20260918183035 +0000" channel=""><title lang="fa">زیارت جامعه کبیره</title>
   </programme>
-  <programme start="20260918183054 +0000" stop="20260918190054 +0000" channel=""><title lang="fa">آرم برنامه عهد</title>
+  <programme start="20260918183051 +0000" stop="20260918190051 +0000" channel=""><title lang="fa">تیزر تفسیر سوره زمر آیت الله جوادی آملی</title>
   </programme>
-  <programme start="20260918183119 +0000" stop="20260918192519 +0000" channel=""><title lang="fa">عهد</title>
+  <programme start="20260918183134 +0000" stop="20260918190134 +0000" channel=""><title lang="fa">آرم برنامه عهد</title>
   </programme>
-  <programme start="20260918192530 +0000" stop="20260918195530 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  <programme start="20260918183159 +0000" stop="20260918192559 +0000" channel=""><title lang="fa">عهد</title>
   </programme>
-  <programme start="20260918192550 +0000" stop="20260918192650 +0000" channel=""><title lang="fa">مکتب</title>
+  <programme start="20260918192610 +0000" stop="20260918195610 +0000" channel=""><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20260918192742 +0000" stop="20260918195742 +0000" channel=""><title lang="fa">آرم برنامه تفسیر سوره فتح</title>
+  <programme start="20260918192630 +0000" stop="20260918192730 +0000" channel=""><title lang="fa">مکتب</title>
   </programme>
-  <programme start="20260918192807 +0000" stop="20260918193707 +0000" channel=""><title lang="fa">تفسیر سوره فتح</title>
+  <programme start="20260918192822 +0000" stop="20260918195822 +0000" channel=""><title lang="fa">آرم برنامه تفسیر سوره فتح</title>
   </programme>
-  <programme start="20260918193759 +0000" stop="20260918194159 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، اعلامیه شهدا</title>
+  <programme start="20260918192847 +0000" stop="20260918193747 +0000" channel=""><title lang="fa">تفسیر سوره فتح</title>
   </programme>
-  <programme start="20260918194229 +0000" stop="20260918201229 +0000" channel=""><title lang="fa">آرم برنامه شب های تلاوت</title>
+  <programme start="20260918193839 +0000" stop="20260918194239 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، اعلامیه شهدا</title>
   </programme>
-  <programme start="20260918194254 +0000" stop="20260918202854 +0000" channel=""><title lang="fa">شب های تلاوت</title>
+  <programme start="20260918194309 +0000" stop="20260918201309 +0000" channel=""><title lang="fa">آرم برنامه شب های تلاوت</title>
+  </programme>
+  <programme start="20260918194334 +0000" stop="20260918202934 +0000" channel=""><title lang="fa">شب های تلاوت</title>
+  </programme>
+  <programme start="20260918203000 +0000" stop="20260918203200 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  </programme>
+  <programme start="20260918203200 +0000" stop="20260918204100 +0000" channel=""><title lang="fa">پویش حفظ جزء 30 قرآن کریم</title>
+  </programme>
+  <programme start="20260918204155 +0000" stop="20260918204455 +0000" channel=""><title lang="fa">مکتب</title>
+  </programme>
+  <programme start="20260918204546 +0000" stop="20260918211546 +0000" channel=""><title lang="fa">آرم مستند زندگی شهید آل هاشم</title>
+  </programme>
+  <programme start="20260918204611 +0000" stop="20260918211211 +0000" channel=""><title lang="fa">مستند زندگی شهید آل هاشم</title>
+  </programme>
+  <programme start="20260918211226 +0000" stop="20260918214226 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260918211308 +0000" stop="20260918212208 +0000" channel=""><title lang="fa">نگاتیو</title>
+  </programme>
+  <programme start="20260918212306 +0000" stop="20260918212406 +0000" channel=""><title lang="fa">رویداد ملی ایران جان آذربایجان شرقی ایران</title>
+  </programme>
+  <programme start="20260918212427 +0000" stop="20260918212827 +0000" channel=""><title lang="fa">جهان گرد</title>
+  </programme>
+  <programme start="20260918212849 +0000" stop="20260918215849 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260918212910 +0000" stop="20260918222110 +0000" channel=""><title lang="fa">ترتیل آقای شهریار پرهیزگار</title>
+  </programme>
+  <programme start="20260918222135 +0000" stop="20260918222235 +0000" channel=""><title lang="fa">صلوات گرافیکی</title>
+  </programme>
+  <programme start="20260918222239 +0000" stop="20260918222739 +0000" channel=""><title lang="fa">چشم و چراغ</title>
+  </programme>
+  <programme start="20260918222815 +0000" stop="20260918223015 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  </programme>
+  <programme start="20260918223015 +0000" stop="20260918223515 +0000" channel=""><title lang="fa">تربت ما</title>
+  </programme>
+  <programme start="20260918223531 +0000" stop="20260918223931 +0000" channel=""><title lang="fa">نکات ناب</title>
+  </programme>
+  <programme start="20260918224022 +0000" stop="20260918231022 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260918224043 +0000" stop="20260918225243 +0000" channel=""><title lang="fa">ترتیل خوانی سوره مبارکه فتح</title>
+  </programme>
+  <programme start="20260918225310 +0000" stop="20260918225410 +0000" channel=""><title lang="fa">صلوات گرافیکی</title>
+  </programme>
+  <programme start="20260918225417 +0000" stop="20260918232417 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260918225459 +0000" stop="20260918232459 +0000" channel=""><title lang="fa">آرم برنامه تفسیر سوره فتح</title>
+  </programme>
+  <programme start="20260918225524 +0000" stop="20260918230524 +0000" channel=""><title lang="fa">تفسیر سوره فتح</title>
+  </programme>
+  <programme start="20260918230618 +0000" stop="20260918230718 +0000" channel=""><title lang="fa">دیدار مقام معظم رهبری با مردم تبریز</title>
+  </programme>
+  <programme start="20260918230734 +0000" stop="20260918230834 +0000" channel=""><title lang="fa">رویداد ملی ایران جان آذربایجان شرقی ایران</title>
+  </programme>
+  <programme start="20260918230845 +0000" stop="20260918233845 +0000" channel=""><title lang="fa">آرم برنامه نشانه ها</title>
+  </programme>
+  <programme start="20260918230910 +0000" stop="20260918232210 +0000" channel=""><title lang="fa">نشانه ها</title>
+  </programme>
+  <programme start="20260918232221 +0000" stop="20260918232421 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  </programme>
+  <programme start="20260918232421 +0000" stop="20260918232721 +0000" channel=""><title lang="fa">مکتب</title>
+  </programme>
+  <programme start="20260918232812 +0000" stop="20260918233112 +0000" channel=""><title lang="fa">مناجات خوانی</title>
+  </programme>
+  <programme start="20260918233153 +0000" stop="20260918234253 +0000" channel=""><title lang="fa">آیات راهبردی</title>
+  </programme>
+  <programme start="20260918234311 +0000" stop="20260919001311 +0000" channel=""><title lang="fa">آرم یاد خدا</title>
+  </programme>
+  <programme start="20260918234336 +0000" stop="20260919002436 +0000" channel=""><title lang="fa">یاد خدا</title>
+  </programme>
+  <programme start="20260919002441 +0000" stop="20260919005441 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260919002523 +0000" stop="20260919005523 +0000" channel=""><title lang="fa">آرم زیارت آل یاسین</title>
+  </programme>
+  <programme start="20260919002548 +0000" stop="20260919004148 +0000" channel=""><title lang="fa">زیارت آل یاسین</title>
+  </programme>
+  <programme start="20260919004207 +0000" stop="20260919004407 +0000" channel=""><title lang="fa">اوقات شرعی اماکن مذهبی</title>
+  </programme>
+  <programme start="20260919004407 +0000" stop="20260919004507 +0000" channel=""><title lang="fa">امام امت</title>
+  </programme>
+  <programme start="20260919004601 +0000" stop="20260919011601 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919004646 +0000" stop="20260919011646 +0000" channel=""><title lang="fa">آرم قبل از تلاوت قرآن کریم</title>
+  </programme>
+  <programme start="20260919004708 +0000" stop="20260919005108 +0000" channel=""><title lang="fa">تلاوت امیر حسین تاروردی پور</title>
+  </programme>
+  <programme start="20260919005134 +0000" stop="20260919012134 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919005219 +0000" stop="20260919005419 +0000" channel=""><title lang="fa">دعای قبل از اذان</title>
+  </programme>
+  <programme start="20260919005446 +0000" stop="20260919012446 +0000" channel=""><title lang="fa">دعای قبل از اذان - شهید باهنر</title>
+  </programme>
+  <programme start="20260919005530 +0000" stop="20260919005930 +0000" channel=""><title lang="fa">اذان رحیم موذن زاده اردبیلی</title>
+  </programme>
+  <programme start="20260919010010 +0000" stop="20260919010310 +0000" channel=""><title lang="fa">مناجات عرفانی</title>
+  </programme>
+  <programme start="20260919010353 +0000" stop="20260919010753 +0000" channel=""><title lang="fa">نماز جماعت صبح</title>
+  </programme>
+  <programme start="20260919010810 +0000" stop="20260919010910 +0000" channel=""><title lang="fa">دعای سلامتی</title>
+  </programme>
+  <programme start="20260919010941 +0000" stop="20260919013941 +0000" channel=""><title lang="fa">نادعلی</title>
+  </programme>
+  <programme start="20260919011033 +0000" stop="20260919011733 +0000" channel=""><title lang="fa">نور علی نور</title>
+  </programme>
+  <programme start="20260919011806 +0000" stop="20260919012106 +0000" channel=""><title lang="fa">یک صفحه یک آیه</title>
+  </programme>
+  <programme start="20260919012204 +0000" stop="20260919015204 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260919012225 +0000" stop="20260919022225 +0000" channel=""><title lang="fa">ترتیل حرم مطهر امام حسین (ع)</title>
+  </programme>
+  <programme start="20260919022242 +0000" stop="20260919022342 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919022344 +0000" stop="20260919025344 +0000" channel=""><title lang="fa">آرم برنامه عبرتهای بنی اسرائیل</title>
+  </programme>
+  <programme start="20260919022409 +0000" stop="20260919025209 +0000" channel=""><title lang="fa">عبرتهای بنی اسراییل</title>
+  </programme>
+  <programme start="20260919025212 +0000" stop="20260919032212 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260919025233 +0000" stop="20260919030433 +0000" channel=""><title lang="fa">ترتیل خوانی سوره مبارکه فتح</title>
+  </programme>
+  <programme start="20260919030526 +0000" stop="20260919030626 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919030627 +0000" stop="20260919033627 +0000" channel=""><title lang="fa">آرم برنامه حدیث کساء</title>
+  </programme>
+  <programme start="20260919030652 +0000" stop="20260919031952 +0000" channel=""><title lang="fa">حدیث کساء</title>
+  </programme>
+  <programme start="20260919032041 +0000" stop="20260919035041 +0000" channel=""><title lang="fa">تیزر تفسیر سوره زمر آیت الله جوادی آملی</title>
+  </programme>
+  <programme start="20260919032124 +0000" stop="20260919035124 +0000" channel=""><title lang="fa">آرم برنامه سخنرانی مرحوم آیت الله مجتهدی تهرانی</title>
+  </programme>
+  <programme start="20260919032149 +0000" stop="20260919033549 +0000" channel=""><title lang="fa">مباحث احکام و اخلاق آیت الله مجتهدی تهرانی(ره)</title>
+  </programme>
+  <programme start="20260919033621 +0000" stop="20260919034021 +0000" channel=""><title lang="fa">آیت الکرسی</title>
+  </programme>
+  <programme start="20260919034021 +0000" stop="20260919034821 +0000" channel=""><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20260919034901 +0000" stop="20260919041901 +0000" channel=""><title lang="fa">آرم برنامه سحاب رحمت</title>
+  </programme>
+  <programme start="20260919034926 +0000" stop="20260919042226 +0000" channel=""><title lang="fa">تفسیر سوره زمر -آیت الله جوادی آملی</title>
+  </programme>
+  <programme start="20260919042230 +0000" stop="20260919045230 +0000" channel=""><title lang="fa">آرم قبل از تلاوت قرآن کریم</title>
+  </programme>
+  <programme start="20260919042252 +0000" stop="20260919042752 +0000" channel=""><title lang="fa">تلاوت عرفان حسن زاده</title>
+  </programme>
+  <programme start="20260919042841 +0000" stop="20260919045841 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919042857 +0000" stop="20260919045857 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919042930 +0000" stop="20260919045930 +0000" channel=""><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20260919043002 +0000" stop="20260919043502 +0000" channel=""><title lang="fa">باران</title>
+  </programme>
+  <programme start="20260919043522 +0000" stop="20260919050522 +0000" channel=""><title lang="fa">آرم برنامه مسابقه قرآنی بهشت</title>
+  </programme>
+  <programme start="20260919043547 +0000" stop="20260919053247 +0000" channel=""><title lang="fa">مسابقه قرآنی بهشت</title>
+  </programme>
+  <programme start="20260919053335 +0000" stop="20260919054235 +0000" channel=""><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20260919054237 +0000" stop="20260919061237 +0000" channel=""><title lang="fa">تیزر ایران جان ، آذربایجان شرقی ایران</title>
+  </programme>
+  <programme start="20260919054336 +0000" stop="20260919055036 +0000" channel=""><title lang="fa">نوجواب</title>
+  </programme>
+  <programme start="20260919055052 +0000" stop="20260919062052 +0000" channel=""><title lang="fa">آرم مستند محفل ستاره</title>
+  </programme>
+  <programme start="20260919055117 +0000" stop="20260919062817 +0000" channel=""><title lang="fa">محفل ستاره ها</title>
+  </programme>
+  <programme start="20260919062852 +0000" stop="20260919062952 +0000" channel=""><title lang="fa">رویداد ملی ایران جان آذربایجان شرقی ایران</title>
+  </programme>
+  <programme start="20260919063017 +0000" stop="20260919070017 +0000" channel=""><title lang="fa">آرم برنامه منم بچه مسلمان</title>
+  </programme>
+  <programme start="20260919063042 +0000" stop="20260919065942 +0000" channel=""><title lang="fa">منم بچه مسلمان</title>
+  </programme>
+  <programme start="20260919070040 +0000" stop="20260919073040 +0000" channel=""><title lang="fa">گلزار شهدای تبریز-با صدای شهید باکری</title>
+  </programme>
+  <programme start="20260919070128 +0000" stop="20260919073128 +0000" channel=""><title lang="fa">آرم برنامه آیه &quot;زنده&quot;</title>
+  </programme>
+  <programme start="20260919070153 +0000" stop="20260919081153 +0000" channel=""><title lang="fa">آیه &quot;زنده&quot;</title>
+  </programme>
+  <programme start="20260919081153 +0000" stop="20260919084153 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919081213 +0000" stop="20260919081413 +0000" channel=""><title lang="fa">تیزر کرسی تلاوت مسجد کرامت</title>
+  </programme>
+  <programme start="20260919081420 +0000" stop="20260919081520 +0000" channel=""><title lang="fa">امام امت</title>
+  </programme>
+  <programme start="20260919081614 +0000" stop="20260919084614 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919081634 +0000" stop="20260919081734 +0000" channel=""><title lang="fa">شرح و تبیین آیات اذانگاهی(زنده)</title>
+  </programme>
+  <programme start="20260919081805 +0000" stop="20260919084805 +0000" channel=""><title lang="fa">آرم قبل از تلاوت قرآن کریم</title>
+  </programme>
+  <programme start="20260919081827 +0000" stop="20260919082027 +0000" channel=""><title lang="fa">تلاوت امیر ابراهیم پور</title>
+  </programme>
+  <programme start="20260919082030 +0000" stop="20260919085030 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919082044 +0000" stop="20260919082544 +0000" channel=""><title lang="fa">دعای قبل از اذان</title>
+  </programme>
+  <programme start="20260919082620 +0000" stop="20260919085620 +0000" channel=""><title lang="fa">دعای قبل از اذان - آیت الله حق شناس</title>
+  </programme>
+  <programme start="20260919082700 +0000" stop="20260919085700 +0000" channel=""><title lang="fa">یا رب العالمین</title>
+  </programme>
+  <programme start="20260919082730 +0000" stop="20260919083130 +0000" channel=""><title lang="fa">اذان راغب مصطفی غلوش</title>
+  </programme>
+  <programme start="20260919083212 +0000" stop="20260919090212 +0000" channel=""><title lang="fa">ذکر «حی علی صلاه»</title>
+  </programme>
+  <programme start="20260919083244 +0000" stop="20260919083644 +0000" channel=""><title lang="fa">نماز جماعت ظهر</title>
+  </programme>
+  <programme start="20260919083724 +0000" stop="20260919083824 +0000" channel=""><title lang="fa">دعا سلامتی امام زمان</title>
+  </programme>
+  <programme start="20260919083853 +0000" stop="20260919083953 +0000" channel=""><title lang="fa">دعای نادعلی</title>
+  </programme>
+  <programme start="20260919084018 +0000" stop="20260919084718 +0000" channel=""><title lang="fa">نور علی نور</title>
+  </programme>
+  <programme start="20260919084751 +0000" stop="20260919085051 +0000" channel=""><title lang="fa">یک صفحه یک آیه</title>
+  </programme>
+  <programme start="20260919085149 +0000" stop="20260919092149 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260919085231 +0000" stop="20260919085631 +0000" channel=""><title lang="fa">ایران جان ، آذربایجان شرقی ایران</title>
+  </programme>
+  <programme start="20260919085642 +0000" stop="20260919092642 +0000" channel=""><title lang="fa">آرم برنامه عبرتهای بنی اسرائیل</title>
+  </programme>
+  <programme start="20260919085707 +0000" stop="20260919092507 +0000" channel=""><title lang="fa">عبرتهای بنی اسراییل</title>
+  </programme>
+  <programme start="20260919092510 +0000" stop="20260919095510 +0000" channel=""><title lang="fa">تیزر تفسیر سوره زمر آیت الله جوادی آملی</title>
+  </programme>
+  <programme start="20260919092553 +0000" stop="20260919095553 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260919092614 +0000" stop="20260919102714 +0000" channel=""><title lang="fa">ترتیل خوانی قرآن کریم</title>
+  </programme>
+  <programme start="20260919102807 +0000" stop="20260919105807 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919102817 +0000" stop="20260919103017 +0000" channel=""><title lang="fa">تیزر کرسی تلاوت مسجد کرامت</title>
+  </programme>
+  <programme start="20260919103024 +0000" stop="20260919110024 +0000" channel=""><title lang="fa">آرم برنامه ایران ما</title>
+  </programme>
+  <programme start="20260919103049 +0000" stop="20260919112449 +0000" channel=""><title lang="fa">ایران ما</title>
+  </programme>
+  <programme start="20260919112449 +0000" stop="20260919115449 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919112509 +0000" stop="20260919113009 +0000" channel=""><title lang="fa">باران</title>
+  </programme>
+  <programme start="20260919113029 +0000" stop="20260919120029 +0000" channel=""><title lang="fa">آرم برنامه عهد</title>
+  </programme>
+  <programme start="20260919113054 +0000" stop="20260919122454 +0000" channel=""><title lang="fa">عهد</title>
+  </programme>
+  <programme start="20260919122505 +0000" stop="20260919125505 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919122525 +0000" stop="20260919125525 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260919122607 +0000" stop="20260919122807 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، قیام 29 بهمن تبریز</title>
+  </programme>
+  <programme start="20260919122856 +0000" stop="20260919125856 +0000" channel=""><title lang="fa">آرم برنامه منم بچه مسلمان</title>
+  </programme>
+  <programme start="20260919122921 +0000" stop="20260919130421 +0000" channel=""><title lang="fa">منم بچه مسلمان</title>
+  </programme>
+  <programme start="20260919130436 +0000" stop="20260919133436 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260919130518 +0000" stop="20260919133518 +0000" channel=""><title lang="fa">آرم قبل از ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260919130539 +0000" stop="20260919135839 +0000" channel=""><title lang="fa">تلاوت بر مزار رهبر شهید . زنده</title>
+  </programme>
+  <programme start="20260919135934 +0000" stop="20260919142934 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919135944 +0000" stop="20260919142944 +0000" channel=""><title lang="fa">آرم برنامه یاد خدا. زنده</title>
+  </programme>
+  <programme start="20260919140009 +0000" stop="20260919144009 +0000" channel=""><title lang="fa">یاد خدا. زنده</title>
+  </programme>
+  <programme start="20260919144009 +0000" stop="20260919151009 +0000" channel=""><title lang="fa">اوقات شرعی تهران</title>
+  </programme>
+  <programme start="20260919144051 +0000" stop="20260919144251 +0000" channel=""><title lang="fa">موشن گرافیک ایران جان، شیخ محمد خیابانی</title>
+  </programme>
+  <programme start="20260919144340 +0000" stop="20260919151340 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919144408 +0000" stop="20260919151408 +0000" channel=""><title lang="fa">آرم قبل از تلاوت قرآن کریم</title>
+  </programme>
+  <programme start="20260919144430 +0000" stop="20260919144530 +0000" channel=""><title lang="fa">تلاوت علیرضا سلطانی اقدم</title>
+  </programme>
+  <programme start="20260919144541 +0000" stop="20260919144641 +0000" channel=""><title lang="fa">صلوات</title>
+  </programme>
+  <programme start="20260919144643 +0000" stop="20260919145143 +0000" channel=""><title lang="fa">دعای قبل از اذان</title>
+  </programme>
+  <programme start="20260919145219 +0000" stop="20260919152219 +0000" channel=""><title lang="fa">دعای قبل از اذان - شهید مطهری</title>
+  </programme>
+  <programme start="20260919145300 +0000" stop="20260919152300 +0000" channel=""><title lang="fa">یا رب العالمین</title>
+  </programme>
+  <programme start="20260919145330 +0000" stop="20260919145730 +0000" channel=""><title lang="fa">اذان محمد آقاتی ( تایتل اذان مغرب درج شود )</title>
+  </programme>
+  <programme start="20260919145748 +0000" stop="20260919152748 +0000" channel=""><title lang="fa">ذکر «حی علی صلاه»</title>
+  </programme>
+  <programme start="20260919145820 +0000" stop="20260919150320 +0000" channel=""><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260919150412 +0000" stop="20260919150512 +0000" channel=""><title lang="fa">دعا سلامتی امام زمان عج</title>
+  </programme>
+  <programme start="20260919150541 +0000" stop="20260919150641 +0000" channel=""><title lang="fa">دعای نادعلی</title>
+  </programme>
+  <programme start="20260919150722 +0000" stop="20260919151222 +0000" channel=""><title lang="fa">عطر ماندگار</title>
+  </programme>
+  <programme start="20260919151230 +0000" stop="20260919151930 +0000" channel=""><title lang="fa">نور علی نور</title>
+  </programme>
+  <programme start="20260919152003 +0000" stop="20260919152303 +0000" channel=""><title lang="fa">یک صفحه یک آیه</title>
+  </programme>
+  <programme start="20260919152401 +0000" stop="20260919155401 +0000" channel=""><title lang="fa">وله حدیث امام حسن عسکری</title>
+  </programme>
+  <programme start="20260919152446 +0000" stop="20260919155446 +0000" channel=""><title lang="fa">آرم برنامه شبستان - زنده</title>
+  </programme>
+  <programme start="20260919152511 +0000" stop="20260919160011 +0000" channel=""><title lang="fa">شبستان - زنده</title>
+  </programme>
+  <programme start="20260919160011 +0000" stop="20260919163011 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919160031 +0000" stop="20260919160231 +0000" channel=""><title lang="fa">تیزر کرسی تلاوت مسجد کرامت</title>
+  </programme>
+  <programme start="20260919160238 +0000" stop="20260919163238 +0000" channel=""><title lang="fa">کلیپ سخنرانی</title>
+  </programme>
+  <programme start="20260919160330 +0000" stop="20260919160530 +0000" channel=""><title lang="fa">مولودی خوانی ولادت امام حسن عسکری علیه السلام</title>
+  </programme>
+  <programme start="20260919160608 +0000" stop="20260919160708 +0000" channel=""><title lang="fa">مکتب</title>
+  </programme>
+  <programme start="20260919160745 +0000" stop="20260919163745 +0000" channel=""><title lang="fa">آرم برنامه دعای توسل</title>
+  </programme>
+  <programme start="20260919160810 +0000" stop="20260919162110 +0000" channel=""><title lang="fa">دعای توسل</title>
+  </programme>
+  <programme start="20260919162155 +0000" stop="20260919165155 +0000" channel=""><title lang="fa">تیزر تفسیر سوره زمر آیت الله جوادی آملی</title>
+  </programme>
+  <programme start="20260919162238 +0000" stop="20260919165238 +0000" channel=""><title lang="fa">آرم مستند خانه امین</title>
+  </programme>
+  <programme start="20260919162303 +0000" stop="20260919165803 +0000" channel=""><title lang="fa">مستند خانه امین</title>
+  </programme>
+  <programme start="20260919165839 +0000" stop="20260919172839 +0000" channel=""><title lang="fa">وله حدیث امام حسن عسکری</title>
+  </programme>
+  <programme start="20260919165924 +0000" stop="20260919172924 +0000" channel=""><title lang="fa">آرم برنامه مهنا</title>
+  </programme>
+  <programme start="20260919165949 +0000" stop="20260919172749 +0000" channel=""><title lang="fa">مهنا</title>
+  </programme>
+  <programme start="20260919172754 +0000" stop="20260919172854 +0000" channel=""><title lang="fa">کلیپ سخنرانی</title>
+  </programme>
+  <programme start="20260919172905 +0000" stop="20260919175905 +0000" channel=""><title lang="fa">آرم برنامه مسابقه قرآنی بهشت</title>
+  </programme>
+  <programme start="20260919172930 +0000" stop="20260919182630 +0000" channel=""><title lang="fa">مسابقه قرآنی بهشت</title>
+  </programme>
+  <programme start="20260919182718 +0000" stop="20260919182918 +0000" channel=""><title lang="fa">مولودی خوانی ولادت امام حسن عسکری علیه السلام</title>
+  </programme>
+  <programme start="20260919182956 +0000" stop="20260919185956 +0000" channel=""><title lang="fa">آرم برنامه آرمان گفتگوی ویژه معارفی زنده</title>
+  </programme>
+  <programme start="20260919183021 +0000" stop="20260919192521 +0000" channel=""><title lang="fa">آرمان گفتگوی ویژه معارفی زنده</title>
+  </programme>
+  <programme start="20260919192521 +0000" stop="20260919195521 +0000" channel=""><title lang="fa">آرم استیشن</title>
+  </programme>
+  <programme start="20260919192541 +0000" stop="20260919192941 +0000" channel=""><title lang="fa">آیینه قبله نما</title>
+  </programme>
+  <programme start="20260919193025 +0000" stop="20260919200025 +0000" channel=""><title lang="fa">آرم برنامه تفسیر سوره فتح</title>
+  </programme>
+  <programme start="20260919193050 +0000" stop="20260919194050 +0000" channel=""><title lang="fa">تفسیر سوره فتح</title>
+  </programme>
+  <programme start="20260919194144 +0000" stop="20260919194244 +0000" channel=""><title lang="fa">امام امت</title>
+  </programme>
+  <programme start="20260919194338 +0000" stop="20260919201338 +0000" channel=""><title lang="fa">آرم برنامه شب های تلاوت</title>
+  </programme>
+  <programme start="20260919194403 +0000" stop="20260919202903 +0000" channel=""><title lang="fa">شب های تلاوت</title>
   </programme>
   <programme start="20260917203000 +0000" stop="20260917223000 +0000" channel="SalamatTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -6613,6 +6965,525 @@
   </programme>
   <programme start="20260918202837 +0000" stop="20260918202937 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
     <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:22</desc>
+  </programme>
+  <programme start="20260918203000 +0000" stop="20260918210000 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/مثبت شبکه بازی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260918203012 +0000" stop="20260918212912 +0000" channel="IRIBOmid.ir"><title lang="fa">مثبت شبکه بازی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:59:53</desc>
+  </programme>
+  <programme start="20260918213005 +0000" stop="20260918220005 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن لوگو شبکه-لنز دوربین</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:08</desc>
+  </programme>
+  <programme start="20260918213013 +0000" stop="20260918220013 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/فیلمستون شروع دوباره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260918213025 +0000" stop="20260918231625 +0000" channel="IRIBOmid.ir"><title lang="fa">فیلمستون شروع دوباره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 01:46:28</desc>
+  </programme>
+  <programme start="20260918231653 +0000" stop="20260918231753 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260918231825 +0000" stop="20260918232725 +0000" channel="IRIBOmid.ir"><title lang="fa">رنگینک/رنگینک</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:09:49</desc>
+  </programme>
+  <programme start="20260918232814 +0000" stop="20260918235814 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260918232907 +0000" stop="20260918233607 +0000" channel="IRIBOmid.ir"><title lang="fa">فیلم کوتاه ژاکت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:07:46</desc>
+  </programme>
+  <programme start="20260918233653 +0000" stop="20260918233753 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260918233808 +0000" stop="20260918234608 +0000" channel="IRIBOmid.ir"><title lang="fa">انیمیشن مستربین (فصل 1)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:08:04</desc>
+  </programme>
+  <programme start="20260918234612 +0000" stop="20260918234712 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:04</desc>
+  </programme>
+  <programme start="20260918234716 +0000" stop="20260918235216 +0000" channel="IRIBOmid.ir"><title lang="fa">با چوب بسازیم</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:05:22</desc>
+  </programme>
+  <programme start="20260918235238 +0000" stop="20260919002238 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/کشاورزان فضا</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260918235250 +0000" stop="20260919003350 +0000" channel="IRIBOmid.ir"><title lang="fa">کشاورزان فضا</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:41:02</desc>
+  </programme>
+  <programme start="20260919003352 +0000" stop="20260919010352 +0000" channel="IRIBOmid.ir"><title lang="fa">اینفو آرم لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:15</desc>
+  </programme>
+  <programme start="20260919003407 +0000" stop="20260919003707 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی - مسجد محوری</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:28</desc>
+  </programme>
+  <programme start="20260919003735 +0000" stop="20260919004835 +0000" channel="IRIBOmid.ir"><title lang="fa">صبح ظهور</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:11:22</desc>
+  </programme>
+  <programme start="20260919004857 +0000" stop="20260919011857 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:26</desc>
+  </programme>
+  <programme start="20260919004923 +0000" stop="20260919005423 +0000" channel="IRIBOmid.ir"><title lang="fa">تلاوت  قرآن نوجوان/اذان گاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:05:48</desc>
+  </programme>
+  <programme start="20260919005511 +0000" stop="20260919012511 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ریگلاژ اذانگاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:19</desc>
+  </programme>
+  <programme start="20260919005530 +0000" stop="20260919005930 +0000" channel="IRIBOmid.ir"><title lang="fa">اذان صبح به افق تهران</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:33</desc>
+  </programme>
+  <programme start="20260919010003 +0000" stop="20260919013003 +0000" channel="IRIBOmid.ir"><title lang="fa">وله صلوات/وله صلوات</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:40</desc>
+  </programme>
+  <programme start="20260919010043 +0000" stop="20260919010343 +0000" channel="IRIBOmid.ir"><title lang="fa">نهج البلاغه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:00</desc>
+  </programme>
+  <programme start="20260919010343 +0000" stop="20260919013343 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919010355 +0000" stop="20260919010755 +0000" channel="IRIBOmid.ir"><title lang="fa">نماهنگ جان فدا</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:44</desc>
+  </programme>
+  <programme start="20260919010839 +0000" stop="20260919013839 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن لوگو شبکه-لنز دوربین</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:08</desc>
+  </programme>
+  <programme start="20260919010847 +0000" stop="20260919010947 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برنامه اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:02</desc>
+  </programme>
+  <programme start="20260919010949 +0000" stop="20260919013949 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919011042 +0000" stop="20260919011942 +0000" channel="IRIBOmid.ir"><title lang="fa">منیم آذربایجانیم</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:09:39</desc>
+  </programme>
+  <programme start="20260919012021 +0000" stop="20260919015021 +0000" channel="IRIBOmid.ir"><title lang="fa">اینفو آرم لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:15</desc>
+  </programme>
+  <programme start="20260919012036 +0000" stop="20260919012136 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260919012208 +0000" stop="20260919012408 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی - خاموشی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:05</desc>
+  </programme>
+  <programme start="20260919012413 +0000" stop="20260919012513 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:04</desc>
+  </programme>
+  <programme start="20260919012517 +0000" stop="20260919012617 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919012632 +0000" stop="20260919012832 +0000" channel="IRIBOmid.ir"><title lang="fa">سواد رسانه ایی-سکوت-روایت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:15</desc>
+  </programme>
+  <programme start="20260919012847 +0000" stop="20260919015847 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/مثبت شبکه بازی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919012859 +0000" stop="20260919022759 +0000" channel="IRIBOmid.ir"><title lang="fa">مثبت شبکه بازی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:59:51</desc>
+  </programme>
+  <programme start="20260919022850 +0000" stop="20260919025850 +0000" channel="IRIBOmid.ir"><title lang="fa">اینفو آرم طبیعت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:40</desc>
+  </programme>
+  <programme start="20260919022930 +0000" stop="20260919025930 +0000" channel="IRIBOmid.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:58</desc>
+  </programme>
+  <programme start="20260919023028 +0000" stop="20260919023128 +0000" channel="IRIBOmid.ir"><title lang="fa">نماهنگ خاک وطن-هوش مصنوعی-دلاوران ایران</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:54</desc>
+  </programme>
+  <programme start="20260919023222 +0000" stop="20260919030222 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/انیمیشن همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919023234 +0000" stop="20260919025134 +0000" channel="IRIBOmid.ir"><title lang="fa">انیمیشن همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:19:54</desc>
+  </programme>
+  <programme start="20260919025228 +0000" stop="20260919025328 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی- ماموریت وزارت سمت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:25</desc>
+  </programme>
+  <programme start="20260919025353 +0000" stop="20260919032353 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919025446 +0000" stop="20260919025546 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260919025618 +0000" stop="20260919025718 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برنامه اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:02</desc>
+  </programme>
+  <programme start="20260919025720 +0000" stop="20260919032720 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919025727 +0000" stop="20260919025827 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:54</desc>
+  </programme>
+  <programme start="20260919025921 +0000" stop="20260919032921 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/مجموعه جوانمردان</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919025933 +0000" stop="20260919032533 +0000" channel="IRIBOmid.ir"><title lang="fa">مجموعه جوانمردان</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:26:05</desc>
+  </programme>
+  <programme start="20260919032538 +0000" stop="20260919032638 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919032653 +0000" stop="20260919035653 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919032700 +0000" stop="20260919033000 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:02</desc>
+  </programme>
+  <programme start="20260919033002 +0000" stop="20260919040002 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/کشاورزان فضا</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919033014 +0000" stop="20260919041114 +0000" channel="IRIBOmid.ir"><title lang="fa">کشاورزان فضا</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:41:02</desc>
+  </programme>
+  <programme start="20260919041116 +0000" stop="20260919044116 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919041209 +0000" stop="20260919044209 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر شخصیت سفینه نجات</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:20</desc>
+  </programme>
+  <programme start="20260919041229 +0000" stop="20260919041329 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی/لگو</title>
+    <desc lang="fa">[موضوع] لگو [خلاصه][مدت] 00:01:38</desc>
+  </programme>
+  <programme start="20260919041407 +0000" stop="20260919041507 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260919041539 +0000" stop="20260919042539 +0000" channel="IRIBOmid.ir"><title lang="fa">انیمیشن مستربین (فصل 1)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:10:14</desc>
+  </programme>
+  <programme start="20260919042553 +0000" stop="20260919042653 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919042708 +0000" stop="20260919045708 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919042801 +0000" stop="20260919045801 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919042808 +0000" stop="20260919043008 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:27</desc>
+  </programme>
+  <programme start="20260919043035 +0000" stop="20260919050035 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/شبکه بازی (تولیدات - 1405)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919043047 +0000" stop="20260919051947 +0000" channel="IRIBOmid.ir"><title lang="fa">شبکه بازی (تولیدات - 1405)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:49:50</desc>
+  </programme>
+  <programme start="20260919052037 +0000" stop="20260919055037 +0000" channel="IRIBOmid.ir"><title lang="fa">اینفو آرم لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:15</desc>
+  </programme>
+  <programme start="20260919052052 +0000" stop="20260919052152 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برنامه اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:02</desc>
+  </programme>
+  <programme start="20260919052154 +0000" stop="20260919052254 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919052307 +0000" stop="20260919052607 +0000" channel="IRIBOmid.ir"><title lang="fa">نماهنگ خط امین- کتاب و کتابخوانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:27</desc>
+  </programme>
+  <programme start="20260919052634 +0000" stop="20260919055634 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919052641 +0000" stop="20260919052941 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:03</desc>
+  </programme>
+  <programme start="20260919052944 +0000" stop="20260919055944 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/چهار نگهبان شهر (فصل 2)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919052956 +0000" stop="20260919055056 +0000" channel="IRIBOmid.ir"><title lang="fa">چهار نگهبان شهر (فصل 2)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:21:43</desc>
+  </programme>
+  <programme start="20260919055139 +0000" stop="20260919062139 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919055232 +0000" stop="20260919060232 +0000" channel="IRIBOmid.ir"><title lang="fa">دوربین امید- قسمت 2</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:10:14</desc>
+  </programme>
+  <programme start="20260919060246 +0000" stop="20260919060946 +0000" channel="IRIBOmid.ir"><title lang="fa">فیلم کوتاه ژاکت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:07:46</desc>
+  </programme>
+  <programme start="20260919061032 +0000" stop="20260919064032 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن - لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:10</desc>
+  </programme>
+  <programme start="20260919061042 +0000" stop="20260919061142 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی/برق</title>
+    <desc lang="fa">[موضوع] برق [خلاصه][مدت] 00:01:09</desc>
+  </programme>
+  <programme start="20260919061151 +0000" stop="20260919064151 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر شخصیت سفینه نجات</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:29</desc>
+  </programme>
+  <programme start="20260919061220 +0000" stop="20260919061320 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260919061352 +0000" stop="20260919061452 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919061505 +0000" stop="20260919064505 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/نوروز دانش</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919061517 +0000" stop="20260919062517 +0000" channel="IRIBOmid.ir"><title lang="fa">نوروز دانش</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:10:00</desc>
+  </programme>
+  <programme start="20260919062517 +0000" stop="20260919065517 +0000" channel="IRIBOmid.ir"><title lang="fa">اینفو آرم لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:25</desc>
+  </programme>
+  <programme start="20260919062542 +0000" stop="20260919062642 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919062657 +0000" stop="20260919065657 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919062704 +0000" stop="20260919063004 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:02</desc>
+  </programme>
+  <programme start="20260919063006 +0000" stop="20260919070006 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/فیلمستون شروع دوباره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919063018 +0000" stop="20260919081618 +0000" channel="IRIBOmid.ir"><title lang="fa">فیلمستون شروع دوباره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 01:46:28</desc>
+  </programme>
+  <programme start="20260919081646 +0000" stop="20260919081746 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم مدرسه کونگ فو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:32</desc>
+  </programme>
+  <programme start="20260919081818 +0000" stop="20260919084818 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن لوگو شبکه-لنز دوربین</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:08</desc>
+  </programme>
+  <programme start="20260919081826 +0000" stop="20260919082226 +0000" channel="IRIBOmid.ir"><title lang="fa">نماهنگ نیمکت های آسمانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:48</desc>
+  </programme>
+  <programme start="20260919082314 +0000" stop="20260919085314 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:22</desc>
+  </programme>
+  <programme start="20260919082336 +0000" stop="20260919082636 +0000" channel="IRIBOmid.ir"><title lang="fa">تلاوت  قرآن نوجوان/اذان گاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:32</desc>
+  </programme>
+  <programme start="20260919082708 +0000" stop="20260919085708 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ریگلاژ اذانگاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:22</desc>
+  </programme>
+  <programme start="20260919082730 +0000" stop="20260919083030 +0000" channel="IRIBOmid.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:12</desc>
+  </programme>
+  <programme start="20260919083042 +0000" stop="20260919090042 +0000" channel="IRIBOmid.ir"><title lang="fa">وله صلوات/مذهبی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:37</desc>
+  </programme>
+  <programme start="20260919083119 +0000" stop="20260919083519 +0000" channel="IRIBOmid.ir"><title lang="fa">دعای نادعلی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:10</desc>
+  </programme>
+  <programme start="20260919083529 +0000" stop="20260919090529 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919083541 +0000" stop="20260919084641 +0000" channel="IRIBOmid.ir"><title lang="fa">صبح ظهور</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:11:22</desc>
+  </programme>
+  <programme start="20260919084703 +0000" stop="20260919091703 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن - لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:10</desc>
+  </programme>
+  <programme start="20260919084713 +0000" stop="20260919091713 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919084806 +0000" stop="20260919085706 +0000" channel="IRIBOmid.ir"><title lang="fa">منیم آذربایجانیم</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:09:39</desc>
+  </programme>
+  <programme start="20260919085745 +0000" stop="20260919085845 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برنامه اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:02</desc>
+  </programme>
+  <programme start="20260919085847 +0000" stop="20260919085947 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919090002 +0000" stop="20260919093002 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/مستند کوله گرد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919090014 +0000" stop="20260919092514 +0000" channel="IRIBOmid.ir"><title lang="fa">مستند کوله گرد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:25:07</desc>
+  </programme>
+  <programme start="20260919092521 +0000" stop="20260919095521 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی در مصرف آب/نصفش کنیم</title>
+    <desc lang="fa">[موضوع] نصفش کنیم [خلاصه][مدت] 00:00:57</desc>
+  </programme>
+  <programme start="20260919092618 +0000" stop="20260919092718 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر سفینه نجات بدون اعلام تاریخ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:09</desc>
+  </programme>
+  <programme start="20260919092727 +0000" stop="20260919095727 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919092734 +0000" stop="20260919092934 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:26</desc>
+  </programme>
+  <programme start="20260919093000 +0000" stop="20260919100000 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/چهار نگهبان شهر (فصل 2)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919093012 +0000" stop="20260919095112 +0000" channel="IRIBOmid.ir"><title lang="fa">چهار نگهبان شهر (فصل 2)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:21:43</desc>
+  </programme>
+  <programme start="20260919095155 +0000" stop="20260919095255 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919095308 +0000" stop="20260919102308 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919095315 +0000" stop="20260919095515 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:43</desc>
+  </programme>
+  <programme start="20260919095558 +0000" stop="20260919102558 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/برو پی کارت- سری دوم 1401</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919095610 +0000" stop="20260919104710 +0000" channel="IRIBOmid.ir"><title lang="fa">برو پی کارت- سری دوم 1401</title>
+    <desc lang="fa">[تهیه کننده] وحید ولی  [کارگردان] محمدرضا ارکان[مدت] 00:51:13</desc>
+  </programme>
+  <programme start="20260919104723 +0000" stop="20260919105723 +0000" channel="IRIBOmid.ir"><title lang="fa">دوربین امید- قسمت 2</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:10:14</desc>
+  </programme>
+  <programme start="20260919105737 +0000" stop="20260919112737 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919105744 +0000" stop="20260919105944 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:41</desc>
+  </programme>
+  <programme start="20260919110025 +0000" stop="20260919113025 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/شبکه بازی (تولیدات - 1405)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919110037 +0000" stop="20260919114937 +0000" channel="IRIBOmid.ir"><title lang="fa">شبکه بازی (تولیدات - 1405)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:49:32</desc>
+  </programme>
+  <programme start="20260919115009 +0000" stop="20260919124809 +0000" channel="IRIBOmid.ir"><title lang="fa">مثبت شبکه بازی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:58:59</desc>
+  </programme>
+  <programme start="20260919124908 +0000" stop="20260919131908 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر سفینه نجات بدون اعلام تاریخ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:27</desc>
+  </programme>
+  <programme start="20260919124935 +0000" stop="20260919125035 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:15</desc>
+  </programme>
+  <programme start="20260919125050 +0000" stop="20260919132050 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر برو پی کارت</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:53</desc>
+  </programme>
+  <programme start="20260919125143 +0000" stop="20260919125243 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919125256 +0000" stop="20260919125456 +0000" channel="IRIBOmid.ir"><title lang="fa">میان برنامه -ایران آینده- اهمیت علم آموزی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:55</desc>
+  </programme>
+  <programme start="20260919125551 +0000" stop="20260919132551 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919125558 +0000" stop="20260919125758 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:42</desc>
+  </programme>
+  <programme start="20260919125840 +0000" stop="20260919132840 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/انیمیشن همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919125852 +0000" stop="20260919131652 +0000" channel="IRIBOmid.ir"><title lang="fa">انیمیشن همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:18:12</desc>
+  </programme>
+  <programme start="20260919131704 +0000" stop="20260919134704 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن - لوگو</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:10</desc>
+  </programme>
+  <programme start="20260919131714 +0000" stop="20260919134714 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919131721 +0000" stop="20260919132021 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:02</desc>
+  </programme>
+  <programme start="20260919132023 +0000" stop="20260919135023 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/فیلمستون مدرسه کونگفو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919132035 +0000" stop="20260919144735 +0000" channel="IRIBOmid.ir"><title lang="fa">فیلمستون مدرسه کونگفو اولونگ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 01:27:47</desc>
+  </programme>
+  <programme start="20260919144822 +0000" stop="20260919151822 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:26</desc>
+  </programme>
+  <programme start="20260919144848 +0000" stop="20260919145248 +0000" channel="IRIBOmid.ir"><title lang="fa">تلاوت  قرآن نوجوان/اذان گاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:14</desc>
+  </programme>
+  <programme start="20260919145302 +0000" stop="20260919152302 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ریگلاژ اذانگاهی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:28</desc>
+  </programme>
+  <programme start="20260919145330 +0000" stop="20260919145730 +0000" channel="IRIBOmid.ir"><title lang="fa">اذان مغرب به افق تهران</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:30</desc>
+  </programme>
+  <programme start="20260919145800 +0000" stop="20260919152800 +0000" channel="IRIBOmid.ir"><title lang="fa">وله صلوات/وله صلوات</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:40</desc>
+  </programme>
+  <programme start="20260919145840 +0000" stop="20260919150240 +0000" channel="IRIBOmid.ir"><title lang="fa">دعای نادعلی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:04:10</desc>
+  </programme>
+  <programme start="20260919150250 +0000" stop="20260919153250 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن شبکه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919150302 +0000" stop="20260919151402 +0000" channel="IRIBOmid.ir"><title lang="fa">صبح ظهور</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:11:22</desc>
+  </programme>
+  <programme start="20260919151424 +0000" stop="20260919154424 +0000" channel="IRIBOmid.ir"><title lang="fa">آرم استیشن ولادت امام حسن عسکری (ع)</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:35</desc>
+  </programme>
+  <programme start="20260919151459 +0000" stop="20260919154459 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/نوروز دانش</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919151511 +0000" stop="20260919152511 +0000" channel="IRIBOmid.ir"><title lang="fa">نوروز دانش</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:10:00</desc>
+  </programme>
+  <programme start="20260919152511 +0000" stop="20260919152611 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ولادت امام حسن عسکری</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:48</desc>
+  </programme>
+  <programme start="20260919152659 +0000" stop="20260919155659 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919152706 +0000" stop="20260919153006 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:13</desc>
+  </programme>
+  <programme start="20260919153019 +0000" stop="20260919160019 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/برو پی کارت ( فصل 6 )  زنده</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919153031 +0000" stop="20260919172431 +0000" channel="IRIBOmid.ir"><title lang="fa">برو پی کارت ( فصل 6 )  زنده</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 01:54:30</desc>
+  </programme>
+  <programme start="20260919172501 +0000" stop="20260919172601 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919172614 +0000" stop="20260919175614 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ولادت امام حسن عسکری</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:35</desc>
+  </programme>
+  <programme start="20260919172649 +0000" stop="20260919175649 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
+  </programme>
+  <programme start="20260919172656 +0000" stop="20260919172856 +0000" channel="IRIBOmid.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:36</desc>
+  </programme>
+  <programme start="20260919172932 +0000" stop="20260919175932 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919172944 +0000" stop="20260919181044 +0000" channel="IRIBOmid.ir"><title lang="fa">سریال پزشک مدرسه</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:41:51</desc>
+  </programme>
+  <programme start="20260919181135 +0000" stop="20260919181235 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر فراخوان شتابدهی نوساز</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:13</desc>
+  </programme>
+  <programme start="20260919181248 +0000" stop="20260919181548 +0000" channel="IRIBOmid.ir"><title lang="fa">کلیپ امام عسکری عزیزم 2 - گروه شمیم ظهور</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:03:46</desc>
+  </programme>
+  <programme start="20260919181634 +0000" stop="20260919182934 +0000" channel="IRIBOmid.ir"><title lang="fa">منیم آذربایجانیم</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:13:07</desc>
+  </programme>
+  <programme start="20260919182941 +0000" stop="20260919185941 +0000" channel="IRIBOmid.ir"><title lang="fa">هم اکنون/اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:12</desc>
+  </programme>
+  <programme start="20260919182953 +0000" stop="20260919202053 +0000" channel="IRIBOmid.ir"><title lang="fa">اشاره</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 01:51:13</desc>
+  </programme>
+  <programme start="20260919202106 +0000" stop="20260919202306 +0000" channel="IRIBOmid.ir"><title lang="fa">وله ولادت امام حسن عسکری</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:02:28</desc>
+  </programme>
+  <programme start="20260919202334 +0000" stop="20260919202434 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده همپای باد</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:04</desc>
+  </programme>
+  <programme start="20260919202438 +0000" stop="20260919202538 +0000" channel="IRIBOmid.ir"><title lang="fa">پیش پرده فیلم عصر یخبندان6</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:01:01</desc>
+  </programme>
+  <programme start="20260919202539 +0000" stop="20260919205539 +0000" channel="IRIBOmid.ir"><title lang="fa">تیزر سفینه نجات بدون اعلام تاریخ</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:24</desc>
+  </programme>
+  <programme start="20260919202603 +0000" stop="20260919202703 +0000" channel="IRIBOmid.ir"><title lang="fa">صرفه جویی/لگو</title>
+    <desc lang="fa">[موضوع] لگو [خلاصه][مدت] 00:01:38</desc>
+  </programme>
+  <programme start="20260919202741 +0000" stop="20260919205741 +0000" channel="IRIBOmid.ir"><title lang="fa">وله آگهی بازرگانی</title>
+    <desc lang="fa">شبکه امید- شبکه نوجوان  ، تارنما ، WWW.OMIDTV.IR  ، شبکه های اجتماعی  @omidtvclub ،  پیامک 30000965[مدت] 00:00:07</desc>
   </programme>
   <programme start="20260917203000 +0000" stop="20260917223000 +0000" channel="SepehrTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -8463,6 +9334,136 @@
   <programme start="20260918201636 +0000" stop="20260918201836 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260918201934 +0000" stop="20260918202934 +0000" channel="IlamTV.ir"><title lang="fa">با خبرنگاران</title>
+  </programme>
+  <programme start="20260918202934 +0000" stop="20260918203134 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260918202934 +0000" stop="20260918203134 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260918203224 +0000" stop="20260918211924 +0000" channel="IlamTV.ir"><title lang="fa">مستند ایران از بالا</title>
+  </programme>
+  <programme start="20260918211938 +0000" stop="20260918212138 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260918212141 +0000" stop="20260918224541 +0000" channel="IlamTV.ir"><title lang="fa">فیلم تلویزیونی راس وریس</title>
+  </programme>
+  <programme start="20260918224625 +0000" stop="20260918230925 +0000" channel="IlamTV.ir"><title lang="fa">مستند خراش</title>
+  </programme>
+  <programme start="20260918230939 +0000" stop="20260918231039 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260918231135 +0000" stop="20260918234235 +0000" channel="IlamTV.ir"><title lang="fa">نیمه پنهان ماه</title>
+  </programme>
+  <programme start="20260918234235 +0000" stop="20260918234335 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260918234400 +0000" stop="20260919003900 +0000" channel="IlamTV.ir"><title lang="fa">ترتیل قرآن کریم</title>
+  </programme>
+  <programme start="20260919003944 +0000" stop="20260919004344 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919004432 +0000" stop="20260919010632 +0000" channel="IlamTV.ir"><title lang="fa">مناجات امیرالمومنین (ع)</title>
+  </programme>
+  <programme start="20260919010650 +0000" stop="20260919011750 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919011800 +0000" stop="20260919013300 +0000" channel="IlamTV.ir"><title lang="fa">اذان و نماز صبح</title>
+  </programme>
+  <programme start="20260919013300 +0000" stop="20260919014400 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919014400 +0000" stop="20260919021400 +0000" channel="IlamTV.ir"><title lang="fa">درس هایی از نهج البلاغه</title>
+  </programme>
+  <programme start="20260919021400 +0000" stop="20260919022900 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919022900 +0000" stop="20260919032800 +0000" channel="IlamTV.ir"><title lang="fa">مستند علما؛ سعادتمندان</title>
+  </programme>
+  <programme start="20260919032800 +0000" stop="20260919033000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919033004 +0000" stop="20260919042804 +0000" channel="IlamTV.ir"><title lang="fa">شوکیانه</title>
+  </programme>
+  <programme start="20260919042842 +0000" stop="20260919043342 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919043431 +0000" stop="20260919050431 +0000" channel="IlamTV.ir"><title lang="fa">نیمه پنهان ماه</title>
+  </programme>
+  <programme start="20260919050526 +0000" stop="20260919050726 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919050747 +0000" stop="20260919055447 +0000" channel="IlamTV.ir"><title lang="fa">مستند ایران از بالا</title>
+  </programme>
+  <programme start="20260919055447 +0000" stop="20260919055647 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919055727 +0000" stop="20260919061927 +0000" channel="IlamTV.ir"><title lang="fa">مستند خراش</title>
+  </programme>
+  <programme start="20260919061927 +0000" stop="20260919062427 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919062500 +0000" stop="20260919072500 +0000" channel="IlamTV.ir"><title lang="fa">سریال خانه سبز</title>
+  </programme>
+  <programme start="20260919072517 +0000" stop="20260919073117 +0000" channel="IlamTV.ir"><title lang="fa">ارتباط زنده - تبریز</title>
+  </programme>
+  <programme start="20260919073117 +0000" stop="20260919073217 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919073300 +0000" stop="20260919082600 +0000" channel="IlamTV.ir"><title lang="fa">بنه مال</title>
+  </programme>
+  <programme start="20260919082617 +0000" stop="20260919082717 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919082740 +0000" stop="20260919083740 +0000" channel="IlamTV.ir"><title lang="fa">باخبرنگاران</title>
+  </programme>
+  <programme start="20260919083740 +0000" stop="20260919084040 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919084100 +0000" stop="20260919090200 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی ظهر</title>
+  </programme>
+  <programme start="20260919090205 +0000" stop="20260919090605 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919090700 +0000" stop="20260919093700 +0000" channel="IlamTV.ir"><title lang="fa">درس هایی از نهج البلاغه</title>
+  </programme>
+  <programme start="20260919093700 +0000" stop="20260919095100 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919095100 +0000" stop="20260919112300 +0000" channel="IlamTV.ir"><title lang="fa">سینمایی بازی اسرار آمیز</title>
+  </programme>
+  <programme start="20260919112329 +0000" stop="20260919112629 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919112700 +0000" stop="20260919124500 +0000" channel="IlamTV.ir"><title lang="fa">ملت بیدارتر</title>
+  </programme>
+  <programme start="20260919124500 +0000" stop="20260919124600 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919124600 +0000" stop="20260919125800 +0000" channel="IlamTV.ir"><title lang="fa">پویانمایی نیک و نیکو</title>
+  </programme>
+  <programme start="20260919125811 +0000" stop="20260919130011 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919130011 +0000" stop="20260919132211 +0000" channel="IlamTV.ir"><title lang="fa">میدان یار</title>
+  </programme>
+  <programme start="20260919132211 +0000" stop="20260919132911 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919133000 +0000" stop="20260919135400 +0000" channel="IlamTV.ir"><title lang="fa">اخبار عصرگاهی</title>
+  </programme>
+  <programme start="20260919135400 +0000" stop="20260919140000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919140001 +0000" stop="20260919142801 +0000" channel="IlamTV.ir"><title lang="fa">مسابقه میدان یار</title>
+  </programme>
+  <programme start="20260919142853 +0000" stop="20260919143953 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919144052 +0000" stop="20260919150452 +0000" channel="IlamTV.ir"><title lang="fa">پرتویی از نور</title>
+  </programme>
+  <programme start="20260919150522 +0000" stop="20260919150722 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919150800 +0000" stop="20260919152400 +0000" channel="IlamTV.ir"><title lang="fa">اذانگاهی مغرب</title>
+  </programme>
+  <programme start="20260919152457 +0000" stop="20260919153357 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919153400 +0000" stop="20260919161800 +0000" channel="IlamTV.ir"><title lang="fa">نوروز دانش</title>
+  </programme>
+  <programme start="20260919161800 +0000" stop="20260919163000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919163000 +0000" stop="20260919164500 +0000" channel="IlamTV.ir"><title lang="fa">اخبار</title>
+  </programme>
+  <programme start="20260919164500 +0000" stop="20260919170000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919170000 +0000" stop="20260919180000 +0000" channel="IlamTV.ir"><title lang="fa">مانگه شو</title>
+  </programme>
+  <programme start="20260919180000 +0000" stop="20260919182800 +0000" channel="IlamTV.ir"><title lang="fa">مستند گلوریا</title>
+  </programme>
+  <programme start="20260919182800 +0000" stop="20260919183000 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919183000 +0000" stop="20260919185500 +0000" channel="IlamTV.ir"><title lang="fa">اخبار شامگاهی</title>
+  </programme>
+  <programme start="20260919185500 +0000" stop="20260919185700 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919185733 +0000" stop="20260919191233 +0000" channel="IlamTV.ir"><title lang="fa">ارتباط زنده با میدان</title>
+  </programme>
+  <programme start="20260919191233 +0000" stop="20260919192333 +0000" channel="IlamTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20260917203000 +0000" stop="20260917223000 +0000" channel="BaranTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -11205,7 +12206,7 @@
   </programme>
   <programme start="20260918181010 +0000" stop="20260918181610 +0000" channel="HamoonTV.ir"><title lang="fa">ارم اگهی ایران جان+آآگهی بازرگانی قبل تولیدی21</title>
   </programme>
-  <programme start="20260918181640 +0000" stop="20260918192140 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه دور خیز</title>
+  <programme start="20260918181640 +0000" stop="20260918192140 +0000" channel="HamoonTV.ir"><title lang="fa">مستند</title>
   </programme>
   <programme start="20260918192150 +0000" stop="20260918193150 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی</title>
   </programme>
@@ -11252,6 +12253,122 @@
   <programme start="20260919031935 +0000" stop="20260919035935 +0000" channel="HamoonTV.ir"><title lang="fa">سریال شمبل و شاهی2</title>
   </programme>
   <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه صبحگاهی مهرستان</title>
+  </programme>
+  <programme start="20260919050000 +0000" stop="20260919050400 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر پویش ملی همسایه داری	 میان برنامه راه امام (ر</title>
+  </programme>
+  <programme start="20260919050400 +0000" stop="20260919051100 +0000" channel="HamoonTV.ir"><title lang="fa">نماهنگ ستایش مردم مبعوث شده</title>
+  </programme>
+  <programme start="20260919051100 +0000" stop="20260919053000 +0000" channel="HamoonTV.ir"><title lang="fa">مستند ایران جان تبریز- گردون همت</title>
+  </programme>
+  <programme start="20260919053000 +0000" stop="20260919054500 +0000" channel="HamoonTV.ir"><title lang="fa">بخش خبری ساعت 9</title>
+  </programme>
+  <programme start="20260919054500 +0000" stop="20260919060000 +0000" channel="HamoonTV.ir"><title lang="fa">تحفه زمین - ایران جان تبریز( لپه)</title>
+  </programme>
+  <programme start="20260919060020 +0000" stop="20260919061220 +0000" channel="HamoonTV.ir"><title lang="fa">ارتباط مستقیم ایران جان تبریز</title>
+  </programme>
+  <programme start="20260919061220 +0000" stop="20260919063620 +0000" channel="HamoonTV.ir"><title lang="fa">انیمیشن حنا دختری در مدرسه</title>
+  </programme>
+  <programme start="20260919063640 +0000" stop="20260919064040 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر سریال آسباد + تیزر سریال زیر خاکی2</title>
+  </programme>
+  <programme start="20260919064135 +0000" stop="20260919072935 +0000" channel="HamoonTV.ir"><title lang="fa">سریال زیرخاکی 2</title>
+  </programme>
+  <programme start="20260919073000 +0000" stop="20260919074500 +0000" channel="HamoonTV.ir"><title lang="fa">بخش خبری ساعت 11:00</title>
+  </programme>
+  <programme start="20260919074500 +0000" stop="20260919074700 +0000" channel="HamoonTV.ir"><title lang="fa">روزشمارشهدای 28 شهریور</title>
+  </programme>
+  <programme start="20260919074715 +0000" stop="20260919074915 +0000" channel="HamoonTV.ir"><title lang="fa">تلاوت  کوتاه قرآن -</title>
+  </programme>
+  <programme start="20260919075000 +0000" stop="20260919075500 +0000" channel="HamoonTV.ir"><title lang="fa">اذان ظهرزاهدان - جواد رفیعی</title>
+  </programme>
+  <programme start="20260919075545 +0000" stop="20260919080645 +0000" channel="HamoonTV.ir"><title lang="fa">نماز جماعت ظهر- ناو جماران</title>
+  </programme>
+  <programme start="20260919080710 +0000" stop="20260919084910 +0000" channel="HamoonTV.ir"><title lang="fa">مستند لاله خیز</title>
+  </programme>
+  <programme start="20260919085000 +0000" stop="20260919085400 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر سریال آسباد + تیزر سریال زیر خاکی2</title>
+  </programme>
+  <programme start="20260919085440 +0000" stop="20260919085640 +0000" channel="HamoonTV.ir"><title lang="fa">گزارش مهاونت امور استانها ویژه شهید گرگیچ</title>
+  </programme>
+  <programme start="20260919085640 +0000" stop="20260919090140 +0000" channel="HamoonTV.ir"><title lang="fa">نماهنگ ستایش مردم مبعوث شده</title>
+  </programme>
+  <programme start="20260919090225 +0000" stop="20260919094425 +0000" channel="HamoonTV.ir"><title lang="fa">مستند ایران جان تبریز- تا پای جان</title>
+  </programme>
+  <programme start="20260919094425 +0000" stop="20260919094725 +0000" channel="HamoonTV.ir"><title lang="fa">جهانگرد- درصورت ادامه دارشدن جنگ ایران</title>
+  </programme>
+  <programme start="20260919094725 +0000" stop="20260919094925 +0000" channel="HamoonTV.ir"><title lang="fa">آرم آگهی + آگهی بازرگانی قبل سینمایی</title>
+  </programme>
+  <programme start="20260919094955 +0000" stop="20260919111855 +0000" channel="HamoonTV.ir"><title lang="fa">سینمایی زمستان بی برف</title>
+  </programme>
+  <programme start="20260919111935 +0000" stop="20260919112635 +0000" channel="HamoonTV.ir"><title lang="fa">ارتباط مستقیم ایران جان تبریز</title>
+  </programme>
+  <programme start="20260919112705 +0000" stop="20260919112905 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل تولیدی 15</title>
+  </programme>
+  <programme start="20260919113000 +0000" stop="20260919122600 +0000" channel="HamoonTV.ir"><title lang="fa">مهر هنکین ( خانواده بلوچی)</title>
+  </programme>
+  <programme start="20260919122630 +0000" stop="20260919122830 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر برنامه های تولیدی - زنده</title>
+  </programme>
+  <programme start="20260919122855 +0000" stop="20260919123255 +0000" channel="HamoonTV.ir"><title lang="fa">موشن گرافیک ایران جان تبریز- شاعری در کرانه اروند</title>
+  </programme>
+  <programme start="20260919123345 +0000" stop="20260919124945 +0000" channel="HamoonTV.ir"><title lang="fa">انیمیشن گروه نجات جنگل بلوط</title>
+  </programme>
+  <programme start="20260919125000 +0000" stop="20260919130000 +0000" channel="HamoonTV.ir"><title lang="fa">آرم آگهی + آگهی بازرگانی قبل خبر 16:30</title>
+  </programme>
+  <programme start="20260919130000 +0000" stop="20260919132000 +0000" channel="HamoonTV.ir"><title lang="fa">اخبار ستان</title>
+  </programme>
+  <programme start="20260919132000 +0000" stop="20260919132300 +0000" channel="HamoonTV.ir"><title lang="fa">آرم آگهی +  آگهی بازرگانی قبل سریال</title>
+  </programme>
+  <programme start="20260919132350 +0000" stop="20260919140850 +0000" channel="HamoonTV.ir"><title lang="fa">سریال شمبل و شاهی سری 2</title>
+  </programme>
+  <programme start="20260919140935 +0000" stop="20260919141335 +0000" channel="HamoonTV.ir"><title lang="fa">تلاوت  قرآن</title>
+  </programme>
+  <programme start="20260919141400 +0000" stop="20260919141800 +0000" channel="HamoonTV.ir"><title lang="fa">اذان مغرب زاهدان - عباس امام جمعه</title>
+  </programme>
+  <programme start="20260919141835 +0000" stop="20260919142435 +0000" channel="HamoonTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20260919142525 +0000" stop="20260919142825 +0000" channel="HamoonTV.ir"><title lang="fa">روزشمارشهدای 28 شهریور 	 تیزر پویش ملی همسایه داری</title>
+  </programme>
+  <programme start="20260919142835 +0000" stop="20260919150835 +0000" channel="HamoonTV.ir"><title lang="fa">میعاد جمعه</title>
+  </programme>
+  <programme start="20260919150835 +0000" stop="20260919151035 +0000" channel="HamoonTV.ir"><title lang="fa">کارشناسی آیت الله مطهری(ره) ولادت امام حسن عسکری(ع</title>
+  </programme>
+  <programme start="20260919151130 +0000" stop="20260919152930 +0000" channel="HamoonTV.ir"><title lang="fa">ارتباط مستقیم ایران جان تبریز</title>
+  </programme>
+  <programme start="20260919153000 +0000" stop="20260919154600 +0000" channel="HamoonTV.ir"><title lang="fa">بخش خبری ساعت 19</title>
+  </programme>
+  <programme start="20260919154640 +0000" stop="20260919155040 +0000" channel="HamoonTV.ir"><title lang="fa">موشن گرافی ولادت امام حسن عسکری(ع)</title>
+  </programme>
+  <programme start="20260919155050 +0000" stop="20260919160450 +0000" channel="HamoonTV.ir"><title lang="fa">مولودی حسین طاهری ویژه ولادت امام حسن عسکری(ع)</title>
+  </programme>
+  <programme start="20260919160500 +0000" stop="20260919161700 +0000" channel="HamoonTV.ir"><title lang="fa">مستند بیمه محصولات کشاورزی</title>
+  </programme>
+  <programme start="20260919161745 +0000" stop="20260919162945 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل خبر 20</title>
+  </programme>
+  <programme start="20260919163000 +0000" stop="20260919165500 +0000" channel="HamoonTV.ir"><title lang="fa">اخبار ستان</title>
+  </programme>
+  <programme start="20260919165500 +0000" stop="20260919170900 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20260919170950 +0000" stop="20260919173250 +0000" channel="HamoonTV.ir"><title lang="fa">مستند ایران جان تبریز- داستان یک خانه</title>
+  </programme>
+  <programme start="20260919173340 +0000" stop="20260919173940 +0000" channel="HamoonTV.ir"><title lang="fa">آرم آگهی + آگهی بازرگانی قبل تولیدی21</title>
+  </programme>
+  <programme start="20260919173955 +0000" stop="20260919183555 +0000" channel="HamoonTV.ir"><title lang="fa">جنگ شبانه شبهای پرستاره</title>
+  </programme>
+  <programme start="20260919183555 +0000" stop="20260919183955 +0000" channel="HamoonTV.ir"><title lang="fa">موشن گرافی ولادت امام حسن عسکری(ع)</title>
+  </programme>
+  <programme start="20260919184005 +0000" stop="20260919184305 +0000" channel="HamoonTV.ir"><title lang="fa">کلیپ های ایران جان - تبریز بازاری</title>
+  </programme>
+  <programme start="20260919184315 +0000" stop="20260919191715 +0000" channel="HamoonTV.ir"><title lang="fa">مستند ایران جان تبریز- آبشارعیش آباد</title>
+  </programme>
+  <programme start="20260919191755 +0000" stop="20260919192955 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل خبر23</title>
+  </programme>
+  <programme start="20260919193000 +0000" stop="20260919195000 +0000" channel="HamoonTV.ir"><title lang="fa">اخبار استان</title>
+  </programme>
+  <programme start="20260919195000 +0000" stop="20260919195200 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر سینمایی بغض های سر بسته</title>
+  </programme>
+  <programme start="20260919195210 +0000" stop="20260919200010 +0000" channel="HamoonTV.ir"><title lang="fa">مولودی محمدرضا طاهری ویژه ولادت</title>
+  </programme>
+  <programme start="20260919200030 +0000" stop="20260919202330 +0000" channel="HamoonTV.ir"><title lang="fa">طنز پاورقی</title>
+  </programme>
+  <programme start="20260919202340 +0000" stop="20260919202640 +0000" channel="HamoonTV.ir"><title lang="fa">کلیپ های ایران جان - عاشیق دایاقیلی</title>
   </programme>
   <programme start="20260917202900 +0000" stop="20260917203400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
