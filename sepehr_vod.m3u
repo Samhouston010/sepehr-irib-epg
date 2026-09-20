@@ -1241,6 +1241,16 @@ https://sepehr-vod-proxy.samhouston010.workers.dev/play/16534
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/16535
 #EXTINF:-1 tvg-id="sepehrvod16536" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh2550.jpg" group-title="🎬 سپهر VOD - فیلم سینمایی",کافه فیلم ۱۲
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/16536
+#EXTINF:-1 tvg-id="sepehrvod351430" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg" group-title="🎬 سپهر VOD - سریال",پشت صحنه خط مقدم
+https://sepehr-vod-proxy.samhouston010.workers.dev/play/351430
+#EXTINF:-1 tvg-id="sepehrvod351429" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg" group-title="🎬 سپهر VOD - سریال",خط مقدم قسمت ۰۴
+https://sepehr-vod-proxy.samhouston010.workers.dev/play/351429
+#EXTINF:-1 tvg-id="sepehrvod351428" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg" group-title="🎬 سپهر VOD - سریال",خط مقدم قسمت ۰۳
+https://sepehr-vod-proxy.samhouston010.workers.dev/play/351428
+#EXTINF:-1 tvg-id="sepehrvod351427" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg" group-title="🎬 سپهر VOD - سریال",خط مقدم قسمت ۰۲
+https://sepehr-vod-proxy.samhouston010.workers.dev/play/351427
+#EXTINF:-1 tvg-id="sepehrvod351426" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg" group-title="🎬 سپهر VOD - سریال",خط مقدم قسمت ۰۱
+https://sepehr-vod-proxy.samhouston010.workers.dev/play/351426
 #EXTINF:-1 tvg-id="sepehrvod351181" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۲ قسمت ۲۱
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/351181
 #EXTINF:-1 tvg-id="sepehrvod351180" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۲ قسمت ۲۰
@@ -1331,16 +1341,6 @@ https://sepehr-vod-proxy.samhouston010.workers.dev/play/351139
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/351138
 #EXTINF:-1 tvg-id="sepehrvod351137" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8903.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۱ قسمت ۰۴
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/351137
-#EXTINF:-1 tvg-id="sepehrvod351136" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8903.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۱ قسمت ۰۳
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351136
-#EXTINF:-1 tvg-id="sepehrvod351135" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8903.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۱ قسمت ۰۲
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351135
-#EXTINF:-1 tvg-id="sepehrvod351134" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8903.jpg" group-title="🎬 سپهر VOD - سریال",مشاور فصل ۱ قسمت ۰۱
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351134
-#EXTINF:-1 tvg-id="sepehrvod351132" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8876.jpg" group-title="🎬 سپهر VOD - سریال",عملیات مهندسی قسمت ۲۲
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351132
-#EXTINF:-1 tvg-id="sepehrvod351131" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8876.jpg" group-title="🎬 سپهر VOD - سریال",عملیات مهندسی قسمت ۲۱
-https://sepehr-vod-proxy.samhouston010.workers.dev/play/351131
 #EXTINF:-1 tvg-id="sepehrvod315645" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7332.jpg" group-title="🎬 سپهر VOD",[کودک و نوجوان] کاپیتان مورتن و ملکه عنکبوتی
 https://sepehr-vod-proxy.samhouston010.workers.dev/play/315645
 #EXTINF:-1 tvg-id="sepehrvod315120" tvg-logo="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7213.jpg" group-title="🎬 سپهر VOD",[کودک و نوجوان] هواپیماها: مامور نجات و آتش نشانی
