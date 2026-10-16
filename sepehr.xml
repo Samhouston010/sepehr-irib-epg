@@ -3917,9 +3917,9 @@
   </programme>
   <programme start="20261016045913 +0000" stop="20261016052913 +0000" channel="VarzeshTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
-  <programme start="20261016045931 +0000" stop="20261016052931 +0000" channel="VarzeshTV.ir"><title lang="fa">پخش/زنده (تصاویر استادیوم)</title>
+  <programme start="20261016045931 +0000" stop="20261016050531 +0000" channel="VarzeshTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016050000 +0000" stop="20261016053000 +0000" channel="VarzeshTV.ir"><title lang="fa">پخش/زنده (مسابقات پارا آسیایی ژاپن/بسکتبال نیمه او</title>
+  <programme start="20261016050600 +0000" stop="20261016053000 +0000" channel="VarzeshTV.ir"><title lang="fa">جهان ورزش</title>
   </programme>
   <programme start="20261016053000 +0000" stop="20261016053100 +0000" channel="VarzeshTV.ir"><title lang="fa">آگهی بازرگانی بین برنامه</title>
   </programme>
@@ -3937,11 +3937,13 @@
   </programme>
   <programme start="20261016053610 +0000" stop="20261016053810 +0000" channel="VarzeshTV.ir"><title lang="fa">دست آورد ناگویا</title>
   </programme>
-  <programme start="20261016053844 +0000" stop="20261016054344 +0000" channel="VarzeshTV.ir"><title lang="fa">آگهی بازرگانی قبل برنامه</title>
+  <programme start="20261016053844 +0000" stop="20261016053944 +0000" channel="VarzeshTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016054415 +0000" stop="20261016061415 +0000" channel="VarzeshTV.ir"><title lang="fa">پخش/زنده (تصاویر استادیوم)</title>
+  <programme start="20261016053944 +0000" stop="20261016054444 +0000" channel="VarzeshTV.ir"><title lang="fa">آگهی بازرگانی قبل برنامه</title>
   </programme>
-  <programme start="20261016054500 +0000" stop="20261016061500 +0000" channel="VarzeshTV.ir"><title lang="fa">پخش/زنده (مسابقات پارا آسیایی ژاپن/بسکتبال نیمه دو</title>
+  <programme start="20261016054515 +0000" stop="20261016061015 +0000" channel="VarzeshTV.ir"><title lang="fa">منتخب فوتبال المان</title>
+  </programme>
+  <programme start="20261016061015 +0000" stop="20261016061415 +0000" channel="VarzeshTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261016061512 +0000" stop="20261016064512 +0000" channel="VarzeshTV.ir"><title lang="fa">آرم استیشن</title>
   </programme>
@@ -4956,6 +4958,704 @@
   <programme start="20261016202835 +0000" stop="20261016202935 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
     <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
   </programme>
+  <programme start="20261016203000 +0000" stop="20261016210000 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - دکتر سلام</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016203013 +0000" stop="20261016212013 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام - تکرار</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /مجری:کیانا فرهی /</desc>
+  </programme>
+  <programme start="20261016212013 +0000" stop="20261016212213 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ پخش - مام وطن - محسن چاووشی</title>
+    <desc lang="fa">خواننده:محسن چاوشی /نام آهنگ:مام وطن /</desc>
+  </programme>
+  <programme start="20261016212239 +0000" stop="20261016215239 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016212251 +0000" stop="20261016212451 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - مجریان</title>
+  </programme>
+  <programme start="20261016212533 +0000" stop="20261016215533 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - من می تونم</title>
+  </programme>
+  <programme start="20261016212545 +0000" stop="20261016220745 +0000" channel="AmouzeshTV.ir"><title lang="fa">من می تونم</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:اسماعیل جعفری /مجری:محمد میرزا زاده /</desc>
+  </programme>
+  <programme start="20261016220752 +0000" stop="20261016220852 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - فتیر اراک</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016220944 +0000" stop="20261016223944 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - بیا بریم سفر</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016220957 +0000" stop="20261016223357 +0000" channel="AmouzeshTV.ir"><title lang="fa">بیا بریم سفر</title>
+    <desc lang="fa">تهیه کننده:محمد مقنی باشی /کارگردان:محمد مقنی باشی /مجری:محمد مقنی باشی /میهمان:محمد حسین قاسمی : فعال گردشگری /</desc>
+  </programme>
+  <programme start="20261016223426 +0000" stop="20261016230426 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016223443 +0000" stop="20261016223743 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ پخش - آئین فرزانگی</title>
+  </programme>
+  <programme start="20261016223754 +0000" stop="20261016223954 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - مجریان</title>
+  </programme>
+  <programme start="20261016224036 +0000" stop="20261016231036 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - مدهوش</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016224049 +0000" stop="20261016230249 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدهوش</title>
+    <desc lang="fa">تهیه کننده:الهام ونکی /کارگردان:سید احمد موسوی صمدی /مجری:محمد رضا کریمی /</desc>
+  </programme>
+  <programme start="20261016230320 +0000" stop="20261016230420 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش دانش آموزی برپا</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016230430 +0000" stop="20261016233430 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - آموزش پایتون</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016230442 +0000" stop="20261016231942 +0000" channel="AmouzeshTV.ir"><title lang="fa">آموزش پایتون</title>
+    <desc lang="fa">تهیه کننده:تأمین برنامه /مجری:مدرس: یونس جلالی منش /خواننده:ندارد /</desc>
+  </programme>
+  <programme start="20261016232002 +0000" stop="20261016232202 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - گوشفیل اراک</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016232203 +0000" stop="20261016232303 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261016232338 +0000" stop="20261016235338 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - گیومه</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016232350 +0000" stop="20261016234350 +0000" channel="AmouzeshTV.ir"><title lang="fa">گیومه</title>
+    <desc lang="fa">تهیه کننده:محمد مقنی باشی /</desc>
+  </programme>
+  <programme start="20261016234439 +0000" stop="20261017001439 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - عنصر حقیقت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261016234452 +0000" stop="20261017000452 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017000505 +0000" stop="20261017003505 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017000601 +0000" stop="20261017003601 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - مسابقه نابغه</title>
+  </programme>
+  <programme start="20261017000614 +0000" stop="20261017002614 +0000" channel="AmouzeshTV.ir"><title lang="fa">مسابقه نابغه</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:حسام ناصری /</desc>
+  </programme>
+  <programme start="20261017002702 +0000" stop="20261017005702 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017002732 +0000" stop="20261017002832 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017002906 +0000" stop="20261017003006 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017003041 +0000" stop="20261017010041 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - از زمین خاکی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017003053 +0000" stop="20261017005053 +0000" channel="AmouzeshTV.ir"><title lang="fa">از زمین خاکی</title>
+    <desc lang="fa">تهیه کننده:ایمان گودرزی /کارگردان:ایمان گودرزی /</desc>
+  </programme>
+  <programme start="20261017005105 +0000" stop="20261017012105 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017005119 +0000" stop="20261017010019 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه حفظ - سوره فتح</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:علی حبیبی /</desc>
+  </programme>
+  <programme start="20261017010041 +0000" stop="20261017010941 +0000" channel="AmouzeshTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20261017011037 +0000" stop="20261017011737 +0000" channel="AmouzeshTV.ir"><title lang="fa">نور علی نور</title>
+    <desc lang="fa">میهمان:محمود خلیل الحصری(قاری) /</desc>
+  </programme>
+  <programme start="20261017011800 +0000" stop="20261017014800 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی-یارب العالمین</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:--- /</desc>
+  </programme>
+  <programme start="20261017011830 +0000" stop="20261017012230 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان‌- سبزعلی</title>
+  </programme>
+  <programme start="20261017012300 +0000" stop="20261017012700 +0000" channel="AmouzeshTV.ir"><title lang="fa">صحیفه سجادیه - دعای هفتم</title>
+  </programme>
+  <programme start="20261017012746 +0000" stop="20261017015746 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی -  حی علی صلاه</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017012818 +0000" stop="20261017013218 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز صبح - آیت الله مسعودی علوی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017013236 +0000" stop="20261017014036 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای عهد</title>
+    <desc lang="fa">خواننده:سید مصطفی موسوی /</desc>
+  </programme>
+  <programme start="20261017014125 +0000" stop="20261017014525 +0000" channel="AmouzeshTV.ir"><title lang="fa">آیت الکرسی</title>
+  </programme>
+  <programme start="20261017014525 +0000" stop="20261017021525 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017014540 +0000" stop="20261017020040 +0000" channel="AmouzeshTV.ir"><title lang="fa">هنر نقاشیخط</title>
+    <desc lang="fa">مجری:عباس سیف آبادی /</desc>
+  </programme>
+  <programme start="20261017020044 +0000" stop="20261017023044 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - زنگ امید</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017020057 +0000" stop="20261017022757 +0000" channel="AmouzeshTV.ir"><title lang="fa">زنگ امید</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:ایمان ایزی /خواننده:ندارد /</desc>
+  </programme>
+  <programme start="20261017022850 +0000" stop="20261017025850 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017022918 +0000" stop="20261017025918 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017022930 +0000" stop="20261017023030 +0000" channel="AmouzeshTV.ir"><title lang="fa">سرود ملی جمهوری اسلامی</title>
+  </programme>
+  <programme start="20261017023032 +0000" stop="20261017030032 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017023048 +0000" stop="20261017023148 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017023243 +0000" stop="20261017030243 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - ورزش و مهارت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017023255 +0000" stop="20261017024155 +0000" channel="AmouzeshTV.ir"><title lang="fa">ورزش و مهارت - اسکیت</title>
+    <desc lang="fa">مجری:حمید رضا ریاحی /</desc>
+  </programme>
+  <programme start="20261017024156 +0000" stop="20261017024356 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - مجریان</title>
+  </programme>
+  <programme start="20261017024438 +0000" stop="20261017031438 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017024453 +0000" stop="20261017025453 +0000" channel="AmouzeshTV.ir"><title lang="fa">فرآیند</title>
+  </programme>
+  <programme start="20261017025505 +0000" stop="20261017032505 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - پویآموز</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017025518 +0000" stop="20261017031418 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویآموز</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017031455 +0000" stop="20261017031655 +0000" channel="AmouzeshTV.ir"><title lang="fa">بازگشایی مدارس - نماهنگ- همه به پیش</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017031740 +0000" stop="20261017034740 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017031755 +0000" stop="20261017031855 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017031929 +0000" stop="20261017032029 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017032104 +0000" stop="20261017035104 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - رویش</title>
+    <desc lang="fa">تهیه کننده:هادی خدادی /مجری:زهرا حاجی علی /</desc>
+  </programme>
+  <programme start="20261017032202 +0000" stop="20261017035202 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017032218 +0000" stop="20261017032418 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017032441 +0000" stop="20261017035441 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - عنصر حقیقت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017032453 +0000" stop="20261017034453 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017034506 +0000" stop="20261017041506 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017034533 +0000" stop="20261017034833 +0000" channel="AmouzeshTV.ir"><title lang="fa">بازگشایی مدارس - نماهنگ «صبح است جانا» - پسرانه</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017034857 +0000" stop="20261017034957 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - فیلر - کشمش خنداب</title>
+  </programme>
+  <programme start="20261017035009 +0000" stop="20261017042009 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - زنگ پرتقالی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017035021 +0000" stop="20261017041421 +0000" channel="AmouzeshTV.ir"><title lang="fa">زنگ پرتقالی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:محمود پری /مجری:زهرا لطفی /</desc>
+  </programme>
+  <programme start="20261017041449 +0000" stop="20261017041549 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017041624 +0000" stop="20261017044624 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017041720 +0000" stop="20261017041820 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - مهد مفاخر  - مدرسه علمیه امام</title>
+  </programme>
+  <programme start="20261017041836 +0000" stop="20261017044836 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017041906 +0000" stop="20261017042806 +0000" channel="AmouzeshTV.ir"><title lang="fa">ده دقیقه</title>
+    <desc lang="fa">تهیه کننده:قاسم اورنگی /کارگردان:قاسم اورنگی /</desc>
+  </programme>
+  <programme start="20261017042810 +0000" stop="20261017045810 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017042816 +0000" stop="20261017042916 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - مهد مفاخر  - امامزادگان 72 تن</title>
+  </programme>
+  <programme start="20261017042930 +0000" stop="20261017043030 +0000" channel="AmouzeshTV.ir"><title lang="fa">صلوات خاصه امام رضا</title>
+  </programme>
+  <programme start="20261017043118 +0000" stop="20261017050118 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017043134 +0000" stop="20261017043334 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017043429 +0000" stop="20261017050429 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - دکتر سلام</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017043442 +0000" stop="20261017050442 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام - تکرار</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /مجری:کیانا فرهی /میهمان:دکتر حسین کامران زاده فومنی /</desc>
+  </programme>
+  <programme start="20261017050442 +0000" stop="20261017053442 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017050458 +0000" stop="20261017050558 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017050651 +0000" stop="20261017052651 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام - تکرار</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /مجری:کیانا فرهی /</desc>
+  </programme>
+  <programme start="20261017052651 +0000" stop="20261017053051 +0000" channel="AmouzeshTV.ir"><title lang="fa">کاخ لبخند</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20261017053150 +0000" stop="20261017060150 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017053206 +0000" stop="20261017053606 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017053629 +0000" stop="20261017060629 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - غوغای بی هیاهو</title>
+  </programme>
+  <programme start="20261017053642 +0000" stop="20261017060242 +0000" channel="AmouzeshTV.ir"><title lang="fa">غوغای بی هیاهو</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017060252 +0000" stop="20261017063252 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017060319 +0000" stop="20261017060419 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی -گشت وگذار-ستون های خورهه</title>
+  </programme>
+  <programme start="20261017060436 +0000" stop="20261017063436 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش دانش آموزی برپا</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017060513 +0000" stop="20261017063513 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - علمی طور</title>
+    <desc lang="fa">تهیه کننده:پخش /</desc>
+  </programme>
+  <programme start="20261017060525 +0000" stop="20261017062225 +0000" channel="AmouzeshTV.ir"><title lang="fa">علمی طور</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه شبکه آموزش /</desc>
+  </programme>
+  <programme start="20261017062236 +0000" stop="20261017065236 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - دکتر سلام</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017062324 +0000" stop="20261017062624 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماهنگ ولادت حضرت زینب  - زینت بابا</title>
+  </programme>
+  <programme start="20261017062647 +0000" stop="20261017065647 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017062703 +0000" stop="20261017063003 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017063043 +0000" stop="20261017070043 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - ساحل دوست داشتنی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017063055 +0000" stop="20261017065955 +0000" channel="AmouzeshTV.ir"><title lang="fa">ساحل دوست داشتنی</title>
+    <desc lang="fa">کارگردان:علیرضا محمودزاده /</desc>
+  </programme>
+  <programme start="20261017070016 +0000" stop="20261017070116 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - دست کند تفرش</title>
+  </programme>
+  <programme start="20261017070148 +0000" stop="20261017073148 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - گیومه</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017070200 +0000" stop="20261017072200 +0000" channel="AmouzeshTV.ir"><title lang="fa">گیومه</title>
+    <desc lang="fa">تهیه کننده:محمد مقنی باشی /</desc>
+  </programme>
+  <programme start="20261017072249 +0000" stop="20261017075249 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017072316 +0000" stop="20261017075316 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017072331 +0000" stop="20261017072431 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017072505 +0000" stop="20261017075505 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017072521 +0000" stop="20261017072921 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017072926 +0000" stop="20261017075926 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - مدرسه استثنایی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017072938 +0000" stop="20261017080038 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه استثنایی</title>
+    <desc lang="fa">تهیه کننده:آموزش و پرورش استثنایی /</desc>
+  </programme>
+  <programme start="20261017080041 +0000" stop="20261017080141 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - مهد مفاخر  -  مقبره آقانورالدی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017080154 +0000" stop="20261017083154 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017080200 +0000" stop="20261017081100 +0000" channel="AmouzeshTV.ir"><title lang="fa">صبح ظهور</title>
+  </programme>
+  <programme start="20261017081156 +0000" stop="20261017081656 +0000" channel="AmouzeshTV.ir"><title lang="fa">تلاوت قرآن - سوره فاطر - کاظم آذر پیرا</title>
+    <desc lang="fa">میهمان:کاظم آذر پیرا(قاری) /</desc>
+  </programme>
+  <programme start="20261017081750 +0000" stop="20261017084750 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای اذانگاهی</title>
+  </programme>
+  <programme start="20261017081849 +0000" stop="20261017084849 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی - صلوات گرافیکی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017081930 +0000" stop="20261017082330 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان ظهر - علی قاسم آبادی</title>
+    <desc lang="fa">خواننده:مؤذن: علی قاسم آبادی /</desc>
+  </programme>
+  <programme start="20261017082410 +0000" stop="20261017085410 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی -  حی علی صلاه</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017082442 +0000" stop="20261017082942 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز ظهر - حجت الاسلام تهرانی</title>
+  </programme>
+  <programme start="20261017083007 +0000" stop="20261017083107 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای فرج</title>
+  </programme>
+  <programme start="20261017083129 +0000" stop="20261017084029 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه حفظ - سوره فتح</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:علی حبیبی /</desc>
+  </programme>
+  <programme start="20261017084051 +0000" stop="20261017091051 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017084102 +0000" stop="20261017091102 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - تیزر میدان آموزش ایران همدل</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017084149 +0000" stop="20261017084849 +0000" channel="AmouzeshTV.ir"><title lang="fa">امت امام -معلم استثنایی</title>
+  </programme>
+  <programme start="20261017084938 +0000" stop="20261017091938 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017085034 +0000" stop="20261017092034 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017085050 +0000" stop="20261017085350 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017085443 +0000" stop="20261017092443 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - پویآموز</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017085455 +0000" stop="20261017091555 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویآموز</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017091612 +0000" stop="20261017094612 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017091708 +0000" stop="20261017094708 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017091720 +0000" stop="20261017092020 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش امداد و نجات</title>
+    <desc lang="fa">تهیه کننده:محمد مقنی باشی /</desc>
+  </programme>
+  <programme start="20261017092020 +0000" stop="20261017095020 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017092035 +0000" stop="20261017092435 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017092441 +0000" stop="20261017092841 +0000" channel="AmouzeshTV.ir"><title lang="fa">کاخ لبخند</title>
+    <desc lang="fa">تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20261017092940 +0000" stop="20261017095940 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - دکتر سلام ( زنده )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017092953 +0000" stop="20261017095453 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام</title>
+    <desc lang="fa">:زنده  /تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20261017095453 +0000" stop="20261017102453 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017095508 +0000" stop="20261017095608 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بین</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017095701 +0000" stop="20261017102201 +0000" channel="AmouzeshTV.ir"><title lang="fa">دکتر سلام</title>
+    <desc lang="fa">:زنده  /تهیه کننده:بابک حسن زاده /</desc>
+  </programme>
+  <programme start="20261017102205 +0000" stop="20261017102405 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - گل محلات</title>
+  </programme>
+  <programme start="20261017102437 +0000" stop="20261017105437 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017102449 +0000" stop="20261017102549 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017102623 +0000" stop="20261017105623 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017102651 +0000" stop="20261017103651 +0000" channel="AmouzeshTV.ir"><title lang="fa">فرآیند</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /خواننده:ندارد /</desc>
+  </programme>
+  <programme start="20261017103708 +0000" stop="20261017110708 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017103725 +0000" stop="20261017110725 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017103821 +0000" stop="20261017110821 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017103836 +0000" stop="20261017104336 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017104420 +0000" stop="20261017111420 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - زنگ پرتقالی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017104433 +0000" stop="20261017110833 +0000" channel="AmouzeshTV.ir"><title lang="fa">زنگ پرتقالی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:محمود پری /مجری:زهرا لطفی /</desc>
+  </programme>
+  <programme start="20261017110901 +0000" stop="20261017113901 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017110931 +0000" stop="20261017111031 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی -گشت وگذار-  موزه فرهنگ و هنرتفر</title>
+  </programme>
+  <programme start="20261017111104 +0000" stop="20261017111204 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش دانش آموزی برپا</title>
+  </programme>
+  <programme start="20261017111250 +0000" stop="20261017111350 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017111424 +0000" stop="20261017114424 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - زنگ امید</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017111436 +0000" stop="20261017113936 +0000" channel="AmouzeshTV.ir"><title lang="fa">زنگ امید</title>
+    <desc lang="fa">کارگردان:ایمان ایزی /</desc>
+  </programme>
+  <programme start="20261017114002 +0000" stop="20261017114102 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017114137 +0000" stop="20261017121137 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017114152 +0000" stop="20261017114352 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017114446 +0000" stop="20261017121446 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - ساحل دوست داشتنی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017114458 +0000" stop="20261017121358 +0000" channel="AmouzeshTV.ir"><title lang="fa">ساحل دوست داشتنی</title>
+    <desc lang="fa">کارگردان:علیرضا محمودزاده /</desc>
+  </programme>
+  <programme start="20261017121419 +0000" stop="20261017121619 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش امداد و نجات</title>
+    <desc lang="fa">تهیه کننده:محمد مقنی باشی /</desc>
+  </programme>
+  <programme start="20261017121643 +0000" stop="20261017124643 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017121710 +0000" stop="20261017121910 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - مجریان</title>
+  </programme>
+  <programme start="20261017121952 +0000" stop="20261017124952 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017122004 +0000" stop="20261017122104 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017122138 +0000" stop="20261017125138 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017122155 +0000" stop="20261017122455 +0000" channel="AmouzeshTV.ir"><title lang="fa">پروانگی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017122502 +0000" stop="20261017125502 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017122517 +0000" stop="20261017122917 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017122958 +0000" stop="20261017125958 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - غوغای بی هیاهو</title>
+  </programme>
+  <programme start="20261017123010 +0000" stop="20261017130010 +0000" channel="AmouzeshTV.ir"><title lang="fa">غوغای بی هیاهو</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017130012 +0000" stop="20261017130112 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی -گشت وگذار-  غار نخجیر</title>
+  </programme>
+  <programme start="20261017130143 +0000" stop="20261017133143 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017130158 +0000" stop="20261017130258 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017130332 +0000" stop="20261017130432 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - روایت - آموزش تصویر برداری</title>
+  </programme>
+  <programme start="20261017130502 +0000" stop="20261017133502 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - علمی طور</title>
+    <desc lang="fa">تهیه کننده:پخش /</desc>
+  </programme>
+  <programme start="20261017130515 +0000" stop="20261017132215 +0000" channel="AmouzeshTV.ir"><title lang="fa">علمی طور</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه شبکه آموزش /</desc>
+  </programme>
+  <programme start="20261017132226 +0000" stop="20261017135226 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017132243 +0000" stop="20261017132443 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - دستاورد - صنعت محلات</title>
+  </programme>
+  <programme start="20261017132504 +0000" stop="20261017135504 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش دانش آموزی برپا</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017132539 +0000" stop="20261017135539 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - رویش</title>
+    <desc lang="fa">تهیه کننده:هادی خدادی /مجری:زهرا حاجی علی /</desc>
+  </programme>
+  <programme start="20261017132637 +0000" stop="20261017135637 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017132652 +0000" stop="20261017132852 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017132915 +0000" stop="20261017135915 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - مدرسه استثنایی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017132927 +0000" stop="20261017140027 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه استثنایی</title>
+    <desc lang="fa">تهیه کننده:آموزش و پرورش استثنایی /</desc>
+  </programme>
+  <programme start="20261017140030 +0000" stop="20261017143030 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017140042 +0000" stop="20261017140142 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017140216 +0000" stop="20261017140316 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - مهد مفاخر  - شهید پاکپور</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017140347 +0000" stop="20261017143347 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017140353 +0000" stop="20261017140553 +0000" channel="AmouzeshTV.ir"><title lang="fa">مکتب</title>
+  </programme>
+  <programme start="20261017140640 +0000" stop="20261017141040 +0000" channel="AmouzeshTV.ir"><title lang="fa">تلاوت قرآن مصری - سوره قصص- عبدالباسط محمد عبدالصم</title>
+  </programme>
+  <programme start="20261017141131 +0000" stop="20261017141331 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای قبل از اذان</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017141358 +0000" stop="20261017144358 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی - صلوات</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017141430 +0000" stop="20261017141830 +0000" channel="AmouzeshTV.ir"><title lang="fa">اذان-حسین کرمی</title>
+  </programme>
+  <programme start="20261017141909 +0000" stop="20261017144909 +0000" channel="AmouzeshTV.ir"><title lang="fa">رگلاژ اذانگاهی -  حی علی صلاه</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017141941 +0000" stop="20261017142541 +0000" channel="AmouzeshTV.ir"><title lang="fa">نماز مغرب - شهید رئیسی</title>
+  </programme>
+  <programme start="20261017142549 +0000" stop="20261017142649 +0000" channel="AmouzeshTV.ir"><title lang="fa">دعای فرج</title>
+  </programme>
+  <programme start="20261017142734 +0000" stop="20261017145734 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن مناسبتی</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017142750 +0000" stop="20261017143650 +0000" channel="AmouzeshTV.ir"><title lang="fa">مدرسه حفظ - سوره فتح</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:علی حبیبی /</desc>
+  </programme>
+  <programme start="20261017143712 +0000" stop="20261017150712 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017143739 +0000" stop="20261017143839 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی -گشت وگذار-  مسجد جامع ساوه</title>
+  </programme>
+  <programme start="20261017143853 +0000" stop="20261017150853 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017143923 +0000" stop="20261017144923 +0000" channel="AmouzeshTV.ir"><title lang="fa">انیمیشن شهید تنگسیری</title>
+  </programme>
+  <programme start="20261017145020 +0000" stop="20261017152020 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017145035 +0000" stop="20261017145435 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017145441 +0000" stop="20261017152441 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - سرو می ماند</title>
+  </programme>
+  <programme start="20261017145454 +0000" stop="20261017152154 +0000" channel="AmouzeshTV.ir"><title lang="fa">سرو می ماند</title>
+    <desc lang="fa">تهیه کننده:سمیه مردانی /کارگردان:سمیه مردانی /</desc>
+  </programme>
+  <programme start="20261017152209 +0000" stop="20261017152309 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - فیلر - سفالگری بدون چرخ</title>
+  </programme>
+  <programme start="20261017152326 +0000" stop="20261017152426 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017152501 +0000" stop="20261017155501 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017152516 +0000" stop="20261017152916 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017152927 +0000" stop="20261017155927 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - رویش</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017152939 +0000" stop="20261017161839 +0000" channel="AmouzeshTV.ir"><title lang="fa">رویش</title>
+    <desc lang="fa">مجری:زهرا حاجی علی /</desc>
+  </programme>
+  <programme start="20261017161919 +0000" stop="20261017164919 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017161934 +0000" stop="20261017162034 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بعد</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017162127 +0000" stop="20261017165127 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017162142 +0000" stop="20261017163442 +0000" channel="AmouzeshTV.ir"><title lang="fa">مستند از مدرسه تا معدن-سمنان</title>
+  </programme>
+  <programme start="20261017163536 +0000" stop="20261017170536 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017163551 +0000" stop="20261017163951 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017164018 +0000" stop="20261017171018 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - من می تونم</title>
+  </programme>
+  <programme start="20261017164031 +0000" stop="20261017172231 +0000" channel="AmouzeshTV.ir"><title lang="fa">من می تونم</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /کارگردان:اسماعیل جعفری /مجری:محمد میرزا زاده /</desc>
+  </programme>
+  <programme start="20261017172238 +0000" stop="20261017175238 +0000" channel="AmouzeshTV.ir"><title lang="fa">اعلام برنامه سه تایی - شنبه</title>
+  </programme>
+  <programme start="20261017172305 +0000" stop="20261017172405 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017172439 +0000" stop="20261017172839 +0000" channel="AmouzeshTV.ir"><title lang="fa">دوربین هفت</title>
+    <desc lang="fa">تهیه کننده:خدادی /مجری:ندارد /</desc>
+  </programme>
+  <programme start="20261017172846 +0000" stop="20261017175846 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017172901 +0000" stop="20261017173401 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017173447 +0000" stop="20261017180447 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - زنگ امید</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017173500 +0000" stop="20261017180000 +0000" channel="AmouzeshTV.ir"><title lang="fa">زنگ امید</title>
+    <desc lang="fa">کارگردان:ایمان ایزی /</desc>
+  </programme>
+  <programme start="20261017180026 +0000" stop="20261017180126 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - پارک علم و فناوری</title>
+  </programme>
+  <programme start="20261017180217 +0000" stop="20261017183217 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017180229 +0000" stop="20261017180329 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017180403 +0000" stop="20261017183403 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - عنصر حقیقت</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017180416 +0000" stop="20261017182416 +0000" channel="AmouzeshTV.ir"><title lang="fa">عنصر حقیقت</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017182429 +0000" stop="20261017185429 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017182445 +0000" stop="20261017182845 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017182940 +0000" stop="20261017185940 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - پرسشگر ( زنده )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017182952 +0000" stop="20261017193952 +0000" channel="AmouzeshTV.ir"><title lang="fa">پرسشگر</title>
+    <desc lang="fa">:زنده  /</desc>
+  </programme>
+  <programme start="20261017193957 +0000" stop="20261017194057 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - تیزر - عسل شازند</title>
+  </programme>
+  <programme start="20261017194111 +0000" stop="20261017201111 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - دکتر سلام</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017194159 +0000" stop="20261017201159 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017194211 +0000" stop="20261017195111 +0000" channel="AmouzeshTV.ir"><title lang="fa">ده دقیقه</title>
+    <desc lang="fa">تهیه کننده:قاسم اورنگی /میهمان:کارشناس:محمد کاظم راده /</desc>
+  </programme>
+  <programme start="20261017195208 +0000" stop="20261017202208 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - پویش برپا ( جدید )</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017195304 +0000" stop="20261017195404 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - روایت - آموزش تصویر برداری</title>
+  </programme>
+  <programme start="20261017195434 +0000" stop="20261017195534 +0000" channel="AmouzeshTV.ir"><title lang="fa">معرفی کتاب - جزیره ماهی</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /</desc>
+  </programme>
+  <programme start="20261017195608 +0000" stop="20261017202608 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017195624 +0000" stop="20261017195924 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی قبل</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017200007 +0000" stop="20261017203007 +0000" channel="AmouzeshTV.ir"><title lang="fa">بک اکنون پاییزی - مسابقه نابغه</title>
+  </programme>
+  <programme start="20261017200020 +0000" stop="20261017202020 +0000" channel="AmouzeshTV.ir"><title lang="fa">مسابقه نابغه</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /مجری:حسام ناصری /</desc>
+  </programme>
+  <programme start="20261017202051 +0000" stop="20261017205051 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
+  <programme start="20261017202107 +0000" stop="20261017202207 +0000" channel="AmouzeshTV.ir"><title lang="fa">آگهی بعد</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017202302 +0000" stop="20261017205302 +0000" channel="AmouzeshTV.ir"><title lang="fa">پویش دانش آموزی برپا</title>
+    <desc lang="fa">تهیه کننده:تامین برنامه /خواننده:ندارد /</desc>
+  </programme>
+  <programme start="20261017202322 +0000" stop="20261017202422 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر معاونت - فراخوان برگزاری چهارمین دوره بین الم</title>
+  </programme>
+  <programme start="20261017202517 +0000" stop="20261017202617 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - فیلر - گلیم نقش برجسته خمین</title>
+  </programme>
+  <programme start="20261017202630 +0000" stop="20261017205630 +0000" channel="AmouzeshTV.ir"><title lang="fa">آرم استیشن</title>
+    <desc lang="fa">شبکه مردم، آموزش، مهارت، تارنما، www.tv7.ir  ،   تلفن 27867000   ، پیامک 300007</desc>
+  </programme>
+  <programme start="20261017202644 +0000" stop="20261017202744 +0000" channel="AmouzeshTV.ir"><title lang="fa">تیزر پخش - همه به پیش</title>
+  </programme>
+  <programme start="20261017202819 +0000" stop="20261017205819 +0000" channel="AmouzeshTV.ir"><title lang="fa">ایران جان - مرکزی - آرم آگهی</title>
+  </programme>
   <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="IRINN.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel="IRINN.ir"><title lang="fa">02:00 - 04:00</title>
@@ -5609,53 +6309,382 @@
   <programme start="20261016143308 +0000" stop="20261016150308 +0000" channel="Nasim.ir"><title lang="fa">برنامک تهران</title>
     <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
   </programme>
-  <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="NamayeshTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20261015212532 +0000" stop="20261015213032 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 1)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel="NamayeshTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20261015213036 +0000" stop="20261015220036 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (آخر بازی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016003000 +0000" stop="20261016023000 +0000" channel="NamayeshTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20261015213052 +0000" stop="20261015222752 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی آخر بازی</title>
+    <desc lang="fa">[سال تولید] 2021</desc>
   </programme>
-  <programme start="20261016023000 +0000" stop="20261016043000 +0000" channel="NamayeshTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20261015222840 +0000" stop="20261015225840 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016043000 +0000" stop="20261016063000 +0000" channel="NamayeshTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20261015222850 +0000" stop="20261015223250 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 1)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016063000 +0000" stop="20261016083000 +0000" channel="NamayeshTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20261015223322 +0000" stop="20261015230322 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (آخر بازی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016083000 +0000" stop="20261016103000 +0000" channel="NamayeshTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20261015223338 +0000" stop="20261015231938 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی آخر بازی</title>
+    <desc lang="fa">[سال تولید] 2021</desc>
   </programme>
-  <programme start="20261016103000 +0000" stop="20261016123000 +0000" channel="NamayeshTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20261015231958 +0000" stop="20261015234958 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده روزانه (جمعه)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016123000 +0000" stop="20261016143000 +0000" channel="NamayeshTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20261015232054 +0000" stop="20261015232154 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده جامع</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016143000 +0000" stop="20261016163000 +0000" channel="NamayeshTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20261015232202 +0000" stop="20261015232302 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده فیلم های ایرانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel="NamayeshTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20261015232323 +0000" stop="20261015232423 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده ویژه نابینایان و ناشنوایان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016183000 +0000" stop="20261016202900 +0000" channel="NamayeshTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20261015232451 +0000" stop="20261015235451 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده نمای پنهان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016203000 +0000" stop="20261016223000 +0000" channel="NamayeshTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20261015232544 +0000" stop="20261015235544 +0000" channel="NamayeshTV.ir"><title lang="fa">وله معرفی سایت</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261016223000 +0000" stop="20261017003000 +0000" channel="NamayeshTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20261015232607 +0000" stop="20261015232907 +0000" channel="NamayeshTV.ir"><title lang="fa">میان برنامه نهضت ملی امداد و نجات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017003000 +0000" stop="20261017023000 +0000" channel="NamayeshTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20261015232907 +0000" stop="20261015235907 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017023000 +0000" stop="20261017043000 +0000" channel="NamayeshTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20261015232917 +0000" stop="20261015233017 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 3)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017043000 +0000" stop="20261017063000 +0000" channel="NamayeshTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20261015233024 +0000" stop="20261016000024 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (ارتش دزدها)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017063000 +0000" stop="20261017083000 +0000" channel="NamayeshTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20261015233040 +0000" stop="20261016011140 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی ارتش دزدها</title>
+    <desc lang="fa">[کارگردان] ماتیاس شوایگهوفر [بازیگران] ماتیاس شوایگهوفر - ناتالی امانوئل [سال تولید] 2021</desc>
   </programme>
-  <programme start="20261017083000 +0000" stop="20261017103000 +0000" channel="NamayeshTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20261016011148 +0000" stop="20261016014148 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017103000 +0000" stop="20261017123000 +0000" channel="NamayeshTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20261016011158 +0000" stop="20261016014158 +0000" channel="NamayeshTV.ir"><title lang="fa">کلیپ اذان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017123000 +0000" stop="20261017143000 +0000" channel="NamayeshTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20261016011218 +0000" stop="20261016011618 +0000" channel="NamayeshTV.ir"><title lang="fa">تلاوت قرآن ( سوره الانسان)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017143000 +0000" stop="20261017163000 +0000" channel="NamayeshTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20261016011657 +0000" stop="20261016014657 +0000" channel="NamayeshTV.ir"><title lang="fa">صلوات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017163000 +0000" stop="20261017183000 +0000" channel="NamayeshTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20261016011730 +0000" stop="20261016012130 +0000" channel="NamayeshTV.ir"><title lang="fa">اذان صبح به افق تهران</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
-  <programme start="20261017183000 +0000" stop="20261017202900 +0000" channel="NamayeshTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20261016012150 +0000" stop="20261016012250 +0000" channel="NamayeshTV.ir"><title lang="fa">دعلی ناد علی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016012312 +0000" stop="20261016012912 +0000" channel="NamayeshTV.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016013002 +0000" stop="20261016020002 +0000" channel="NamayeshTV.ir"><title lang="fa">وله معرفی سایت</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016013025 +0000" stop="20261016013125 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 3)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016013132 +0000" stop="20261016020132 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (ارتش دزدها)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016013148 +0000" stop="20261016014448 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی ارتش دزدها</title>
+    <desc lang="fa">[کارگردان] ماتیاس شوایگهوفر [بازیگران] ماتیاس شوایگهوفر - ناتالی امانوئل [سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016014449 +0000" stop="20261016021449 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016014459 +0000" stop="20261016014559 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 5)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016014638 +0000" stop="20261016021638 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (شیدا)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016014654 +0000" stop="20261016023854 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی شیدا</title>
+    <desc lang="fa">[کارگردان] کمال تبریزی [بازیگران] لیلا حاتمی - پارسا پیروزفر [سال تولید] 1377</desc>
+  </programme>
+  <programme start="20261016023952 +0000" stop="20261016030952 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016024002 +0000" stop="20261016024102 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 5)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016024158 +0000" stop="20261016031158 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (شیدا)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016024214 +0000" stop="20261016032014 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی شیدا</title>
+    <desc lang="fa">[کارگردان] کمال تبریزی [بازیگران] لیلا حاتمی - پارسا پیروزفر [سال تولید] 1377</desc>
+  </programme>
+  <programme start="20261016032026 +0000" stop="20261016035026 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده روزانه (جمعه)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032122 +0000" stop="20261016032222 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده فیلم های ایرانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032243 +0000" stop="20261016035243 +0000" channel="NamayeshTV.ir"><title lang="fa">وله معرفی سایت</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032306 +0000" stop="20261016032406 +0000" channel="NamayeshTV.ir"><title lang="fa">رزمایش مواسات و کمک مومنانه</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032411 +0000" stop="20261016032511 +0000" channel="NamayeshTV.ir"><title lang="fa">ایران جان - مرکزی ایران</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032601 +0000" stop="20261016035601 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032611 +0000" stop="20261016032911 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 7)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016032946 +0000" stop="20261016035946 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (سرآشپز هتل)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016033002 +0000" stop="20261016042502 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرآشپز هتل</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016042508 +0000" stop="20261016045508 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016042518 +0000" stop="20261016042718 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 7)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016042736 +0000" stop="20261016045736 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (سرآشپز هتل)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016042752 +0000" stop="20261016052052 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرآشپز هتل</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016052120 +0000" stop="20261016055120 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده روزانه (جمعه)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016052216 +0000" stop="20261016055216 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016052226 +0000" stop="20261016052826 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 9)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016052836 +0000" stop="20261016055836 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (آخر بازی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016052852 +0000" stop="20261016062552 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی آخر بازی</title>
+    <desc lang="fa">[سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016062640 +0000" stop="20261016065640 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016062650 +0000" stop="20261016063150 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 9)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016063150 +0000" stop="20261016070150 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (آخر بازی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016063206 +0000" stop="20261016071806 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی آخر بازی</title>
+    <desc lang="fa">[سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016071826 +0000" stop="20261016074826 +0000" channel="NamayeshTV.ir"><title lang="fa">پیش پرده روزانه (جمعه)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016071922 +0000" stop="20261016074922 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016071932 +0000" stop="20261016072832 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 11)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016072844 +0000" stop="20261016075844 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (ارتش دزدها)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016072900 +0000" stop="20261016081300 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی ارتش دزدها</title>
+    <desc lang="fa">[کارگردان] ماتیاس شوایگهوفر [بازیگران] ماتیاس شوایگهوفر - ناتالی امانوئل [سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016081340 +0000" stop="20261016084340 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016081350 +0000" stop="20261016084350 +0000" channel="NamayeshTV.ir"><title lang="fa">کلیپ اذان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016081410 +0000" stop="20261016081810 +0000" channel="NamayeshTV.ir"><title lang="fa">تلاوت قرآن (سوره یونس)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016081857 +0000" stop="20261016084857 +0000" channel="NamayeshTV.ir"><title lang="fa">صلوات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016081930 +0000" stop="20261016082330 +0000" channel="NamayeshTV.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016082352 +0000" stop="20261016082452 +0000" channel="NamayeshTV.ir"><title lang="fa">دعای نادعلی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016082513 +0000" stop="20261016082913 +0000" channel="NamayeshTV.ir"><title lang="fa">دعای رهبری</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016083000 +0000" stop="20261016090000 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016083006 +0000" stop="20261016090006 +0000" channel="NamayeshTV.ir"><title lang="fa">وله معرفی سایت</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016083029 +0000" stop="20261016083529 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 11)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016083619 +0000" stop="20261016090619 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (ارتش دزدها)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016083635 +0000" stop="20261016094535 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی ارتش دزدها</title>
+    <desc lang="fa">[کارگردان] ماتیاس شوایگهوفر [بازیگران] ماتیاس شوایگهوفر - ناتالی امانوئل [سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016094604 +0000" stop="20261016095104 +0000" channel="NamayeshTV.ir"><title lang="fa">دفع حشرات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016095104 +0000" stop="20261016102104 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016095114 +0000" stop="20261016095914 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 13)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016095922 +0000" stop="20261016102922 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (شیدا)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016095938 +0000" stop="20261016113038 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی شیدا</title>
+    <desc lang="fa">[کارگردان] کمال تبریزی [بازیگران] لیلا حاتمی - پارسا پیروزفر [سال تولید] 1377</desc>
+  </programme>
+  <programme start="20261016113048 +0000" stop="20261016120048 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (سرآشپز هتل)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016113104 +0000" stop="20261016122604 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرآشپز هتل</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016122610 +0000" stop="20261016125610 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016122620 +0000" stop="20261016123120 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 15)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016123200 +0000" stop="20261016130200 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (سرآشپز هتل)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016123216 +0000" stop="20261016132516 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرآشپز هتل</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016132544 +0000" stop="20261016133044 +0000" channel="NamayeshTV.ir"><title lang="fa">دفع حشرات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016133044 +0000" stop="20261016140044 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (سرقت از یک سارق)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016133100 +0000" stop="20261016141000 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرقت از یک سارق</title>
+    <desc lang="fa">[کارگردان] دنیل کالپارسورو [بازیگران] لوئیستوسار-  رودریگودلاسرنا [سال تولید] 2016</desc>
+  </programme>
+  <programme start="20261016141053 +0000" stop="20261016144053 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016141103 +0000" stop="20261016144103 +0000" channel="NamayeshTV.ir"><title lang="fa">کلیپ اذان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016141118 +0000" stop="20261016141418 +0000" channel="NamayeshTV.ir"><title lang="fa">قرائت سوره جمعه با صدای رهبر شهید</title>
+  </programme>
+  <programme start="20261016141420 +0000" stop="20261016144420 +0000" channel="NamayeshTV.ir"><title lang="fa">صلوات</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016141453 +0000" stop="20261016144453 +0000" channel="NamayeshTV.ir"><title lang="fa">کلیپ اذان فیلم چ</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016141530 +0000" stop="20261016141930 +0000" channel="NamayeshTV.ir"><title lang="fa">اذان مغرب به افق تهران</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016141939 +0000" stop="20261016142039 +0000" channel="NamayeshTV.ir"><title lang="fa">دعای نادعلی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016142100 +0000" stop="20261016142600 +0000" channel="NamayeshTV.ir"><title lang="fa">نماز مغرب</title>
+    <desc lang="fa">[محصول] ایران</desc>
+  </programme>
+  <programme start="20261016142657 +0000" stop="20261016145657 +0000" channel="NamayeshTV.ir"><title lang="fa">دعای فرج - امام شهید</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016142753 +0000" stop="20261016145753 +0000" channel="NamayeshTV.ir"><title lang="fa">وله معرفی سایت</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016142816 +0000" stop="20261016143316 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 17)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016143415 +0000" stop="20261016150415 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (سرقت از یک سارق)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016143431 +0000" stop="20261016151631 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی سرقت از یک سارق</title>
+    <desc lang="fa">[کارگردان] دنیل کالپارسورو [بازیگران] لوئیستوسار-  رودریگودلاسرنا [سال تولید] 2016</desc>
+  </programme>
+  <programme start="20261016151637 +0000" stop="20261016152037 +0000" channel="NamayeshTV.ir"><title lang="fa">کاخ لبخند</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016152136 +0000" stop="20261016155136 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016152146 +0000" stop="20261016153146 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 19)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016153225 +0000" stop="20261016160225 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (خلبان)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016153241 +0000" stop="20261016163741 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی خلبان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016163804 +0000" stop="20261016170804 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016163814 +0000" stop="20261016164314 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 19)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016164410 +0000" stop="20261016171410 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (خلبان)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016164426 +0000" stop="20261016171826 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی خلبان</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016171849 +0000" stop="20261016174849 +0000" channel="NamayeshTV.ir"><title lang="fa">وله قبل بازرگانی</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016171859 +0000" stop="20261016172859 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( قبل 21)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016172955 +0000" stop="20261016175955 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (بوی خوش زندگی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016173011 +0000" stop="20261016192411 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی بوی خوش زندگی</title>
+    <desc lang="fa">[کارگردان] ابوالحسن داوودی [بازیگران] علیرضا خمسه [سال تولید] 1373</desc>
+  </programme>
+  <programme start="20261016192416 +0000" stop="20261016195416 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016192426 +0000" stop="20261016192926 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 21)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016192953 +0000" stop="20261016195953 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (بوی خوش زندگی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016193009 +0000" stop="20261016193109 +0000" channel="NamayeshTV.ir"><title lang="fa">ایران جان - مرکزی ایران</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016193132 +0000" stop="20261016200132 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک اکنون (تا سکوی قهرمانی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016193148 +0000" stop="20261016201548 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی تا سکوی قهرمانی</title>
+    <desc lang="fa">[کارگردان] وان ما چی [بازیگران] هانگ لیونگ چونگ - چونگ لویی [سال تولید] 2021</desc>
+  </programme>
+  <programme start="20261016201624 +0000" stop="20261016204624 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک پاز</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016201634 +0000" stop="20261016202134 +0000" channel="NamayeshTV.ir"><title lang="fa">آگهی بازرگانی 1405/07/24  ( بین 23)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016202226 +0000" stop="20261016205226 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (تا سکوی قهرمانی)</title>
+    <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
+  </programme>
+  <programme start="20261016202242 +0000" stop="20261016202742 +0000" channel="NamayeshTV.ir"><title lang="fa">سینمایی تا سکوی قهرمانی</title>
+    <desc lang="fa">[کارگردان] وان ما چی [بازیگران] هانگ لیونگ چونگ - چونگ لویی [سال تولید] 2021</desc>
   </programme>
   <programme start="20261015203100 +0000" stop="20261015211300 +0000" channel="IRIBMostanad.ir"><title lang="fa">محرمان محراب</title>
   </programme>
@@ -5781,10 +6810,11 @@
   <programme start="20261016101330 +0000" stop="20261016102630 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
   </programme>
-  <programme start="20261016102630 +0000" stop="20261016110130 +0000" channel="IRIBMostanad.ir"><title lang="fa">دیدار در مراکان</title>
+  <programme start="20261016102630 +0000" stop="20261016103030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016110130 +0000" stop="20261016111030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
-    <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
+  <programme start="20261016103030 +0000" stop="20261016110530 +0000" channel="IRIBMostanad.ir"><title lang="fa">دیدار در مراکان</title>
+  </programme>
+  <programme start="20261016110530 +0000" stop="20261016111030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261016111030 +0000" stop="20261016111530 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه نگاه مستند</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
@@ -5797,15 +6827,17 @@
   <programme start="20261016121500 +0000" stop="20261016122000 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
   </programme>
-  <programme start="20261016122030 +0000" stop="20261016132130 +0000" channel="IRIBMostanad.ir"><title lang="fa">سفر بزرگ</title>
+  <programme start="20261016122030 +0000" stop="20261016122330 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016132150 +0000" stop="20261016132350 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
-    <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
+  <programme start="20261016122330 +0000" stop="20261016132030 +0000" channel="IRIBMostanad.ir"><title lang="fa">سفر بزرگ</title>
   </programme>
-  <programme start="20261016132430 +0000" stop="20261016135430 +0000" channel="IRIBMostanad.ir"><title lang="fa">بندر کنگ</title>
+  <programme start="20261016132050 +0000" stop="20261016132350 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016135430 +0000" stop="20261016140030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
-    <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
+  <programme start="20261016132430 +0000" stop="20261016132930 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261016132930 +0000" stop="20261016135930 +0000" channel="IRIBMostanad.ir"><title lang="fa">بندر کنگ</title>
+  </programme>
+  <programme start="20261016135930 +0000" stop="20261016140030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261016140030 +0000" stop="20261016141530 +0000" channel="IRIBMostanad.ir"><title lang="fa">باکس اذانگاهی</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
@@ -5818,12 +6850,11 @@
   <programme start="20261016143530 +0000" stop="20261016144030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
   </programme>
-  <programme start="20261016144050 +0000" stop="20261016150050 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261016144050 +0000" stop="20261016145950 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261016150130 +0000" stop="20261016162130 +0000" channel="IRIBMostanad.ir"><title lang="fa">نردبان</title>
+  <programme start="20261016150030 +0000" stop="20261016162330 +0000" channel="IRIBMostanad.ir"><title lang="fa">نردبان</title>
   </programme>
-  <programme start="20261016162130 +0000" stop="20261016163030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
-    <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
+  <programme start="20261016162330 +0000" stop="20261016163030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261016163030 +0000" stop="20261016171430 +0000" channel="IRIBMostanad.ir"><title lang="fa">ظهور و سقوط وایکینگ ها</title>
   </programme>
@@ -5846,10 +6877,14 @@
   <programme start="20261016190930 +0000" stop="20261016193030 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
   </programme>
-  <programme start="20261016193030 +0000" stop="20261016200030 +0000" channel="IRIBMostanad.ir"><title lang="fa">زندگی به سبک بازماندگان نخستین</title>
+  <programme start="20261016193030 +0000" stop="20261016195530 +0000" channel="IRIBMostanad.ir"><title lang="fa">زندگی به سبک بازماندگان نخستین</title>
+  </programme>
+  <programme start="20261016195550 +0000" stop="20261016195950 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261016200030 +0000" stop="20261016201530 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
     <desc lang="fa">آدرس سایت www.doctv.ir/*/شماره پیامک شبکه: 3000080/*/شبکه های اجتماعیdoctvirib@/*/ با ما ببینید…/*/</desc>
+  </programme>
+  <programme start="20261016201530 +0000" stop="20261016202930 +0000" channel="IRIBMostanad.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="iFilmPersian.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -9864,30 +10899,6 @@
   </programme>
   <programme start="20261016183000 +0000" stop="20261016202900 +0000" channel="DenaTV.ir"><title lang="fa">22:00 - 24:00</title>
   </programme>
-  <programme start="20261016203000 +0000" stop="20261016223000 +0000" channel="DenaTV.ir"><title lang="fa">00:00 - 02:00</title>
-  </programme>
-  <programme start="20261016223000 +0000" stop="20261017003000 +0000" channel="DenaTV.ir"><title lang="fa">02:00 - 04:00</title>
-  </programme>
-  <programme start="20261017003000 +0000" stop="20261017023000 +0000" channel="DenaTV.ir"><title lang="fa">04:00 - 06:00</title>
-  </programme>
-  <programme start="20261017023000 +0000" stop="20261017043000 +0000" channel="DenaTV.ir"><title lang="fa">06:00 - 08:00</title>
-  </programme>
-  <programme start="20261017043000 +0000" stop="20261017063000 +0000" channel="DenaTV.ir"><title lang="fa">08:00 - 10:00</title>
-  </programme>
-  <programme start="20261017063000 +0000" stop="20261017083000 +0000" channel="DenaTV.ir"><title lang="fa">10:00 - 12:00</title>
-  </programme>
-  <programme start="20261017083000 +0000" stop="20261017103000 +0000" channel="DenaTV.ir"><title lang="fa">12:00 - 14:00</title>
-  </programme>
-  <programme start="20261017103000 +0000" stop="20261017123000 +0000" channel="DenaTV.ir"><title lang="fa">14:00 - 16:00</title>
-  </programme>
-  <programme start="20261017123000 +0000" stop="20261017143000 +0000" channel="DenaTV.ir"><title lang="fa">16:00 - 18:00</title>
-  </programme>
-  <programme start="20261017143000 +0000" stop="20261017163000 +0000" channel="DenaTV.ir"><title lang="fa">18:00 - 20:00</title>
-  </programme>
-  <programme start="20261017163000 +0000" stop="20261017183000 +0000" channel="DenaTV.ir"><title lang="fa">20:00 - 22:00</title>
-  </programme>
-  <programme start="20261017183000 +0000" stop="20261017202900 +0000" channel="DenaTV.ir"><title lang="fa">22:00 - 24:00</title>
-  </programme>
   <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="RoyaTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel="RoyaTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -11389,6 +12400,28 @@
   </programme>
   <programme start="20261017192700 +0000" stop="20261017201700 +0000" channel="MahabadTV.ir"><title lang="fa">سریال بیگانگان قسمت هشتم</title>
   </programme>
+  <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel=""><title lang="fa">00:00 - 02:00</title>
+  </programme>
+  <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel=""><title lang="fa">02:00 - 04:00</title>
+  </programme>
+  <programme start="20261016003000 +0000" stop="20261016023000 +0000" channel=""><title lang="fa">04:00 - 06:00</title>
+  </programme>
+  <programme start="20261016023000 +0000" stop="20261016043000 +0000" channel=""><title lang="fa">06:00 - 08:00</title>
+  </programme>
+  <programme start="20261016043000 +0000" stop="20261016063000 +0000" channel=""><title lang="fa">08:00 - 10:00</title>
+  </programme>
+  <programme start="20261016063000 +0000" stop="20261016083000 +0000" channel=""><title lang="fa">10:00 - 12:00</title>
+  </programme>
+  <programme start="20261016083000 +0000" stop="20261016103000 +0000" channel=""><title lang="fa">12:00 - 14:00</title>
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016123000 +0000" channel=""><title lang="fa">14:00 - 16:00</title>
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016143000 +0000" channel=""><title lang="fa">16:00 - 18:00</title>
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016163000 +0000" channel=""><title lang="fa">18:00 - 20:00</title>
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel=""><title lang="fa">20:00 - 22:00</title>
+  </programme>
   <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel="HamoonTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel="HamoonTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -11822,6 +12855,28 @@
   <programme start="20261016195726 +0000" stop="20261016200026 +0000" channel="YazdTV.ir"><title lang="fa">آگهی قبل از فیلم سینمایی</title>
   </programme>
   <programme start="20261016200026 +0000" stop="20261016202926 +0000" channel="YazdTV.ir"><title lang="fa">سینمایی ایستگاه سلام</title>
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel=""><title lang="fa">00:00 - 02:00</title>
+  </programme>
+  <programme start="20261015223000 +0000" stop="20261016003000 +0000" channel=""><title lang="fa">02:00 - 04:00</title>
+  </programme>
+  <programme start="20261016003000 +0000" stop="20261016023000 +0000" channel=""><title lang="fa">04:00 - 06:00</title>
+  </programme>
+  <programme start="20261016023000 +0000" stop="20261016043000 +0000" channel=""><title lang="fa">06:00 - 08:00</title>
+  </programme>
+  <programme start="20261016043000 +0000" stop="20261016063000 +0000" channel=""><title lang="fa">08:00 - 10:00</title>
+  </programme>
+  <programme start="20261016063000 +0000" stop="20261016083000 +0000" channel=""><title lang="fa">10:00 - 12:00</title>
+  </programme>
+  <programme start="20261016083000 +0000" stop="20261016103000 +0000" channel=""><title lang="fa">12:00 - 14:00</title>
+  </programme>
+  <programme start="20261016103000 +0000" stop="20261016123000 +0000" channel=""><title lang="fa">14:00 - 16:00</title>
+  </programme>
+  <programme start="20261016123000 +0000" stop="20261016143000 +0000" channel=""><title lang="fa">16:00 - 18:00</title>
+  </programme>
+  <programme start="20261016143000 +0000" stop="20261016163000 +0000" channel=""><title lang="fa">18:00 - 20:00</title>
+  </programme>
+  <programme start="20261016163000 +0000" stop="20261016183000 +0000" channel=""><title lang="fa">20:00 - 22:00</title>
   </programme>
   <programme start="20261015203000 +0000" stop="20261015223000 +0000" channel=""><title lang="fa">00:00 - 02:00</title>
   </programme>
