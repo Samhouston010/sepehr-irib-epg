@@ -270,15 +270,6 @@
     "logo": "https://static.telewebion.ir/channelsLogo/ODY4NmQ1MzFkYmE0NDdlYzY1YmQ4NTlhOWZkNjIxMDg4ZTc1OGJjMzZkYWM1Mjk1OGYwZWU2YjY5OWRhZmY5Nw/default"
   },
   {
-    "slug": "khavaran",
-    "channel_id": 15680,
-    "tvg_id": "KhavaranTV.ir",
-    "name": "شبکه خاوران (خراسان جنوبی)",
-    "name_en": "شبکه خاوران (خراسان جنوبی)",
-    "group": "استانی",
-    "logo": "https://upload.wikimedia.org/wikipedia/fa/8/86/KHAVARAN_tv.png"
-  },
-  {
     "slug": "khorasanrazavi",
     "channel_id": 15679,
     "tvg_id": "KhorasanRazaviTV.ir",
@@ -511,15 +502,6 @@
     "name_en": "Habib TV",
     "group": "مذهبی",
     "logo": "https://cdn.telewebion.ir/channelsLogo/MjZkMmQxOTAwOWU1MWVmZGMwZDlmMmE5MDk3NWM0ZTI5YTIzNjdhNzhlM2VjMzZjZDU0ZGY1NzBmY2QwM2JlNA/default"
-  },
-  {
-    "slug": "tekyemadahi",
-    "channel_id": 15688,
-    "tvg_id": "",
-    "name": "تکیه مداحی",
-    "name_en": "Tekye Madahi",
-    "group": "مذهبی",
-    "logo": "https://cdn.telewebion.ir/channelsLogo/d602596d-7b8d-48ef-8f51-9344b4ac0eb6/default"
   },
   {
     "slug": "alalam",
