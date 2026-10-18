@@ -1,10 +1,170 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
+  <channel id="sepehrvod351430">
+    <display-name>پشت صحنه خط مقدم</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351430">
+    <title lang="fa">پشت صحنه خط مقدم</title>
+    <desc lang="fa">سرگذشت مردان بلندبالایی است که پس از پاییز ۱۳۶۳ با تلاش و مشقت، در روزگار تنهایی و مظلومیت، مجاهدانه جنگیدند.</desc>
+    <date>1403140314031403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">39</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351429">
+    <display-name>خط مقدم قسمت ۰۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351429">
+    <title lang="fa">خط مقدم قسمت ۰۴</title>
+    <desc lang="fa">سرگذشت مردان بلندبالایی است که پس از پاییز ۱۳۶۳ با تلاش و مشقت، در روزگار تنهایی و مظلومیت، مجاهدانه جنگیدند.</desc>
+    <date>1403140314031403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">47</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351428">
+    <display-name>خط مقدم قسمت ۰۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351428">
+    <title lang="fa">خط مقدم قسمت ۰۳</title>
+    <desc lang="fa">سرگذشت مردان بلندبالایی است که پس از پاییز ۱۳۶۳ با تلاش و مشقت، در روزگار تنهایی و مظلومیت، مجاهدانه جنگیدند.</desc>
+    <date>1403140314031403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">45</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351427">
+    <display-name>خط مقدم قسمت ۰۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351427">
+    <title lang="fa">خط مقدم قسمت ۰۲</title>
+    <desc lang="fa">سرگذشت مردان بلندبالایی است که پس از پاییز ۱۳۶۳ با تلاش و مشقت، در روزگار تنهایی و مظلومیت، مجاهدانه جنگیدند.</desc>
+    <date>1403140314031403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">48</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351426">
+    <display-name>خط مقدم قسمت ۰۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351426">
+    <title lang="fa">خط مقدم قسمت ۰۱</title>
+    <desc lang="fa">سرگذشت مردان بلندبالایی است که پس از پاییز ۱۳۶۳ با تلاش و مشقت، در روزگار تنهایی و مظلومیت، مجاهدانه جنگیدند.</desc>
+    <date>1403140314031403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">45</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8898.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351181">
+    <display-name>مشاور فصل ۲ قسمت ۲۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351181">
+    <title lang="fa">مشاور فصل ۲ قسمت ۲۱</title>
+    <desc lang="fa">داستان امیرحسین حسینی، روحانی جوانی است که تحت عنوان مشاور خانواده در مسجد محله‌ای قدیمی در تهران مستقر می‌شود. هر قسمت از این مجموعه حول محور قصه‌‌های متفاوت مراجعین حاج آقا حسینی است که برخی معضلات خانوادگی و اجتماعی روز را بازگو می‌کند.</desc>
+    <date>1404140414041404</date>
+    <category lang="fa">خانوادگی</category>
+    <category lang="fa">اجتماعی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">27</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351180">
+    <display-name>مشاور فصل ۲ قسمت ۲۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351180">
+    <title lang="fa">مشاور فصل ۲ قسمت ۲۰</title>
+    <desc lang="fa">داستان امیرحسین حسینی، روحانی جوانی است که تحت عنوان مشاور خانواده در مسجد محله‌ای قدیمی در تهران مستقر می‌شود. هر قسمت از این مجموعه حول محور قصه‌‌های متفاوت مراجعین حاج آقا حسینی است که برخی معضلات خانوادگی و اجتماعی روز را بازگو می‌کند.</desc>
+    <date>1404140414041404</date>
+    <category lang="fa">خانوادگی</category>
+    <category lang="fa">اجتماعی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">33</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351179">
+    <display-name>مشاور فصل ۲ قسمت ۱۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351179">
+    <title lang="fa">مشاور فصل ۲ قسمت ۱۹</title>
+    <desc lang="fa">داستان امیرحسین حسینی، روحانی جوانی است که تحت عنوان مشاور خانواده در مسجد محله‌ای قدیمی در تهران مستقر می‌شود. هر قسمت از این مجموعه حول محور قصه‌‌های متفاوت مراجعین حاج آقا حسینی است که برخی معضلات خانوادگی و اجتماعی روز را بازگو می‌کند.</desc>
+    <date>1404140414041404</date>
+    <category lang="fa">خانوادگی</category>
+    <category lang="fa">اجتماعی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">34</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351178">
+    <display-name>مشاور فصل ۲ قسمت ۱۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351178">
+    <title lang="fa">مشاور فصل ۲ قسمت ۱۸</title>
+    <desc lang="fa">داستان امیرحسین حسینی، روحانی جوانی است که تحت عنوان مشاور خانواده در مسجد محله‌ای قدیمی در تهران مستقر می‌شود. هر قسمت از این مجموعه حول محور قصه‌‌های متفاوت مراجعین حاج آقا حسینی است که برخی معضلات خانوادگی و اجتماعی روز را بازگو می‌کند.</desc>
+    <date>1404140414041404</date>
+    <category lang="fa">خانوادگی</category>
+    <category lang="fa">اجتماعی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">28</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351177">
+    <display-name>مشاور فصل ۲ قسمت ۱۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351177">
+    <title lang="fa">مشاور فصل ۲ قسمت ۱۷</title>
+    <desc lang="fa">داستان امیرحسین حسینی، روحانی جوانی است که تحت عنوان مشاور خانواده در مسجد محله‌ای قدیمی در تهران مستقر می‌شود. هر قسمت از این مجموعه حول محور قصه‌‌های متفاوت مراجعین حاج آقا حسینی است که برخی معضلات خانوادگی و اجتماعی روز را بازگو می‌کند.</desc>
+    <date>1404140414041404</date>
+    <category lang="fa">خانوادگی</category>
+    <category lang="fa">اجتماعی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">34</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8930.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
   <channel id="sepehrvod4540">
     <display-name>آوازهای مادرم</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4540.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4540">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4540">
     <title lang="fa">آوازهای مادرم</title>
     <desc lang="fa">داستان زنی به نام مارال را روایت می کند که همسر او دچار اعتیاد است . مارال بخاطر حفظ بنیان خانواده و تامین امورات زندگی دست به کارهای سخت از جمله مسافر کشی می کند. سرقت ماشین مارال او را در معرض مشکلات عدیده ای قرار می دهد و....</desc>
     <category lang="fa">خانوادگی</category>
@@ -19,7 +179,7 @@
     <display-name>انار</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4531.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4531">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4531">
     <title lang="fa">انار</title>
     <desc lang="fa">داستان جوان دانشجويي را روايت مي‌کند که در رشته هنرهاي تجسمي در دانشگاه هنر مشغول تحصيل است و همچنين براي کسب اطلاعات بيشتر درباره يک استاد قلم‌زني به محله‌هاي قديمي تهران مي‌رود و در نهايت در يکي از همان محله‌ها ساکن مي‌شود</desc>
     <country lang="fa">ایران</country>
@@ -33,7 +193,7 @@
     <display-name>یاردا</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4530.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4530">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4530">
     <title lang="fa">یاردا</title>
     <desc lang="fa">درباره نوجوانان و روایتگر قصه یک پسر ۱۲ ساله ای است که می خواهد در مسابقات سوارکاری شرکت کند اما با توجه به اینکه اسب او فروخته شده است یک اسب دیگر را به امانت می گیرد ولی ۲ روز قبل از برگزاری مسابقه این اسب که نامش یاردا است، گم می شود</desc>
     <category lang="fa">خانوادگی</category>
@@ -48,7 +208,7 @@
     <display-name>نشانه</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4529.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4529">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4529">
     <title lang="fa">نشانه</title>
     <desc lang="fa">داستان گروهی را به تصویر می کشد که با تفکر غارت میراث فرهنگی و پیدا کردن دفینه ای، وارد غاری در کوهستان های زاگرس می شوند و به خاطر رانشی بودن این منطقه و ریزش غار، مسیر بازگشت آن ها مسدود و امید این گروه پس از تلاش بسیار برای رهایی، به یأس مبدل می شود؛ اما در اوج استیصال و درماندگی، نوری به وسیله همان میراث کهن سرزمین مادریشان یعنی نقش برجسته روی دیوار غار که به غارتش آمده بودند، نشانه های رهایی را نمایان می کند.</desc>
     <category lang="fa">خانوادگی</category>
@@ -63,7 +223,7 @@
     <display-name>دا آنا مادر</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4528.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4528">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4528">
     <title lang="fa">دا آنا مادر</title>
     <desc lang="fa">در سه اپیزود در سه فاصله زمانی متفا وت با سه زبان مختلف قصه سه مادر را از سه قوم قوم بختیاری،ترکی قشقایی و فارس روایت میکند که در پایان فیلم، داستان این سه مادر به هم پیوند میخورد</desc>
     <category lang="fa">خانوادگی</category>
@@ -78,7 +238,7 @@
     <display-name>پیشنهاد</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4469.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4469">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4469">
     <title lang="fa">پیشنهاد</title>
     <desc lang="fa">در جریان ادم ربایی پسر بچه ای به نام رضا که فرزند صاحب شرکتی پولدار می باشد بین ربایندگان اختلاف افتاده و یی از ان ها درصدد جبران اشتباهات خود بر می اید</desc>
     <category lang="fa">خانوادگی</category>
@@ -93,7 +253,7 @@
     <display-name>خط مقدم</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4468.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4468">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4468">
     <title lang="fa">خط مقدم</title>
     <desc lang="fa">داستان گروهی است که دریک زیارت دوره ای به سر پرستی حسین خاطرات گذشته را با هم مرور می کنند.استان قدس رضوی دربرنامه از پیش تعیین شده خانواده های شهدا , جانبازان را برای زیارت به حرم مطهر امام رضا می آورد.</desc>
     <category lang="fa">خانوادگی</category>
@@ -108,7 +268,7 @@
     <display-name>اشنوگل</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4467.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4467">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4467">
     <title lang="fa">اشنوگل</title>
     <desc lang="fa">یونس به عنوان فرمانده گردان غواصان سه شب قبل از عملیات در حالی که در صدد حفر تونلی در منطقه عملیاتی بوده، مفقودالاثر شده است. حالا پس از سی سال اطلاعاتی به دست می‌آید که نشان می‌دهد احتمالاً یونس زنده است و در آن زمان به واسطه منافقین قرارگاه اشرف با دشمن همکاری کرده و ..</desc>
     <category lang="fa">خانوادگی</category>
@@ -123,7 +283,7 @@
     <display-name>نیزارهای بلند</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/4257.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod4257">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod4257">
     <title lang="fa">نیزارهای بلند</title>
     <desc lang="fa">قصه این تله فیلم به ۵ سال پیش، زمانی که گروه تفحص در جزایر مجنون در جستجوی پیکرهای مطهر شهدا بودند، باز می گردد و داستان فیلم مربوط به پدر شهید مفقودالاثر و اتفاقات زندگی او در این بازه زمانیست</desc>
     <category lang="fa">خانوادگی</category>
@@ -138,7 +298,7 @@
     <display-name>لکنت</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/3981.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod3981">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod3981">
     <title lang="fa">لکنت</title>
     <desc lang="fa">داستان پسربچه ای است که در یک مدرسه تک کلاسه در یک روستا تحصیل می کند و خواهرش به علت لکنت زبان مورد تمسخر همکلاسی هایش واقع می شود . او به توصیه معلم خود برای برطرف کردن لکنت زبان خواهرش تلاش می کند تا کتاب هایی را برای خواهرش تهیه کند و</desc>
     <category lang="fa">خانوادگی</category>
@@ -149,153 +309,915 @@
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod16543">
-    <display-name>راه راه گور خر مسابقه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/na10011.jpg"/>
+  <channel id="sepehrvod3940">
+    <display-name>کوچه پشت کلانتری</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/3940.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod16543">
-    <title lang="fa">راه راه گور خر مسابقه</title>
-    <desc lang="fa">راه راه گور خری است که در یک مزرعه بزرگ شده و رویای مسابقه دادن در سر دارد . مزرعه دار که سال ها قبل همسرش در مسابقات زمین خورده و جانش را از دست داده دوست ندارد که دختر نوجوانش جنی وارد مسابقات اسب دوانی شود ولی وقتی شور و هیجان جنی را برای مسابقه می بیند قبول می کند که راه راه را آموزش بدهد و راه راه بالاخره در مسابقه شرکت داده می شود و ...</desc>
-    <date>2005</date>
-    <category lang="fa">درام</category>
-    <category lang="fa">ورزشی</category>
-    <category lang="fa">ماجراجویی</category>
-    <country lang="fa">آمریکا</country>
-    <length units="minutes">78</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/na10011.jpg"/>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod3940">
+    <title lang="fa">کوچه پشت کلانتری</title>
+    <desc lang="fa">طلا زن سالخورده‌ای است که دختر و نوه اش را به خاطر بدهی مالی دامادش و هجوم طلبکاران به منزل، برای مدت طولانی ندیده است و او که بیمار است و توانایی کار کردن ندارد از تنهایی رنج می‌برد. تا اینکه با ورود سربازی که برای رسیدگی به شکایت یکی از طلبکاران به منزل او می‌رود، حال و روزش عوض می‌شود و.....</desc>
+    <category lang="fa">خانوادگی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">80</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/3940.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod3939">
+    <display-name>تو می مانی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/3939.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod3939">
+    <title lang="fa">تو می مانی</title>
+    <desc lang="fa">درباره مبارزه این شهید با گروه‌های دموکرات و منافقین در سال 1360 است. مبارزات ایشان در منطقه دارلک است و مهدی امینی در سپاه مشغول مبارزه می‌شوند و در این میان اطلاعات‌شان لو می‌رود و 35 نفر از بچه‌های سپاه به شهادت می‌رسند.</desc>
+    <category lang="fa">خانوادگی</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">92</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/3939.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1171">
+    <display-name>درازگوش و عرعرک _ قسمت ۱۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1171.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1171">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۱۳</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1171.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1170">
+    <display-name>درازگوش و عرعرک _ قسمت ۱۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1170.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1170">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۱۲</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">13</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1170.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1169">
+    <display-name>درازگوش و عرعرک _ قسمت ۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1169.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1169">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۹</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1169.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1168">
+    <display-name>درازگوش و عرعرک _ قسمت ۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1168.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1168">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۶</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1168.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1167">
+    <display-name>درازگوش و عرعرک _ قسمت ۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1167.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1167">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۵</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1167.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1166">
+    <display-name>درازگوش و عرعرک _ قسمت ۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1166.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1166">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۴</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1166.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1165">
+    <display-name>درازگوش و عرعرک _ قسمت ۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1165.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1165">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۳</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1165.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1164">
+    <display-name>درازگوش و عرعرک _ قسمت ۱۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1164.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1164">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۱۱</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">9</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1164.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1163">
+    <display-name>درازگوش و عرعرک _ قسمت ۱۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1163.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1163">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۱۰</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">11</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1163.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1162">
+    <display-name>درازگوش و عرعرک _ قسمت ۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1162.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1162">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۸</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1162.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1161">
+    <display-name>درازگوش و عرعرک _ قسمت ۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1161.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1161">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۷</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">8</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1161.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1160">
+    <display-name>درازگوش و عرعرک _ قسمت ۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1160.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1160">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۲</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">11</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1160.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1159">
+    <display-name>درازگوش و عرعرک _ قسمت ۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1159.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1159">
+    <title lang="fa">درازگوش و عرعرک _ قسمت ۱</title>
+    <desc lang="fa">درازگوش و عرعرک دو الاغ هستند اتفاق و ماجراهای مجموعه حول روابط روابط آنها شکل می گیرد...</desc>
+    <date>1392</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">9</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1159.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1158">
+    <display-name>ده قندونک - چشمه</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1158.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1158">
+    <title lang="fa">ده قندونک - چشمه</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1158.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1157">
+    <display-name>ده قندونک - ده طلسم شده</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1157.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1157">
+    <title lang="fa">ده قندونک - ده طلسم شده</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1157.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1156">
+    <display-name>ده قندونک - منگول مخترعه</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1156.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1156">
+    <title lang="fa">ده قندونک - منگول مخترعه</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">11</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1156.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1155">
+    <display-name>ده قندونک - رنگینک</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1155.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1155">
+    <title lang="fa">ده قندونک - رنگینک</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">13</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1155.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1154">
+    <display-name>ده قندونک - هیولا</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1154.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1154">
+    <title lang="fa">ده قندونک - هیولا</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1154.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1153">
+    <display-name>ده قندونک - دکتر سنجاب</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1153.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1153">
+    <title lang="fa">ده قندونک - دکتر سنجاب</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">14</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1153.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1152">
+    <display-name>ده قندونک - میلی مول ها</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1152.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1152">
+    <title lang="fa">ده قندونک - میلی مول ها</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">11</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1152.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1151">
+    <display-name>ده قندونک - آشپز باشی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1151.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1151">
+    <title lang="fa">ده قندونک - آشپز باشی</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">13</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1151.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1150">
+    <display-name>ده قندونک - ففل گرسنه</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1150.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1150">
+    <title lang="fa">ده قندونک - ففل گرسنه</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1150.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1149">
+    <display-name>ده قندونک - شانس الاغ</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1149.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1149">
+    <title lang="fa">ده قندونک - شانس الاغ</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">12</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1149.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1148">
+    <display-name>ده قندونک - توبه الاغ</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1148.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1148">
+    <title lang="fa">ده قندونک - توبه الاغ</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">10</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1148.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1147">
+    <display-name>ده قندونک - خوشبختی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1147.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1147">
+    <title lang="fa">ده قندونک - خوشبختی</title>
+    <desc lang="fa">داستان چند حیوان است که در کنار هم زندگی می کنند و اتفاقاتی برایشان رخ می دهد</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">11</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1147.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1062">
+    <display-name>داستان های دوان - قسمت ۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1062.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1062">
+    <title lang="fa">داستان های دوان - قسمت ۶</title>
+    <desc lang="fa">آقا رمضون، استاد مکتبخانه، اشعار زیبایی از شُعرا، حکیمان و بزرگان ایران عزیز برای شاگردانش می‌خواند و بچه‌ها سعی می‌کنند معانی آنها ...</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">17</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1062.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1061">
+    <display-name>داستان های دوان - قسمت ۱۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1061.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1061">
+    <title lang="fa">داستان های دوان - قسمت ۱۳</title>
+    <desc lang="fa">آقا رمضون، استاد مکتبخانه، اشعار زیبایی از شُعرا، حکیمان و بزرگان ایران عزیز برای شاگردانش می‌خواند و بچه‌ها سعی می‌کنند معانی آنها ...</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">17</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1061.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod1060">
+    <display-name>داستان های دوان - قسمت ۱۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1060.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1060">
+    <title lang="fa">داستان های دوان - قسمت ۱۱</title>
+    <desc lang="fa">آقا رمضون، استاد مکتبخانه، اشعار زیبایی از شُعرا، حکیمان و بزرگان ایران عزیز برای شاگردانش می‌خواند و بچه‌ها سعی می‌کنند معانی آنها ...</desc>
+    <date>1397</date>
+    <category lang="fa">کودکان</category>
+    <country lang="fa">ایران</country>
+    <length units="minutes">17</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1060.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351060">
+    <display-name>روایت یک خبرنگار - رویداد ملّی «ایران همدل»</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh4207.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351060">
+    <title lang="fa">روایت یک خبرنگار - رویداد ملّی «ایران همدل»</title>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">5</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh4207.jpg"/>
     <rating>
       <value>بالای 3 سال</value>
     </rating>
   </programme>
-  <channel id="sepehrvod8318">
-    <display-name>اروگویه - فرانسه (۲۰۱۸)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8318.png"/>
+  <channel id="sepehrvod351059">
+    <display-name>خیابان کشوردوست - مراسم عید میلاد پیامبر اعظم(ص) و امام صادق(ع)</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh4206.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod8318">
-    <title lang="fa">اروگویه - فرانسه (۲۰۱۸)</title>
-    <desc lang="fa">بازی اروگویه و فرانسه در جام جهانی 2018 روسیه نتیجه صفر بر دو</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
-    <length units="minutes">129</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8318.png"/>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351059">
+    <title lang="fa">خیابان کشوردوست - مراسم عید میلاد پیامبر اعظم(ص) و امام صادق(ع)</title>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh4206.jpg"/>
     <rating>
-      <value>تمامی سنین</value>
+      <value>بالای 3 سال</value>
     </rating>
   </programme>
-  <channel id="sepehrvod8300">
-    <display-name>سنگال - کلمبیا (۲۰۱۸)</display-name>
+  <channel id="sepehrvod351050">
+    <display-name>پاسخ به پنج دروغ</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7201.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod8300">
-    <title lang="fa">سنگال - کلمبیا (۲۰۱۸)</title>
-    <desc lang="fa">بازی سنگال و کلمبیا در جام جهانی 2018 روسیه نتیجه صفر بر یک</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
-    <length units="minutes">86</length>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351050">
+    <title lang="fa">پاسخ به پنج دروغ</title>
+    <desc lang="fa">حضرت آیت‌الله خامنه‌ای: «در این روزها یاوه‌گویی‌هایی هم نسبت به ایران عزیزمان شد؛ نمیشود ما راجع به اینها یک کلمه‌ای عرض نکنیم... تحلیل من از سفر رئیس‌جمهور آمریکا به داخل فلسطین اشغالی و این کارهایی که کرد و این حرفهایی که زد این است. اینها مأیوسند؛ اینها در جنگ دوازده‌روزه آن‌چنان سیلی خوردند که باور نمیکردند، توقّعش را نداشتند، و مأیوس شدند. این رفت تا به آنها روحیه بدهد، این رفت آنها را از یأس خارج کند... امّا چند نکته وجود دارد: نکته‌ی اوّل این است که آمریکا در جنگ غزّه شریک اصلی است؛ بدون تردید. خود او هم در این صحبتهایش اعتراف کرد، گفت ما در غزّه با هم کار کردیم؛ اگر نمیگفت هم معلوم بود... میگوید ما با تروریسم میجنگیم؛ بیش از بیست هزار کودک و نوزاد و نوباوه در این حملات به شهادت رسیدند؛ اینها تروریست بودند؟... اینها تروریست بودند؟ تروریست شما هستید!... او افتخار میکند به اینکه دانشمند ایرانی را ترور کرده؛ بله، دانشمند را ترور کردید، افرادی امثال طهرانچی و عبّاسی و مانند اینها را ترور کردید، لکن علمشان را نمیتوانید ترور کنید. افتخار میکند که صنعت هسته‌ای ایران را بمباران کردیم و از بین بردیم. خیلی خب، به همین خیال باش! امّا اصلاً شما چه‌کاره هستید که اگر یک کشوری صنعت هسته‌ای دارد شما دخالت کنید بگویید «باید» و «نباید»؟ شما چه‌کاره‌ی دنیایید؟ چه ربطی به آمریکا دارد که ایران امکانات هسته‌ای و صنعت هسته‌ای دارد یا ندارد؟... میگوید «من طرف‌دار مردم ایرانم»؛ دروغ میگوید. این تحریمهای ثانویّه‌ای که چند سال است آمریکا دارد اِعمال میکند و تعداد زیادی از کشورها از ترس، تحت تأثیر او قرار گرفته‌اند، این تحریمها علیه کیست؟ علیه ملّت ایران. شما دشمن ملّت ایرانید، دوست ملّت ایران نیستید. میگوید «من اهل معامله‌ام، میخواهم معامله کنم، با ایران معامله کنیم»! معامله‌ای که با زورگویی نتیجه‌ی آن از پیش معلوم باشد، معامله نیست، تحمیل است؛ و ملّت ایران زیر بار تحمیل نخواهد رفت... اشاره میکند که «در این منطقه‌ی به قول آنها خاورمیانه و به قول ما غرب آسیا، مرگ و نیستی و جنگ وجود دارد»؛ خب جنگ را شما راه می‌اندازید، آمریکا جنگ‌پرداز است... این جنگ مال آنها است، مرگ مال آنها است... این‌همه پایگاه نظامی در کشورهای مختلفِ این منطقه را آمریکا برای چه درست کرد؟ شما اینجا چه کار دارید؟ این منطقه چه ربطی به شما دارد؟ این منطقه مال مردم خود اینجا است. بنابراین، آنچه این شخص به عنوان بیان موضع بیان کرد، همه غلط و بسیاری دروغ و حاکی از زورگویی است؛ زورگویی هم بر روی بعضی از ملّتها تأثیر میگذارد، لکن بر روی ملّت ایران هرگز تأثیر نخواهد گذاشت، بتوفیق‌الله.»</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7201.jpg"/>
     <rating>
-      <value>تمامی سنین</value>
+      <value>بالای 3 سال</value>
     </rating>
   </programme>
-  <channel id="sepehrvod8212">
-    <display-name>آلمان - کره جنوبی (۲۰۱۸)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8212.png"/>
+  <channel id="sepehrvod351049">
+    <display-name>مثبت ۱۰۰ ثانیه - شکستن گردن جواهر علمی اسرائیل</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7200.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod8212">
-    <title lang="fa">آلمان - کره جنوبی (۲۰۱۸)</title>
-    <desc lang="fa">بازی آلمان و کره جنوبی در جام جهانی 2018 روسیه نتیجه صفر بر دو</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
-    <length units="minutes">98</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8212.png"/>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351049">
+    <title lang="fa">مثبت ۱۰۰ ثانیه - شکستن گردن جواهر علمی اسرائیل</title>
+    <desc lang="fa">حضرت آیت‌الله خامنه‌ای: «تحلیل من از سفر رئیس‌جمهور آمریکا به داخل فلسطین اشغالی و این کارهایی که کرد و این حرفهایی که زد این است... اینها در جنگ دوازده‌روزه آن‌چنان سیلی خوردند که باور نمیکردند، توقّعش را نداشتند، و مأیوس شدند. این رفت تا به آنها روحیه بدهد... آنها توقّع نداشتند که موشک ایرانی، ساخت دست جوان ایرانی بتواند با شعله‌های خودش، با آتش خودش، اعماق برخی از مراکز حسّاس تحقیقاتی آنها را تبدیل به خاکستر بکند؛ توقّع این را نداشتند و این اتّفاق افتاد.»</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7200.jpg"/>
     <rating>
-      <value>تمامی سنین</value>
+      <value>بالای 3 سال</value>
     </rating>
   </programme>
-  <channel id="sepehrvod8095">
-    <display-name>فرانسه - بلژیک (۲۰۱۸)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8095.png"/>
+  <channel id="sepehrvod351048">
+    <display-name>خیلی خب، به همین خیال باش!</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7199.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod8095">
-    <title lang="fa">فرانسه - بلژیک (۲۰۱۸)</title>
-    <desc lang="fa">بازی فرانسه و بلژیک در جام جهانی 2018 روسیه نتیجه یک بر صفر</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
-    <length units="minutes">101</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/8095.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod7962">
-    <display-name>انگلیس - بلژیک (۲۰۱۸)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7962.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod7962">
-    <title lang="fa">انگلیس - بلژیک (۲۰۱۸)</title>
-    <desc lang="fa">بازی انگلیس و بلژیک در جام جهانی 2018 روسیه نتیجه صفر بر دو</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
-    <length units="minutes">97</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7962.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod7916">
-    <display-name>انگلیس - کلمبیا(مرحله یک هشتم نهایی)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7916.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod7916">
-    <title lang="fa">انگلیس - کلمبیا(مرحله یک هشتم نهایی)</title>
-    <desc lang="fa">خلاصه بازی انگلیس - کلمبیا(مرحله یک هشتم نهایی)</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351048">
+    <title lang="fa">خیلی خب، به همین خیال باش!</title>
+    <desc lang="fa">حضرت آیت‌الله خامنه‌ای: «در جنگ دوازده‌روزه در ایران علاوه بر کشتارهای کور و بمبی که ریختند روی سر هزار و خرده‌ای جمعیّت [و آنها] را به شهادت رساندند، دانشمندان ما را ترور کردند. او افتخار میکند به اینکه دانشمند ایرانی را ترور کرده؛ بله، دانشمند را ترور کردید، افرادی امثال طهرانچی و عبّاسی و مانند اینها را ترور کردید، لکن علمشان را نمیتوانید ترور کنید. افتخار میکند که صنعت هسته‌ای ایران را بمباران کردیم و از بین بردیم. خیلی خب، به همین خیال باش!
+امّا اصلاً شما چه‌کاره هستید که اگر یک کشوری صنعت هسته‌ای دارد شما دخالت کنید بگویید «باید» و «نباید»؟ شما چه‌کاره‌ی دنیایید؟ چه ربطی به آمریکا دارد که ایران امکانات هسته‌ای و صنعت هسته‌ای دارد یا ندارد؟ این دخالتها، دخالتهای ناباب، ناجور، غلط، و زورگویانه است. شنیدم در همه‌ی ایالات آمریکا الان مردم در خیابانها دارند علیه او شعار میدهند؛ طبق این گزارشی که دادند و شنیدید، هفت میلیون جمعیّت در شهرهای مختلف آمریکا، در ایالات مختلف آمریکا علیه این شخص دارند شعار میدهند. اگر شماها خیلی توانایی دارید، بروید اینها را آرام کنید!»</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
     <length units="minutes">2</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7916.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7199.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351047">
+    <display-name>علم ترور شدنی نیست</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7198.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351047">
+    <title lang="fa">علم ترور شدنی نیست</title>
+    <desc lang="fa">حضرت آیت‌الله خامنه‌ای: «او افتخار میکند به اینکه دانشمند ایرانی را ترور کرده؛ بله، دانشمند را ترور کردید، افرادی امثال طهرانچی و عبّاسی و مانند اینها را ترور کردید، لکن علمشان را نمیتوانید ترور کنید. افتخار میکند که صنعت هسته‌ای ایران را بمباران کردیم و از بین بردیم. خیلی خب، به همین خیال باش!»</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7198.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351046">
+    <display-name>«خط دیدار» قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7197.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351046">
+    <title lang="fa">«خط دیدار» قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی</title>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7197.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351045">
+    <display-name>«پنجره»ای به دیدار قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7196.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351045">
+    <title lang="fa">«پنجره»ای به دیدار قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی</title>
+    <desc lang="fa">«پنجره» متفاوتی به دیدار صبح امروز صدها نفر از قهرمانان رشته‌های مختلف ورزشی و مدال‌آوران المپیادهای علمی جهانی با رهبر انقلاب.</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7196.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351044">
+    <display-name>نمای دوم - صهیونیست‌ها مأیوسند؛ رئیس‌جمهور آمریکا رفت به آنها روحیه بدهد</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7195.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351044">
+    <title lang="fa">نمای دوم - صهیونیست‌ها مأیوسند؛ رئیس‌جمهور آمریکا رفت به آنها روحیه بدهد</title>
+    <desc lang="fa">رهبر انقلاب صبح امروز در دیدار قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی: «رئیس‌جمهور آمریکا در فلسطین اشغالی با یک مشت حرف پوچ و با لود‌گی سعی کرد صهیونیست‌های مأیوس را امیدوار کند و بهشان روحیه بدهد... شنیدم در همه‌ی ایالات آمریکا الان مردم در خیابانها دارند علیه او شعار میدهند؛ طبق این گزارشی که دادند و شنیدید، هفت میلیون جمعیّت در شهرهای مختلف آمریکا، در ایالات مختلف آمریکا علیه این شخص دارند شعار میدهند. اگر شماها خیلی توانایی دارید، بروید اینها را آرام کنید! بروید اینها را ساکت کنید و به خانه‌هایشان برگردانید.»</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7195.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod351043">
+    <display-name>«پنجره»ای به لحظه ورود رهبر انقلاب با ضرب مرشد و اجرای حرکات ورزش زورخانه‌ای</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7194.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod351043">
+    <title lang="fa">«پنجره»ای به لحظه ورود رهبر انقلاب با ضرب مرشد و اجرای حرکات ورزش زورخانه‌ای</title>
+    <desc lang="fa">«پنجره» متفاوتی به لحظه ورود رهبر معظم انقلاب به حسینیه امام خمینی(ره) با ضرب مرشد و اجرای حرکات ورزش زورخانه‌ای، در ابتدای دیدار امروز قهرمانان و مدال‌آوران ورزشی و المپیادهای علمی جهانی.</desc>
+    <date>1404140414041404</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/fh7194.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10555">
+    <display-name>دکتر کلانتری - شیر با ماندگاری طولانی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10555.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10555">
+    <title lang="fa">دکتر کلانتری - شیر با ماندگاری طولانی</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10555.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod7915">
-    <display-name>بلژیک - ژاپن(مرحله یک هشتم نهایی)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7915.png"/>
+  <channel id="sepehrvod10554">
+    <display-name>دکتر کلانتری - عدم تحمل لاکتوز شیر گاو</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10554.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod7915">
-    <title lang="fa">بلژیک - ژاپن(مرحله یک هشتم نهایی)</title>
-    <desc lang="fa">خلاصه بازی بلژیک - ژاپن(مرحله یک هشتم نهایی)</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10554">
+    <title lang="fa">دکتر کلانتری - عدم تحمل لاکتوز شیر گاو</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
     <length units="minutes">2</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7915.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10554.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod7914">
-    <display-name>برزیل - مکزیک(مرحله یک هشتم نهایی)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7914.png"/>
+  <channel id="sepehrvod10553">
+    <display-name>دکتر کلانتری - نقش شیر و لبنیات در سلامت</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10553.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod7914">
-    <title lang="fa">برزیل - مکزیک(مرحله یک هشتم نهایی)</title>
-    <desc lang="fa">خلاصه بازی برزیل - مکزیک(مرحله یک هشتم نهایی)</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10553">
+    <title lang="fa">دکتر کلانتری - نقش شیر و لبنیات در سلامت</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
     <length units="minutes">2</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7914.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10553.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod7913">
-    <display-name>دانمارک - کرواسی(مرحله یک هشتم نهایی)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7913.png"/>
+  <channel id="sepehrvod10552">
+    <display-name>دکتر کلانتری - آیا می توان ماست را جایگزین شیر کرد؟</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10552.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod7913">
-    <title lang="fa">دانمارک - کرواسی(مرحله یک هشتم نهایی)</title>
-    <desc lang="fa">خلاصه بازی دانمارک - کرواسی(مرحله یک هشتم نهایی)</desc>
-    <date>2018</date>
-    <category lang="fa">ورزشی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10552">
+    <title lang="fa">دکتر کلانتری - آیا می توان ماست را جایگزین شیر کرد؟</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
     <length units="minutes">2</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/7913.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10552.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10551">
+    <display-name>دکتر کلانتری - نقش کلسیم در سلامت بدن</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10551.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10551">
+    <title lang="fa">دکتر کلانتری - نقش کلسیم در سلامت بدن</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10551.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10550">
+    <display-name>دکتر کلانتری - حساسیت به شیر گاو</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10550.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10550">
+    <title lang="fa">دکتر کلانتری - حساسیت به شیر گاو</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10550.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10549">
+    <display-name>دکتر کلانتری - ویژگی های شیر مناسب</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10549.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10549">
+    <title lang="fa">دکتر کلانتری - ویژگی های شیر مناسب</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10549.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10548">
+    <display-name>دکتر کلانتری - شیرهای فله ایی ۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10548.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10548">
+    <title lang="fa">دکتر کلانتری - شیرهای فله ایی ۱</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10548.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10547">
+    <display-name>دکتر کلانتری - میزان نیاز به مصرف شیر و لبنیات در روز</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10547.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10547">
+    <title lang="fa">دکتر کلانتری - میزان نیاز به مصرف شیر و لبنیات در روز</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10547.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10546">
+    <display-name>دکتر کلانتری - شیرهای فله ایی ۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10546.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10546">
+    <title lang="fa">دکتر کلانتری - شیرهای فله ایی ۲</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10546.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10517">
+    <display-name>دکتر سیاری _ چاقی و اضافه وزن</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10517.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10517">
+    <title lang="fa">دکتر سیاری _ چاقی و اضافه وزن</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10517.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10516">
+    <display-name>دکتر سیاری _ رعایت ایمنی در رانندگی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10516.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10516">
+    <title lang="fa">دکتر سیاری _ رعایت ایمنی در رانندگی</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">31</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10516.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10515">
+    <display-name>دکتر سیاری _ هوای پاک</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10515.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10515">
+    <title lang="fa">دکتر سیاری _ هوای پاک</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10515.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10514">
+    <display-name>دکتر سیاری _ چربی خون</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10514.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10514">
+    <title lang="fa">دکتر سیاری _ چربی خون</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10514.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10513">
+    <display-name>دکتر سیاری _ چهارشنبه سوری</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10513.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10513">
+    <title lang="fa">دکتر سیاری _ چهارشنبه سوری</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10513.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10512">
+    <display-name>دکتر سیاری _ مضرات سیگار</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10512.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10512">
+    <title lang="fa">دکتر سیاری _ مضرات سیگار</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10512.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10511">
+    <display-name>دکتر سیاری _ دیابت</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10511.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10511">
+    <title lang="fa">دکتر سیاری _ دیابت</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10511.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10510">
+    <display-name>دکتر سیاری _ فشار خون</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10510.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10510">
+    <title lang="fa">دکتر سیاری _ فشار خون</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10510.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10413">
+    <display-name>دکتر ساجدی _ نگرانی های نسل جوان از تشکیل خانواده</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10413.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10413">
+    <title lang="fa">دکتر ساجدی _ نگرانی های نسل جوان از تشکیل خانواده</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10413.png"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod10412">
+    <display-name>دکتر ساجدی _ نقش دولت و خانواده در کمک به نسل جوان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10412.png"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod10412">
+    <title lang="fa">دکتر ساجدی _ نقش دولت و خانواده در کمک به نسل جوان</title>
+    <desc lang="fa">« دکتر سلام » برنامه‌اي علمي ـ پزشکي است که در هر قسمت از آن، پزشکان متخصص در حوزه‌هاي مختلف به بيان نکات مفيد در خصوص مسايل سلامت فردي، روحي، رواني و بهداشت اجتماعي مي‌پردازند و در آيتم‌هاي کوتاه مطالب بسيار مفيدي را در اختيار مخاطبان قرار مي‌دهند.</desc>
+    <date>1391</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/10412.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
@@ -304,7 +1226,7 @@
     <display-name>این راه نزدیک است _ کاکتوس</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1948.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1948">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1948">
     <title lang="fa">این راه نزدیک است _ کاکتوس</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -320,7 +1242,7 @@
     <display-name>این راه نزدیک است _ صدایی از آسمان</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1947.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1947">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1947">
     <title lang="fa">این راه نزدیک است _ صدایی از آسمان</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -336,7 +1258,7 @@
     <display-name>این راه نزدیک است _ صله رحم</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1946.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1946">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1946">
     <title lang="fa">این راه نزدیک است _ صله رحم</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -352,7 +1274,7 @@
     <display-name>این راه نزدیک است _ مرا ببخش</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1945.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1945">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1945">
     <title lang="fa">این راه نزدیک است _ مرا ببخش</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -368,7 +1290,7 @@
     <display-name>این راه نزدیک است _ اندازه های دقیق در زندگی</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1944.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1944">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1944">
     <title lang="fa">این راه نزدیک است _ اندازه های دقیق در زندگی</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -384,7 +1306,7 @@
     <display-name>این راه نزدیک است _ کلمات سحرانگیز</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1943.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1943">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1943">
     <title lang="fa">این راه نزدیک است _ کلمات سحرانگیز</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -400,7 +1322,7 @@
     <display-name>این راه نزدیک است _ بادبادک</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1942.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1942">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1942">
     <title lang="fa">این راه نزدیک است _ بادبادک</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -416,7 +1338,7 @@
     <display-name>این راه نزدیک است _ بلوغ</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1941.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1941">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1941">
     <title lang="fa">این راه نزدیک است _ بلوغ</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -432,7 +1354,7 @@
     <display-name>این راه نزدیک است _ مدارا</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1940.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1940">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1940">
     <title lang="fa">این راه نزدیک است _ مدارا</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -448,7 +1370,7 @@
     <display-name>این راه نزدیک است _ دعا</display-name>
     <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1939.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1939">
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1939">
     <title lang="fa">این راه نزدیک است _ دعا</title>
     <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
     <date>1392</date>
@@ -460,960 +1382,1162 @@
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1938">
-    <display-name>این راه نزدیک است _ خواسته خود را حق دانستن</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1938.png"/>
+  <channel id="sepehrvod347187">
+    <display-name>امیر پارسی - جواد انصافی ۵۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8038.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1938">
-    <title lang="fa">این راه نزدیک است _ خواسته خود را حق دانستن</title>
-    <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
-    <date>1392</date>
-    <category lang="fa">خانوادگی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347187">
+    <title lang="fa">امیر پارسی - جواد انصافی ۵۱</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">35</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1938.png"/>
+    <length units="minutes">77</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8038.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347041">
+    <display-name>عزت الله ضرغامی ۵۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8037.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347041">
+    <title lang="fa">عزت الله ضرغامی ۵۰</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">68</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8037.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347040">
+    <display-name>حسین خواجه امیری (ایرج) ۴۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8036.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347040">
+    <title lang="fa">حسین خواجه امیری (ایرج) ۴۹</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">57</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8036.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347039">
+    <display-name>علی اصغر پورمحمدی ۴۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8035.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347039">
+    <title lang="fa">علی اصغر پورمحمدی ۴۸</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">65</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8035.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347038">
+    <display-name>امیر دریادار حبیب الله سیاری ۴۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8034.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347038">
+    <title lang="fa">امیر دریادار حبیب الله سیاری ۴۷</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">68</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8034.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347037">
+    <display-name>محسن زنگنه ۴۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8033.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347037">
+    <title lang="fa">محسن زنگنه ۴۶</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">71</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8033.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347036">
+    <display-name>غلامعلی افروز ۴۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8032.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347036">
+    <title lang="fa">غلامعلی افروز ۴۵</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">72</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8032.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347035">
+    <display-name>محمدرضا طالقانی ۴۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8031.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347035">
+    <title lang="fa">محمدرضا طالقانی ۴۴</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">68</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8031.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347034">
+    <display-name>حاج صادق آهنگران ۴۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8030.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347034">
+    <title lang="fa">حاج صادق آهنگران ۴۳</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">62</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8030.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347033">
+    <display-name>اسماعیل آذر ۴۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8029.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347033">
+    <title lang="fa">اسماعیل آذر ۴۲</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">74</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8029.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347032">
+    <display-name>دکتر عبدالحسین شاهوردی ۴۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8028.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347032">
+    <title lang="fa">دکتر عبدالحسین شاهوردی ۴۱</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">66</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8028.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347031">
+    <display-name>حسین طالبیان ۴۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8027.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347031">
+    <title lang="fa">حسین طالبیان ۴۰</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">69</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8027.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347030">
+    <display-name>مسعود ده نمکی ۳۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8026.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347030">
+    <title lang="fa">مسعود ده نمکی ۳۹</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">66</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8026.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347029">
+    <display-name>حسین طیبی ۳۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8025.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347029">
+    <title lang="fa">حسین طیبی ۳۸</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">68</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8025.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347028">
+    <display-name>مجید قناد ۳۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8024.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347028">
+    <title lang="fa">مجید قناد ۳۷</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">67</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8024.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347027">
+    <display-name>ژیلا صادقی ۳۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8023.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347027">
+    <title lang="fa">ژیلا صادقی ۳۶</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">52</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8023.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347026">
+    <display-name>حسن پاجانی - پارسا رسولی ۳۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8022.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347026">
+    <title lang="fa">حسن پاجانی - پارسا رسولی ۳۵</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">53</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8022.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347025">
+    <display-name>محمود دینی ۳۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8021.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347025">
+    <title lang="fa">محمود دینی ۳۴</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">49</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8021.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347024">
+    <display-name>دکتر سیدعلیرضا مرندی ۳۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8020.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347024">
+    <title lang="fa">دکتر سیدعلیرضا مرندی ۳۳</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">60</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8020.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347023">
+    <display-name>محمدحسین لطیفی ۳۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8019.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347023">
+    <title lang="fa">محمدحسین لطیفی ۳۲</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">71</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8019.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347022">
+    <display-name>بهرام عظیمی ۳۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8018.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347022">
+    <title lang="fa">بهرام عظیمی ۳۱</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">65</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8018.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347021">
+    <display-name>سیدمحمد حسینی ۳۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8017.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347021">
+    <title lang="fa">سیدمحمد حسینی ۳۰</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">60</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8017.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347020">
+    <display-name>حامد عسکری ۲۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8016.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347020">
+    <title lang="fa">حامد عسکری ۲۹</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">56</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8016.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347019">
+    <display-name>محمدحسین پویانفر ۲۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8015.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347019">
+    <title lang="fa">محمدحسین پویانفر ۲۸</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">49</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8015.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347018">
+    <display-name>فرامرز خودنگاه - آیدین ختایی ۲۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8014.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347018">
+    <title lang="fa">فرامرز خودنگاه - آیدین ختایی ۲۷</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">50</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8014.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347017">
+    <display-name>حمید بهزادپور - امیر میرجلیلی ۲۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8013.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347017">
+    <title lang="fa">حمید بهزادپور - امیر میرجلیلی ۲۶</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">60</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8013.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347016">
+    <display-name>منوچهر آذری ۲۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8012.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347016">
+    <title lang="fa">منوچهر آذری ۲۵</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1403</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">52</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8012.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347015">
+    <display-name>ایرج حسابی ۲۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8011.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347015">
+    <title lang="fa">ایرج حسابی ۲۴</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">51</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8011.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347011">
+    <display-name>مهدی فخیم زاده ۲۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8010.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347011">
+    <title lang="fa">مهدی فخیم زاده ۲۳</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">70</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8010.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347010">
+    <display-name>دکتر مریم اسلامی ۲۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8009.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347010">
+    <title lang="fa">دکتر مریم اسلامی ۲۲</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">67</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8009.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347009">
+    <display-name>نجم الدین شریعتی ۲۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8008.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347009">
+    <title lang="fa">نجم الدین شریعتی ۲۱</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">63</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8008.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347007">
+    <display-name>حبیب احمدزاده ۲۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8007.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347007">
+    <title lang="fa">حبیب احمدزاده ۲۰</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">67</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8007.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347006">
+    <display-name>بهروز افخمی ۱۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8006.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347006">
+    <title lang="fa">بهروز افخمی ۱۹</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">64</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8006.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347005">
+    <display-name>مصطفی کواکبیان ۱۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8005.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347005">
+    <title lang="fa">مصطفی کواکبیان ۱۸</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">49</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8005.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347004">
+    <display-name>علی فتح الله زاده ۱۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8004.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347004">
+    <title lang="fa">علی فتح الله زاده ۱۷</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">61</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8004.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347003">
+    <display-name>یوسفعلی میرشکاک ۱۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8003.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347003">
+    <title lang="fa">یوسفعلی میرشکاک ۱۶</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">50</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8003.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347002">
+    <display-name>نادر قاضی پور ۱۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8002.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347002">
+    <title lang="fa">نادر قاضی پور ۱۵</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">48</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8002.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347001">
+    <display-name>عباسعلی کدخدایی ۱۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8001.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347001">
+    <title lang="fa">عباسعلی کدخدایی ۱۴</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">55</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8001.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod347000">
+    <display-name>خسرو معتضد ۱۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8000.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod347000">
+    <title lang="fa">خسرو معتضد ۱۳</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">46</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh8000.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346999">
+    <display-name>احمد مجدزاده ۱۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7999.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346999">
+    <title lang="fa">احمد مجدزاده ۱۲</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">53</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7999.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346998">
+    <display-name>محمد اصغری ۱۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7998.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346998">
+    <title lang="fa">محمد اصغری ۱۱</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">55</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7998.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346997">
+    <display-name>علی اکبر صالحی ۱۰</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7997.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346997">
+    <title lang="fa">علی اکبر صالحی ۱۰</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">71</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7997.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346996">
+    <display-name>ناصر فیض ۰۹</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7996.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346996">
+    <title lang="fa">ناصر فیض ۰۹</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">63</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7996.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346995">
+    <display-name>مریم کاویانی ۰۸</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7995.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346995">
+    <title lang="fa">مریم کاویانی ۰۸</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">39</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7995.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346702">
+    <display-name>امیرحسین مدرس ۰۷</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7994.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346702">
+    <title lang="fa">امیرحسین مدرس ۰۷</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">50</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7994.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346701">
+    <display-name>ناصر ممدوح ۰۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7993.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346701">
+    <title lang="fa">ناصر ممدوح ۰۶</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">40</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7993.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346700">
+    <display-name>قدرت الله ایزدی ۰۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7992.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346700">
+    <title lang="fa">قدرت الله ایزدی ۰۵</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">43</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7992.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346699">
+    <display-name>ابوالفضل پورعرب ۰۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7991.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346699">
+    <title lang="fa">ابوالفضل پورعرب ۰۴</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">45</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7991.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346698">
+    <display-name>محمدرضا حیاتی ۰۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7990.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346698">
+    <title lang="fa">محمدرضا حیاتی ۰۳</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">49</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7990.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod346697">
+    <display-name>اسدالله یکتا ۰۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7989.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod346697">
+    <title lang="fa">اسدالله یکتا ۰۲</title>
+    <desc lang="fa">برمودا یک برنامهٔ گفت‌وگو محور (تاک شو) است .</desc>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">49</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7989.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod324893">
+    <display-name>راه زندگی استاد خزایی طب سنتی جلسه دوم</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7697.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod324893">
+    <title lang="fa">راه زندگی استاد خزایی طب سنتی جلسه دوم</title>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">39</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7697.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod321825">
+    <display-name>راه زندگی دکتر قنبری جلسه پنجم</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7529.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod321825">
+    <title lang="fa">راه زندگی دکتر قنبری جلسه پنجم</title>
+    <date>1402</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">56</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7529.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod316397">
+    <display-name>حقیقت یا مَجاز با حضور سرکار خانم ذبیح پور</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7463.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod316397">
+    <title lang="fa">حقیقت یا مَجاز با حضور سرکار خانم ذبیح پور</title>
+    <date>1402</date>
+    <length units="minutes">50</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/sh7463.jpg"/>
+    <rating>
+      <value>بالای 3 سال</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5953">
+    <display-name>دستاورد های چهل ساله زنجان ۶</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5953.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5953">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۶</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5953.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1937">
-    <display-name>این راه نزدیک است _ مثبت اندیشی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1937.png"/>
+  <channel id="sepehrvod5952">
+    <display-name>دستاورد های چهل ساله زنجان ۲</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5952.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1937">
-    <title lang="fa">این راه نزدیک است _ مثبت اندیشی</title>
-    <desc lang="fa">اين برنامه ترکيبي از گفتار و برنامه‌هاي آموزشي است که يا به صورت ارایه تجربيات فردي افراد حقيقي و يا به صورت نمايشي الگوهاي مناسب رفتاري را به خانواده‌ها نشان مي‌دهد.</desc>
-    <date>1392</date>
-    <category lang="fa">خانوادگی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5952">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۲</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">31</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1937.png"/>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5952.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod784">
-    <display-name>پنجره اي به خوشبختي _ جهش تحصیلی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/784.jpg"/>
+  <channel id="sepehrvod5951">
+    <display-name>سفر بهانه تو بود</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5951.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod784">
-    <title lang="fa">پنجره اي به خوشبختي _ جهش تحصیلی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5951">
+    <title lang="fa">سفر بهانه تو بود</title>
+    <desc lang="fa">روایت زندگی حجت الاسلام محمدامین کریمیان
+تهیه شده در معاونت فضای مجازی مازندران</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">8</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/784.jpg"/>
+    <length units="minutes">56</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5951.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod783">
-    <display-name>پنجره اي به خوشبختي _ عروس و مادرشوهر</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/783.jpg"/>
+  <channel id="sepehrvod5950">
+    <display-name>دستاورد های چهل ساله کرمانشاه</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5950.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod783">
-    <title lang="fa">پنجره اي به خوشبختي _ عروس و مادرشوهر</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">10</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/783.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod782">
-    <display-name>پنجره اي به خوشبختي _ رضایت زوجیت</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/782.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod782">
-    <title lang="fa">پنجره اي به خوشبختي _ رضایت زوجیت</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">10</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/782.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod781">
-    <display-name>پنجره اي به خوشبختي _ اعتیاد</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/781.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod781">
-    <title lang="fa">پنجره اي به خوشبختي _ اعتیاد</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">8</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/781.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod780">
-    <display-name>پنجره اي به خوشبختي _ اضطراب</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/780.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod780">
-    <title lang="fa">پنجره اي به خوشبختي _ اضطراب</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">9</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/780.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod779">
-    <display-name>پنجره اي به خوشبختي _ همسر گریزی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/779.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod779">
-    <title lang="fa">پنجره اي به خوشبختي _ همسر گریزی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">11</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/779.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod778">
-    <display-name>پنجره اي به خوشبختي _ جرات ورزی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/778.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod778">
-    <title lang="fa">پنجره اي به خوشبختي _ جرات ورزی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">10</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/778.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod777">
-    <display-name>پنجره اي به خوشبختي _ افت تحصیلی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/777.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod777">
-    <title lang="fa">پنجره اي به خوشبختي _ افت تحصیلی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">9</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/777.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod776">
-    <display-name>پنجره اي به خوشبختي _ دروغ</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/776.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod776">
-    <title lang="fa">پنجره اي به خوشبختي _ دروغ</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">10</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/776.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod775">
-    <display-name>پنجره اي به خوشبختي _ فرزند تک والدی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/775.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod775">
-    <title lang="fa">پنجره اي به خوشبختي _ فرزند تک والدی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">10</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/775.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod774">
-    <display-name>پنجره اي به خوشبختي _ فرزند خواندگی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/774.jpg"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod774">
-    <title lang="fa">پنجره اي به خوشبختي _ فرزند خواندگی</title>
-    <desc lang="fa">&quot;پنجره اي به خوشبختي&quot; تلاشي است در جهت افزايش احساس اميد وسرزندگي و خود ارزشمند پنداري واعتماد به نفس و پويایي شخصيت که از منظر آموزه هاي ديني به ارایه راهکار هاي روان شناسانه در زمينه تعليم وتربيت مي پردازد.</desc>
-    <date>1391</date>
-    <category lang="fa">خانوادگی</category>
-    <country lang="fa">ایران</country>
-    <length units="minutes">12</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/774.jpg"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1022">
-    <display-name>آب و آیینه - ثمرات عزاداری</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1022.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1022">
-    <title lang="fa">آب و آیینه - ثمرات عزاداری</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5950">
+    <title lang="fa">دستاورد های چهل ساله کرمانشاه</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی استان کرمانشاه</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1022.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5950.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1021">
-    <display-name>آب و آیینه - صاحبان قلم</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1021.png"/>
+  <channel id="sepehrvod5949">
+    <display-name>دستاورد های چهل ساله همدان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5949.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1021">
-    <title lang="fa">آب و آیینه - صاحبان قلم</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1021.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1020">
-    <display-name>آب و آیینه - شکوفایی علمی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1020.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1020">
-    <title lang="fa">آب و آیینه - شکوفایی علمی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5949">
+    <title lang="fa">دستاورد های چهل ساله همدان</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی استان همدان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1020.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5949.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1019">
-    <display-name>آب و آیینه - شهادت طلبی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1019.png"/>
+  <channel id="sepehrvod5948">
+    <display-name>دستاورد های چهل ساله زنجان ۵</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5948.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1019">
-    <title lang="fa">آب و آیینه - شهادت طلبی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5948">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۵</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5948.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5947">
+    <display-name>دستاورد های چهل ساله زنجان ۴</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5947.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5947">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۴</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5947.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5946">
+    <display-name>دستاورد های چهل ساله زنجان ۳</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5946.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5946">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۳</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5946.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5945">
+    <display-name>دستاورد های چهل ساله زنجان ۱</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5945.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5945">
+    <title lang="fa">دستاورد های چهل ساله زنجان ۱</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5945.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5944">
+    <display-name>دستاورد های چهل ساله یزد</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5944.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5944">
+    <title lang="fa">دستاورد های چهل ساله یزد</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی زنجان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1019.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5944.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1018">
-    <display-name>آب و آیینه - شناخت ویژگی های امیر المومنین</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1018.png"/>
+  <channel id="sepehrvod5943">
+    <display-name>دستاورد های چهل ساله قم</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5943.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1018">
-    <title lang="fa">آب و آیینه - شناخت ویژگی های امیر المومنین</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5943">
+    <title lang="fa">دستاورد های چهل ساله قم</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی قم</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">5</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5943.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5942">
+    <display-name>دستاورد های چهل ساله قزوین</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5942.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5942">
+    <title lang="fa">دستاورد های چهل ساله قزوین</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی قزوین</desc>
+    <date>1397</date>
+    <country lang="fa">ایران</country>
+    <length units="minutes">5</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5942.jpg"/>
+    <rating>
+      <value>تمامی سنین</value>
+    </rating>
+  </programme>
+  <channel id="sepehrvod5941">
+    <display-name>دستاورد های چهل ساله لرستان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5941.jpg"/>
+  </channel>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5941">
+    <title lang="fa">دستاورد های چهل ساله لرستان</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی لرستان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1018.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5941.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1017">
-    <display-name>آب و آیینه - شجاعت روحانی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1017.png"/>
+  <channel id="sepehrvod5940">
+    <display-name>دستاورد های چهل ساله کردستان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5940.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1017">
-    <title lang="fa">آب و آیینه - شجاعت روحانی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5940">
+    <title lang="fa">دستاورد های چهل ساله کردستان</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی کردستان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1017.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5940.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1016">
-    <display-name>آب و آیینه - سیره پیامبر (ص)</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1016.png"/>
+  <channel id="sepehrvod5939">
+    <display-name>جنگ احزاب</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5939.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1016">
-    <title lang="fa">آب و آیینه - سیره پیامبر (ص)</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5939">
+    <title lang="fa">جنگ احزاب</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی کیش</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1016.png"/>
+    <length units="minutes">3</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5939.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1015">
-    <display-name>آب و آیینه - سرمایه جوانی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1015.png"/>
+  <channel id="sepehrvod5938">
+    <display-name>دستاورد های چهل ساله کهگلویه و بویراحمد</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5938.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1015">
-    <title lang="fa">آب و آیینه - سرمایه جوانی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1015.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1014">
-    <display-name>آب و آیینه - زن کامل انسان کامل</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1014.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1014">
-    <title lang="fa">آب و آیینه - زن کامل انسان کامل</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1014.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1013">
-    <display-name>آب و آیینه - زمینه سازی برای موعود</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1013.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1013">
-    <title lang="fa">آب و آیینه - زمینه سازی برای موعود</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5938">
+    <title lang="fa">دستاورد های چهل ساله کهگلویه و بویراحمد</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی کهگلویه و بویراحمد</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1013.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5938.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1012">
-    <display-name>آب و آیینه - ویژگی های تعلیم و تربیت</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1012.png"/>
+  <channel id="sepehrvod5937">
+    <display-name>دستاورد های چهل ساله خوزستان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5937.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1012">
-    <title lang="fa">آب و آیینه - ویژگی های تعلیم و تربیت</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1012.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1011">
-    <display-name>آب و آیینه - ولایت فقیه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1011.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1011">
-    <title lang="fa">آب و آیینه - ولایت فقیه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod5937">
+    <title lang="fa">دستاورد های چهل ساله خوزستان</title>
+    <desc lang="fa">تهیه شده در معاونت فضای مجازی خوزستان</desc>
+    <date>1397</date>
     <country lang="fa">ایران</country>
     <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1011.png"/>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/5937.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1010">
-    <display-name>آب و آیینه - ولایت الهی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1010.png"/>
+  <channel id="sepehrvod1377">
+    <display-name>دیرین دیرین - وی شاه</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1377.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1010">
-    <title lang="fa">آب و آیینه - ولایت الهی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1377">
+    <title lang="fa">دیرین دیرین - وی شاه</title>
+    <desc lang="fa">دیرین دیرین - وی شاه 
+پویانمایی دیرین دیرین موضوع شناسه‌دار کردن گوشی‌های تلفن همراه را با زبانی ساده شفاف سازی کرده است</desc>
+    <date>1396</date>
+    <category lang="fa">کلاسیک</category>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1010.png"/>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1377.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1009">
-    <display-name>آب و آیینه - سیره انبیاء</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1009.png"/>
+  <channel id="sepehrvod1376">
+    <display-name>نحوه استعلام</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1376.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1009">
-    <title lang="fa">آب و آیینه - سیره انبیاء</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1376">
+    <title lang="fa">نحوه استعلام</title>
+    <desc lang="fa">نحوه استعلام</desc>
+    <date>1395</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1009.png"/>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1376.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1008">
-    <display-name>آب و آیینه - وظیفه اهل قلم</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1008.png"/>
+  <channel id="sepehrvod1375">
+    <display-name>طرح رجیستری چه فایده ای برای مصرف کننده دارد؟</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1375.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1008">
-    <title lang="fa">آب و آیینه - وظیفه اهل قلم</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1375">
+    <title lang="fa">طرح رجیستری چه فایده ای برای مصرف کننده دارد؟</title>
+    <desc lang="fa">طرح رجیستری چه فایده ای برای مصرف کننده دارد؟</desc>
+    <date>1395</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1008.png"/>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1375.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1007">
-    <display-name>آب و آیینه - وظایف حوزه علمیه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1007.png"/>
+  <channel id="sepehrvod1374">
+    <display-name>معرفی طرح رجیستری</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1374.png"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1007">
-    <title lang="fa">آب و آیینه - وظایف حوزه علمیه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1374">
+    <title lang="fa">معرفی طرح رجیستری</title>
+    <desc lang="fa">معرفی طرح رجیستری</desc>
+    <date>1395</date>
     <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1007.png"/>
+    <length units="minutes">2</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1374.png"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1006">
-    <display-name>آب و آیینه - وحدت کلمه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1006.png"/>
+  <channel id="sepehrvod1373">
+    <display-name>دیرین دیرین - قسم جدید</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1373.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1006">
-    <title lang="fa">آب و آیینه - وحدت کلمه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1373">
+    <title lang="fa">دیرین دیرین - قسم جدید</title>
+    <desc lang="fa">دیرین دیرین - قسم جدید 
+پویانمایی دیرین دیرین موضوع شناسه‌دار کردن گوشی‌های تلفن همراه را با زبانی ساده شفاف سازی کرده است</desc>
+    <date>1396</date>
+    <category lang="fa">کلاسیک</category>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1006.png"/>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1373.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1005">
-    <display-name>آب و آیینه - وظیفه شناسی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1005.png"/>
+  <channel id="sepehrvod1372">
+    <display-name>دیرین دیرین - کد ۱۵ رقمی</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1372.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1005">
-    <title lang="fa">آب و آیینه - وظیفه شناسی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1372">
+    <title lang="fa">دیرین دیرین - کد ۱۵ رقمی</title>
+    <desc lang="fa">دیرین دیرین - کد 15 رقمی 
+پویانمایی دیرین دیرین موضوع شناسه‌دار کردن گوشی‌های تلفن همراه را با زبانی ساده شفاف سازی کرده است</desc>
+    <date>1396</date>
+    <category lang="fa">کلاسیک</category>
     <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1005.png"/>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1372.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
   </programme>
-  <channel id="sepehrvod1004">
-    <display-name>آب و آیینه - وظایف منتظران</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1004.png"/>
+  <channel id="sepehrvod1371">
+    <display-name>دیرین دیرین - ول نکنندگان</display-name>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1371.jpg"/>
   </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1004">
-    <title lang="fa">آب و آیینه - وظایف منتظران</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
+  <programme start="20261018035534 +0000" stop="20261019035534 +0000" channel="sepehrvod1371">
+    <title lang="fa">دیرین دیرین - ول نکنندگان</title>
+    <desc lang="fa">دیرین دیرین - ول نکنندگان 
+پویانمایی دیرین دیرین موضوع شناسه‌دار کردن گوشی‌های تلفن همراه را با زبانی ساده شفاف سازی کرده است</desc>
+    <date>1396</date>
+    <category lang="fa">کلاسیک</category>
     <country lang="fa">ایران</country>
-    <length units="minutes">8</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1004.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1003">
-    <display-name>آب و آیینه - وظایف معلمین و اساتید</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1003.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1003">
-    <title lang="fa">آب و آیینه - وظایف معلمین و اساتید</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1003.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1002">
-    <display-name>آب و آیینه - وظایف شوراها</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1002.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1002">
-    <title lang="fa">آب و آیینه - وظایف شوراها</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1002.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1001">
-    <display-name>آب و آیینه - وظایف بانوان</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1001.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1001">
-    <title lang="fa">آب و آیینه - وظایف بانوان</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1001.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod1000">
-    <display-name>آب و آیینه - وحدت کلمه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1000.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod1000">
-    <title lang="fa">آب و آیینه - وحدت کلمه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1000.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod999">
-    <display-name>آب و آیینه - وحدت حوزه و دانشگاه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/999.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod999">
-    <title lang="fa">آب و آیینه - وحدت حوزه و دانشگاه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/999.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod998">
-    <display-name>آب و آیینه - وابستگی به مادیات</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/998.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod998">
-    <title lang="fa">آب و آیینه - وابستگی به مادیات</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/998.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod997">
-    <display-name>آب و آیینه - نوصیه به گویندگان و نویسندگان</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/997.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod997">
-    <title lang="fa">آب و آیینه - نوصیه به گویندگان و نویسندگان</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/997.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod996">
-    <display-name>آب و آیینه - توطیه علیه وحدت</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/996.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod996">
-    <title lang="fa">آب و آیینه - توطیه علیه وحدت</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/996.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod995">
-    <display-name>آب و آیینه - توطیه ایجاد یأس</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/995.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod995">
-    <title lang="fa">آب و آیینه - توطیه ایجاد یأس</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/995.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod994">
-    <display-name>آب و آیینه - تهذیب نفس</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/994.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod994">
-    <title lang="fa">آب و آیینه - تهذیب نفس</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/994.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod993">
-    <display-name>آب و آیینه - تعهد مربیان</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/993.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod993">
-    <title lang="fa">آب و آیینه - تعهد مربیان</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/993.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod992">
-    <display-name>آب و آیینه - تعلیم و تربیت</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/992.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod992">
-    <title lang="fa">آب و آیینه - تعلیم و تربیت</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/992.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod991">
-    <display-name>آب و آیینه - تزکیه نفس</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/991.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod991">
-    <title lang="fa">آب و آیینه - تزکیه نفس</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/991.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod990">
-    <display-name>آب و آیینه - تربیت معنوی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/990.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod990">
-    <title lang="fa">آب و آیینه - تربیت معنوی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/990.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod989">
-    <display-name>آب و آیینه - تربیت فطری</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/989.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod989">
-    <title lang="fa">آب و آیینه - تربیت فطری</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/989.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod988">
-    <display-name>آب و آیینه - تربیت ربانی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/988.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod988">
-    <title lang="fa">آب و آیینه - تربیت ربانی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/988.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod987">
-    <display-name>آب و آیینه - تربیت الهی و تربیت مادی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/987.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod987">
-    <title lang="fa">آب و آیینه - تربیت الهی و تربیت مادی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/987.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod986">
-    <display-name>آب و آیینه - روشن بینی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/986.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod986">
-    <title lang="fa">آب و آیینه - روشن بینی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/986.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod985">
-    <display-name>آب و آیینه - رمز پیروزی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/985.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod985">
-    <title lang="fa">آب و آیینه - رمز پیروزی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/985.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod984">
-    <display-name>آب و آیینه - رمز تعالی جامعه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/984.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod984">
-    <title lang="fa">آب و آیینه - رمز تعالی جامعه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/984.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod983">
-    <display-name>آب و آیینه - رمز تعالی انسانها</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/983.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod983">
-    <title lang="fa">آب و آیینه - رمز تعالی انسانها</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/983.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod982">
-    <display-name>آب و آیینه - رشد روحانی بانوان</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/982.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod982">
-    <title lang="fa">آب و آیینه - رشد روحانی بانوان</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/982.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod981">
-    <display-name>آب و آیینه - رسالت پاسدار</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/981.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod981">
-    <title lang="fa">آب و آیینه - رسالت پاسدار</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/981.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod980">
-    <display-name>آب و آیینه - رسالت مربیان</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/980.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod980">
-    <title lang="fa">آب و آیینه - رسالت مربیان</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/980.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod979">
-    <display-name>آب و آیینه - رسالت روحانیت</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/979.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod979">
-    <title lang="fa">آب و آیینه - رسالت روحانیت</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/979.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod978">
-    <display-name>آب و آیینه - رسالت حوزه علمیه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/978.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod978">
-    <title lang="fa">آب و آیینه - رسالت حوزه علمیه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/978.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod977">
-    <display-name>آب و آیینه - رسالت انبیاء</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/977.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod977">
-    <title lang="fa">آب و آیینه - رسالت انبیاء</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">4</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/977.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod976">
-    <display-name>آب و آیینه - رحمت واسعه</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/976.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod976">
-    <title lang="fa">آب و آیینه - رحمت واسعه</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/976.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod975">
-    <display-name>آب و آیینه - راه نجات</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/975.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod975">
-    <title lang="fa">آب و آیینه - راه نجات</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/975.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod974">
-    <display-name>آب و آیینه - راه رهایی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/974.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod974">
-    <title lang="fa">آب و آیینه - راه رهایی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">6</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/974.png"/>
-    <rating>
-      <value>تمامی سنین</value>
-    </rating>
-  </programme>
-  <channel id="sepehrvod973">
-    <display-name>آب و آیینه - راه رهایی</display-name>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/973.png"/>
-  </channel>
-  <programme start="20261017225925 +0000" stop="20261018225925 +0000" channel="sepehrvod973">
-    <title lang="fa">آب و آیینه - راه رهایی</title>
-    <desc lang="fa">دیدار امام خمینی (ره) با اقشار مختلف مردم</desc>
-    <date>1390</date>
-    <country lang="fa">ایران</country>
-    <length units="minutes">5</length>
-    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/973.png"/>
+    <length units="minutes">1</length>
+    <icon src="https://lb-cdn.sepehrtv.ir/img/vod/vod-poster/1371.jpg"/>
     <rating>
       <value>تمامی سنین</value>
     </rating>
