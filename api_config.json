@@ -1,3 +1,4 @@
 {
-  "sepehr_base": "https://sepehrapi.sepehrtv.ir/v1"
+  "sepehr_base": "https://sepehrapi.sepehrtv.ir/v1",
+  "stream_pattern": "https://cdn.telewebion.ir/{slug}/live/playlist.m3u8"
 }
