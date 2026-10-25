@@ -63,8 +63,6 @@ https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir" tvg-name="شبکه خلیج فارس (هرمزگان)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="استانی",شبکه خلیج فارس (هرمزگان)
 https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KhozestanTV.ir" tvg-name="شبکه خوزستان" tvg-logo="https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default" group-title="استانی",شبکه خوزستان
-https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
 #EXTINF:-1 tvg-id="DenaTV.ir" tvg-name="شبکه دنا (کهگیلویه)" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/1c/Yasuj_DENA.svg/960px-Yasuj_DENA.svg.png" group-title="استانی",شبکه دنا (کهگیلویه)
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.ir" tvg-name="شبکه رویا" tvg-logo="https://static.telewebion.com/channelsLogo/0e3d7425-1a1b-47c4-b020-2e09a5fc2598/default" group-title="استانی",شبکه رویا
@@ -141,3 +139,7 @@ https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 https://ncdn.telewebion.ir/noor/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="tabarestan" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png" group-title="استانی",tabarestan
 https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="karoon" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/karoon.png" group-title="استانی",karoon
+https://ncdn.telewebion.ir/karoon/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="khavaran" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="استانی",khavaran
+https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8

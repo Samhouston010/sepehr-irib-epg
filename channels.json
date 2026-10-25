@@ -288,15 +288,6 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png"
   },
   {
-    "slug": "khoozestan",
-    "channel_id": 43,
-    "tvg_id": "KhozestanTV.ir",
-    "name": "شبکه خوزستان",
-    "name_en": "شبکه خوزستان",
-    "group": "استانی",
-    "logo": "https://static.telewebion.ir/channelsLogo/fa5cadf8-318c-48c3-b067-33bd67b1ef49/default"
-  },
-  {
     "slug": "dena",
     "channel_id": 15668,
     "tvg_id": "DenaTV.ir",
@@ -637,5 +628,23 @@
     "name_en": "tabarestan",
     "group": "استانی",
     "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/tabarestan.png"
+  },
+  {
+    "slug": "karoon",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "karoon",
+    "name_en": "karoon",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/karoon.png"
+  },
+  {
+    "slug": "khavaran",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "khavaran",
+    "name_en": "khavaran",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png"
   }
 ]
