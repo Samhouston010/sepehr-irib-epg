@@ -252,28 +252,38 @@
   </programme>
   <programme start="20261030023200 +0000" stop="20261030023300 +0000" channel="IRIB1.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
   </programme>
-  <programme start="20261030023300 +0000" stop="20261030030300 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261030023300 +0000" stop="20261030024300 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030023326 +0000" stop="20261030042126 +0000" channel="IRIB1.ir"><title lang="fa">دعای پرفیض ندبه</title>
+  <programme start="20261030024327 +0000" stop="20261030031527 +0000" channel="IRIB1.ir"><title lang="fa">دعای پرفیض ندبه</title>
     <desc lang="fa">تهیه کننده : حسین فراست</desc>
   </programme>
-  <programme start="20261030042201 +0000" stop="20261030042901 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261030031547 +0000" stop="20261030031647 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030043000 +0000" stop="20261030050000 +0000" channel="IRIB1.ir"><title lang="fa">اخبار صبحگاهی</title>
+  <programme start="20261030031746 +0000" stop="20261030040746 +0000" channel="IRIB1.ir"><title lang="fa">مستند ثریا</title>
+    <desc lang="fa">تهیه کننده و اجرا : مقصودی</desc>
   </programme>
-  <programme start="20261030050000 +0000" stop="20261030050200 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261030040830 +0000" stop="20261030043830 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030050216 +0000" stop="20261030051716 +0000" channel="IRIB1.ir"><title lang="fa">مستند سپیده</title>
+  <programme start="20261030040901 +0000" stop="20261030041901 +0000" channel="IRIB1.ir"><title lang="fa">گزیده ایران از بالا</title>
+    <desc lang="fa">تهیه کننده : گودرزی</desc>
+  </programme>
+  <programme start="20261030041913 +0000" stop="20261030042913 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030043000 +0000" stop="20261030045800 +0000" channel="IRIB1.ir"><title lang="fa">اخبار صبحگاهی</title>
+  </programme>
+  <programme start="20261030045814 +0000" stop="20261030050014 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030050031 +0000" stop="20261030051531 +0000" channel="IRIB1.ir"><title lang="fa">مستند سپیده</title>
     <desc lang="fa">تهیه کننده : علیرضا بوالی</desc>
   </programme>
-  <programme start="20261030051815 +0000" stop="20261030053015 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261030051630 +0000" stop="20261030052830 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030053018 +0000" stop="20261030062018 +0000" channel="IRIB1.ir"><title lang="fa">ایران ما</title>
+  <programme start="20261030052835 +0000" stop="20261030061735 +0000" channel="IRIB1.ir"><title lang="fa">ایران ما</title>
     <desc lang="fa">شبکه یک  شبکه هر ایرانی ، سایت ، www. tv1 . ir  ،  پیامک 300001</desc>
   </programme>
-  <programme start="20261030062031 +0000" stop="20261030062931 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
+  <programme start="20261030061816 +0000" stop="20261030062716 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030063000 +0000" stop="20261030081300 +0000" channel="IRIB1.ir"><title lang="fa">ورزش و مردم</title>
+  <programme start="20261030062744 +0000" stop="20261030081244 +0000" channel="IRIB1.ir"><title lang="fa">ورزش و مردم</title>
     <desc lang="fa">تهیه کننده و اجرا : پیمان یوسفی</desc>
   </programme>
   <programme start="20261030081323 +0000" stop="20261030081723 +0000" channel="IRIB1.ir"><title lang="fa">میان برنامه</title>
@@ -5412,6 +5422,673 @@
   <programme start="20261030162934 +0000" stop="20261030165934 +0000" channel="Nasim.ir"><title lang="fa">اکنون « هزار داستان »</title>
     <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
   </programme>
+  <programme start="20261030162946 +0000" stop="20261030165546 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261030165628 +0000" stop="20261030165928 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030165948 +0000" stop="20261030171748 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261030171838 +0000" stop="20261030174838 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030171845 +0000" stop="20261030172345 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030172439 +0000" stop="20261030175439 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030172451 +0000" stop="20261030175451 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030172501 +0000" stop="20261030172901 +0000" channel="Nasim.ir"><title lang="fa">کاخ لبخند 2</title>
+    <desc lang="fa">[موضوع]مشارکتی[تهیه کننده]بابک حسن زاده</desc>
+  </programme>
+  <programme start="20261030173000 +0000" stop="20261030180000 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « کودک شو »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030173012 +0000" stop="20261030180612 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261030180711 +0000" stop="20261030181011 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030181036 +0000" stop="20261030184736 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261030184738 +0000" stop="20261030191738 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030184805 +0000" stop="20261030191805 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده نفس عمیق</title>
+    <desc lang="fa">[تهیه کننده]علی حکمت نیا[کارگردان]علی حکمت نیا</desc>
+  </programme>
+  <programme start="20261030184904 +0000" stop="20261030185204 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030185217 +0000" stop="20261030192217 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030185224 +0000" stop="20261030185924 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030185942 +0000" stop="20261030192942 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030185952 +0000" stop="20261030192952 +0000" channel="Nasim.ir"><title lang="fa">اکنون « قصه های هومن و جناب خان »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030190004 +0000" stop="20261030191904 +0000" channel="Nasim.ir"><title lang="fa">قصه های هومن و جناب خان-تکرار</title>
+    <desc lang="fa">[تهیه کننده]فرید نیکجو[مجری]هومن حاجی عبداللهی</desc>
+  </programme>
+  <programme start="20261030191916 +0000" stop="20261030192316 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030192412 +0000" stop="20261030194312 +0000" channel="Nasim.ir"><title lang="fa">قصه های هومن و جناب خان-تکرار</title>
+    <desc lang="fa">[تهیه کننده]فرید نیکجو[مجری]هومن حاجی عبداللهی</desc>
+  </programme>
+  <programme start="20261030194404 +0000" stop="20261030194804 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030194809 +0000" stop="20261030201809 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030194825 +0000" stop="20261030194925 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جونمون</title>
+    <desc lang="fa">[موضوع]گفت و گو[تهیه کننده]کامران سیف الله[کارگردان]کامران سیف الله[مجری]سپند امیر سلیمانی-مونا کرمی</desc>
+  </programme>
+  <programme start="20261030194929 +0000" stop="20261030195029 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده کودک شو 9</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195057 +0000" stop="20261030202057 +0000" channel="Nasim.ir"><title lang="fa">برنامک تهران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195148 +0000" stop="20261030195248 +0000" channel="Nasim.ir"><title lang="fa">گس 2</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195253 +0000" stop="20261030202253 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195317 +0000" stop="20261030195417 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195419 +0000" stop="20261030202419 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195426 +0000" stop="20261030195926 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030195959 +0000" stop="20261030202959 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030200009 +0000" stop="20261030203009 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « با نسیم »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030200021 +0000" stop="20261030202321 +0000" channel="Nasim.ir"><title lang="fa">با نسیم کوتاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030202328 +0000" stop="20261030205328 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030202344 +0000" stop="20261030205344 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030202408 +0000" stop="20261030202908 +0000" channel="Nasim.ir"><title lang="fa">نفس عمیق</title>
+    <desc lang="fa">[موضوع]آلودگی هوا[تهیه کننده]علی حکمت نیا[کارگردان]علی حکمت نیا-مهدی محسنی</desc>
+  </programme>
+  <programme start="20261030202921 +0000" stop="20261030203021 +0000" channel="Nasim.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030202921 +0000" stop="20261030203021 +0000" channel="Nasim.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030203025 +0000" stop="20261030210025 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030203032 +0000" stop="20261030210032 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030203104 +0000" stop="20261030210104 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030203114 +0000" stop="20261030210114 +0000" channel="Nasim.ir"><title lang="fa">اکنون « هزار داستان »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030203126 +0000" stop="20261030205726 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261030205808 +0000" stop="20261030212808 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030205840 +0000" stop="20261030211640 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261030211730 +0000" stop="20261030214730 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030211746 +0000" stop="20261030212546 +0000" channel="Nasim.ir"><title lang="fa">کمدی کلاسیک</title>
+  </programme>
+  <programme start="20261030212601 +0000" stop="20261030215601 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030212608 +0000" stop="20261030212908 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030212942 +0000" stop="20261030215942 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030212952 +0000" stop="20261030215952 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « کودک شو »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030213004 +0000" stop="20261030220604 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261030220703 +0000" stop="20261030220903 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030220922 +0000" stop="20261030224622 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261030224624 +0000" stop="20261030225724 +0000" channel="Nasim.ir"><title lang="fa">اجاق (تکرار)</title>
+    <desc lang="fa">[موضوع]ویژه محرم</desc>
+  </programme>
+  <programme start="20261030225809 +0000" stop="20261030232809 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030225816 +0000" stop="20261030225916 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030230014 +0000" stop="20261030233014 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030230024 +0000" stop="20261030233024 +0000" channel="Nasim.ir"><title lang="fa">اکنون بی حاشیه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030230036 +0000" stop="20261030232036 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261030232120 +0000" stop="20261030232220 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030232250 +0000" stop="20261030234750 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261030234823 +0000" stop="20261031001823 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030234847 +0000" stop="20261030235247 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030235320 +0000" stop="20261030235820 +0000" channel="Nasim.ir"><title lang="fa">قلق 1405</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030235915 +0000" stop="20261031002915 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261030235922 +0000" stop="20261031000022 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031000022 +0000" stop="20261031003022 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031000032 +0000" stop="20261031003032 +0000" channel="Nasim.ir"><title lang="fa">اکنون « دست انداز »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031000044 +0000" stop="20261031001944 +0000" channel="Nasim.ir"><title lang="fa">دست انداز-تکرار</title>
+    <desc lang="fa">[تهیه کننده]سعید عباسی</desc>
+  </programme>
+  <programme start="20261031001959 +0000" stop="20261031004959 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031002031 +0000" stop="20261031003531 +0000" channel="Nasim.ir"><title lang="fa">دست انداز-تکرار</title>
+    <desc lang="fa">[تهیه کننده]سعید عباسی</desc>
+  </programme>
+  <programme start="20261031003546 +0000" stop="20261031010546 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031003602 +0000" stop="20261031004202 +0000" channel="Nasim.ir"><title lang="fa">دوربین مخفی 1405</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031004202 +0000" stop="20261031011202 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « با نسیم »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031004214 +0000" stop="20261031010514 +0000" channel="Nasim.ir"><title lang="fa">با نسیم کوتاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031010521 +0000" stop="20261031011121 +0000" channel="Nasim.ir"><title lang="fa">قلق 1405</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031011218 +0000" stop="20261031014218 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031011234 +0000" stop="20261031011334 +0000" channel="Nasim.ir"><title lang="fa">آفرینش</title>
+  </programme>
+  <programme start="20261031011339 +0000" stop="20261031014339 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031011418 +0000" stop="20261031011718 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031011718 +0000" stop="20261031012218 +0000" channel="Nasim.ir"><title lang="fa">در همین نزدیکی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031012256 +0000" stop="20261031012656 +0000" channel="Nasim.ir"><title lang="fa">در مسیر زندگی (اذانگاهی)</title>
+    <desc lang="fa">[موضوع]زیرزمین بابرکت</desc>
+  </programme>
+  <programme start="20261031012726 +0000" stop="20261031012826 +0000" channel="Nasim.ir"><title lang="fa">نسیم وحی</title>
+    <desc lang="fa">[موضوع]اذان گاهی</desc>
+  </programme>
+  <programme start="20261031012916 +0000" stop="20261031015916 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل اذان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031012930 +0000" stop="20261031013330 +0000" channel="Nasim.ir"><title lang="fa">اذان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031013412 +0000" stop="20261031020412 +0000" channel="Nasim.ir"><title lang="fa">برنامک صلوات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031013423 +0000" stop="20261031013923 +0000" channel="Nasim.ir"><title lang="fa">کلیپ دعا ناد علی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031014021 +0000" stop="20261031014921 +0000" channel="Nasim.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031014950 +0000" stop="20261031021950 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015016 +0000" stop="20261031022016 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015036 +0000" stop="20261031022036 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015043 +0000" stop="20261031015143 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015143 +0000" stop="20261031022143 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015153 +0000" stop="20261031022153 +0000" channel="Nasim.ir"><title lang="fa">اکنون « افسانه زدایان »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031015205 +0000" stop="20261031021305 +0000" channel="Nasim.ir"><title lang="fa">افسانه زدایان (تکرار)</title>
+    <desc lang="fa">[موضوع]مستند[مجری]آدام سویج - جیمی هاینمن</desc>
+  </programme>
+  <programme start="20261031021352 +0000" stop="20261031024352 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031021424 +0000" stop="20261031022724 +0000" channel="Nasim.ir"><title lang="fa">افسانه زدایان (تکرار)</title>
+    <desc lang="fa">[موضوع]مستند[مجری]آدام سویج - جیمی هاینمن</desc>
+  </programme>
+  <programme start="20261031022756 +0000" stop="20261031025756 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031022803 +0000" stop="20261031022903 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031022952 +0000" stop="20261031025952 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031023002 +0000" stop="20261031025402 +0000" channel="Nasim.ir"><title lang="fa">با نسیم بلند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031025406 +0000" stop="20261031025506 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031025527 +0000" stop="20261031032527 +0000" channel="Nasim.ir"><title lang="fa">با نسیم بلند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031032535 +0000" stop="20261031032835 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031032916 +0000" stop="20261031035916 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031032923 +0000" stop="20261031033323 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031033400 +0000" stop="20261031040400 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031033410 +0000" stop="20261031040410 +0000" channel="Nasim.ir"><title lang="fa">اکنون « نسیم آوا »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031033422 +0000" stop="20261031040022 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا  ( سری 7)</title>
+    <desc lang="fa">[موضوع]ترانه های ایرانی[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20261031040057 +0000" stop="20261031040157 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031040256 +0000" stop="20261031042056 +0000" channel="Nasim.ir"><title lang="fa">نسیم آوا  ( سری 7)</title>
+    <desc lang="fa">[موضوع]ترانه های ایرانی[تهیه کننده]محمدرضا محبی[مجری]محمدرضا محبی</desc>
+  </programme>
+  <programme start="20261031042124 +0000" stop="20261031045124 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031042144 +0000" stop="20261031042844 +0000" channel="Nasim.ir"><title lang="fa">اجاق (تکرار)</title>
+    <desc lang="fa">[موضوع]ویژه محرم</desc>
+  </programme>
+  <programme start="20261031042904 +0000" stop="20261031045904 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031042928 +0000" stop="20261031045528 +0000" channel="Nasim.ir"><title lang="fa">آشپزی با نادیا</title>
+  </programme>
+  <programme start="20261031045609 +0000" stop="20261031045909 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031045922 +0000" stop="20261031052922 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031045929 +0000" stop="20261031052929 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031050001 +0000" stop="20261031053001 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031050011 +0000" stop="20261031053011 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « کودک شو »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031050023 +0000" stop="20261031053623 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261031053722 +0000" stop="20261031060722 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031053754 +0000" stop="20261031061454 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261031061456 +0000" stop="20261031064456 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031061512 +0000" stop="20261031061612 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جونمون</title>
+    <desc lang="fa">[موضوع]گفت و گو[تهیه کننده]کامران سیف الله[کارگردان]کامران سیف الله[مجری]سپند امیر سلیمانی-مونا کرمی</desc>
+  </programme>
+  <programme start="20261031061616 +0000" stop="20261031064616 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده نفس عمیق</title>
+    <desc lang="fa">[تهیه کننده]علی حکمت نیا[کارگردان]علی حکمت نیا</desc>
+  </programme>
+  <programme start="20261031061715 +0000" stop="20261031062115 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031062139 +0000" stop="20261031062539 +0000" channel="Nasim.ir"><title lang="fa">دوربین مخفی-تکرار</title>
+  </programme>
+  <programme start="20261031062627 +0000" stop="20261031065627 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031062654 +0000" stop="20261031062754 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031062756 +0000" stop="20261031065756 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031062803 +0000" stop="20261031062903 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031062953 +0000" stop="20261031065953 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031063003 +0000" stop="20261031070003 +0000" channel="Nasim.ir"><title lang="fa">اکنون بی حاشیه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031063015 +0000" stop="20261031065015 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261031065059 +0000" stop="20261031065259 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031065336 +0000" stop="20261031071836 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261031071909 +0000" stop="20261031074909 +0000" channel="Nasim.ir"><title lang="fa">برنامک تهران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072000 +0000" stop="20261031072500 +0000" channel="Nasim.ir"><title lang="fa">دافع الکتریک</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072527 +0000" stop="20261031075527 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072534 +0000" stop="20261031072834 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072932 +0000" stop="20261031075932 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072944 +0000" stop="20261031075944 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031072954 +0000" stop="20261031080254 +0000" channel="Nasim.ir"><title lang="fa">ایران ما</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031080324 +0000" stop="20261031080424 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031080518 +0000" stop="20261031083518 +0000" channel="Nasim.ir"><title lang="fa">برنامک سنگک</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031080529 +0000" stop="20261031083529 +0000" channel="Nasim.ir"><title lang="fa">آفرینش</title>
+  </programme>
+  <programme start="20261031080553 +0000" stop="20261031083553 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031080632 +0000" stop="20261031081132 +0000" channel="Nasim.ir"><title lang="fa">در همین نزدیکی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031081210 +0000" stop="20261031081310 +0000" channel="Nasim.ir"><title lang="fa">در مسیر زندگی (اذانگاهی)</title>
+    <desc lang="fa">[موضوع]روز تولد</desc>
+  </programme>
+  <programme start="20261031081405 +0000" stop="20261031081705 +0000" channel="Nasim.ir"><title lang="fa">نسیم وحی</title>
+    <desc lang="fa">[موضوع]اذان گاهی</desc>
+  </programme>
+  <programme start="20261031081716 +0000" stop="20261031084716 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل اذان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031081730 +0000" stop="20261031082230 +0000" channel="Nasim.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031082315 +0000" stop="20261031085315 +0000" channel="Nasim.ir"><title lang="fa">برنامک صلوات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031082326 +0000" stop="20261031083026 +0000" channel="Nasim.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031083106 +0000" stop="20261031083606 +0000" channel="Nasim.ir"><title lang="fa">کلیپ دعا ناد علی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031083704 +0000" stop="20261031090704 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031083744 +0000" stop="20261031090744 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031083808 +0000" stop="20261031083908 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده جونمون</title>
+    <desc lang="fa">[موضوع]گفت و گو[تهیه کننده]کامران سیف الله[کارگردان]کامران سیف الله[مجری]سپند امیر سلیمانی-مونا کرمی</desc>
+  </programme>
+  <programme start="20261031083912 +0000" stop="20261031084012 +0000" channel="Nasim.ir"><title lang="fa">پیش پرده کودک شو 9</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031084040 +0000" stop="20261031084440 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031084516 +0000" stop="20261031084816 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031084857 +0000" stop="20261031091857 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031084904 +0000" stop="20261031085204 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031085256 +0000" stop="20261031092256 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031085306 +0000" stop="20261031092306 +0000" channel="Nasim.ir"><title lang="fa">اکنون « قصه های هومن و جناب خان »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031085318 +0000" stop="20261031091218 +0000" channel="Nasim.ir"><title lang="fa">قصه های هومن و جناب خان-تکرار</title>
+    <desc lang="fa">[تهیه کننده]فرید نیکجو[مجری]هومن حاجی عبداللهی</desc>
+  </programme>
+  <programme start="20261031091230 +0000" stop="20261031091330 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031091422 +0000" stop="20261031093322 +0000" channel="Nasim.ir"><title lang="fa">قصه های هومن و جناب خان-تکرار</title>
+    <desc lang="fa">[تهیه کننده]فرید نیکجو[مجری]هومن حاجی عبداللهی</desc>
+  </programme>
+  <programme start="20261031093414 +0000" stop="20261031093814 +0000" channel="Nasim.ir"><title lang="fa">آوا</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031093819 +0000" stop="20261031100819 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031093826 +0000" stop="20261031094226 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031094242 +0000" stop="20261031101242 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031094254 +0000" stop="20261031101254 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031094304 +0000" stop="20261031094704 +0000" channel="Nasim.ir"><title lang="fa">کاخ لبخند 2</title>
+    <desc lang="fa">[موضوع]مشارکتی[تهیه کننده]بابک حسن زاده</desc>
+  </programme>
+  <programme start="20261031094803 +0000" stop="20261031101803 +0000" channel="Nasim.ir"><title lang="fa">اکنون « هزار داستان »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031094815 +0000" stop="20261031101415 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261031101457 +0000" stop="20261031101657 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031101714 +0000" stop="20261031103514 +0000" channel="Nasim.ir"><title lang="fa">هزار داستان 405</title>
+    <desc lang="fa">[موضوع]سوگ[تهیه کننده]زارعان-صفاریان پور[مجری]حسین پاکدل</desc>
+  </programme>
+  <programme start="20261031103604 +0000" stop="20261031110604 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031103611 +0000" stop="20261031104111 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031104123 +0000" stop="20261031111123 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031104133 +0000" stop="20261031111133 +0000" channel="Nasim.ir"><title lang="fa">اکنون بی حاشیه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031104145 +0000" stop="20261031110145 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261031110229 +0000" stop="20261031110429 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031110524 +0000" stop="20261031113024 +0000" channel="Nasim.ir"><title lang="fa">بی حاشیه</title>
+    <desc lang="fa">[موضوع]ترکیبی[تهیه کننده]سعید مظاهری[کارگردان]سعید مظاهری[مجری]مهدی صبائی[میهمان]محمد تقی حسین زاده</desc>
+  </programme>
+  <programme start="20261031113057 +0000" stop="20261031120057 +0000" channel="Nasim.ir"><title lang="fa">برنامک برج آزادی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031113112 +0000" stop="20261031113612 +0000" channel="Nasim.ir"><title lang="fa">دافع الکتریک</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031113639 +0000" stop="20261031120639 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031113659 +0000" stop="20261031113959 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031114012 +0000" stop="20261031121012 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031114019 +0000" stop="20261031114119 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031114205 +0000" stop="20261031121205 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031114215 +0000" stop="20261031114615 +0000" channel="Nasim.ir"><title lang="fa">کاخ لبخند 2</title>
+    <desc lang="fa">[موضوع]مشارکتی[تهیه کننده]بابک حسن زاده</desc>
+  </programme>
+  <programme start="20261031114714 +0000" stop="20261031121714 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « کودک شو »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031114726 +0000" stop="20261031122326 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261031122425 +0000" stop="20261031122625 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031122655 +0000" stop="20261031130355 +0000" channel="Nasim.ir"><title lang="fa">کودک شو 8</title>
+    <desc lang="fa">[موضوع]مسابقه خانوادگی[تهیه کننده]ربانی[مجری]الیکا عبدالرزاقی[میهمان]یعقوب مطلق-پیر بداقی</desc>
+  </programme>
+  <programme start="20261031130357 +0000" stop="20261031133357 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031130404 +0000" stop="20261031130804 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031130837 +0000" stop="20261031133837 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031130849 +0000" stop="20261031133849 +0000" channel="Nasim.ir"><title lang="fa">برنامک بعد بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031130859 +0000" stop="20261031133859 +0000" channel="Nasim.ir"><title lang="fa">اکنون  « با نسیم »</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031130911 +0000" stop="20261031132211 +0000" channel="Nasim.ir"><title lang="fa">با نسیم کوتاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031132241 +0000" stop="20261031132541 +0000" channel="Nasim.ir"><title lang="fa">آگهی بازرگانی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031132543 +0000" stop="20261031133443 +0000" channel="Nasim.ir"><title lang="fa">با نسیم کوتاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031133520 +0000" stop="20261031140520 +0000" channel="Nasim.ir"><title lang="fa">برنامک پائیز</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031133544 +0000" stop="20261031133644 +0000" channel="Nasim.ir"><title lang="fa">بزنگاه</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031133646 +0000" stop="20261031140646 +0000" channel="Nasim.ir"><title lang="fa">برنامک پاییزی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031133702 +0000" stop="20261031134502 +0000" channel="Nasim.ir"><title lang="fa">جان فدا (زنده)</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031134502 +0000" stop="20261031141502 +0000" channel="Nasim.ir"><title lang="fa">برنامک آرش دماوند</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031134519 +0000" stop="20261031141519 +0000" channel="Nasim.ir"><title lang="fa">آفرینش</title>
+  </programme>
+  <programme start="20261031134539 +0000" stop="20261031141539 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031134618 +0000" stop="20261031135118 +0000" channel="Nasim.ir"><title lang="fa">در همین نزدیکی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031135156 +0000" stop="20261031135556 +0000" channel="Nasim.ir"><title lang="fa">در مسیر زندگی (اذانگاهی)</title>
+    <desc lang="fa">[موضوع]زیرزمین بابرکت</desc>
+  </programme>
+  <programme start="20261031135626 +0000" stop="20261031135726 +0000" channel="Nasim.ir"><title lang="fa">نسیم وحی</title>
+    <desc lang="fa">[موضوع]اذان گاهی</desc>
+  </programme>
+  <programme start="20261031135816 +0000" stop="20261031142816 +0000" channel="Nasim.ir"><title lang="fa">برنامک قبل اذان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031135830 +0000" stop="20261031140230 +0000" channel="Nasim.ir"><title lang="fa">اذان</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031140312 +0000" stop="20261031143312 +0000" channel="Nasim.ir"><title lang="fa">برنامک صلوات</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031140323 +0000" stop="20261031140923 +0000" channel="Nasim.ir"><title lang="fa">نماز مغرب</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031140938 +0000" stop="20261031141438 +0000" channel="Nasim.ir"><title lang="fa">کلیپ دعا ناد علی</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
+  <programme start="20261031141536 +0000" stop="20261031144536 +0000" channel="Nasim.ir"><title lang="fa">قاب نسیم</title>
+    <desc lang="fa">شبکه نسیم شبکه نشاط و سرگرمی ، تارنما، www.tvnasim.ir  ،  رایانامه tvnasim@irib.ir ، تلفن 27862100  ،  صندوق پستی 1367-19395 ، پیامک 300003000</desc>
+  </programme>
   <programme start="20261029083000 +0000" stop="20261029090000 +0000" channel="NamayeshTV.ir"><title lang="fa">برنامک ادامه (دزدان مقبره)</title>
     <desc lang="fa">شبکه نمایش شبکه فیلم   ،  تارنما ،  www.namayeshtv.ir  ،  رایانامه namayeshtv@irib.ir  ،  تلفن 27861600  ،  صندوق پستی 1367-19395 ، پیامک 30000870</desc>
   </programme>
@@ -8156,6 +8833,457 @@
   </programme>
   <programme start="20261030202750 +0000" stop="20261030202950 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
   </programme>
+  <programme start="20261030203000 +0000" stop="20261030203700 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261030203744 +0000" stop="20261030203944 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261030203947 +0000" stop="20261030204347 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا - روستاها</title>
+  </programme>
+  <programme start="20261030204422 +0000" stop="20261030211422 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه - طبیعت</title>
+  </programme>
+  <programme start="20261030204508 +0000" stop="20261030213308 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند سلسله ها فصل اول -قسمت5</title>
+    <desc lang="fa">مستند حیات وحش</desc>
+  </programme>
+  <programme start="20261030213347 +0000" stop="20261030213647 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261030213656 +0000" stop="20261030214456 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا - پاییز</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261030214502 +0000" stop="20261030214802 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - طبیعت برفی</title>
+  </programme>
+  <programme start="20261030214850 +0000" stop="20261030215250 +0000" channel="IRIBUHD.ir"><title lang="fa">خوزستان زیبا - بهبهان - منطقه تشان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261030215307 +0000" stop="20261030215607 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261030215608 +0000" stop="20261030220108 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-لاریجان</title>
+  </programme>
+  <programme start="20261030220121 +0000" stop="20261030220421 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا -جاده اسالم به خلخال</title>
+  </programme>
+  <programme start="20261030220518 +0000" stop="20261030223518 +0000" channel="IRIBUHD.ir"><title lang="fa">لرستان زیبا - پل تاریخی کشکان</title>
+  </programme>
+  <programme start="20261030220605 +0000" stop="20261030220905 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261030220908 +0000" stop="20261030221108 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-جنگل کلار آباد</title>
+  </programme>
+  <programme start="20261030221158 +0000" stop="20261030224158 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه- طبیعت</title>
+  </programme>
+  <programme start="20261030221251 +0000" stop="20261030221451 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261030221452 +0000" stop="20261030225052 +0000" channel="IRIBUHD.ir"><title lang="fa">حیوانات از نزدیک با برتی گرگوری-فصل اول-قسمت 2</title>
+  </programme>
+  <programme start="20261030225141 +0000" stop="20261030225441 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261030225450 +0000" stop="20261030225650 +0000" channel="IRIBUHD.ir"><title lang="fa">سرزمین زیبای ایران</title>
+  </programme>
+  <programme start="20261030225723 +0000" stop="20261030230223 +0000" channel="IRIBUHD.ir"><title lang="fa">چهارمحال و بختیاری زیبا - تنگه صیاد</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261030230257 +0000" stop="20261030231157 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا - آبشار میلاش</title>
+  </programme>
+  <programme start="20261030231252 +0000" stop="20261030231652 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261030231709 +0000" stop="20261030232009 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - قله توچال</title>
+  </programme>
+  <programme start="20261030232018 +0000" stop="20261030232418 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا،استان گیلان،در آغوش ابر ها</title>
+  </programme>
+  <programme start="20261030232445 +0000" stop="20261030232645 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - طبیعت تابستانه</title>
+  </programme>
+  <programme start="20261030232723 +0000" stop="20261030232923 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا،زمستان</title>
+  </programme>
+  <programme start="20261030233019 +0000" stop="20261031001419 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه  بیگانگان-قسمت 11</title>
+  </programme>
+  <programme start="20261031001509 +0000" stop="20261031001809 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031001818 +0000" stop="20261031002218 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - روستای یخکش</title>
+  </programme>
+  <programme start="20261031002220 +0000" stop="20261031002520 +0000" channel="IRIBUHD.ir"><title lang="fa">همدان زیبا</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031002554 +0000" stop="20261031002854 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا در زمستان</title>
+  </programme>
+  <programme start="20261031002927 +0000" stop="20261031003227 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
+  </programme>
+  <programme start="20261031003308 +0000" stop="20261031003808 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - روستای ارنگه</title>
+  </programme>
+  <programme start="20261031003814 +0000" stop="20261031004014 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261031004017 +0000" stop="20261031004217 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - دریاچه ممرز</title>
+  </programme>
+  <programme start="20261031004255 +0000" stop="20261031004555 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - طبیعت برفی</title>
+  </programme>
+  <programme start="20261031004643 +0000" stop="20261031005143 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا روستای آدران</title>
+  </programme>
+  <programme start="20261031005219 +0000" stop="20261031005519 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031005520 +0000" stop="20261031005920 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261031005930 +0000" stop="20261031010230 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا -جاده اسالم به خلخال</title>
+  </programme>
+  <programme start="20261031010327 +0000" stop="20261031011327 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا-آبشار شیرآباد</title>
+  </programme>
+  <programme start="20261031011405 +0000" stop="20261031011705 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031011730 +0000" stop="20261031012130 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا -باغ گلهای آسارا</title>
+  </programme>
+  <programme start="20261031012204 +0000" stop="20261031012504 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا - جنگل شیر اباد</title>
+  </programme>
+  <programme start="20261031012516 +0000" stop="20261031012616 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا</title>
+  </programme>
+  <programme start="20261031012706 +0000" stop="20261031012906 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم وحی</title>
+  </programme>
+  <programme start="20261031013000 +0000" stop="20261031013300 +0000" channel="IRIBUHD.ir"><title lang="fa">اذان صبح به افق تهران</title>
+  </programme>
+  <programme start="20261031013358 +0000" stop="20261031013658 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم وحی - دعای الهی عظم بلا</title>
+  </programme>
+  <programme start="20261031013743 +0000" stop="20261031020743 +0000" channel="IRIBUHD.ir"><title lang="fa">خطبه قیام</title>
+  </programme>
+  <programme start="20261031013841 +0000" stop="20261031020841 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم رضوان - حدیث</title>
+  </programme>
+  <programme start="20261031013931 +0000" stop="20261031014231 +0000" channel="IRIBUHD.ir"><title lang="fa">زنجان زیبا - آلاداغ لار</title>
+  </programme>
+  <programme start="20261031014248 +0000" stop="20261031014748 +0000" channel="IRIBUHD.ir"><title lang="fa">چهارمحال و بختیاری زیبا - تنگه صیاد</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031014822 +0000" stop="20261031015322 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261031015413 +0000" stop="20261031015813 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261031015830 +0000" stop="20261031020230 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا - روستاها</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031020302 +0000" stop="20261031020602 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - دریاچه نمک حوض سلطان</title>
+  </programme>
+  <programme start="20261031020640 +0000" stop="20261031021440 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا - پاییز</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031021446 +0000" stop="20261031021646 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - طبیعت تابستانه</title>
+  </programme>
+  <programme start="20261031021724 +0000" stop="20261031022124 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - روستای آدران</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031022136 +0000" stop="20261031022436 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا در زمستان</title>
+  </programme>
+  <programme start="20261031022509 +0000" stop="20261031023009 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - کردان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031023037 +0000" stop="20261031031437 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه تلویزیونی برمودا فصل سوم-قسمت31</title>
+  </programme>
+  <programme start="20261031031440 +0000" stop="20261031031740 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031031749 +0000" stop="20261031032149 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - روستای یخکش</title>
+  </programme>
+  <programme start="20261031032151 +0000" stop="20261031032551 +0000" channel="IRIBUHD.ir"><title lang="fa">خوزستان زیبا - بهبهان - منطقه تشان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031032608 +0000" stop="20261031032908 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
+  </programme>
+  <programme start="20261031032949 +0000" stop="20261031033749 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه انیمیشن ببعی فصل چهارم-قسمت24</title>
+    <desc lang="fa">پویانمایی
+تهیه کننده: محمدمهدی مشکوری
+کارگردان: حسین صفارزادگان
+مرکز پویانمایی صبا</desc>
+  </programme>
+  <programme start="20261031033827 +0000" stop="20261031034127 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031034136 +0000" stop="20261031034636 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-لاریجان</title>
+  </programme>
+  <programme start="20261031034649 +0000" stop="20261031034849 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261031034852 +0000" stop="20261031041852 +0000" channel="IRIBUHD.ir"><title lang="fa">لرستان زیبا - پل تاریخی کشکان</title>
+  </programme>
+  <programme start="20261031034939 +0000" stop="20261031035139 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-جنگل کلار آباد</title>
+  </programme>
+  <programme start="20261031035229 +0000" stop="20261031035529 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - طبیعت برفی</title>
+  </programme>
+  <programme start="20261031035617 +0000" stop="20261031035817 +0000" channel="IRIBUHD.ir"><title lang="fa">سرزمین زیبای ایران</title>
+  </programme>
+  <programme start="20261031035850 +0000" stop="20261031035950 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031040002 +0000" stop="20261031044302 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند سیاره زمین فصل 3 قسمت 8</title>
+    <desc lang="fa">مستند حیات وحش</desc>
+  </programme>
+  <programme start="20261031044333 +0000" stop="20261031044633 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031044642 +0000" stop="20261031044942 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031044943 +0000" stop="20261031045843 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا - آبشار میلاش</title>
+  </programme>
+  <programme start="20261031045938 +0000" stop="20261031053538 +0000" channel="IRIBUHD.ir"><title lang="fa">حیوانات از نزدیک با برتی گرگوری-فصل اول-قسمت 2</title>
+  </programme>
+  <programme start="20261031053627 +0000" stop="20261031053927 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031053936 +0000" stop="20261031054236 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - قله توچال</title>
+  </programme>
+  <programme start="20261031054245 +0000" stop="20261031054545 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا -جاده اسالم به خلخال</title>
+  </programme>
+  <programme start="20261031054642 +0000" stop="20261031055042 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا،استان گیلان،در آغوش ابر ها</title>
+  </programme>
+  <programme start="20261031055109 +0000" stop="20261031055409 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031055412 +0000" stop="20261031055612 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا،زمستان</title>
+  </programme>
+  <programme start="20261031055708 +0000" stop="20261031062708 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه - طبیعت</title>
+  </programme>
+  <programme start="20261031055754 +0000" stop="20261031055954 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031055955 +0000" stop="20261031064355 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند تلویزیونی ایرانگرد فصل 6 قسمت11</title>
+    <desc lang="fa">مستند گردشگری</desc>
+  </programme>
+  <programme start="20261031064415 +0000" stop="20261031064715 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031064724 +0000" stop="20261031065124 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261031065141 +0000" stop="20261031065441 +0000" channel="IRIBUHD.ir"><title lang="fa">همدان زیبا</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031065515 +0000" stop="20261031065715 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - طبیعت تابستانه</title>
+  </programme>
+  <programme start="20261031065753 +0000" stop="20261031065953 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031065954 +0000" stop="20261031074354 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه  بیگانگان-قسمت 11</title>
+  </programme>
+  <programme start="20261031074444 +0000" stop="20261031081444 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه- طبیعت</title>
+  </programme>
+  <programme start="20261031074511 +0000" stop="20261031074811 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031074820 +0000" stop="20261031075320 +0000" channel="IRIBUHD.ir"><title lang="fa">چهارمحال و بختیاری زیبا - تنگه صیاد</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031075354 +0000" stop="20261031075554 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - سه استان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031075649 +0000" stop="20261031080049 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261031080106 +0000" stop="20261031080306 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا - روستای سنگان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031080401 +0000" stop="20261031080801 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - روستای یخکش</title>
+  </programme>
+  <programme start="20261031080830 +0000" stop="20261031081330 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - کردان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031081347 +0000" stop="20261031081747 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم وحی</title>
+  </programme>
+  <programme start="20261031081800 +0000" stop="20261031082100 +0000" channel="IRIBUHD.ir"><title lang="fa">اذان ظهر به وقت تهران</title>
+  </programme>
+  <programme start="20261031082158 +0000" stop="20261031082358 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم وحی- دعای الغریق</title>
+  </programme>
+  <programme start="20261031082410 +0000" stop="20261031085410 +0000" channel="IRIBUHD.ir"><title lang="fa">خطبه قیام</title>
+  </programme>
+  <programme start="20261031082508 +0000" stop="20261031085508 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم رضوان - حدیث</title>
+  </programme>
+  <programme start="20261031082600 +0000" stop="20261031083000 +0000" channel="IRIBUHD.ir"><title lang="fa">بهار در کوه های البرز</title>
+  </programme>
+  <programme start="20261031083045 +0000" stop="20261031083345 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا در زمستان</title>
+  </programme>
+  <programme start="20261031083418 +0000" stop="20261031083918 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - روستای ارنگه</title>
+  </programme>
+  <programme start="20261031083924 +0000" stop="20261031084224 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
+  </programme>
+  <programme start="20261031084305 +0000" stop="20261031084505 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - دریاچه ممرز</title>
+  </programme>
+  <programme start="20261031084543 +0000" stop="20261031084743 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261031084746 +0000" stop="20261031085246 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا روستای آدران</title>
+  </programme>
+  <programme start="20261031085322 +0000" stop="20261031085622 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - طبیعت برفی</title>
+  </programme>
+  <programme start="20261031085710 +0000" stop="20261031090110 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261031090120 +0000" stop="20261031090420 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031090421 +0000" stop="20261031091421 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا-آبشار شیرآباد</title>
+  </programme>
+  <programme start="20261031091459 +0000" stop="20261031092259 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه انیمیشن ببعی فصل چهارم-قسمت25</title>
+    <desc lang="fa">پویانمایی
+تهیه کننده: محمدمهدی مشکوری
+کارگردان: حسین صفارزادگان
+مرکز پویانمایی صبا</desc>
+  </programme>
+  <programme start="20261031092355 +0000" stop="20261031092655 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031092704 +0000" stop="20261031093004 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا - جنگل شیر اباد</title>
+  </programme>
+  <programme start="20261031093016 +0000" stop="20261031101816 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند سلسله ها فصل اول -قسمت5</title>
+    <desc lang="fa">مستند حیات وحش</desc>
+  </programme>
+  <programme start="20261031101855 +0000" stop="20261031102155 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031102204 +0000" stop="20261031102604 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا -باغ گلهای آسارا</title>
+  </programme>
+  <programme start="20261031102638 +0000" stop="20261031102938 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا -جاده اسالم به خلخال</title>
+  </programme>
+  <programme start="20261031103035 +0000" stop="20261031111235 +0000" channel="IRIBUHD.ir"><title lang="fa">شادآباد-بندر ترکمن-Ep -01</title>
+  </programme>
+  <programme start="20261031111305 +0000" stop="20261031111605 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031111614 +0000" stop="20261031111914 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031111917 +0000" stop="20261031112117 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا</title>
+  </programme>
+  <programme start="20261031112143 +0000" stop="20261031112643 +0000" channel="IRIBUHD.ir"><title lang="fa">چهارمحال و بختیاری زیبا - تنگه صیاد</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031112717 +0000" stop="20261031113017 +0000" channel="IRIBUHD.ir"><title lang="fa">زنجان زیبا - آلاداغ لار</title>
+  </programme>
+  <programme start="20261031113034 +0000" stop="20261031122034 +0000" channel="IRIBUHD.ir"><title lang="fa">K34-خبرنگاران - فراتر</title>
+  </programme>
+  <programme start="20261031122049 +0000" stop="20261031122349 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031122358 +0000" stop="20261031122758 +0000" channel="IRIBUHD.ir"><title lang="fa">خوزستان زیبا - بهبهان - منطقه تشان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031122815 +0000" stop="20261031123015 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031123016 +0000" stop="20261031130616 +0000" channel="IRIBUHD.ir"><title lang="fa">حیوانات از نزدیک با برتی گرگوری-فصل اول-قسمت 2</title>
+  </programme>
+  <programme start="20261031130705 +0000" stop="20261031131005 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031131014 +0000" stop="20261031131414 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261031131431 +0000" stop="20261031131931 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261031132022 +0000" stop="20261031132422 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - روستای یخکش</title>
+  </programme>
+  <programme start="20261031132424 +0000" stop="20261031132824 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا - روستاها</title>
+  </programme>
+  <programme start="20261031132859 +0000" stop="20261031135859 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه- طبیعت</title>
+  </programme>
+  <programme start="20261031132952 +0000" stop="20261031133752 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه انیمیشن ببعی فصل چهارم-قسمت25</title>
+    <desc lang="fa">پویانمایی
+تهیه کننده: محمدمهدی مشکوری
+کارگردان: حسین صفارزادگان
+مرکز پویانمایی صبا</desc>
+  </programme>
+  <programme start="20261031133848 +0000" stop="20261031140848 +0000" channel="IRIBUHD.ir"><title lang="fa">میان برنامه- آرم گل</title>
+  </programme>
+  <programme start="20261031133903 +0000" stop="20261031134203 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031134231 +0000" stop="20261031134431 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - طبیعت تابستانه</title>
+  </programme>
+  <programme start="20261031134509 +0000" stop="20261031135009 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-لاریجان</title>
+  </programme>
+  <programme start="20261031135022 +0000" stop="20261031135322 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا در زمستان</title>
+  </programme>
+  <programme start="20261031135355 +0000" stop="20261031142355 +0000" channel="IRIBUHD.ir"><title lang="fa">لرستان زیبا - پل تاریخی کشکان</title>
+  </programme>
+  <programme start="20261031135442 +0000" stop="20261031135842 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم وحی</title>
+  </programme>
+  <programme start="20261031135900 +0000" stop="20261031140200 +0000" channel="IRIBUHD.ir"><title lang="fa">اذان مغرب به افق تهران</title>
+  </programme>
+  <programme start="20261031140258 +0000" stop="20261031140558 +0000" channel="IRIBUHD.ir"><title lang="fa">دعای باران</title>
+  </programme>
+  <programme start="20261031140612 +0000" stop="20261031143612 +0000" channel="IRIBUHD.ir"><title lang="fa">خطبه قیام</title>
+  </programme>
+  <programme start="20261031140710 +0000" stop="20261031143710 +0000" channel="IRIBUHD.ir"><title lang="fa">نسیم رضوان - حدیث</title>
+  </programme>
+  <programme start="20261031140746 +0000" stop="20261031140946 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا-جنگل کلار آباد</title>
+  </programme>
+  <programme start="20261031141036 +0000" stop="20261031141336 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
+  </programme>
+  <programme start="20261031141417 +0000" stop="20261031141617 +0000" channel="IRIBUHD.ir"><title lang="fa">سرزمین زیبای ایران</title>
+  </programme>
+  <programme start="20261031141650 +0000" stop="20261031141950 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - طبیعت برفی</title>
+  </programme>
+  <programme start="20261031142038 +0000" stop="20261031142938 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا - آبشار میلاش</title>
+  </programme>
+  <programme start="20261031143033 +0000" stop="20261031151433 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه  بیگانگان-قسمت 11</title>
+  </programme>
+  <programme start="20261031151523 +0000" stop="20261031151823 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031151832 +0000" stop="20261031152132 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031152133 +0000" stop="20261031152333 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - سه استان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031152428 +0000" stop="20261031152628 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261031152631 +0000" stop="20261031153031 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا - روستاها</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031153103 +0000" stop="20261031153403 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا -جاده اسالم به خلخال</title>
+  </programme>
+  <programme start="20261031153500 +0000" stop="20261031154000 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - کردان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031154028 +0000" stop="20261031154328 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا - قله توچال</title>
+  </programme>
+  <programme start="20261031154337 +0000" stop="20261031154437 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031154440 +0000" stop="20261031162440 +0000" channel="IRIBUHD.ir"><title lang="fa">همه یا هیچ: آرسنال - فصل اول - قسمت7</title>
+  </programme>
+  <programme start="20261031162528 +0000" stop="20261031162828 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031162837 +0000" stop="20261031163037 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا-استان یزد-روستای شادکام</title>
+  </programme>
+  <programme start="20261031163111 +0000" stop="20261031163411 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031163414 +0000" stop="20261031163614 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران زیبا،زمستان</title>
+  </programme>
+  <programme start="20261031163710 +0000" stop="20261031164210 +0000" channel="IRIBUHD.ir"><title lang="fa">چهارمحال و بختیاری زیبا - تنگه صیاد</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031164244 +0000" stop="20261031164544 +0000" channel="IRIBUHD.ir"><title lang="fa">همدان زیبا</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
+  <programme start="20261031164618 +0000" stop="20261031165018 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا - 4</title>
+  </programme>
+  <programme start="20261031165035 +0000" stop="20261031165535 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - روستای ارنگه</title>
+  </programme>
+  <programme start="20261031165541 +0000" stop="20261031172541 +0000" channel="IRIBUHD.ir"><title lang="fa">لرستان زیبا - پل تاریخی کشکان</title>
+  </programme>
+  <programme start="20261031165628 +0000" stop="20261031165828 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - دریاچه ممرز</title>
+  </programme>
+  <programme start="20261031165906 +0000" stop="20261031170006 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031170009 +0000" stop="20261031174309 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند سیاره زمین فصل 3 قسمت 8</title>
+    <desc lang="fa">مستند حیات وحش</desc>
+  </programme>
+  <programme start="20261031174340 +0000" stop="20261031174640 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031174649 +0000" stop="20261031175149 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا روستای آدران</title>
+  </programme>
+  <programme start="20261031175225 +0000" stop="20261031175425 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - طبیعت تابستانه</title>
+  </programme>
+  <programme start="20261031175503 +0000" stop="20261031175903 +0000" channel="IRIBUHD.ir"><title lang="fa">هرمزگان زیبا-خلیج فارس</title>
+  </programme>
+  <programme start="20261031175913 +0000" stop="20261031180313 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - روستای یخکش</title>
+  </programme>
+  <programme start="20261031180315 +0000" stop="20261031181315 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا-آبشار شیرآباد</title>
+  </programme>
+  <programme start="20261031181353 +0000" stop="20261031181653 +0000" channel="IRIBUHD.ir"><title lang="fa">تهران زیبا در زمستان</title>
+  </programme>
+  <programme start="20261031181726 +0000" stop="20261031182126 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا -باغ گلهای آسارا</title>
+  </programme>
+  <programme start="20261031182200 +0000" stop="20261031182500 +0000" channel="IRIBUHD.ir"><title lang="fa">مازندران زیبا - یخ چشمه</title>
+  </programme>
+  <programme start="20261031182541 +0000" stop="20261031182841 +0000" channel="IRIBUHD.ir"><title lang="fa">گلستان زیبا - جنگل شیر اباد</title>
+  </programme>
+  <programme start="20261031182853 +0000" stop="20261031182953 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031182956 +0000" stop="20261031191356 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه مستند تلویزیونی ایرانگرد فصل 6 قسمت12</title>
+    <desc lang="fa">مستند گردشگری</desc>
+  </programme>
+  <programme start="20261031191441 +0000" stop="20261031191741 +0000" channel="IRIBUHD.ir"><title lang="fa">ایران در قاب 4K</title>
+  </programme>
+  <programme start="20261031191750 +0000" stop="20261031191950 +0000" channel="IRIBUHD.ir"><title lang="fa">قم زیبا - گنبد نمکی</title>
+  </programme>
+  <programme start="20261031191953 +0000" stop="20261031192153 +0000" channel="IRIBUHD.ir"><title lang="fa">گیلان زیبا</title>
+  </programme>
+  <programme start="20261031192219 +0000" stop="20261031192519 +0000" channel="IRIBUHD.ir"><title lang="fa">آذربایجان غربی زیبا</title>
+  </programme>
+  <programme start="20261031192520 +0000" stop="20261031192820 +0000" channel="IRIBUHD.ir"><title lang="fa">زنجان زیبا - آلاداغ لار</title>
+  </programme>
+  <programme start="20261031192837 +0000" stop="20261031192937 +0000" channel="IRIBUHD.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031192949 +0000" stop="20261031201749 +0000" channel="IRIBUHD.ir"><title lang="fa">مجموعه  بیگانگان-قسمت 12</title>
+  </programme>
+  <programme start="20261031201816 +0000" stop="20261031202216 +0000" channel="IRIBUHD.ir"><title lang="fa">بهار در کوه های البرز</title>
+  </programme>
+  <programme start="20261031202301 +0000" stop="20261031202501 +0000" channel="IRIBUHD.ir"><title lang="fa">البرز زیبا - کردان</title>
+    <desc lang="fa">ایران زیبا</desc>
+  </programme>
   <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="AbadanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
   <programme start="20261029223000 +0000" stop="20261030003000 +0000" channel="AbadanTV.ir"><title lang="fa">02:00 - 04:00</title>
@@ -8806,6 +9934,338 @@
   <programme start="20261030200402 +0000" stop="20261030203402 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند فرزند الینور</title>
   </programme>
   <programme start="20261030200424 +0000" stop="20261030202924 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند فرزند الینور - حقوق بشر</title>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030204600 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه مستند فرزند الینور - حقوق بشر</title>
+  </programme>
+  <programme start="20261030204600 +0000" stop="20261030204900 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه نکات زمان جنگ - ملی و میهنی</title>
+  </programme>
+  <programme start="20261030204900 +0000" stop="20261030205500 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سمفونی اقتدار - ملی و میهنی</title>
+  </programme>
+  <programme start="20261030205511 +0000" stop="20261030205611 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261030205619 +0000" stop="20261030212619 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261030205631 +0000" stop="20261030205831 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261030205908 +0000" stop="20261030212908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون فیلم تلویزیونی بوی زعفران</title>
+  </programme>
+  <programme start="20261030205930 +0000" stop="20261030213930 +0000" channel="EshraghNetwork.ir"><title lang="fa">سینمایی لبخند جیمی</title>
+    <desc lang="fa">زیرنویس آگهی - بسته 22</desc>
+  </programme>
+  <programme start="20261030213930 +0000" stop="20261030220930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261030213942 +0000" stop="20261030214142 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261030214159 +0000" stop="20261030222159 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه سینمایی لبخند جیمی</title>
+  </programme>
+  <programme start="20261030222249 +0000" stop="20261030222749 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه هشت بهشت - کتله خور</title>
+  </programme>
+  <programme start="20261030222824 +0000" stop="20261030225824 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند رود سرخ</title>
+  </programme>
+  <programme start="20261030222846 +0000" stop="20261030232046 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند رود سرخ ، خون زندگی - زنجان</title>
+  </programme>
+  <programme start="20261030232055 +0000" stop="20261030232855 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سرگرمی اشراق نما</title>
+  </programme>
+  <programme start="20261030232908 +0000" stop="20261030235908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه در جستجوی آرامش</title>
+  </programme>
+  <programme start="20261030232930 +0000" stop="20261031002130 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه - در جستجوی آرامش</title>
+  </programme>
+  <programme start="20261031002218 +0000" stop="20261031002418 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031002452 +0000" stop="20261031003352 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه بر آب رفته - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031003430 +0000" stop="20261031012130 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند غیر رسمی - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031012151 +0000" stop="20261031015151 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه مسیر افتخار - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031012248 +0000" stop="20261031012848 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماهنگ یاد امام و شهدا - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031012913 +0000" stop="20261031013213 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20261031013303 +0000" stop="20261031013403 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20261031013440 +0000" stop="20261031020440 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان صبح</title>
+  </programme>
+  <programme start="20261031013502 +0000" stop="20261031014202 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : غاشیه  -  قاری : عبدالباسط</desc>
+  </programme>
+  <programme start="20261031014220 +0000" stop="20261031021220 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20261031014230 +0000" stop="20261031014630 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان صبح</title>
+    <desc lang="fa">موذن : محمد طوخی</desc>
+  </programme>
+  <programme start="20261031014644 +0000" stop="20261031015444 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز صبح</title>
+    <desc lang="fa">امامت - آیت الله کریمی جهرمی</desc>
+  </programme>
+  <programme start="20261031015525 +0000" stop="20261031022525 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20261031015621 +0000" stop="20261031015721 +0000" channel="EshraghNetwork.ir"><title lang="fa">ذکر روز - شنبه</title>
+  </programme>
+  <programme start="20261031015742 +0000" stop="20261031022742 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک حجاب - حجاب و عفاف</title>
+  </programme>
+  <programme start="20261031015817 +0000" stop="20261031022817 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند نجف</title>
+  </programme>
+  <programme start="20261031015839 +0000" stop="20261031022539 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند نجف - حرم حضرت علی (ع)</title>
+  </programme>
+  <programme start="20261031022625 +0000" stop="20261031022925 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031022930 +0000" stop="20261031023030 +0000" channel="EshraghNetwork.ir"><title lang="fa">سرود جمهوری اسلامی</title>
+  </programme>
+  <programme start="20261031023030 +0000" stop="20261031024030 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20261031024045 +0000" stop="20261031024145 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آینه باشیم - امر به معروف</title>
+  </programme>
+  <programme start="20261031024145 +0000" stop="20261031024745 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سبک زندگی - بازار محبت</title>
+  </programme>
+  <programme start="20261031024815 +0000" stop="20261031031815 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند خزندگان ایران</title>
+  </programme>
+  <programme start="20261031024837 +0000" stop="20261031032837 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند خزندگان ایران - حیات وحش</title>
+  </programme>
+  <programme start="20261031032845 +0000" stop="20261031034245 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه سرگرمی - اشراق نما</title>
+  </programme>
+  <programme start="20261031034317 +0000" stop="20261031041317 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون پویا نمایی آن شرلی</title>
+  </programme>
+  <programme start="20261031034339 +0000" stop="20261031040339 +0000" channel="EshraghNetwork.ir"><title lang="fa">پویا نمایی - آن شرلی</title>
+  </programme>
+  <programme start="20261031040422 +0000" stop="20261031041422 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه خوراک های ایرانی - کماج</title>
+  </programme>
+  <programme start="20261031041507 +0000" stop="20261031042307 +0000" channel="EshraghNetwork.ir"><title lang="fa">موسیقی سنتی - تصنیف چکاوک</title>
+  </programme>
+  <programme start="20261031042355 +0000" stop="20261031045355 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031042407 +0000" stop="20261031042507 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031042606 +0000" stop="20261031042906 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20261031042908 +0000" stop="20261031045908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند مردان دریا</title>
+  </programme>
+  <programme start="20261031042930 +0000" stop="20261031050630 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند مردان دریا - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031050645 +0000" stop="20261031050845 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - جشنواره فیلم مقاومت</title>
+  </programme>
+  <programme start="20261031050854 +0000" stop="20261031052154 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه آتش انتقام - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031052216 +0000" stop="20261031052716 +0000" channel="EshraghNetwork.ir"><title lang="fa">ارسالی مردمی - زنجان</title>
+  </programme>
+  <programme start="20261031052741 +0000" stop="20261031055741 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - جشنواره مد و لباس فجر</title>
+  </programme>
+  <programme start="20261031052800 +0000" stop="20261031055800 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031052812 +0000" stop="20261031055812 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031052849 +0000" stop="20261031055849 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی - تقدیم برنامه</title>
+  </programme>
+  <programme start="20261031052908 +0000" stop="20261031055908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه سرو سپید سرخ</title>
+  </programme>
+  <programme start="20261031052930 +0000" stop="20261031061130 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه - سرو سپید سرخ</title>
+  </programme>
+  <programme start="20261031061134 +0000" stop="20261031064134 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - آنونس سینمایی ظهر</title>
+  </programme>
+  <programme start="20261031061154 +0000" stop="20261031062454 +0000" channel="EshraghNetwork.ir"><title lang="fa">برای ایران - زنجان</title>
+  </programme>
+  <programme start="20261031062551 +0000" stop="20261031062651 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031062656 +0000" stop="20261031065656 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031062708 +0000" stop="20261031062908 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031062908 +0000" stop="20261031065908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون سیمای زندگی</title>
+  </programme>
+  <programme start="20261031062930 +0000" stop="20261031072430 +0000" channel="EshraghNetwork.ir"><title lang="fa">سیمای زندگی</title>
+  </programme>
+  <programme start="20261031072430 +0000" stop="20261031072530 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - برنامه گئجه لر</title>
+  </programme>
+  <programme start="20261031072540 +0000" stop="20261031075540 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031072552 +0000" stop="20261031072852 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031072916 +0000" stop="20261031075916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 11</title>
+  </programme>
+  <programme start="20261031072930 +0000" stop="20261031074430 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 11</title>
+  </programme>
+  <programme start="20261031074430 +0000" stop="20261031081430 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه نکات زمان جنگ - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031074507 +0000" stop="20261031081507 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند سفرنامه</title>
+  </programme>
+  <programme start="20261031074529 +0000" stop="20261031081029 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند سفرنامه - هوش مصنوعی</title>
+  </programme>
+  <programme start="20261031081047 +0000" stop="20261031081447 +0000" channel="EshraghNetwork.ir"><title lang="fa">ارسالی مردمی - زنجان</title>
+  </programme>
+  <programme start="20261031081537 +0000" stop="20261031084537 +0000" channel="EshraghNetwork.ir"><title lang="fa">موشن گرافیک شهدای زنجان -  9 آبان</title>
+  </programme>
+  <programme start="20261031081618 +0000" stop="20261031082018 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه تقویم عزت - رزمندگان زنجان</title>
+  </programme>
+  <programme start="20261031082033 +0000" stop="20261031082233 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه - راه امام ، کلام امام (ره)</title>
+  </programme>
+  <programme start="20261031082254 +0000" stop="20261031085254 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان ظهر</title>
+  </programme>
+  <programme start="20261031082316 +0000" stop="20261031082916 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : رعد -  قاری : مهدی کردلو</desc>
+  </programme>
+  <programme start="20261031082920 +0000" stop="20261031085920 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20261031082930 +0000" stop="20261031083330 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان ظهر</title>
+    <desc lang="fa">موذن : محمد پور</desc>
+  </programme>
+  <programme start="20261031083349 +0000" stop="20261031084049 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز ظهر</title>
+    <desc lang="fa">امامت - آیت الله شهید رئیسی</desc>
+  </programme>
+  <programme start="20261031084058 +0000" stop="20261031084158 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20261031084221 +0000" stop="20261031084421 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031084435 +0000" stop="20261031092335 +0000" channel="EshraghNetwork.ir"><title lang="fa">لاله خیز - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031092338 +0000" stop="20261031092738 +0000" channel="EshraghNetwork.ir"><title lang="fa">ارسالی مردمی - زنجان</title>
+  </programme>
+  <programme start="20261031092829 +0000" stop="20261031094329 +0000" channel="EshraghNetwork.ir"><title lang="fa">برای ایران - زنجان</title>
+  </programme>
+  <programme start="20261031094329 +0000" stop="20261031101329 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه نکات زمان جنگ - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031094404 +0000" stop="20261031101404 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031094416 +0000" stop="20261031094616 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031094713 +0000" stop="20261031101713 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون گفتمان سردار جلالی</title>
+  </programme>
+  <programme start="20261031094735 +0000" stop="20261031102535 +0000" channel="EshraghNetwork.ir"><title lang="fa">گفتمان سردار جلالی - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031102535 +0000" stop="20261031105535 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031102547 +0000" stop="20261031102847 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031102849 +0000" stop="20261031105849 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی - تقدیم برنامه</title>
+  </programme>
+  <programme start="20261031102908 +0000" stop="20261031105908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون سینمایی لبخند جیمی</title>
+  </programme>
+  <programme start="20261031102930 +0000" stop="20261031110930 +0000" channel="EshraghNetwork.ir"><title lang="fa">سینمایی لبخند جیمی</title>
+    <desc lang="fa">زیر نویس آگهی - بسته 9</desc>
+  </programme>
+  <programme start="20261031110930 +0000" stop="20261031113930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031110942 +0000" stop="20261031111042 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031111042 +0000" stop="20261031115042 +0000" channel="EshraghNetwork.ir"><title lang="fa">ادامه سینمایی لبخند جیمی</title>
+  </programme>
+  <programme start="20261031115132 +0000" stop="20261031115632 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه داستان کوله پرواز - هفته نوجوان</title>
+  </programme>
+  <programme start="20261031115634 +0000" stop="20261031122634 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند بازار</title>
+  </programme>
+  <programme start="20261031115656 +0000" stop="20261031122656 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند بازار - زنجان</title>
+  </programme>
+  <programme start="20261031122656 +0000" stop="20261031125656 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031122708 +0000" stop="20261031122908 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031122908 +0000" stop="20261031125908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون ماهک</title>
+  </programme>
+  <programme start="20261031122930 +0000" stop="20261031131830 +0000" channel="EshraghNetwork.ir"><title lang="fa">ماهک - کودک و نوجوان</title>
+  </programme>
+  <programme start="20261031131914 +0000" stop="20261031132714 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پیچش مو - حجاب و عفاف</title>
+  </programme>
+  <programme start="20261031132744 +0000" stop="20261031135744 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031132756 +0000" stop="20261031133056 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031133118 +0000" stop="20261031140118 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون پاورقی</title>
+  </programme>
+  <programme start="20261031133140 +0000" stop="20261031135540 +0000" channel="EshraghNetwork.ir"><title lang="fa">پاورقی - طنز سیاسی</title>
+  </programme>
+  <programme start="20261031135540 +0000" stop="20261031135740 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - جشنواره فیلم مقاومت</title>
+  </programme>
+  <programme start="20261031135740 +0000" stop="20261031140140 +0000" channel="EshraghNetwork.ir"><title lang="fa">گزارش مردمی - زنجان</title>
+  </programme>
+  <programme start="20261031140150 +0000" stop="20261031140250 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه پدافند غیر عامل - هفته پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031140345 +0000" stop="20261031143345 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - اذان مغرب</title>
+  </programme>
+  <programme start="20261031140407 +0000" stop="20261031140907 +0000" channel="EshraghNetwork.ir"><title lang="fa">تلاوت قرآن کریم</title>
+    <desc lang="fa">سوره : الحدید  - قاری : پرویزی</desc>
+  </programme>
+  <programme start="20261031140920 +0000" stop="20261031143920 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیک تاک</title>
+  </programme>
+  <programme start="20261031140930 +0000" stop="20261031141330 +0000" channel="EshraghNetwork.ir"><title lang="fa">اذان مغرب</title>
+    <desc lang="fa">موذن : غلوش</desc>
+  </programme>
+  <programme start="20261031141425 +0000" stop="20261031142025 +0000" channel="EshraghNetwork.ir"><title lang="fa">نماز مغرب</title>
+    <desc lang="fa">امامت - حجت الاسلام ملکی</desc>
+  </programme>
+  <programme start="20261031142119 +0000" stop="20261031142219 +0000" channel="EshraghNetwork.ir"><title lang="fa">دعای سلامتی امام زمان (عج)</title>
+  </programme>
+  <programme start="20261031142305 +0000" stop="20261031142505 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - جشنواره فیلم مقاومت</title>
+  </programme>
+  <programme start="20261031142510 +0000" stop="20261031145510 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031142522 +0000" stop="20261031142822 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031142849 +0000" stop="20261031145849 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی - تقدیم برنامه</title>
+  </programme>
+  <programme start="20261031142908 +0000" stop="20261031145908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مجموعه سرو سپید سرخ</title>
+  </programme>
+  <programme start="20261031142930 +0000" stop="20261031151330 +0000" channel="EshraghNetwork.ir"><title lang="fa">مجموعه - سرو سپید سرخ</title>
+    <desc lang="fa">زیر نویس آگهی - بسته 15</desc>
+  </programme>
+  <programme start="20261031151411 +0000" stop="20261031154411 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031151423 +0000" stop="20261031151723 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031151745 +0000" stop="20261031154745 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون از هیچ</title>
+  </programme>
+  <programme start="20261031151807 +0000" stop="20261031155507 +0000" channel="EshraghNetwork.ir"><title lang="fa">از هیچ - زنجان</title>
+  </programme>
+  <programme start="20261031155517 +0000" stop="20261031160017 +0000" channel="EshraghNetwork.ir"><title lang="fa">میان برنامه داستان کوله پرواز - هفته نوجوان</title>
+  </programme>
+  <programme start="20261031160036 +0000" stop="20261031160536 +0000" channel="EshraghNetwork.ir"><title lang="fa">ارسالی مردمی - زنجان</title>
+  </programme>
+  <programme start="20261031160556 +0000" stop="20261031161556 +0000" channel="EshraghNetwork.ir"><title lang="fa">برای ایران - زنجان</title>
+  </programme>
+  <programme start="20261031161556 +0000" stop="20261031162056 +0000" channel="EshraghNetwork.ir"><title lang="fa">خط پیگیری - زنجان</title>
+  </programme>
+  <programme start="20261031162056 +0000" stop="20261031162256 +0000" channel="EshraghNetwork.ir"><title lang="fa">تیزر - جشنواره فیلم مقاومت</title>
+  </programme>
+  <programme start="20261031162256 +0000" stop="20261031165256 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031162308 +0000" stop="20261031162708 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031162802 +0000" stop="20261031162902 +0000" channel="EshraghNetwork.ir"><title lang="fa">صلوات خاصه امام رضا (ع)</title>
+  </programme>
+  <programme start="20261031162916 +0000" stop="20261031165916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 20</title>
+  </programme>
+  <programme start="20261031162930 +0000" stop="20261031170930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 20</title>
+  </programme>
+  <programme start="20261031170930 +0000" stop="20261031172330 +0000" channel="EshraghNetwork.ir"><title lang="fa">گزیده تجمعات شبانه - زنجان</title>
+  </programme>
+  <programme start="20261031172407 +0000" stop="20261031175407 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031172419 +0000" stop="20261031172819 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031172908 +0000" stop="20261031175908 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون گئجه لر</title>
+  </programme>
+  <programme start="20261031172930 +0000" stop="20261031183930 +0000" channel="EshraghNetwork.ir"><title lang="fa">گئجه لر - برنامه شبانه</title>
+  </programme>
+  <programme start="20261031183930 +0000" stop="20261031190930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031183942 +0000" stop="20261031184342 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031184436 +0000" stop="20261031192236 +0000" channel="EshraghNetwork.ir"><title lang="fa">مستند آقاجان - ملی و میهنی</title>
+  </programme>
+  <programme start="20261031192327 +0000" stop="20261031195327 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031192339 +0000" stop="20261031192739 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031192828 +0000" stop="20261031195828 +0000" channel="EshraghNetwork.ir"><title lang="fa">یک آیه</title>
+  </programme>
+  <programme start="20261031192916 +0000" stop="20261031195916 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون خبر 23</title>
+  </programme>
+  <programme start="20261031192930 +0000" stop="20261031194930 +0000" channel="EshraghNetwork.ir"><title lang="fa">خبر - ساعت 23</title>
+  </programme>
+  <programme start="20261031194930 +0000" stop="20261031201930 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - قبل از آگهی</title>
+  </programme>
+  <programme start="20261031194942 +0000" stop="20261031195142 +0000" channel="EshraghNetwork.ir"><title lang="fa">آگهی بازرگانی</title>
+  </programme>
+  <programme start="20261031195224 +0000" stop="20261031200524 +0000" channel="EshraghNetwork.ir"><title lang="fa">برای ایران - زنجان</title>
+  </programme>
+  <programme start="20261031200526 +0000" stop="20261031203526 +0000" channel="EshraghNetwork.ir"><title lang="fa">هویت بصری - هم اکنون مستند رویای آمریکایی</title>
   </programme>
   <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="IsfahanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
@@ -10069,53 +11529,223 @@
   </programme>
   <programme start="20261030163000 +0000" stop="20261030183000 +0000" channel=""><title lang="fa">20:00 - 22:00</title>
   </programme>
-  <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="HamoonTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20261030003000 +0000" stop="20261030043000 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261029223000 +0000" stop="20261030003000 +0000" channel="HamoonTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20261030043000 +0000" stop="20261030083000 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030003000 +0000" stop="20261030023000 +0000" channel="HamoonTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20261030083000 +0000" stop="20261030123000 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030023000 +0000" stop="20261030043000 +0000" channel="HamoonTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20261030123000 +0000" stop="20261030130000 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030043000 +0000" stop="20261030063000 +0000" channel="HamoonTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20261030130000 +0000" stop="20261030132000 +0000" channel="HamoonTV.ir"><title lang="fa">اخبار استان</title>
   </programme>
-  <programme start="20261030063000 +0000" stop="20261030083000 +0000" channel="HamoonTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20261030132000 +0000" stop="20261030132900 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030083000 +0000" stop="20261030103000 +0000" channel="HamoonTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20261030132900 +0000" stop="20261030133300 +0000" channel="HamoonTV.ir"><title lang="fa">اذان مغرب زاهدان - موذن سبزعلی</title>
   </programme>
-  <programme start="20261030103000 +0000" stop="20261030123000 +0000" channel="HamoonTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20261030133335 +0000" stop="20261030133935 +0000" channel="HamoonTV.ir"><title lang="fa">نماز جماعت مغرب</title>
   </programme>
-  <programme start="20261030123000 +0000" stop="20261030143000 +0000" channel="HamoonTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20261030134025 +0000" stop="20261030140925 +0000" channel="HamoonTV.ir"><title lang="fa">نیمه پنهان ماه - فصل 4</title>
   </programme>
-  <programme start="20261030143000 +0000" stop="20261030163000 +0000" channel="HamoonTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20261030140930 +0000" stop="20261030143630 +0000" channel="HamoonTV.ir"><title lang="fa">دیدبان - سردار جلالی ( پدافند غیر عامل)</title>
   </programme>
-  <programme start="20261030163000 +0000" stop="20261030183000 +0000" channel="HamoonTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20261030143650 +0000" stop="20261030144050 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل سریال 18:15</title>
   </programme>
-  <programme start="20261030183000 +0000" stop="20261030202900 +0000" channel="HamoonTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20261030144050 +0000" stop="20261030153450 +0000" channel="HamoonTV.ir"><title lang="fa">سریال نون خ سری5</title>
   </programme>
-  <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="HamedanTV.ir"><title lang="fa">00:00 - 02:00</title>
+  <programme start="20261030153500 +0000" stop="20261030160100 +0000" channel="HamoonTV.ir"><title lang="fa">مستند فرصت خراسان جنوبی( زرشک)</title>
   </programme>
-  <programme start="20261029223000 +0000" stop="20261030003000 +0000" channel="HamedanTV.ir"><title lang="fa">02:00 - 04:00</title>
+  <programme start="20261030160140 +0000" stop="20261030160440 +0000" channel="HamoonTV.ir"><title lang="fa">نماهنگ اسمش ایرانه ( پدافند غیر عامل)</title>
   </programme>
-  <programme start="20261030003000 +0000" stop="20261030023000 +0000" channel="HamedanTV.ir"><title lang="fa">04:00 - 06:00</title>
+  <programme start="20261030160530 +0000" stop="20261030161630 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه پدافند غیرعامل</title>
   </programme>
-  <programme start="20261030023000 +0000" stop="20261030043000 +0000" channel="HamedanTV.ir"><title lang="fa">06:00 - 08:00</title>
+  <programme start="20261030161705 +0000" stop="20261030162505 +0000" channel="HamoonTV.ir"><title lang="fa">دعای توسل</title>
   </programme>
-  <programme start="20261030043000 +0000" stop="20261030063000 +0000" channel="HamedanTV.ir"><title lang="fa">08:00 - 10:00</title>
+  <programme start="20261030162515 +0000" stop="20261030162915 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل خبر 20</title>
   </programme>
-  <programme start="20261030063000 +0000" stop="20261030083000 +0000" channel="HamedanTV.ir"><title lang="fa">10:00 - 12:00</title>
+  <programme start="20261030163000 +0000" stop="20261030165500 +0000" channel="HamoonTV.ir"><title lang="fa">اخبار استان</title>
   </programme>
-  <programme start="20261030083000 +0000" stop="20261030103000 +0000" channel="HamedanTV.ir"><title lang="fa">12:00 - 14:00</title>
+  <programme start="20261030165500 +0000" stop="20261030170200 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
-  <programme start="20261030103000 +0000" stop="20261030123000 +0000" channel="HamedanTV.ir"><title lang="fa">14:00 - 16:00</title>
+  <programme start="20261030170250 +0000" stop="20261030180250 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه دادخواه</title>
   </programme>
-  <programme start="20261030123000 +0000" stop="20261030143000 +0000" channel="HamedanTV.ir"><title lang="fa">16:00 - 18:00</title>
+  <programme start="20261030180250 +0000" stop="20261030180550 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی قبل تولیدی21</title>
   </programme>
-  <programme start="20261030143000 +0000" stop="20261030163000 +0000" channel="HamedanTV.ir"><title lang="fa">18:00 - 20:00</title>
+  <programme start="20261030180555 +0000" stop="20261030190855 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه ورزشی دور خیز</title>
   </programme>
-  <programme start="20261030163000 +0000" stop="20261030183000 +0000" channel="HamedanTV.ir"><title lang="fa">20:00 - 22:00</title>
+  <programme start="20261030190855 +0000" stop="20261030191355 +0000" channel="HamoonTV.ir"><title lang="fa">آگهی بازرگانی</title>
   </programme>
-  <programme start="20261030183000 +0000" stop="20261030202900 +0000" channel="HamedanTV.ir"><title lang="fa">22:00 - 24:00</title>
+  <programme start="20261030191445 +0000" stop="20261030200545 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه گنج آبی( چابهار)</title>
+  </programme>
+  <programme start="20261030200615 +0000" stop="20261030202915 +0000" channel="HamoonTV.ir"><title lang="fa">پاورقی فصل 11</title>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030220200 +0000" channel="HamoonTV.ir"><title lang="fa">سینمایی ارباب جنگ</title>
+  </programme>
+  <programme start="20261030220255 +0000" stop="20261030222255 +0000" channel="HamoonTV.ir"><title lang="fa">ایران یار - الفبای پدافند سایبری</title>
+  </programme>
+  <programme start="20261030222325 +0000" stop="20261030222825 +0000" channel="HamoonTV.ir"><title lang="fa">مستند کوتاه ورزشی - فوتبال ساحلی</title>
+  </programme>
+  <programme start="20261030222840 +0000" stop="20261030230640 +0000" channel="HamoonTV.ir"><title lang="fa">مستند ورزشی - محرمانه بوکا جونیورز</title>
+  </programme>
+  <programme start="20261030230655 +0000" stop="20261031000255 +0000" channel="HamoonTV.ir"><title lang="fa">مسابقه خونه مونه - فصل 1</title>
+  </programme>
+  <programme start="20261031000305 +0000" stop="20261031000805 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر برنامه های تامینی</title>
+  </programme>
+  <programme start="20261031000825 +0000" stop="20261031001225 +0000" channel="HamoonTV.ir"><title lang="fa">نماهنگ ایران پایدار- پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031001315 +0000" stop="20261031004115 +0000" channel="HamoonTV.ir"><title lang="fa">نیمه پنهان ماه - فصل 4</title>
+  </programme>
+  <programme start="20261031004125 +0000" stop="20261031004325 +0000" channel="HamoonTV.ir"><title lang="fa">جان کلام - حجت الاسلام عالی</title>
+  </programme>
+  <programme start="20261031004400 +0000" stop="20261031005000 +0000" channel="HamoonTV.ir"><title lang="fa">تلاوت  قرآن تولید مرکز- سوره واقعه</title>
+  </programme>
+  <programme start="20261031005000 +0000" stop="20261031005500 +0000" channel="HamoonTV.ir"><title lang="fa">اذان صبح زاهدان - سادات فاطمی</title>
+  </programme>
+  <programme start="20261031005545 +0000" stop="20261031010145 +0000" channel="HamoonTV.ir"><title lang="fa">نماز جماعت صبح</title>
+  </programme>
+  <programme start="20261031010220 +0000" stop="20261031014720 +0000" channel="HamoonTV.ir"><title lang="fa">سریال دیار مادری</title>
+  </programme>
+  <programme start="20261031014730 +0000" stop="20261031022930 +0000" channel="HamoonTV.ir"><title lang="fa">مستند هفتاد دو جانور خطرناک آسیا</title>
+  </programme>
+  <programme start="20261031023000 +0000" stop="20261031023100 +0000" channel="HamoonTV.ir"><title lang="fa">سرود جمهوری اسلامی ایران</title>
+  </programme>
+  <programme start="20261031023115 +0000" stop="20261031023515 +0000" channel="HamoonTV.ir"><title lang="fa">آیت الکرسی	 ذکر روز شنبه</title>
+  </programme>
+  <programme start="20261031023550 +0000" stop="20261031024350 +0000" channel="HamoonTV.ir"><title lang="fa">دعای عهد</title>
+  </programme>
+  <programme start="20261031024430 +0000" stop="20261031024630 +0000" channel="HamoonTV.ir"><title lang="fa">انیمیشن امین و ثمین ( پلیس فتا)</title>
+  </programme>
+  <programme start="20261031024645 +0000" stop="20261031030945 +0000" channel="HamoonTV.ir"><title lang="fa">انیمیشن مزرعه دوستی</title>
+  </programme>
+  <programme start="20261031031010 +0000" stop="20261031035910 +0000" channel="HamoonTV.ir"><title lang="fa">سریال نون خ سری5</title>
+  </programme>
+  <programme start="20261031040000 +0000" stop="20261031050000 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه صبحگاهی مهرستان</title>
+  </programme>
+  <programme start="20261031050000 +0000" stop="20261031051300 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه پدافند غیر عامل</title>
+  </programme>
+  <programme start="20261031051350 +0000" stop="20261031052950 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031053000 +0000" stop="20261031054700 +0000" channel="HamoonTV.ir"><title lang="fa">بخش خبری ساعت 9</title>
+  </programme>
+  <programme start="20261031054715 +0000" stop="20261031061315 +0000" channel="HamoonTV.ir"><title lang="fa">انیمیشن بچه های کوه تاراک</title>
+  </programme>
+  <programme start="20261031061340 +0000" stop="20261031062740 +0000" channel="HamoonTV.ir"><title lang="fa">نماهامون</title>
+  </programme>
+  <programme start="20261031062810 +0000" stop="20261031071410 +0000" channel="HamoonTV.ir"><title lang="fa">سریال دیار مادری</title>
+  </programme>
+  <programme start="20261031071500 +0000" stop="20261031071900 +0000" channel="HamoonTV.ir"><title lang="fa">نماهنگ پا برجا (نوجوان)</title>
+  </programme>
+  <programme start="20261031071955 +0000" stop="20261031072955 +0000" channel="HamoonTV.ir"><title lang="fa">میان برنامه صبح ظهور-</title>
+  </programme>
+  <programme start="20261031073030 +0000" stop="20261031073230 +0000" channel="HamoonTV.ir"><title lang="fa">روزشمارشهدای 9آبان + وله اذان</title>
+  </programme>
+  <programme start="20261031073325 +0000" stop="20261031073525 +0000" channel="HamoonTV.ir"><title lang="fa">جان کلام -حجت الاسلام عالی</title>
+  </programme>
+  <programme start="20261031073550 +0000" stop="20261031073950 +0000" channel="HamoonTV.ir"><title lang="fa">تلاوت قرآن - تولید مرکز سوره جمعه</title>
+  </programme>
+  <programme start="20261031074000 +0000" stop="20261031074500 +0000" channel="HamoonTV.ir"><title lang="fa">اذان ظهرزاهدان - شهید حسن دانش</title>
+  </programme>
+  <programme start="20261031074515 +0000" stop="20261031075215 +0000" channel="HamoonTV.ir"><title lang="fa">نماز جماعت ظهر- مسجد حجت بن الحسن</title>
+  </programme>
+  <programme start="20261031075225 +0000" stop="20261031082025 +0000" channel="HamoonTV.ir"><title lang="fa">نیمه پنهان ماه - فصل 4</title>
+  </programme>
+  <programme start="20261031082055 +0000" stop="20261031082355 +0000" channel="HamoonTV.ir"><title lang="fa">تیزر سرشماری آمار و نفوس</title>
+  </programme>
+  <programme start="20261031082410 +0000" stop="20261031092410 +0000" channel="HamoonTV.ir"><title lang="fa">برنامه دادخواه</title>
+  </programme>
+  <programme start="20261031092410 +0000" stop="20261031092810 +0000" channel="HamoonTV.ir"><title lang="fa">طنز عروسکی آقای چی و تنگه ترامپ</title>
+  </programme>
+  <programme start="20261030083000 +0000" stop="20261030085200 +0000" channel="HamedanTV.ir"><title lang="fa">دیدبان/ سردار جلالی</title>
+  </programme>
+  <programme start="20261030125200 +0000" stop="20261030130000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030130000 +0000" stop="20261030135700 +0000" channel="HamedanTV.ir"><title lang="fa">سریال لیسانسه ها/فصل دوم</title>
+  </programme>
+  <programme start="20261030135700 +0000" stop="20261030141300 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030141300 +0000" stop="20261030141800 +0000" channel="HamedanTV.ir"><title lang="fa">اذان مغرب به افق همدان</title>
+  </programme>
+  <programme start="20261030141800 +0000" stop="20261030142400 +0000" channel="HamedanTV.ir"><title lang="fa">نماز جماعت مغرب</title>
+  </programme>
+  <programme start="20261030142400 +0000" stop="20261030144500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030144500 +0000" stop="20261030151200 +0000" channel="HamedanTV.ir"><title lang="fa">مستند</title>
+  </programme>
+  <programme start="20261030151200 +0000" stop="20261030152700 +0000" channel="HamedanTV.ir"><title lang="fa">بنیان</title>
+  </programme>
+  <programme start="20261030152700 +0000" stop="20261030153000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030153000 +0000" stop="20261030155500 +0000" channel="HamedanTV.ir"><title lang="fa">اخبار شهرستان ها</title>
+  </programme>
+  <programme start="20261030155500 +0000" stop="20261030161500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030161500 +0000" stop="20261030165000 +0000" channel="HamedanTV.ir"><title lang="fa">ندای آدینه</title>
+  </programme>
+  <programme start="20261030165000 +0000" stop="20261030172300 +0000" channel="HamedanTV.ir"><title lang="fa">گلگشت</title>
+  </programme>
+  <programme start="20261030172300 +0000" stop="20261030173000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030173000 +0000" stop="20261030175700 +0000" channel="HamedanTV.ir"><title lang="fa">روایت عشق</title>
+  </programme>
+  <programme start="20261030175700 +0000" stop="20261030180000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030180000 +0000" stop="20261030181900 +0000" channel="HamedanTV.ir"><title lang="fa">بنیان</title>
+  </programme>
+  <programme start="20261030181900 +0000" stop="20261030183000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030183000 +0000" stop="20261030190000 +0000" channel="HamedanTV.ir"><title lang="fa">خبر استان</title>
+  </programme>
+  <programme start="20261030190000 +0000" stop="20261030193000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030193000 +0000" stop="20261030201600 +0000" channel="HamedanTV.ir"><title lang="fa">سریال دیار مادری</title>
+  </programme>
+  <programme start="20261030201600 +0000" stop="20261030203000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030203000 +0000" stop="20261030212600 +0000" channel="HamedanTV.ir"><title lang="fa">کارنامه</title>
+  </programme>
+  <programme start="20261030212600 +0000" stop="20261030225200 +0000" channel="HamedanTV.ir"><title lang="fa">سینمایی بیست و یک روز بعد</title>
+  </programme>
+  <programme start="20261030225200 +0000" stop="20261030225500 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261030225500 +0000" stop="20261030235000 +0000" channel="HamedanTV.ir"><title lang="fa">مستند</title>
+  </programme>
+  <programme start="20261030235000 +0000" stop="20261031000600 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031000600 +0000" stop="20261031010400 +0000" channel="HamedanTV.ir"><title lang="fa">ترتیل قرآن</title>
+  </programme>
+  <programme start="20261031010400 +0000" stop="20261031011000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031011000 +0000" stop="20261031013300 +0000" channel="HamedanTV.ir"><title lang="fa">مناجات امیر المومنین</title>
+  </programme>
+  <programme start="20261031013300 +0000" stop="20261031014200 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031014200 +0000" stop="20261031014700 +0000" channel="HamedanTV.ir"><title lang="fa">اذان صبح به افق همدان</title>
+  </programme>
+  <programme start="20261031014700 +0000" stop="20261031021100 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031021100 +0000" stop="20261031023000 +0000" channel="HamedanTV.ir"><title lang="fa">مستند</title>
+  </programme>
+  <programme start="20261031023000 +0000" stop="20261031023100 +0000" channel="HamedanTV.ir"><title lang="fa">سرود جمهوری اسلامی</title>
+  </programme>
+  <programme start="20261031023100 +0000" stop="20261031023400 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031023400 +0000" stop="20261031032400 +0000" channel="HamedanTV.ir"><title lang="fa">مستند شکار</title>
+  </programme>
+  <programme start="20261031032400 +0000" stop="20261031033000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031033000 +0000" stop="20261031041600 +0000" channel="HamedanTV.ir"><title lang="fa">سریال دیار مادری</title>
+  </programme>
+  <programme start="20261031041600 +0000" stop="20261031043000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031043000 +0000" stop="20261031053000 +0000" channel="HamedanTV.ir"><title lang="fa">صبح عالی</title>
+  </programme>
+  <programme start="20261031053000 +0000" stop="20261031061600 +0000" channel="HamedanTV.ir"><title lang="fa">سیمای کودک</title>
+  </programme>
+  <programme start="20261031061600 +0000" stop="20261031063000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
+  </programme>
+  <programme start="20261031063000 +0000" stop="20261031072700 +0000" channel="HamedanTV.ir"><title lang="fa">سریال لیسانسه ها/فصل دوم</title>
+  </programme>
+  <programme start="20261031072700 +0000" stop="20261031073000 +0000" channel="HamedanTV.ir"><title lang="fa">میان برنامه</title>
   </programme>
   <programme start="20261029203000 +0000" stop="20261029223000 +0000" channel="KordestanTV.ir"><title lang="fa">00:00 - 02:00</title>
   </programme>
