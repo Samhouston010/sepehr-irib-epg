@@ -646,5 +646,14 @@
     "name_en": "khavaran",
     "group": "استانی",
     "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png"
+  },
+  {
+    "slug": "khoozestan",
+    "channel_id": null,
+    "tvg_id": "",
+    "name": "khoozestan",
+    "name_en": "khoozestan",
+    "group": "استانی",
+    "logo": "https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khoozestan.png"
   }
 ]

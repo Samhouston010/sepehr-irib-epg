@@ -143,3 +143,5 @@ https://ncdn.telewebion.ir/tabarestan/live/playlist.m3u8
 https://ncdn.telewebion.ir/karoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="khavaran" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khavaran.png" group-title="استانی",khavaran
 https://ncdn.telewebion.ir/khavaran/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="khoozestan" tvg-logo="https://static.televebion.net/web/content_images/channel_images/thumbs/new/240/v4/khoozestan.png" group-title="استانی",khoozestan
+https://ncdn.telewebion.ir/khoozestan/live/playlist.m3u8
